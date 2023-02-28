@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T11:51:35.250Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="jSag-l0SC5w-vrffZUas" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T11:51:44.705Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="aVBGLuq03yNx71XMCRQJ" version="20.8.23" type="github">
   <diagram name="Страница 1" id="PqeBgnLbpA4RvhlEJzvI">
     <mxGraphModel dx="1793" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="SLxa5Ql-JvaU1fJUSNm6-15" value="DeFi integration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="633" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SLxa5Ql-JvaU1fJUSNm6-16" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="SLxa5Ql-JvaU1fJUSNm6-16" value="БД" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="615" y="940" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SLxa5Ql-JvaU1fJUSNm6-18" value="ReadOnly" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
