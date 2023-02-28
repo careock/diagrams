@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T21:19:37.810Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="e1jpKbh9CT60bQqvMKN1" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T21:19:57.262Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="F06GUdCDMpQKObhBscC3" version="20.8.23" type="github">
   <diagram name="Страница 1" id="cHg1xsSfFfxs4tMhdqB8">
     <mxGraphModel dx="1434" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -10,17 +10,17 @@
         <mxCell id="NdkZ7NG9v4w4pcFVTmxC-1" value="Клиент" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NdkZ7NG9v4w4pcFVTmxC-2" value="С" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="NdkZ7NG9v4w4pcFVTmxC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NdkZ7NG9v4w4pcFVTmxC-2" target="NdkZ7NG9v4w4pcFVTmxC-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NdkZ7NG9v4w4pcFVTmxC-3" value="С" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="NdkZ7NG9v4w4pcFVTmxC-2" value="С" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NdkZ7NG9v4w4pcFVTmxC-4" value="С" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NdkZ7NG9v4w4pcFVTmxC-5" value="Шина" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="414" width="440" height="36" as="geometry" />
+          <mxGeometry x="400" y="414" width="330" height="36" as="geometry" />
         </mxCell>
         <mxCell id="NdkZ7NG9v4w4pcFVTmxC-6" value="Load balancer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="240" width="200" height="30" as="geometry" />
