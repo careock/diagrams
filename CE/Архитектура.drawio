@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T11:44:37.723Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="txsgR-ACorPCLH6AR3MC" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T11:44:50.082Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6wpg7t44dxY19Qr2mqIE" version="20.8.23" type="github">
   <diagram name="Страница 1" id="PqeBgnLbpA4RvhlEJzvI">
     <mxGraphModel dx="1434" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -12,6 +12,9 @@
         </mxCell>
         <mxCell id="SLxa5Ql-JvaU1fJUSNm6-3" value="Обработчик игровой логики" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="320" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SLxa5Ql-JvaU1fJUSNm6-4" value="WebGL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
