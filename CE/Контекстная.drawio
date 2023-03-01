@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T12:26:13.614Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ZE9lGEyZW7MMNAkM6hos" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T12:26:29.356Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="uLXWgOeWi0gfTYNwIE76" version="20.8.23" type="github">
   <diagram name="Страница 1" id="PbTtmd6q3jU2auLFYNLY">
     <mxGraphModel dx="1195" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7_X0dGAMX54bu9OWyD-T-22" value="IPFS - хранилище" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="580" width="130" height="75" as="geometry" />
+          <mxGeometry x="650" y="590" width="130" height="75" as="geometry" />
         </mxCell>
         <mxCell id="TK5V0gTfrpUxgHLwCol4-2" value="Etherium" style="swimlane;startSize=23;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="615" y="290" width="200" height="90" as="geometry" />
