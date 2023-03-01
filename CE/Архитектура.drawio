@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T21:14:47.957Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Z9BpYDhJBrjGIEtIWHMJ" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T21:15:07.624Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="77qdCAOylzad0SVV8ScW" version="20.8.23" type="github">
   <diagram name="Страница 1" id="PqeBgnLbpA4RvhlEJzvI">
     <mxGraphModel dx="2603" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SLxa5Ql-JvaU1fJUSNm6-23" value="Object Storage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="617.5" y="940" width="60" height="80" as="geometry" />
+          <mxGeometry x="615" y="940" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SLxa5Ql-JvaU1fJUSNm6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="SLxa5Ql-JvaU1fJUSNm6-24" target="SLxa5Ql-JvaU1fJUSNm6-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
