@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T12:19:41.714Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="2XEjSvFTmPLaOKy3PVkP" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T12:21:00.136Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="zmvUiUWEWcwEwqJGOw6v" version="20.8.23" type="github">
   <diagram name="Страница 1" id="PbTtmd6q3jU2auLFYNLY">
     <mxGraphModel dx="1195" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -59,6 +59,11 @@
         <mxCell id="TK5V0gTfrpUxgHLwCol4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7_X0dGAMX54bu9OWyD-T-4" target="TK5V0gTfrpUxgHLwCol4-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="740" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TK5V0gTfrpUxgHLwCol4-18" value="Транзакция" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TK5V0gTfrpUxgHLwCol4-3">
+          <mxGeometry x="-0.0267" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7_X0dGAMX54bu9OWyD-T-4" value="DeFi wallet" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
