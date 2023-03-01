@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T12:18:00.137Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="JFgeCWPN8xAgdBSx7ImS" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T12:18:34.511Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="pwqvRMkV2A0hgDVQqHZ_" version="20.8.23" type="github">
   <diagram name="Страница 1" id="PbTtmd6q3jU2auLFYNLY">
     <mxGraphModel dx="1195" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -64,14 +64,14 @@
             <mxPoint x="610" y="330" as="targetPoint" />
             <Array as="points">
               <mxPoint x="610" y="305" />
-              <mxPoint x="610" y="335" />
-              <mxPoint x="615" y="335" />
+              <mxPoint x="610" y="310" />
+              <mxPoint x="615" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TK5V0gTfrpUxgHLwCol4-15" value="Состояние сети" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TK5V0gTfrpUxgHLwCol4-13">
           <mxGeometry x="-0.1448" y="-3" relative="1" as="geometry">
-            <mxPoint x="-20" y="-3" as="offset" />
+            <mxPoint x="2" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7_X0dGAMX54bu9OWyD-T-5" value="Data provider" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -113,7 +113,7 @@
         <mxCell id="TK5V0gTfrpUxgHLwCol4-5" value="Chainlink" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="210" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TK5V0gTfrpUxgHLwCol4-8" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;exitX=0.711;exitY=0.04;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.783;entryY=1.051;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7_X0dGAMX54bu9OWyD-T-1" target="7_X0dGAMX54bu9OWyD-T-5">
+        <mxCell id="TK5V0gTfrpUxgHLwCol4-8" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;exitX=0.701;exitY=0.03;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.783;entryY=1.051;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7_X0dGAMX54bu9OWyD-T-1" target="7_X0dGAMX54bu9OWyD-T-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="670" y="450" as="sourcePoint" />
             <mxPoint x="720" y="400" as="targetPoint" />
