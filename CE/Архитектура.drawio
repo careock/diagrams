@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T21:20:18.468Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="9fwuPowHCMZhXkHWAznq" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-02T08:44:18.010Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="8AVzIg3eGNUBMoDNIEYO" version="20.8.23" type="github">
   <diagram name="Страница 1" id="PqeBgnLbpA4RvhlEJzvI">
-    <mxGraphModel dx="2603" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2603" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
         <mxCell id="SLxa5Ql-JvaU1fJUSNm6-14" value="DeFi integration" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="430" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SLxa5Ql-JvaU1fJUSNm6-15" value="Marketplace" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SLxa5Ql-JvaU1fJUSNm6-15" value="Авторизация" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="430" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SLxa5Ql-JvaU1fJUSNm6-16" value="SQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
@@ -72,13 +72,13 @@
         <mxCell id="SLxa5Ql-JvaU1fJUSNm6-24" value="IPFS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="520" y="680" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Iyg-nn4IrddJeuD03s7V-2" value="Учетные записи пользователей" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Iyg-nn4IrddJeuD03s7V-2" value="Учетные записи пользователей" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="430" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Iyg-nn4IrddJeuD03s7V-3" value="Обработка игровых механик" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Iyg-nn4IrddJeuD03s7V-3" value="Обработка игровых механик" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="520" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Iyg-nn4IrddJeuD03s7V-4" value="Обработка игровых механик" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Iyg-nn4IrddJeuD03s7V-4" value="Обработка игровых механик" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="520" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
