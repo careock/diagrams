@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T14:12:06.943Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="r4G0x6wRVKvYPlBF9RdP" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-03T14:12:38.407Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="3NeCtWrEV3nngmpBHvRN" version="20.8.23" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="869" dy="456" grid="0" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="941" grid="0" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,9 +115,6 @@
         <mxCell id="2XV63R50OT4PgbaXAqAe-27" value="Система" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="2XV63R50OT4PgbaXAqAe-25">
           <mxGeometry x="23" y="456" width="1494" height="237" as="geometry" />
         </mxCell>
-        <mxCell id="2XV63R50OT4PgbaXAqAe-33" value="Рассчитывает количество токена TREE&amp;nbsp;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;" vertex="1" parent="2XV63R50OT4PgbaXAqAe-27">
-          <mxGeometry x="857" y="25" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="2XV63R50OT4PgbaXAqAe-65" value="Проверяет наличие статуса &quot;платный&quot;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;" vertex="1" parent="2XV63R50OT4PgbaXAqAe-27">
           <mxGeometry x="307" y="29" width="120" height="80" as="geometry" />
         </mxCell>
@@ -142,22 +139,19 @@
           <mxGeometry x="23" y="693" width="1494" height="131" as="geometry" />
         </mxCell>
         <mxCell id="2XV63R50OT4PgbaXAqAe-56" value="Производит аутентификацию пользоватеоля" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;" vertex="1" parent="2XV63R50OT4PgbaXAqAe-28">
-          <mxGeometry x="857" y="25.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="437" y="25.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2XV63R50OT4PgbaXAqAe-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2XV63R50OT4PgbaXAqAe-25" source="2XV63R50OT4PgbaXAqAe-48" target="2XV63R50OT4PgbaXAqAe-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2XV63R50OT4PgbaXAqAe-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2XV63R50OT4PgbaXAqAe-25" source="2XV63R50OT4PgbaXAqAe-33" target="2XV63R50OT4PgbaXAqAe-56">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2XV63R50OT4PgbaXAqAe-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2XV63R50OT4PgbaXAqAe-60">
+        <mxCell id="2XV63R50OT4PgbaXAqAe-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="2XV63R50OT4PgbaXAqAe-25" source="2XV63R50OT4PgbaXAqAe-60" target="2XV63R50OT4PgbaXAqAe-56">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="599" y="1828" as="targetPoint" />
+            <mxPoint x="519" y="638" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2XV63R50OT4PgbaXAqAe-70" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2XV63R50OT4PgbaXAqAe-67">
           <mxGeometry x="0.2005" y="3" relative="1" as="geometry">
-            <mxPoint x="-3" y="-2" as="offset" />
+            <mxPoint x="-3" y="-24" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
