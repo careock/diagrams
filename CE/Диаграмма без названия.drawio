@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T13:30:02.936Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="FX3CglcgLWIRu_ok9GYu" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-03T13:33:16.092Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="hP6b2-17hd4RLzocrM_p" version="20.8.23" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="1247" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -86,25 +86,25 @@
           <mxGeometry x="10" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-49" value="Токен PLANT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1221" width="120" height="40" as="geometry" />
+          <mxGeometry x="700" y="1150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-50" value="Токен TREE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1280" width="120" height="40" as="geometry" />
+          <mxGeometry x="700" y="1209" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-51" value="Форвадер и Харвестер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="1150" width="120" height="40" as="geometry" />
+          <mxGeometry x="1060" y="1150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-52" value="Лесовоз" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="1220" width="120" height="40" as="geometry" />
+          <mxGeometry x="1060" y="1220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-53" value="Завод" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="1290" width="120" height="40" as="geometry" />
+          <mxGeometry x="1060" y="1290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-54" value="Чертеж завода" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="1360" width="120" height="40" as="geometry" />
+          <mxGeometry x="1060" y="1360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-55" value="Синдикат" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="1430" width="120" height="40" as="geometry" />
+          <mxGeometry x="1060" y="1430" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
