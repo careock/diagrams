@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T13:53:11.690Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="jyZ0b93a3z5f8PMxvgDj" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-03T13:53:26.913Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="CfCH7rkc3e6LohCSmNq3" version="20.8.23" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="1434" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,8 +82,11 @@
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-47" value="selectWinner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-44">
           <mxGeometry x="10" y="130" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-71" value="Immutable X" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="1000" width="160" height="200" as="geometry" />
+        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-72" value="Etherium" style="swimlane;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="940" width="610" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-71" value="Immutable X" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-72">
+          <mxGeometry x="20" y="40" width="160" height="200" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-51" value="Форвадер и Харвестер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-71">
           <mxGeometry x="20" y="90" width="120" height="40" as="geometry" />
@@ -94,21 +97,18 @@
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-50" value="Токен TREE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-71">
           <mxGeometry x="20" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-72" value="Etherium" style="swimlane;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="940" width="620" height="290" as="geometry" />
-        </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-101" value="Деревья" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-72">
-          <mxGeometry x="210" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="210" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-102" value="Токен PLANT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-72">
-          <mxGeometry x="210" y="60" width="120" height="40" as="geometry" />
+          <mxGeometry x="210" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nKu6EM1XER9Ci5rSMsAZ-72" source="nKu6EM1XER9Ci5rSMsAZ-101" target="nKu6EM1XER9Ci5rSMsAZ-102">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="270" y="130" />
-              <mxPoint x="270" y="120" />
-              <mxPoint x="270" y="130" />
+              <mxPoint x="270" y="110" />
+              <mxPoint x="270" y="100" />
+              <mxPoint x="270" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -118,10 +118,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-105" value="Завод" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-72">
-          <mxGeometry x="340" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="340" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-106" value="Чертеж завода" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-72">
-          <mxGeometry x="340" y="60" width="120" height="40" as="geometry" />
+          <mxGeometry x="340" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="nKu6EM1XER9Ci5rSMsAZ-72" source="nKu6EM1XER9Ci5rSMsAZ-105" target="nKu6EM1XER9Ci5rSMsAZ-106">
           <mxGeometry relative="1" as="geometry" />
@@ -132,14 +132,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-109" value="Синдикат" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-72">
-          <mxGeometry x="470" y="60" width="120" height="40" as="geometry" />
+          <mxGeometry x="470" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-110" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;entryX=0.338;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;startFill=0;" edge="1" parent="1" target="nKu6EM1XER9Ci5rSMsAZ-106">
+        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-110" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;entryX=0.338;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;startFill=0;" edge="1" parent="nKu6EM1XER9Ci5rSMsAZ-72" target="nKu6EM1XER9Ci5rSMsAZ-106">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1570" y="1060" as="sourcePoint" />
-            <mxPoint x="1700" y="1070" as="targetPoint" />
+            <mxPoint x="270" y="100" as="sourcePoint" />
+            <mxPoint x="400" y="110" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1680" y="1060" />
+              <mxPoint x="380" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
