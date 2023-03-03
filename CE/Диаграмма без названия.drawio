@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T11:37:03.632Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="y2pvTS6jF16oK51fBcxr" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-03T11:37:16.579Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="S9GFdoUjFywBsAVPIAF0" version="20.8.23" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="1304" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1062" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,16 +8,16 @@
           <mxGeometry x="200" y="120" width="700" height="590" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-3" value="Лотерея" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-1">
-          <mxGeometry x="40" y="80" width="140" height="170" as="geometry" />
+          <mxGeometry x="40" y="80" width="140" height="180" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-4" value="createLottery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-3">
-          <mxGeometry x="10" y="30" width="120" height="30" as="geometry" />
+          <mxGeometry x="10" y="30" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-5" value="purchaseTicket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-3">
-          <mxGeometry x="10" y="70" width="120" height="40" as="geometry" />
+          <mxGeometry x="10" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-6" value="selectWinner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-3">
-          <mxGeometry x="10" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="10" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-7" value="Стейкинг" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-1">
           <mxGeometry x="250" y="50" width="180" height="300" as="geometry" />
