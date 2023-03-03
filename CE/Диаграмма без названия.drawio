@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T13:52:14.304Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="nEN_GxKhIVQliY4aB4ec" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-03T13:53:11.690Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="jyZ0b93a3z5f8PMxvgDj" version="20.8.23" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="989" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,6 +107,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="270" y="130" />
+              <mxPoint x="270" y="120" />
               <mxPoint x="270" y="130" />
             </Array>
           </mxGeometry>
@@ -122,14 +123,6 @@
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-106" value="Чертеж завода" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-72">
           <mxGeometry x="340" y="60" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="nKu6EM1XER9Ci5rSMsAZ-72" source="nKu6EM1XER9Ci5rSMsAZ-101" target="nKu6EM1XER9Ci5rSMsAZ-106">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="270" y="120" />
-              <mxPoint x="370" y="120" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="nKu6EM1XER9Ci5rSMsAZ-72" source="nKu6EM1XER9Ci5rSMsAZ-105" target="nKu6EM1XER9Ci5rSMsAZ-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -140,6 +133,15 @@
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-109" value="Синдикат" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-72">
           <mxGeometry x="470" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-110" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;entryX=0.338;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;startFill=0;" edge="1" parent="1" target="nKu6EM1XER9Ci5rSMsAZ-106">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1570" y="1060" as="sourcePoint" />
+            <mxPoint x="1700" y="1070" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1680" y="1060" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
