@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T13:53:37.028Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="FjrB1p8C-8t7Tc94ksID" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-03T13:53:47.612Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="THXf2BivO5ExZX9Bz4lR" version="20.8.23" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="1195" dy="628" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,7 +83,7 @@
           <mxGeometry x="10" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-72" value="Etherium" style="swimlane;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="940" width="610" height="260" as="geometry" />
+          <mxGeometry x="1210" y="860" width="610" height="260" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-71" value="Immutable X" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-72">
           <mxGeometry x="20" y="40" width="160" height="200" as="geometry" />
