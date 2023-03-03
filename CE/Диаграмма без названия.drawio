@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T22:31:44.397Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="YN0R4UbekBD22aq59mGS" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-03T22:33:17.911Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="wRfTWnzaB0mUAhPWHvcZ" version="20.8.23" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="1195" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -200,7 +200,7 @@
           <mxGeometry x="1700" y="1230" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-150" value="mintReward" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="1230" width="90" height="60" as="geometry" />
+          <mxGeometry x="1700" y="1150" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-151" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="nKu6EM1XER9Ci5rSMsAZ-149" target="nKu6EM1XER9Ci5rSMsAZ-114">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -213,7 +213,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-152" value="" style="endArrow=classic;dashed=1;html=1;rounded=0;endFill=1;" edge="1" parent="1" source="nKu6EM1XER9Ci5rSMsAZ-149" target="nKu6EM1XER9Ci5rSMsAZ-150">
+        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-152" value="" style="endArrow=classic;dashed=1;html=1;rounded=0;endFill=1;" edge="1" parent="1" source="nKu6EM1XER9Ci5rSMsAZ-114" target="nKu6EM1XER9Ci5rSMsAZ-150">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1617" y="1411" as="sourcePoint" />
             <mxPoint x="1593" y="1339" as="targetPoint" />
