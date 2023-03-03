@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T16:27:42.356Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Y1-cMTwi-bH8JjDSyVUL" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-03T16:28:34.691Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Gb9AnfclVT7b_gWQT0LE" version="20.8.23" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="1062" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -134,6 +134,12 @@
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nKu6EM1XER9Ci5rSMsAZ-113" target="nKu6EM1XER9Ci5rSMsAZ-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-155" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.026;entryY=0.379;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nKu6EM1XER9Ci5rSMsAZ-113" target="nKu6EM1XER9Ci5rSMsAZ-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-160" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nKu6EM1XER9Ci5rSMsAZ-113" target="nKu6EM1XER9Ci5rSMsAZ-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-113" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1310" y="1260" width="30" height="60" as="geometry" />
         </mxCell>
@@ -203,11 +209,22 @@
             <mxPoint x="1593" y="1339" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-156" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nKu6EM1XER9Ci5rSMsAZ-153" target="nKu6EM1XER9Ci5rSMsAZ-159">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1650.237617070553" y="1396.9211059360698" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-153" value="createLottery" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1510" y="1360" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-154" value="createLottery" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="1354" width="90" height="60" as="geometry" />
+        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-161" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nKu6EM1XER9Ci5rSMsAZ-158" target="nKu6EM1XER9Ci5rSMsAZ-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-158" value="purchaseTicket" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="1440" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-159" value="selectWinner" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="1370" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
