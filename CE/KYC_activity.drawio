@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T14:14:32.024Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="jzPyCfHj-iHwAiF9ACxb" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-03T14:17:22.258Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="MOYNBq0XMDyar1sKdvXP" version="20.8.23" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="2206" dy="1158" grid="0" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -69,12 +69,6 @@
         <mxCell id="2XV63R50OT4PgbaXAqAe-30" value="Инициирует вывод средств на рынке сбыта" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;" vertex="1" parent="2XV63R50OT4PgbaXAqAe-26">
           <mxGeometry x="130" y="43" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2XV63R50OT4PgbaXAqAe-34" value="Подписывает и отправляет транзакцию к смарт-контаркту" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;" vertex="1" parent="2XV63R50OT4PgbaXAqAe-26">
-          <mxGeometry x="307" y="43" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2XV63R50OT4PgbaXAqAe-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2XV63R50OT4PgbaXAqAe-26" source="2XV63R50OT4PgbaXAqAe-30" target="2XV63R50OT4PgbaXAqAe-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="2XV63R50OT4PgbaXAqAe-73" value="Проходит регистрацию на сервисе KYC" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;" vertex="1" parent="2XV63R50OT4PgbaXAqAe-26">
           <mxGeometry x="794" y="47" width="120" height="80" as="geometry" />
         </mxCell>
@@ -115,11 +109,6 @@
         </mxCell>
         <mxCell id="2XV63R50OT4PgbaXAqAe-52" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=catching;symbol=message;" vertex="1" parent="2XV63R50OT4PgbaXAqAe-36">
           <mxGeometry x="632" y="41" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="2XV63R50OT4PgbaXAqAe-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2XV63R50OT4PgbaXAqAe-25" source="2XV63R50OT4PgbaXAqAe-34" target="2XV63R50OT4PgbaXAqAe-45">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="643" y="203.5" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="2XV63R50OT4PgbaXAqAe-27" value="Система" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="2XV63R50OT4PgbaXAqAe-25">
           <mxGeometry x="23" y="456" width="1494" height="237" as="geometry" />
@@ -164,6 +153,11 @@
         <mxCell id="2XV63R50OT4PgbaXAqAe-70" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2XV63R50OT4PgbaXAqAe-67">
           <mxGeometry x="0.2005" y="3" relative="1" as="geometry">
             <mxPoint x="-3" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2XV63R50OT4PgbaXAqAe-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2XV63R50OT4PgbaXAqAe-25" source="2XV63R50OT4PgbaXAqAe-30" target="2XV63R50OT4PgbaXAqAe-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
