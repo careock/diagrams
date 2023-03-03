@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T13:56:40.362Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="NfjKbY7S2mgTUifvZ0SH" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-03T16:10:15.540Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Mp74nwkvwwUdUevb32dh" version="20.8.23" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="1195" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="210" y="200" width="700" height="730" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-3" value="Лотерея" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-1">
-          <mxGeometry x="20" y="40" width="140" height="310" as="geometry" />
+          <mxGeometry x="20" y="40" width="140" height="180" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-4" value="createLottery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-3">
           <mxGeometry x="10" y="30" width="120" height="40" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="10" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-15" value="Стекинг" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-1">
-          <mxGeometry x="190" y="40" width="140" height="180" as="geometry" />
+          <mxGeometry x="20" y="250" width="140" height="180" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-16" value="createLottery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-15">
           <mxGeometry x="10" y="30" width="120" height="40" as="geometry" />
@@ -30,9 +30,6 @@
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-18" value="selectWinner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-15">
           <mxGeometry x="10" y="130" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-38" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Лотерея&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;lotteryIds&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ createLottery&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ purchaseTicket&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- selectWinner&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-1">
-          <mxGeometry x="40" y="390" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-7" value="Стейкинг" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="210" width="180" height="300" as="geometry" />
@@ -142,6 +139,9 @@
               <mxPoint x="380" y="100" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-38" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Лотерея&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;lotteryIds&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ createLottery&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ purchaseTicket&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- selectWinner&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="620" width="140" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
