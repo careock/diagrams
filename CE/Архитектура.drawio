@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T08:09:59.448Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="uVGpEHo2BQBzRGXfPJBP" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T08:11:27.957Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="a5Ce9LI9kj9suxmBgS7N" version="20.8.23" type="github">
   <diagram name="Страница 1" id="PqeBgnLbpA4RvhlEJzvI">
-    <mxGraphModel dx="1434" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,6 +50,9 @@
         </mxCell>
         <mxCell id="SLxa5Ql-JvaU1fJUSNm6-14" value="Blockchain state provider" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="440" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="15EVGwNbLVUYAnyvLdJj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="SLxa5Ql-JvaU1fJUSNm6-16" target="15EVGwNbLVUYAnyvLdJj-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SLxa5Ql-JvaU1fJUSNm6-16" value="SQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="670" y="680" width="60" height="80" as="geometry" />
@@ -112,6 +115,9 @@
         </mxCell>
         <mxCell id="15EVGwNbLVUYAnyvLdJj-1" value="CDN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="15EVGwNbLVUYAnyvLdJj-8" value="Read-only" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="780" y="680" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
