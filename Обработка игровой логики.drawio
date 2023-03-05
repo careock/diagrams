@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T08:05:46.857Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Kn5qfXnCtlEYkP7E6qk4" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T08:05:52.186Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="QKP4rGZB58-m0hFJFTyz" version="20.8.23" type="github">
   <diagram name="Страница 1" id="cHg1xsSfFfxs4tMhdqB8">
-    <mxGraphModel dx="989" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,7 +42,7 @@
         </mxCell>
         <mxCell id="UsyGeMgkiecDtRh9sY03-23" value="Изменение&lt;br&gt;состояния" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UsyGeMgkiecDtRh9sY03-22">
           <mxGeometry x="-0.0276" y="2" relative="1" as="geometry">
-            <mxPoint y="38" as="offset" />
+            <mxPoint x="-13" y="38" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UsyGeMgkiecDtRh9sY03-18" value="Клиент" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
