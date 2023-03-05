@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T07:49:16.876Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="glIkuZrAZBS4J2y7mND7" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T07:51:30.650Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="bvMHc1Y2d1k2koqgjt-0" version="20.8.23" type="github">
   <diagram name="Страница 1" id="cHg1xsSfFfxs4tMhdqB8">
     <mxGraphModel dx="819" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -26,13 +26,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NdkZ7NG9v4w4pcFVTmxC-2" value="Обработчик&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="NdkZ7NG9v4w4pcFVTmxC-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="395" y="451" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UsyGeMgkiecDtRh9sY03-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.823;exitY=-0.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NdkZ7NG9v4w4pcFVTmxC-5" target="NdkZ7NG9v4w4pcFVTmxC-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NdkZ7NG9v4w4pcFVTmxC-4" value="Клиент-серверное взаимодействие" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="NdkZ7NG9v4w4pcFVTmxC-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="605" y="451" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UsyGeMgkiecDtRh9sY03-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.83;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="NdkZ7NG9v4w4pcFVTmxC-1">
@@ -69,7 +69,7 @@
           <mxGeometry x="420" y="310" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UsyGeMgkiecDtRh9sY03-7" value="Формирователь сообщения (оптимизатор)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="725" y="280" width="200" height="50" as="geometry" />
+          <mxGeometry x="820" y="270" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UsyGeMgkiecDtRh9sY03-9" value="Сообщение: время, id клиента, изменение состояния" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="585.0000000000002" y="629.9986206896551" as="geometry" />
