@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T07:56:43.901Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="UmCavCmph-DHuo6Cb2m2" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T07:56:47.446Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5mHLx7AsUSVNFSksSrlp" version="20.8.23" type="github">
   <diagram name="Страница 1" id="cHg1xsSfFfxs4tMhdqB8">
     <mxGraphModel dx="819" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -66,7 +66,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NdkZ7NG9v4w4pcFVTmxC-6" value="Load balancer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="310" width="150" height="50" as="geometry" />
+          <mxGeometry x="410" y="310" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UsyGeMgkiecDtRh9sY03-9" value="Сообщение: время, id клиента, изменение состояния" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="585.0000000000002" y="629.9986206896551" as="geometry" />
