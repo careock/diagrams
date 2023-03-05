@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T08:01:13.040Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ANQHh0HQFZG44o9mExhO" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T08:01:17.715Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="poVmWM9IHR9O7LDjOWWE" version="20.8.23" type="github">
   <diagram name="Страница 1" id="cHg1xsSfFfxs4tMhdqB8">
-    <mxGraphModel dx="1195" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,7 +78,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UsyGeMgkiecDtRh9sY03-30" value="Шина сообщений" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="500" width="500" height="85" as="geometry" />
+          <mxGeometry x="430" y="440" width="500" height="85" as="geometry" />
         </mxCell>
         <mxCell id="UsyGeMgkiecDtRh9sY03-31" value="Очередь на обработку состояния" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UsyGeMgkiecDtRh9sY03-30">
           <mxGeometry x="50" y="35" width="160" height="35" as="geometry" />
