@@ -1,14 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T07:45:45.946Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="s1Y2-ZKESrFH99xwkkM0" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T07:47:00.077Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="28Ye_zxVkk88docefsAd" version="20.8.23" type="github">
   <diagram name="Страница 1" id="cHg1xsSfFfxs4tMhdqB8">
-    <mxGraphModel dx="683" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NdkZ7NG9v4w4pcFVTmxC-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UsyGeMgkiecDtRh9sY03-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NdkZ7NG9v4w4pcFVTmxC-1" target="NdkZ7NG9v4w4pcFVTmxC-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NdkZ7NG9v4w4pcFVTmxC-1" value="Клиент" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="160" width="120" height="50" as="geometry" />
+          <mxGeometry x="600" y="190" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UsyGeMgkiecDtRh9sY03-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.177;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NdkZ7NG9v4w4pcFVTmxC-2" target="NdkZ7NG9v4w4pcFVTmxC-5">
           <mxGeometry relative="1" as="geometry">
@@ -16,6 +19,11 @@
               <mxPoint x="455" y="540" />
               <mxPoint x="453" y="540" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UsyGeMgkiecDtRh9sY03-13" value="Новое состояние" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UsyGeMgkiecDtRh9sY03-1">
+          <mxGeometry x="0.1364" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NdkZ7NG9v4w4pcFVTmxC-2" value="Обработчик&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -27,11 +35,12 @@
         <mxCell id="NdkZ7NG9v4w4pcFVTmxC-4" value="Клиент-серверное взаимодействие" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="605" y="451" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UsyGeMgkiecDtRh9sY03-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.286;exitY=-0.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NdkZ7NG9v4w4pcFVTmxC-4" target="NdkZ7NG9v4w4pcFVTmxC-6">
+        <mxCell id="UsyGeMgkiecDtRh9sY03-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.83;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="NdkZ7NG9v4w4pcFVTmxC-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="410" as="sourcePoint" />
+            <mxPoint x="680" y="451" as="sourcePoint" />
+            <mxPoint x="639" y="360" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="638" y="451" />
+              <mxPoint x="680" y="451" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -57,7 +66,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NdkZ7NG9v4w4pcFVTmxC-6" value="Load balancer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="310" width="300" height="50" as="geometry" />
+          <mxGeometry x="420" y="310" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UsyGeMgkiecDtRh9sY03-7" value="Формирователь сообщения (оптимизатор)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="120" width="200" height="50" as="geometry" />
