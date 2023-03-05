@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T07:57:46.900Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_FJP-Hcja01IIvJO9Dxf" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T07:58:01.162Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="bkh9SovU2Tc-S80pA2TO" version="20.8.23" type="github">
   <diagram name="Страница 1" id="cHg1xsSfFfxs4tMhdqB8">
-    <mxGraphModel dx="1195" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UsyGeMgkiecDtRh9sY03-11" value="Актуальное состояние" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UsyGeMgkiecDtRh9sY03-10">
+        <mxCell id="UsyGeMgkiecDtRh9sY03-11" value="Актуальное &lt;br&gt;состояние" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UsyGeMgkiecDtRh9sY03-10">
           <mxGeometry x="-0.075" y="-1" relative="1" as="geometry">
             <mxPoint x="-11" y="27" as="offset" />
           </mxGeometry>
@@ -68,7 +68,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UsyGeMgkiecDtRh9sY03-23" value="Изменение состояния" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UsyGeMgkiecDtRh9sY03-22">
+        <mxCell id="UsyGeMgkiecDtRh9sY03-23" value="Изменение&lt;br&gt;состояния" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UsyGeMgkiecDtRh9sY03-22">
           <mxGeometry x="-0.0276" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
