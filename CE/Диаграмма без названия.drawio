@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T18:46:33.491Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="PK1HnbKtrnxKktzkoqdX" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T18:46:44.320Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="RRnC9xJjRkhuW6pk4SFN" version="20.8.23" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="2206" dy="1235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="1770" y="220" width="1320" height="956" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-283" value="Лотерея" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d3d3d3;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-72">
-          <mxGeometry x="640" y="720" width="190" height="60" as="geometry" />
+          <mxGeometry x="630" y="660" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-284" value="Аукцион" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d3d3d3;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-72">
           <mxGeometry x="390" y="660" width="190" height="60" as="geometry" />
@@ -289,18 +289,6 @@
             <mxPoint x="1640" y="1855" as="sourcePoint" />
             <mxPoint x="1520" y="1793" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-279" value="Immutable X" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="680" width="450" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-258" value="Лотерея" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-279">
-          <mxGeometry x="35" y="41" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-259" value="Аукцион" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-279">
-          <mxGeometry x="165" y="41" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-260" value="Торговля" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-279">
-          <mxGeometry x="295" y="41" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-71" value="Immutable X" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1420" y="840" width="160" height="200" as="geometry" />
