@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T18:31:23.775Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="2xOhCNmQl45lEoXf9AuT" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T18:31:36.038Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="hCHCOkYY8zfpfon20j0D" version="20.8.23" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="1687" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
             <mxPoint x="670" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-293" value="Запрос на&amp;nbsp;&lt;br&gt;transferFrom()&lt;br&gt;с подписью" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nKu6EM1XER9Ci5rSMsAZ-290">
+        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-293" value="Вызов&lt;br&gt;transferFrom()&lt;br&gt;с подписью" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nKu6EM1XER9Ci5rSMsAZ-290">
           <mxGeometry x="0.2364" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
