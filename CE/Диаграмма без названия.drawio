@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T18:32:08.377Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="SOK4lgS-3oYbt9Q2KJn2" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T18:32:17.401Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="a-LZ7xK1IPAAMKkJUdiQ" version="20.8.23" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="1195" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -35,16 +35,6 @@
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-299" value="Токен PLANT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-72">
           <mxGeometry x="390" y="530" width="190" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-295" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.598;exitY=0.989;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="nKu6EM1XER9Ci5rSMsAZ-72" source="nKu6EM1XER9Ci5rSMsAZ-296" target="nKu6EM1XER9Ci5rSMsAZ-299">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="508" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-309" value="Запрос &lt;br&gt;на approve() &lt;br&gt;токенов" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nKu6EM1XER9Ci5rSMsAZ-295">
-          <mxGeometry x="0.3931" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nKu6EM1XER9Ci5rSMsAZ-72" source="nKu6EM1XER9Ci5rSMsAZ-296" target="nKu6EM1XER9Ci5rSMsAZ-299">
           <mxGeometry relative="1" as="geometry">
