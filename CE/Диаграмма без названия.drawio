@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T17:54:54.102Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="HkFHsli8qjfPxmzPm4TJ" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T17:55:03.770Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xok4Rw9B_fzYTX8z9gzh" version="20.8.23" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="869" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -65,14 +65,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="110" as="sourcePoint" />
             <mxPoint x="430" y="120" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="460" y="190" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-306" value="Начисление &lt;br&gt;награды" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nKu6EM1XER9Ci5rSMsAZ-303">
           <mxGeometry x="-0.3396" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="28" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-304" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="nKu6EM1XER9Ci5rSMsAZ-72" source="nKu6EM1XER9Ci5rSMsAZ-297" target="nKu6EM1XER9Ci5rSMsAZ-302">
