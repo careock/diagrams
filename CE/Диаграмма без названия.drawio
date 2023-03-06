@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T17:58:46.349Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="9Yv_u3Zzz3-LzYNHI4S4" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T17:58:51.647Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_0E-hYgJchLEmcvZ9dU3" version="20.8.23" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="1147" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
             <mxPoint x="610" y="164" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-306" value="Начисление &lt;br&gt;награды" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nKu6EM1XER9Ci5rSMsAZ-303">
+        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-306" value="Запрос&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;на минт&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;награды&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;за стекинг" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nKu6EM1XER9Ci5rSMsAZ-303">
           <mxGeometry x="-0.3396" y="2" relative="1" as="geometry">
             <mxPoint x="28" y="-6" as="offset" />
           </mxGeometry>
