@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T18:33:47.403Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Q1-Pkpgt5GVOAz4F8Gr_" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T18:34:16.949Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="APzDjco5PwIjfa2sBr6w" version="20.8.23" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="1434" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,10 @@
           <mxGeometry x="1770" y="220" width="1320" height="956" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-283" value="Лотерея" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-72">
-          <mxGeometry x="80" y="740" width="120" height="40" as="geometry" />
+          <mxGeometry x="400" y="700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-284" value="Аукцион" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-72">
-          <mxGeometry x="40" y="670" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="630" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-316" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="nKu6EM1XER9Ci5rSMsAZ-72" source="nKu6EM1XER9Ci5rSMsAZ-285" target="nKu6EM1XER9Ci5rSMsAZ-302">
           <mxGeometry relative="1" as="geometry" />
@@ -39,7 +39,7 @@
           <mxGeometry x="390" y="290" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-298" value="Синдикат" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-72">
-          <mxGeometry x="70" y="305" width="160" height="70" as="geometry" />
+          <mxGeometry x="190" y="290" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-299" value="Токен PLANT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-72">
           <mxGeometry x="390" y="480" width="190" height="60" as="geometry" />
@@ -67,17 +67,6 @@
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-306" value="Вызов&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;mint&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;награды&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;за стекинг" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nKu6EM1XER9Ci5rSMsAZ-303">
           <mxGeometry x="-0.3396" y="2" relative="1" as="geometry">
             <mxPoint x="28" y="-6" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-310" value="Seller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-72">
-          <mxGeometry x="720" y="610" width="180" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-311" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="nKu6EM1XER9Ci5rSMsAZ-72" source="nKu6EM1XER9Ci5rSMsAZ-310" target="nKu6EM1XER9Ci5rSMsAZ-285">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-313" value="FullFillOrder" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nKu6EM1XER9Ci5rSMsAZ-311">
-          <mxGeometry x="0.1937" y="3" relative="1" as="geometry">
-            <mxPoint y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-297" value="Завод" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-72">
