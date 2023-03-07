@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T13:04:35.332Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-tI_jqrW--M3srmPX7st" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T13:04:43.208Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="1SEaO7eU48TG4r4sWTTU" version="21.0.2" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="819" dy="1259" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="1469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
           <mxGeometry x="1632" y="732" width="740" height="93" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-75" value="approve" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-76">
-          <mxGeometry x="535" y="27" width="90" height="43" as="geometry" />
+          <mxGeometry x="522" y="27" width="90" height="43" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-79" value="transferFrom &lt;br&gt;seller to buyer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-76">
           <mxGeometry x="185" y="30" width="122" height="44" as="geometry" />
@@ -589,7 +589,7 @@
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-178" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="U-HvtogTb1K9tVLTSSLx-177">
           <mxGeometry x="-0.1115" y="-4" relative="1" as="geometry">
-            <mxPoint y="4" as="offset" />
+            <mxPoint x="-1" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-187" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U-HvtogTb1K9tVLTSSLx-93" target="U-HvtogTb1K9tVLTSSLx-83">
