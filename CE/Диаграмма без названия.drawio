@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T16:18:16.624Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="CiMEfF3bgJom_RgVgxKk" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T16:18:53.789Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="WcWwD5iJzTngMrkm4iJe" version="21.0.2" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="869" dy="1287" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="1498" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -594,7 +594,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-256" value="Смарт-контракт &quot;Лотерея&quot;" style="swimlane;whiteSpace=wrap;html=1;labelBorderColor=none;swimlaneLine=0;fontColor=default;strokeColor=#242424;" vertex="1" parent="1">
-          <mxGeometry x="2832" y="841" width="414" height="300" as="geometry" />
+          <mxGeometry x="2832" y="841" width="414" height="236" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-310" value="listForSale" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-256">
           <mxGeometry x="204" y="41" width="90" height="45" as="geometry" />
@@ -642,22 +642,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-267" value="Маркетплейс" style="swimlane;whiteSpace=wrap;html=1;labelBorderColor=none;swimlaneLine=0;fillStyle=solid;gradientColor=none;fillColor=none;strokeColor=#242424;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2704" y="841" width="128" height="300" as="geometry" />
+          <mxGeometry x="2704" y="841" width="128" height="237" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-269" value="Купить билет" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-267">
           <mxGeometry x="26" y="48" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-270" value="Маркетплейс" style="swimlane;whiteSpace=wrap;html=1;labelBorderColor=none;swimlaneLine=0;fillStyle=solid;gradientColor=none;fillColor=none;strokeColor=#242424;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="3246" y="841" width="198" height="300" as="geometry" />
+          <mxGeometry x="3246" y="841" width="151" height="237" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-272" value="Создать &lt;br&gt;лотерею" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-270">
           <mxGeometry x="27" y="100" width="106" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-280" value="buyer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="2652" y="977" width="30" height="60" as="geometry" />
+          <mxGeometry x="2650" y="897" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-281" value="seller" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="3461" y="952" width="30" height="60" as="geometry" />
+          <mxGeometry x="3455" y="881" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-289" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="U-HvtogTb1K9tVLTSSLx-281" target="U-HvtogTb1K9tVLTSSLx-272">
           <mxGeometry relative="1" as="geometry">
@@ -669,12 +669,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2745" y="1097" as="sourcePoint" />
             <mxPoint x="2492" y="1266" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U-HvtogTb1K9tVLTSSLx-308" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.25;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="U-HvtogTb1K9tVLTSSLx-281">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3547" y="982" as="sourcePoint" />
-            <mxPoint x="3336" y="904" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-309" value="Лотерея" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
