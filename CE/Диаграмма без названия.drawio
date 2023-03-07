@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T10:21:42.434Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="FfOey-zuQ4DsYDIVeAof" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T10:23:18.044Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Ces62WMOrS5X90Ljjc3s" version="21.0.2" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="989" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -294,18 +294,6 @@
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-28" value="Форвадер и Харвестер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-71">
           <mxGeometry x="276" y="110" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="U-HvtogTb1K9tVLTSSLx-34" value="Лесовоз" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-71">
-          <mxGeometry x="-980" y="240" width="220" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="U-HvtogTb1K9tVLTSSLx-35" value="Форвадер и Харвестер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-71">
-          <mxGeometry x="-980" y="140" width="220" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="U-HvtogTb1K9tVLTSSLx-36" value="Синдикат" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-71">
-          <mxGeometry x="-970" y="300" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="U-HvtogTb1K9tVLTSSLx-37" value="Токен TREE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-71">
-          <mxGeometry x="-980" y="50" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-38" value="Токен TREE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="nKu6EM1XER9Ci5rSMsAZ-71">
           <mxGeometry x="30" y="40" width="120" height="50" as="geometry" />
