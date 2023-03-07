@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T16:21:44.830Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5co3yqo51s3t1YQC7bbT" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T16:23:39.756Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ZlceyQ5tZUHatWyDDrbM" version="21.0.2" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="2206" dy="2035" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="1498" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -669,7 +669,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-309" value="Лотерея" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="2744" y="620" width="113" height="41" as="geometry" />
+          <mxGeometry x="2719" y="507" width="113" height="41" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-314" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;startArrow=none;" edge="1" parent="1" source="U-HvtogTb1K9tVLTSSLx-272" target="U-HvtogTb1K9tVLTSSLx-310">
           <mxGeometry relative="1" as="geometry">
@@ -692,6 +692,15 @@
           <mxGeometry x="0.0832" y="1" relative="1" as="geometry">
             <mxPoint x="1" y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="U-HvtogTb1K9tVLTSSLx-328" value="Смарт-контракт NFT" style="swimlane;whiteSpace=wrap;html=1;swimlaneLine=0;gradientColor=none;fillColor=none;strokeColor=#242424;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2704" y="622" width="542" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="U-HvtogTb1K9tVLTSSLx-329" value="approve" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-328">
+          <mxGeometry x="50" y="42" width="90" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="U-HvtogTb1K9tVLTSSLx-330" value="transferFrom" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-328">
+          <mxGeometry x="140" y="42" width="122" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
