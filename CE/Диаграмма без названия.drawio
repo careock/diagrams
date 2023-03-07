@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T16:24:03.495Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="lMA1fMAeoUTlU-TSM0n8" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T16:24:16.643Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="KH2m7oX4x-e6n7VRy5GN" version="21.0.2" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="1024" dy="1374" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -700,7 +700,7 @@
           <mxGeometry x="50" y="42" width="90" height="43" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-330" value="transferFrom" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-328">
-          <mxGeometry x="177" y="42" width="122" height="44" as="geometry" />
+          <mxGeometry x="405" y="41" width="122" height="44" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-331" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="U-HvtogTb1K9tVLTSSLx-281" target="U-HvtogTb1K9tVLTSSLx-329">
           <mxGeometry relative="1" as="geometry">
@@ -716,7 +716,18 @@
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-334" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U-HvtogTb1K9tVLTSSLx-333">
           <mxGeometry x="0.0832" y="1" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
+            <mxPoint x="19" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-HvtogTb1K9tVLTSSLx-335" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;startArrow=none;" edge="1" parent="1" source="U-HvtogTb1K9tVLTSSLx-319" target="U-HvtogTb1K9tVLTSSLx-330">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2947" y="790" as="sourcePoint" />
+            <mxPoint x="2835" y="713" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-HvtogTb1K9tVLTSSLx-336" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U-HvtogTb1K9tVLTSSLx-335">
+          <mxGeometry x="0.0832" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
