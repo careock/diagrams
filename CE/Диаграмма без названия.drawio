@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T12:39:10.786Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="58cKIEsHAdOTeC__-kQQ" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T12:39:25.887Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="2dKBSNepqYeW9LT-0m3A" version="21.0.2" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="1793" dy="1804" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="1498" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -578,6 +578,17 @@
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-166" value="transferFrom" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-164">
           <mxGeometry x="223" y="22" width="90" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="U-HvtogTb1K9tVLTSSLx-167" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="U-HvtogTb1K9tVLTSSLx-111" target="U-HvtogTb1K9tVLTSSLx-165">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1671" y="1053" as="sourcePoint" />
+            <mxPoint x="1838" y="1202" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-HvtogTb1K9tVLTSSLx-168" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U-HvtogTb1K9tVLTSSLx-167">
+          <mxGeometry x="-0.0742" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
