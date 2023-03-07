@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T08:30:20.458Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6HLoYQCzwucPd2e8NKcu" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T08:30:26.227Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="4hglmvhEGxgohhLvxfCH" version="21.0.2" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="2607" dy="1460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="869" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,7 +39,7 @@
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-317" value="Вызов&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;transferFrom()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nKu6EM1XER9Ci5rSMsAZ-316" vertex="1" connectable="0">
           <mxGeometry x="0.2615" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-22" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-285" value="Торговля" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d3d3d3;strokeColor=#030608;" parent="nKu6EM1XER9Ci5rSMsAZ-72" vertex="1">
