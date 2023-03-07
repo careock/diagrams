@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T11:41:41.910Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="t6M-Yt2CRzRu6W22ddt0" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T11:42:09.270Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-vMCErvgwM6QCaX2rI9-" version="21.0.2" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="2049" dy="1947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -363,6 +363,9 @@
         <mxCell id="U-HvtogTb1K9tVLTSSLx-128" value="listForSale" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-77">
           <mxGeometry x="250" y="70" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="U-HvtogTb1K9tVLTSSLx-143" value="cancelOffer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-77">
+          <mxGeometry x="20" y="160" width="90" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-80" value="Смарт-контракт &quot;Токен PLANT&quot;" style="swimlane;whiteSpace=wrap;html=1;swimlaneLine=0;" vertex="1" parent="1">
           <mxGeometry x="1480" y="1520" width="400" height="264.5" as="geometry" />
         </mxCell>
@@ -373,7 +376,7 @@
           <mxGeometry x="240" y="64.5" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-83" value="buyer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="950" width="30" height="60" as="geometry" />
+          <mxGeometry x="1390" y="958" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-84" value="seller" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="2420" y="980" width="30" height="60" as="geometry" />
@@ -413,7 +416,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-109" value="Сервер" style="swimlane;whiteSpace=wrap;html=1;labelBorderColor=none;swimlaneLine=0;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="830" width="630" height="290" as="geometry" />
+          <mxGeometry x="1550" y="830" width="710" height="290" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-111" value="makeOffer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-109">
           <mxGeometry x="20" y="190" width="90" height="60" as="geometry" />
@@ -505,6 +508,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-140" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U-HvtogTb1K9tVLTSSLx-139">
+          <mxGeometry x="-0.1115" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-HvtogTb1K9tVLTSSLx-141" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="U-HvtogTb1K9tVLTSSLx-135" target="U-HvtogTb1K9tVLTSSLx-143">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1841" y="1000" as="sourcePoint" />
+            <mxPoint x="1850" y="1370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-HvtogTb1K9tVLTSSLx-142" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U-HvtogTb1K9tVLTSSLx-141">
           <mxGeometry x="-0.1115" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
