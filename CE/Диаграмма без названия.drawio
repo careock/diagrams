@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T16:13:15.208Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="MNjNanAi5bn6LP2ysKzi" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T16:13:19.948Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="trzl8QC5Fq5uCCeT_-8K" version="21.0.2" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="1247" dy="1498" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -654,17 +654,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2745" y="1097" as="sourcePoint" />
             <mxPoint x="2492" y="1266" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U-HvtogTb1K9tVLTSSLx-305" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="U-HvtogTb1K9tVLTSSLx-272" target="U-HvtogTb1K9tVLTSSLx-262">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3316" y="921" as="sourcePoint" />
-            <mxPoint x="3213" y="918" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U-HvtogTb1K9tVLTSSLx-306" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="U-HvtogTb1K9tVLTSSLx-305">
-          <mxGeometry x="-0.1115" y="-4" relative="1" as="geometry">
-            <mxPoint x="-1" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-307" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="U-HvtogTb1K9tVLTSSLx-265" target="U-HvtogTb1K9tVLTSSLx-280">
