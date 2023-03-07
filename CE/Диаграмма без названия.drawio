@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T08:22:34.603Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="GV5CSuBtTieiUGv5tMAR" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T08:23:50.877Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="sGvJbv1DnVzoibEUZGwU" version="21.0.2" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="1062" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,9 +45,6 @@
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-296" value="Деревья" style="rounded=0;whiteSpace=wrap;html=1;" parent="nKu6EM1XER9Ci5rSMsAZ-72" vertex="1">
           <mxGeometry x="390" y="290" width="190" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-298" value="Синдикат" style="rounded=0;whiteSpace=wrap;html=1;" parent="nKu6EM1XER9Ci5rSMsAZ-72" vertex="1">
-          <mxGeometry x="160" y="290" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-299" value="Токен PLANT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="nKu6EM1XER9Ci5rSMsAZ-72" vertex="1">
           <mxGeometry x="390" y="440" width="190" height="60" as="geometry" />
@@ -299,7 +296,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-71" value="Immutable X" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1310" y="840" width="270" height="330" as="geometry" />
+          <mxGeometry x="1310" y="840" width="270" height="350" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-51" value="Форвадер и Харвестер" style="rounded=0;whiteSpace=wrap;html=1;" parent="nKu6EM1XER9Ci5rSMsAZ-71" vertex="1">
           <mxGeometry x="20" y="130" width="220" height="70" as="geometry" />
@@ -309,6 +306,9 @@
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-50" value="Токен TREE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="nKu6EM1XER9Ci5rSMsAZ-71" vertex="1">
           <mxGeometry x="20" y="40" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-298" value="Синдикат" style="rounded=0;whiteSpace=wrap;html=1;" parent="nKu6EM1XER9Ci5rSMsAZ-71" vertex="1">
+          <mxGeometry x="30" y="290" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-1" value="Лотерея" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d3d3d3;" vertex="1" parent="1">
           <mxGeometry x="1410" y="640" width="190" height="60" as="geometry" />
