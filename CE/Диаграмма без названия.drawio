@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T16:11:02.800Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="iMZ7U6Fyb7waKgM1mfIt" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T16:11:28.431Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-iMa9zGfCeWGhXY0uRwt" version="21.0.2" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="1434" dy="1603" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1912" dy="1871" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="U-HvtogTb1K9tVLTSSLx-79" value="transferFrom &lt;br&gt;seller to buyer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-76">
           <mxGeometry x="185" y="30" width="122" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="U-HvtogTb1K9tVLTSSLx-80" value="Смарт-контракт &quot;Токен PLANT&quot;" style="swimlane;whiteSpace=wrap;html=1;swimlaneLine=0;gradientColor=none;fillColor=none;strokeColor=#242424;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="U-HvtogTb1K9tVLTSSLx-80" value="Смарт-контракт ERC-20 токена" style="swimlane;whiteSpace=wrap;html=1;swimlaneLine=0;gradientColor=none;fillColor=none;strokeColor=#242424;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1632" y="1125" width="740" height="99" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-93" value="approve" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-80">
@@ -605,7 +605,7 @@
         <mxCell id="U-HvtogTb1K9tVLTSSLx-263" value="transferFrom &lt;br&gt;seller to buyer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-261">
           <mxGeometry x="185" y="30" width="122" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="U-HvtogTb1K9tVLTSSLx-264" value="Смарт-контракт &quot;Токен PLANT&quot;" style="swimlane;whiteSpace=wrap;html=1;swimlaneLine=0;gradientColor=none;fillColor=none;strokeColor=#242424;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="U-HvtogTb1K9tVLTSSLx-264" value="Смарт-контракт ERC-20 токена" style="swimlane;whiteSpace=wrap;html=1;swimlaneLine=0;gradientColor=none;fillColor=none;strokeColor=#242424;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="2704" y="1141" width="740" height="99" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-265" value="approve" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-264">
