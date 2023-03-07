@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T12:51:43.226Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="wEdFaDR7WWwJ3tsEwVEz" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T12:52:53.422Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="E1z81ZxEB7cxzw5EuQZy" version="21.0.2" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="1793" dy="1804" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="1498" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="U-HvtogTb1K9tVLTSSLx-76" value="Смарт-контракт NFT" style="swimlane;whiteSpace=wrap;html=1;swimlaneLine=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="U-HvtogTb1K9tVLTSSLx-76" value="Смарт-контракт NFT" style="swimlane;whiteSpace=wrap;html=1;swimlaneLine=0;" vertex="1" parent="1">
           <mxGeometry x="1760" y="732" width="414" height="95" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-75" value="approve" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-76">
@@ -13,17 +13,17 @@
         <mxCell id="U-HvtogTb1K9tVLTSSLx-79" value="transferFrom &lt;br&gt;seller to buyer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-76">
           <mxGeometry x="25" y="30" width="122" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="U-HvtogTb1K9tVLTSSLx-77" value="Смарт-контракт &quot;Торговля&quot;" style="swimlane;whiteSpace=wrap;html=1;labelBorderColor=none;swimlaneLine=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="1">
+        <mxCell id="U-HvtogTb1K9tVLTSSLx-77" value="Смарт-контракт &quot;Торговля&quot;" style="swimlane;whiteSpace=wrap;html=1;labelBorderColor=none;swimlaneLine=0;" vertex="1" parent="1">
           <mxGeometry x="1760" y="825" width="414" height="300" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-73" value="acceptOffer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-77">
           <mxGeometry x="150" y="178" width="90" height="41" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-120" value="cancelOffer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-77">
-          <mxGeometry x="298" y="37" width="90" height="46" as="geometry" />
+          <mxGeometry x="281" y="42" width="90" height="46" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-128" value="listForSale" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-77">
-          <mxGeometry x="203" y="111" width="90" height="45" as="geometry" />
+          <mxGeometry x="191" y="108.5" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-143" value="makePurchase" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-77">
           <mxGeometry x="41" y="109" width="90" height="44" as="geometry" />
@@ -39,7 +39,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U-HvtogTb1K9tVLTSSLx-80" value="Смарт-контракт &quot;Токен PLANT&quot;" style="swimlane;whiteSpace=wrap;html=1;swimlaneLine=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="U-HvtogTb1K9tVLTSSLx-80" value="Смарт-контракт &quot;Токен PLANT&quot;" style="swimlane;whiteSpace=wrap;html=1;swimlaneLine=0;" vertex="1" parent="1">
           <mxGeometry x="1760" y="1125" width="414" height="99" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-93" value="approve" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-80">
@@ -48,7 +48,7 @@
         <mxCell id="U-HvtogTb1K9tVLTSSLx-94" value="transferFrom &lt;br&gt;buyer to seller" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-80">
           <mxGeometry x="196" y="34" width="121" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="U-HvtogTb1K9tVLTSSLx-109" value="Маркетплейс" style="swimlane;whiteSpace=wrap;html=1;labelBorderColor=none;swimlaneLine=0;strokeColor=#666666;fillStyle=solid;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="U-HvtogTb1K9tVLTSSLx-109" value="Маркетплейс" style="swimlane;whiteSpace=wrap;html=1;labelBorderColor=none;swimlaneLine=0;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="1632" y="825" width="128" height="300" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-111" value="Сделать предложение" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-109">
@@ -57,17 +57,17 @@
         <mxCell id="U-HvtogTb1K9tVLTSSLx-135" value="Купить NFT" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-109">
           <mxGeometry x="17" y="57" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U-HvtogTb1K9tVLTSSLx-148" value="Маркетплейс" style="swimlane;whiteSpace=wrap;html=1;labelBorderColor=none;swimlaneLine=0;strokeColor=#666666;fillStyle=solid;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="U-HvtogTb1K9tVLTSSLx-148" value="Маркетплейс" style="swimlane;whiteSpace=wrap;html=1;labelBorderColor=none;swimlaneLine=0;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="2174" y="825" width="141" height="300" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-115" value="Принять предложение" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-148">
           <mxGeometry x="16" y="224" width="106" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-116" value="Разместить на продажу" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-148">
-          <mxGeometry x="12" y="131" width="114" height="60" as="geometry" />
+          <mxGeometry x="13.5" y="130" width="114" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-92" value="Отменить продажу" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-148">
-          <mxGeometry x="22" y="30" width="90" height="60" as="geometry" />
+          <mxGeometry x="32" y="31" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-160" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="U-HvtogTb1K9tVLTSSLx-148" source="U-HvtogTb1K9tVLTSSLx-116" target="U-HvtogTb1K9tVLTSSLx-115">
           <mxGeometry relative="1" as="geometry">
