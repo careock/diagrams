@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T16:20:06.462Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="kjSe9lv0NEz5I2YMSnGz" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T16:20:31.981Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="XNu4vT6dbRg-GbqKs-yN" version="21.0.2" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="1062" dy="1395" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -645,16 +645,16 @@
           <mxGeometry x="2704" y="841" width="128" height="237" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-269" value="Купить билет" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-267">
-          <mxGeometry x="8" y="135" width="90" height="40" as="geometry" />
+          <mxGeometry x="10" y="125" width="94" height="41" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-272" value="Создать &lt;br&gt;лотерею" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-267">
-          <mxGeometry x="8" y="39" width="106" height="60" as="geometry" />
+          <mxGeometry x="8" y="54" width="96" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="U-HvtogTb1K9tVLTSSLx-280" value="buyer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="2640" y="976" width="30" height="60" as="geometry" />
+        <mxCell id="U-HvtogTb1K9tVLTSSLx-280" value="участник" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="2637" y="987" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U-HvtogTb1K9tVLTSSLx-281" value="seller" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="2631" y="745" width="30" height="60" as="geometry" />
+        <mxCell id="U-HvtogTb1K9tVLTSSLx-281" value="организатор" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="2642" y="866" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-289" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="U-HvtogTb1K9tVLTSSLx-281" target="U-HvtogTb1K9tVLTSSLx-272">
           <mxGeometry relative="1" as="geometry">
@@ -662,7 +662,7 @@
             <mxPoint x="3042" y="1011" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U-HvtogTb1K9tVLTSSLx-296" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U-HvtogTb1K9tVLTSSLx-269" target="U-HvtogTb1K9tVLTSSLx-280">
+        <mxCell id="U-HvtogTb1K9tVLTSSLx-296" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="U-HvtogTb1K9tVLTSSLx-269" target="U-HvtogTb1K9tVLTSSLx-280">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2745" y="1097" as="sourcePoint" />
             <mxPoint x="2492" y="1266" as="targetPoint" />
