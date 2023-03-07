@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T12:44:36.773Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="PsGIHIqkeuCWv3eGtYWB" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T12:44:54.273Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ejqtFSqzJb4akGlaB1uJ" version="21.0.2" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="1247" dy="1498" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -435,7 +435,7 @@
         <mxCell id="U-HvtogTb1K9tVLTSSLx-84" value="seller" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="2411" y="936" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U-HvtogTb1K9tVLTSSLx-100" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="U-HvtogTb1K9tVLTSSLx-73" target="U-HvtogTb1K9tVLTSSLx-94">
+        <mxCell id="U-HvtogTb1K9tVLTSSLx-100" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;entryX=0.579;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U-HvtogTb1K9tVLTSSLx-73" target="U-HvtogTb1K9tVLTSSLx-94">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1550" y="1440" as="sourcePoint" />
             <mxPoint x="1685" y="1322" as="targetPoint" />
@@ -559,7 +559,7 @@
             <mxPoint x="-3" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U-HvtogTb1K9tVLTSSLx-144" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="U-HvtogTb1K9tVLTSSLx-143" target="U-HvtogTb1K9tVLTSSLx-94">
+        <mxCell id="U-HvtogTb1K9tVLTSSLx-144" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;entryX=0.083;entryY=0.216;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U-HvtogTb1K9tVLTSSLx-143" target="U-HvtogTb1K9tVLTSSLx-94">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2166" y="1323" as="sourcePoint" />
             <mxPoint x="1804" y="1602" as="targetPoint" />
