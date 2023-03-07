@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T11:49:44.932Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="oc44T24r8Bc-DaK0cS9A" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T11:50:06.321Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="g3FKhF0TyCSGGvGEmEMH" version="21.0.2" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="2049" dy="1947" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="1745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="U-HvtogTb1K9tVLTSSLx-76" value="Смарт-контракт NFT" style="swimlane;whiteSpace=wrap;html=1;swimlaneLine=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="590" width="300" height="204" as="geometry" />
+          <mxGeometry x="1760" y="672" width="412" height="122" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-75" value="approve" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-76">
-          <mxGeometry x="192" y="130" width="90" height="60" as="geometry" />
+          <mxGeometry x="152" y="39" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-79" value="transferFrom" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-76">
-          <mxGeometry x="10" y="70" width="90" height="60" as="geometry" />
+          <mxGeometry x="24" y="32" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-77" value="Смарт-контракт &quot;Торговля&quot;" style="swimlane;whiteSpace=wrap;html=1;labelBorderColor=none;swimlaneLine=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="1760" y="825" width="414" height="300" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="20" y="95" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-80" value="Смарт-контракт &quot;Токен PLANT&quot;" style="swimlane;whiteSpace=wrap;html=1;swimlaneLine=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="1188" width="300" height="144" as="geometry" />
+          <mxGeometry x="1780" y="1188" width="392" height="144" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-93" value="approve" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-80">
           <mxGeometry x="30" y="42" width="90" height="60" as="geometry" />
