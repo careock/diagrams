@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T12:45:10.634Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5m-Rqh__rjJ_KvN-JLki" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T12:46:42.710Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="1osRmsosSg-THD2WxXzu" version="21.0.2" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="1247" dy="1498" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -49,25 +49,25 @@
           <mxGeometry x="196" y="34" width="121" height="47" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-109" value="Маркетплейс" style="swimlane;whiteSpace=wrap;html=1;labelBorderColor=none;swimlaneLine=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="1568" y="825" width="161" height="301" as="geometry" />
+          <mxGeometry x="1601" y="825" width="128" height="301" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-111" value="Сделать предложение" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-109">
-          <mxGeometry x="30.5" y="179" width="100" height="52" as="geometry" />
+          <mxGeometry x="12" y="179" width="100" height="52" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-135" value="Купить NFT" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-109">
-          <mxGeometry x="30.5" y="80" width="90" height="40" as="geometry" />
+          <mxGeometry x="12" y="80" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-148" value="Маркетплейс" style="swimlane;whiteSpace=wrap;html=1;labelBorderColor=none;swimlaneLine=0;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="2208" y="825" width="170" height="301" as="geometry" />
+          <mxGeometry x="2208" y="825" width="141" height="301" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-115" value="Принять предложение" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-148">
-          <mxGeometry x="28" y="225" width="106" height="60" as="geometry" />
+          <mxGeometry x="16" y="224" width="106" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-116" value="Разместить на продажу" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-148">
-          <mxGeometry x="26" y="131" width="114" height="60" as="geometry" />
+          <mxGeometry x="12" y="131" width="114" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-92" value="Отменить продажу" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-148">
-          <mxGeometry x="36" y="30" width="90" height="60" as="geometry" />
+          <mxGeometry x="22" y="30" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-160" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="U-HvtogTb1K9tVLTSSLx-148" source="U-HvtogTb1K9tVLTSSLx-116" target="U-HvtogTb1K9tVLTSSLx-115">
           <mxGeometry relative="1" as="geometry">
@@ -430,10 +430,10 @@
           <mxGeometry x="1210" y="800" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-83" value="buyer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1497" y="936" width="30" height="60" as="geometry" />
+          <mxGeometry x="1561" y="936" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-84" value="seller" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="2411" y="936" width="30" height="60" as="geometry" />
+          <mxGeometry x="2370" y="936" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-100" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;entryX=0.579;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U-HvtogTb1K9tVLTSSLx-73" target="U-HvtogTb1K9tVLTSSLx-94">
           <mxGeometry relative="1" as="geometry">
