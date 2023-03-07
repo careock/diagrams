@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T11:46:05.881Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5j9KWQRoA9VvKokyOUez" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T11:46:47.087Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="EPAzB2nFbe3DdEPDs9rd" version="21.0.2" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="1687" dy="1745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -343,13 +343,13 @@
           <mxGeometry x="1210" y="800" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-76" value="Смарт-контракт NFT" style="swimlane;whiteSpace=wrap;html=1;swimlaneLine=0;" vertex="1" parent="1">
-          <mxGeometry x="2200" y="1176" width="300" height="144" as="geometry" />
+          <mxGeometry x="2005" y="590" width="300" height="204" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-75" value="approve" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-76">
-          <mxGeometry x="30" y="76" width="90" height="60" as="geometry" />
+          <mxGeometry x="85" y="134" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-79" value="transferFrom" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-76">
-          <mxGeometry x="190" y="58" width="90" height="60" as="geometry" />
+          <mxGeometry x="115" y="40" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-77" value="Смарт-контракт &quot;Торговля&quot;" style="swimlane;whiteSpace=wrap;html=1;labelBorderColor=none;swimlaneLine=0;" vertex="1" parent="1">
           <mxGeometry x="1760" y="825" width="790" height="300" as="geometry" />
@@ -358,10 +358,10 @@
           <mxGeometry x="560" y="215" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-120" value="cancelOffer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-77">
-          <mxGeometry x="440" y="55" width="90" height="60" as="geometry" />
+          <mxGeometry x="620" y="95" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-128" value="listForSale" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-77">
-          <mxGeometry x="450" y="145" width="90" height="60" as="geometry" />
+          <mxGeometry x="320" y="105" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-143" value="makePurchase" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-77">
           <mxGeometry x="50" y="95" width="90" height="60" as="geometry" />
@@ -536,6 +536,17 @@
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-92" value="cancelSale" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-148">
           <mxGeometry x="50" y="45" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-HvtogTb1K9tVLTSSLx-156" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="U-HvtogTb1K9tVLTSSLx-143" target="U-HvtogTb1K9tVLTSSLx-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1874" y="989" as="sourcePoint" />
+            <mxPoint x="1956" y="1241" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-HvtogTb1K9tVLTSSLx-157" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U-HvtogTb1K9tVLTSSLx-156">
+          <mxGeometry x="-0.0742" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
