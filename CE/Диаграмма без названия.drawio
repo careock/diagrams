@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T08:29:47.526Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="0SuUqjTiadsg7gwo-j6E" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T08:30:20.458Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6HLoYQCzwucPd2e8NKcu" version="21.0.2" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="1509" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2607" dy="1460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-284" value="Аукцион" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d3d3d3;" parent="nKu6EM1XER9Ci5rSMsAZ-72" vertex="1">
           <mxGeometry x="200" y="430" width="130" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-316" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="nKu6EM1XER9Ci5rSMsAZ-72" source="nKu6EM1XER9Ci5rSMsAZ-285" target="nKu6EM1XER9Ci5rSMsAZ-302" edge="1">
+        <mxCell id="nKu6EM1XER9Ci5rSMsAZ-316" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="nKu6EM1XER9Ci5rSMsAZ-72" source="nKu6EM1XER9Ci5rSMsAZ-285" target="nKu6EM1XER9Ci5rSMsAZ-302" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-317" value="Вызов&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;transferFrom()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nKu6EM1XER9Ci5rSMsAZ-316" vertex="1" connectable="0">
@@ -78,7 +78,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-302" value="Чертеж завода" style="rounded=0;whiteSpace=wrap;html=1;" parent="nKu6EM1XER9Ci5rSMsAZ-72" vertex="1">
-          <mxGeometry x="660" y="290" width="200" height="60" as="geometry" />
+          <mxGeometry x="690" y="300" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nKu6EM1XER9Ci5rSMsAZ-303" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;startFill=0;" parent="nKu6EM1XER9Ci5rSMsAZ-72" source="nKu6EM1XER9Ci5rSMsAZ-296" target="nKu6EM1XER9Ci5rSMsAZ-302" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
