@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T11:42:20.268Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="v7AO19hdJ3L2nIYuAnJj" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T11:42:28.490Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="SSo0Ez_N1rvZMugzfKoX" version="21.0.2" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="2049" dy="1947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -352,19 +352,19 @@
           <mxGeometry x="190" y="58" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-77" value="Смарт-контракт &quot;Торговля&quot;" style="swimlane;whiteSpace=wrap;html=1;labelBorderColor=none;swimlaneLine=0;" vertex="1" parent="1">
-          <mxGeometry x="1790" y="1190" width="700" height="300" as="geometry" />
+          <mxGeometry x="1700" y="1190" width="790" height="300" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-73" value="acceptOffer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-77">
           <mxGeometry x="440" y="70" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-120" value="cancelOffer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-77">
-          <mxGeometry x="50" y="60" width="90" height="60" as="geometry" />
+          <mxGeometry x="110" y="60" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-128" value="listForSale" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-77">
           <mxGeometry x="250" y="70" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-143" value="cancelOffer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="U-HvtogTb1K9tVLTSSLx-77">
-          <mxGeometry x="20" y="160" width="90" height="60" as="geometry" />
+          <mxGeometry x="40" y="160" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-80" value="Смарт-контракт &quot;Токен PLANT&quot;" style="swimlane;whiteSpace=wrap;html=1;swimlaneLine=0;" vertex="1" parent="1">
           <mxGeometry x="1480" y="1520" width="400" height="264.5" as="geometry" />
