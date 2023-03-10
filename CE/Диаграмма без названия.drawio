@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T09:59:43.326Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="OnPjviA-Wrpd42hcp-3-" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-10T09:59:57.430Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Tr3YT5jkJWqvlGy80eUk" version="21.0.6" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="1995" dy="1469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -751,16 +751,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AoXdwYpE5xKdrdKqpB0P-114" value="Address" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=39;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="575" y="1830" width="182" height="99" as="geometry" />
+          <mxGeometry x="575" y="1830" width="182" height="73" as="geometry" />
         </mxCell>
         <mxCell id="AoXdwYpE5xKdrdKqpB0P-115" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="AoXdwYpE5xKdrdKqpB0P-114">
           <mxGeometry y="39" width="182" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="AoXdwYpE5xKdrdKqpB0P-116" value="+ transfer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AoXdwYpE5xKdrdKqpB0P-114">
+        <mxCell id="AoXdwYpE5xKdrdKqpB0P-116" value="- balanceOf" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AoXdwYpE5xKdrdKqpB0P-114">
           <mxGeometry y="47" width="182" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="AoXdwYpE5xKdrdKqpB0P-117" value="+ approve" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AoXdwYpE5xKdrdKqpB0P-114">
-          <mxGeometry y="73" width="182" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
