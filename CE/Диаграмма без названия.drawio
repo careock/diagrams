@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T09:10:18.138Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6pVssuC-M7TH7Kz4iKSy" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-10T09:10:24.440Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="3Cjhc3hQrtQqRQOlwCId" version="21.0.6" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="896" dy="1302" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -822,7 +822,7 @@
           <mxGeometry y="190" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="AoXdwYpE5xKdrdKqpB0P-53" value="Ticket" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="3064" y="1154" width="182" height="86" as="geometry" />
+          <mxGeometry x="3017" y="1154" width="182" height="86" as="geometry" />
         </mxCell>
         <mxCell id="AoXdwYpE5xKdrdKqpB0P-54" value="- lotteryID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AoXdwYpE5xKdrdKqpB0P-53">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
@@ -835,8 +835,8 @@
         </mxCell>
         <mxCell id="AoXdwYpE5xKdrdKqpB0P-63" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AoXdwYpE5xKdrdKqpB0P-53" target="AoXdwYpE5xKdrdKqpB0P-66">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3054" y="1441" as="sourcePoint" />
-            <mxPoint x="2949" y="1441" as="targetPoint" />
+            <mxPoint x="3007" y="1441" as="sourcePoint" />
+            <mxPoint x="2902" y="1441" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AoXdwYpE5xKdrdKqpB0P-64" value="0..*" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="AoXdwYpE5xKdrdKqpB0P-63">
@@ -850,7 +850,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AoXdwYpE5xKdrdKqpB0P-66" value="Lottery" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="3064" y="1317" width="182" height="164" as="geometry" />
+          <mxGeometry x="3017" y="1317" width="182" height="164" as="geometry" />
         </mxCell>
         <mxCell id="AoXdwYpE5xKdrdKqpB0P-67" value="- lotteryID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="AoXdwYpE5xKdrdKqpB0P-66">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
