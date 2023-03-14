@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T16:29:51.037Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0nDXxwVTrsv5DjmnaOeS" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T16:32:07.186Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ptfmE7xuW0WQtvj0szwm" version="21.0.6" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="1642" dy="1319" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1305" dy="1112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -618,7 +618,7 @@
           <mxGeometry y="216" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="AoXdwYpE5xKdrdKqpB0P-53" value="Ticket" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="3257" y="1499" width="182" height="86" as="geometry" />
+          <mxGeometry x="3312" y="1512" width="182" height="86" as="geometry" />
         </mxCell>
         <mxCell id="AoXdwYpE5xKdrdKqpB0P-54" value="- lotteryID: uint" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="AoXdwYpE5xKdrdKqpB0P-53" vertex="1">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
@@ -635,9 +635,9 @@
             <mxPoint x="2902" y="1571" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AoXdwYpE5xKdrdKqpB0P-64" value="0..*" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="AoXdwYpE5xKdrdKqpB0P-63" connectable="0" vertex="1">
+        <mxCell id="AoXdwYpE5xKdrdKqpB0P-64" value="0..n" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="AoXdwYpE5xKdrdKqpB0P-63" connectable="0" vertex="1">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="-24" y="-5" as="offset" />
+            <mxPoint x="-27" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AoXdwYpE5xKdrdKqpB0P-65" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" parent="AoXdwYpE5xKdrdKqpB0P-63" connectable="0" vertex="1">
@@ -997,7 +997,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-88" value="Offers" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="4235" y="1504" width="182" height="112" as="geometry" />
+          <mxGeometry x="4248" y="1492" width="182" height="112" as="geometry" />
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-89" value="- auctionID: uint" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-88">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
