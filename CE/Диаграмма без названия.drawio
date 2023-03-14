@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T16:09:38.051Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="yrxMM07eIWPaFqecDj3q" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T16:10:55.510Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="HwCJSAYF8sR1yYrSSQHJ" version="21.0.6" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="1678" dy="1342" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1305" dy="1112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -778,21 +778,26 @@
           <mxGeometry x="314" y="349" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-11" value="finalizeAuction" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-7">
-          <mxGeometry x="232" y="135" width="90" height="45" as="geometry" />
+          <mxGeometry x="193" y="52" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-35" value="createAuction" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-7">
-          <mxGeometry x="62" y="131.5" width="90" height="45" as="geometry" />
+          <mxGeometry x="72" y="55" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-44" value="acceptOffer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-7">
-          <mxGeometry x="148" y="52" width="90" height="45" as="geometry" />
+          <mxGeometry x="221" y="174" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-107" value="cancelAuction" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-7">
-          <mxGeometry x="69" y="221" width="90" height="45" as="geometry" />
+          <mxGeometry x="88" y="212" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-120" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;startArrow=none;" edge="1" parent="R7OiC69TOHngUpAL5HPv-7" source="R7OiC69TOHngUpAL5HPv-35" target="R7OiC69TOHngUpAL5HPv-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-26" y="97" as="sourcePoint" />
             <mxPoint x="250" y="192" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7OiC69TOHngUpAL5HPv-133" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R7OiC69TOHngUpAL5HPv-120">
+          <mxGeometry x="-0.3149" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-124" value="instantPurchase" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-7">
@@ -802,10 +807,10 @@
           <mxGeometry x="3611" y="879" width="160" height="423" as="geometry" />
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-20" value="Разместить NFT&lt;br&gt;&amp;nbsp;на аукционе" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-18">
-          <mxGeometry x="24" y="118.5" width="112" height="58" as="geometry" />
+          <mxGeometry x="37" y="52" width="112" height="58" as="geometry" />
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-26" value="Принять предложение" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-18">
-          <mxGeometry x="31" y="44" width="112" height="57" as="geometry" />
+          <mxGeometry x="29" y="117" width="112" height="57" as="geometry" />
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-19" value="Сделать предложение" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-18">
           <mxGeometry x="29" y="345" width="112" height="57" as="geometry" />
@@ -879,7 +884,7 @@
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-46" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R7OiC69TOHngUpAL5HPv-45">
           <mxGeometry x="0.0832" y="1" relative="1" as="geometry">
-            <mxPoint x="-3" y="15" as="offset" />
+            <mxPoint x="-36" y="26" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;startArrow=none;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="R7OiC69TOHngUpAL5HPv-44" target="R7OiC69TOHngUpAL5HPv-23">
@@ -912,7 +917,7 @@
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-52" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R7OiC69TOHngUpAL5HPv-51">
           <mxGeometry x="0.0832" y="1" relative="1" as="geometry">
-            <mxPoint x="-45" y="2" as="offset" />
+            <mxPoint x="-20" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-58" value="S.C. &quot;Аукцион&quot;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
