@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T15:49:24.655Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0zVwDdx1Kt0Rkfr7-rB3" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T15:49:42.069Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="SPcAfWATeKH7g7YJl3yv" version="21.0.6" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="1810" dy="1423" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2483" dy="1838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -992,19 +992,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-88" value="Offers" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="4216" y="1468" width="182" height="112" as="geometry" />
+          <mxGeometry x="4221" y="1478" width="182" height="86" as="geometry" />
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-89" value="- auctionID: uint" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-88">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="R7OiC69TOHngUpAL5HPv-90" value="- tokenID: uint" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-88">
+        <mxCell id="R7OiC69TOHngUpAL5HPv-90" value="- price: " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-88">
           <mxGeometry y="52" width="182" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="R7OiC69TOHngUpAL5HPv-91" value="- nftSmartContract: address" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-88">
-          <mxGeometry y="78" width="182" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-92" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-88">
-          <mxGeometry y="104" width="182" height="8" as="geometry" />
+          <mxGeometry y="78" width="182" height="8" as="geometry" />
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-93" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="R7OiC69TOHngUpAL5HPv-88" target="R7OiC69TOHngUpAL5HPv-69">
           <mxGeometry relative="1" as="geometry">
