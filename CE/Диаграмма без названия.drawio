@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T16:09:05.302Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="XU414G-SEP6LGr2u4cQa" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T16:09:38.051Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="yrxMM07eIWPaFqecDj3q" version="21.0.6" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="1810" dy="1423" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="1342" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -778,7 +778,7 @@
           <mxGeometry x="314" y="349" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-11" value="finalizeAuction" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-7">
-          <mxGeometry x="242" y="112" width="90" height="45" as="geometry" />
+          <mxGeometry x="232" y="135" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-35" value="createAuction" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-7">
           <mxGeometry x="62" y="131.5" width="90" height="45" as="geometry" />
