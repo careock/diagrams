@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T16:10:55.510Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="HwCJSAYF8sR1yYrSSQHJ" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T16:11:13.752Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ZJNjJLn6KlLTAcAuwGR7" version="21.0.6" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="1305" dy="1112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1863" dy="1456" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -775,16 +775,16 @@
           <mxGeometry x="3771" y="879" width="476" height="424" as="geometry" />
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-8" value="makeOffer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-7">
-          <mxGeometry x="314" y="349" width="90" height="45" as="geometry" />
+          <mxGeometry x="361" y="354" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-11" value="finalizeAuction" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-7">
-          <mxGeometry x="193" y="52" width="90" height="45" as="geometry" />
+          <mxGeometry x="220" y="45" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-35" value="createAuction" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-7">
-          <mxGeometry x="72" y="55" width="90" height="45" as="geometry" />
+          <mxGeometry x="77" y="101" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-44" value="acceptOffer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-7">
-          <mxGeometry x="221" y="174" width="90" height="45" as="geometry" />
+          <mxGeometry x="271" y="167" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-107" value="cancelAuction" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-7">
           <mxGeometry x="88" y="212" width="90" height="45" as="geometry" />
@@ -797,11 +797,11 @@
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-133" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R7OiC69TOHngUpAL5HPv-120">
           <mxGeometry x="-0.3149" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="8" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-124" value="instantPurchase" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-7">
-          <mxGeometry x="299" y="268" width="116" height="45" as="geometry" />
+          <mxGeometry x="346" y="273" width="116" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-18" value="Маркетплейс" style="swimlane;whiteSpace=wrap;html=1;labelBorderColor=none;swimlaneLine=0;fillStyle=solid;gradientColor=none;fillColor=none;strokeColor=#242424;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="3611" y="879" width="160" height="423" as="geometry" />
@@ -828,7 +828,7 @@
           <mxGeometry x="142" y="40" width="90" height="43" as="geometry" />
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-23" value="transferFrom" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-21">
-          <mxGeometry x="503" y="46" width="99" height="44" as="geometry" />
+          <mxGeometry x="536" y="49" width="99" height="44" as="geometry" />
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="R7OiC69TOHngUpAL5HPv-2" target="R7OiC69TOHngUpAL5HPv-22">
           <mxGeometry relative="1" as="geometry">
