@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T15:27:20.501Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="DTcno5suOihsfqrRuVJJ" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T15:27:35.376Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0FQyRLjrk0XJcelbjZl_" version="21.0.6" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="1754" dy="1373" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1595" dy="1278" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -763,10 +763,10 @@
           <mxGeometry x="3608" y="652" width="114" height="41" as="geometry" />
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-2" value="организатор" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="3512" y="865" width="30" height="60" as="geometry" />
+          <mxGeometry x="3510" y="889" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-3" value="участник" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="3512" y="966" width="30" height="60" as="geometry" />
+          <mxGeometry x="3510" y="1018" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-7" value="Смарт-контракт &quot;Аукцион&quot;" style="swimlane;whiteSpace=wrap;html=1;labelBorderColor=none;swimlaneLine=0;fontColor=default;strokeColor=#242424;" vertex="1" parent="1">
           <mxGeometry x="3771" y="879" width="414" height="278" as="geometry" />
