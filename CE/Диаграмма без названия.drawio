@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T15:52:28.608Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="EEOGrybKeUGjgGZzbpTf" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T15:52:39.049Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ERRpfmgfSU33ioLGXqj-" version="21.0.6" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="1608" dy="1298" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -834,7 +834,7 @@
         <mxCell id="R7OiC69TOHngUpAL5HPv-19" value="Сделать предложение" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-18">
           <mxGeometry x="21" y="192" width="112" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="R7OiC69TOHngUpAL5HPv-100" value="Купить NFT" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-18">
+        <mxCell id="R7OiC69TOHngUpAL5HPv-100" value="Мгновенная покупка" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="R7OiC69TOHngUpAL5HPv-18">
           <mxGeometry x="21" y="261" width="112" height="57" as="geometry" />
         </mxCell>
         <mxCell id="R7OiC69TOHngUpAL5HPv-21" value="Смарт-контракт NFT" style="swimlane;whiteSpace=wrap;html=1;swimlaneLine=0;gradientColor=none;fillColor=none;strokeColor=#242424;fontColor=default;" vertex="1" parent="1">
