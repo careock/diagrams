@@ -1,1 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T08:45:16.515Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.0.6" etag="0Zn2dxOCD6ZuKQcSDOjt" type="github"><diagram name="Страница 1" id="aKsf2HUBZbUOZfaPrzU6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-15T08:51:25.408Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="vTx3RZxmVhV0qVjrzlg0" version="21.0.6" type="github">
+  <diagram name="Страница 1" id="aKsf2HUBZbUOZfaPrzU6">
+    <mxGraphModel dx="954" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4xQAgff1jZacZTnrBGu6-1" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;b id=&quot;docs-internal-guid-c4d05233-7fff-53ad-8b41-3383d7589450&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Times New Roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;border:none;display:inline-block;overflow:hidden;width:572px;height:132px;&quot;&gt;&lt;img style=&quot;margin-left:0px;margin-top:0px;&quot; height=&quot;132&quot; width=&quot;572&quot; src=&quot;https://lh4.googleusercontent.com/SaE9NO2gv15WjfhPqBr-mqhX68ku72CWrR629wOk8hpGU9x68CFcWPz0zTXMaKvbDeHZytw7Iv7ipCgqnX7-XhJou_C501FW_l9KuS2CujhyfQytLDChBdYQTfp61yjJagbAHd7yCtw8mNVrfXxKF7E&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="10" width="560" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4xQAgff1jZacZTnrBGu6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4xQAgff1jZacZTnrBGu6-2" target="4xQAgff1jZacZTnrBGu6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4xQAgff1jZacZTnrBGu6-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="311.25" width="32.5" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4xQAgff1jZacZTnrBGu6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4xQAgff1jZacZTnrBGu6-3" target="4xQAgff1jZacZTnrBGu6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4xQAgff1jZacZTnrBGu6-3" value="Пользователь указывает параметры вывода" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="297.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4xQAgff1jZacZTnrBGu6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4xQAgff1jZacZTnrBGu6-5" target="4xQAgff1jZacZTnrBGu6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4xQAgff1jZacZTnrBGu6-5" value="Начисление комисси за отправку рискованных" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="297.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4xQAgff1jZacZTnrBGu6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4xQAgff1jZacZTnrBGu6-6" target="4xQAgff1jZacZTnrBGu6-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4xQAgff1jZacZTnrBGu6-14" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4xQAgff1jZacZTnrBGu6-13">
+          <mxGeometry x="-0.2957" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4xQAgff1jZacZTnrBGu6-6" value="Заявка &lt;br&gt;мультиваютная?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="280" width="150" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="4xQAgff1jZacZTnrBGu6-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4xQAgff1jZacZTnrBGu6-7" target="4xQAgff1jZacZTnrBGu6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4xQAgff1jZacZTnrBGu6-7" value="Обращается в ноль, &lt;br&gt;если все адреса пользователя&lt;br&gt;имеют риcк менее 25%" style="html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;" vertex="1" parent="1">
+          <mxGeometry x="390" y="200" width="50" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="4xQAgff1jZacZTnrBGu6-11" value="Криптовалюты&lt;br&gt;&amp;nbsp;вывода и пополнения совпадают?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="413" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4xQAgff1jZacZTnrBGu6-12" value="Начисление комиссии за получение BTC (Б)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4xQAgff1jZacZTnrBGu6-15" value="Выводятся BTC (Б)?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="272.5" width="170" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
