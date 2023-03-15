@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T07:35:19.224Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="YZO3SsDEidWL-1W9gqoK" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T07:35:29.945Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="4X07cANNM40UmxBedoQ0" version="21.0.6" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="1988" dy="1474" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1810" dy="1373" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -588,7 +588,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AoXdwYpE5xKdrdKqpB0P-42" value="S.C. &quot;Лотерея&quot;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="2758" y="1421" width="182" height="242" as="geometry" />
+          <mxGeometry x="2758" y="1435" width="182" height="242" as="geometry" />
         </mxCell>
         <mxCell id="AoXdwYpE5xKdrdKqpB0P-76" value="- nftSmartContracts: mapping" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="AoXdwYpE5xKdrdKqpB0P-42" vertex="1">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
@@ -618,7 +618,7 @@
           <mxGeometry y="216" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="AoXdwYpE5xKdrdKqpB0P-53" value="Ticket" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="3312" y="1512" width="182" height="86" as="geometry" />
+          <mxGeometry x="3260" y="1512" width="182" height="86" as="geometry" />
         </mxCell>
         <mxCell id="AoXdwYpE5xKdrdKqpB0P-54" value="- lotteryID: uint" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="AoXdwYpE5xKdrdKqpB0P-53" vertex="1">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
