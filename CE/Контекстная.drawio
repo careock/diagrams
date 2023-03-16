@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T17:04:15.035Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="YR-zJ3RR6S1tPVTg5a_y" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-16T12:56:32.048Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Vs_9QxSbx9m8AGqxWZUX" version="21.0.6" type="github">
   <diagram name="Страница 1" id="PbTtmd6q3jU2auLFYNLY">
-    <mxGraphModel dx="1062" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bziQ3DZzMGBHJ6S33izw-4" value="Валидация вывода" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bziQ3DZzMGBHJ6S33izw-3" vertex="1" connectable="0">
+        <mxCell id="bziQ3DZzMGBHJ6S33izw-4" value="Ответ на запрос" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bziQ3DZzMGBHJ6S33izw-3" vertex="1" connectable="0">
           <mxGeometry x="0.5" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -133,12 +133,12 @@
         <mxCell id="TK5V0gTfrpUxgHLwCol4-4" value="Smartcontracts" style="rounded=0;whiteSpace=wrap;html=1;" parent="TK5V0gTfrpUxgHLwCol4-2" vertex="1">
           <mxGeometry x="32.5" y="35" width="135" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TK5V0gTfrpUxgHLwCol4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=0.527;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TK5V0gTfrpUxgHLwCol4-5" target="TK5V0gTfrpUxgHLwCol4-2" edge="1">
+        <mxCell id="TK5V0gTfrpUxgHLwCol4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=0.671;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="TK5V0gTfrpUxgHLwCol4-5" target="TK5V0gTfrpUxgHLwCol4-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="720" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TK5V0gTfrpUxgHLwCol4-16" value="Случайное число,&lt;br&gt;данные о выводе" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TK5V0gTfrpUxgHLwCol4-6" vertex="1" connectable="0">
+        <mxCell id="TK5V0gTfrpUxgHLwCol4-16" value="Ответ &lt;br&gt;на запрос" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TK5V0gTfrpUxgHLwCol4-6" vertex="1" connectable="0">
           <mxGeometry x="0.0733" y="2" relative="1" as="geometry">
             <mxPoint x="-2" y="-2" as="offset" />
           </mxGeometry>
@@ -151,7 +151,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bziQ3DZzMGBHJ6S33izw-6" value="Запрос количества доступных коинов для вывода" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bziQ3DZzMGBHJ6S33izw-5" vertex="1" connectable="0">
+        <mxCell id="bziQ3DZzMGBHJ6S33izw-6" value="Запрос данных" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bziQ3DZzMGBHJ6S33izw-5" vertex="1" connectable="0">
           <mxGeometry x="-0.4908" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -183,6 +183,17 @@
         </mxCell>
         <mxCell id="TK5V0gTfrpUxgHLwCol4-19" value="KYC сервис" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="355" y="630" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dyzVzem7w6Nr9daR4jg4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.371;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TK5V0gTfrpUxgHLwCol4-2" target="TK5V0gTfrpUxgHLwCol4-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="759" y="311" as="targetPoint" />
+            <mxPoint x="760" y="260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dyzVzem7w6Nr9daR4jg4-2" value="Запрос" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dyzVzem7w6Nr9daR4jg4-1">
+          <mxGeometry x="0.0733" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" y="-2" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
