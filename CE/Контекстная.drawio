@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T12:56:49.177Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="N7WI3eBoqQ-qZoTlgEEg" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-16T12:56:56.837Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="gV9HpMOCPlGTOdJf1Le3" version="21.0.6" type="github">
   <diagram name="Страница 1" id="PbTtmd6q3jU2auLFYNLY">
-    <mxGraphModel dx="658" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="795" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,9 +129,6 @@
         </mxCell>
         <mxCell id="TK5V0gTfrpUxgHLwCol4-2" value="Smartcontracts" style="swimlane;startSize=23;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="615" y="300" width="200" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="TK5V0gTfrpUxgHLwCol4-4" value="Smartcontracts" style="rounded=0;whiteSpace=wrap;html=1;" parent="TK5V0gTfrpUxgHLwCol4-2" vertex="1">
-          <mxGeometry x="32.5" y="35" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TK5V0gTfrpUxgHLwCol4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=0.671;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="TK5V0gTfrpUxgHLwCol4-5" target="TK5V0gTfrpUxgHLwCol4-2" edge="1">
           <mxGeometry relative="1" as="geometry">
