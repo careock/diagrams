@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T12:57:09.180Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="RApAOF5aSlg6HltKHy8f" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-16T12:57:20.708Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="gJjioGYz7lV2t0Gxe4sG" version="21.0.6" type="github">
   <diagram name="Страница 1" id="PbTtmd6q3jU2auLFYNLY">
     <mxGraphModel dx="795" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -15,16 +15,6 @@
         <mxCell id="7_X0dGAMX54bu9OWyD-T-19" value="Запрос на создание &lt;br&gt;транзакции" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7_X0dGAMX54bu9OWyD-T-16" vertex="1" connectable="0">
           <mxGeometry x="0.1059" y="2" relative="1" as="geometry">
             <mxPoint x="-10" y="2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7_X0dGAMX54bu9OWyD-T-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="TK5V0gTfrpUxgHLwCol4-2" target="7_X0dGAMX54bu9OWyD-T-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="610" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7_X0dGAMX54bu9OWyD-T-26" value="Транзакция" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7_X0dGAMX54bu9OWyD-T-23" vertex="1" connectable="0">
-          <mxGeometry x="0.347" y="-2" relative="1" as="geometry">
-            <mxPoint x="-2" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TK5V0gTfrpUxgHLwCol4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.294;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="7_X0dGAMX54bu9OWyD-T-1" target="TK5V0gTfrpUxgHLwCol4-19" edge="1">
