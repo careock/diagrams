@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T12:58:08.978Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="YsqkTHgiTPDvLl1MfRpc" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-16T12:58:26.095Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="J7mG6Np-Pu5Vv4jeyBhX" version="21.0.6" type="github">
   <diagram name="Страница 1" id="PbTtmd6q3jU2auLFYNLY">
     <mxGraphModel dx="954" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -50,6 +50,13 @@
         <mxCell id="TK5V0gTfrpUxgHLwCol4-17" value="Транзакция" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7_X0dGAMX54bu9OWyD-T-24" vertex="1" connectable="0">
           <mxGeometry y="1" relative="1" as="geometry">
             <mxPoint x="-7" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dyzVzem7w6Nr9daR4jg4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="7_X0dGAMX54bu9OWyD-T-3" target="TK5V0gTfrpUxgHLwCol4-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="225" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7_X0dGAMX54bu9OWyD-T-3" value="ImmutableX" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
