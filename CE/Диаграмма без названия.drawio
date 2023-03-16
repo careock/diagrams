@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T11:37:20.475Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="vSpjHW3o5Z9vX-Lj3enK" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-16T12:45:43.052Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0QPaTb-SGfuxy5EeRm5J" version="21.0.6" type="github">
   <diagram name="Страница 1" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="3044" dy="2184" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1642" dy="1278" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -389,7 +389,7 @@
         <mxCell id="U-HvtogTb1K9tVLTSSLx-256" value="Смарт-контракт &quot;Лотерея&quot;" style="swimlane;whiteSpace=wrap;html=1;labelBorderColor=none;swimlaneLine=0;fontColor=default;strokeColor=#242424;" parent="1" vertex="1">
           <mxGeometry x="2832" y="865" width="414" height="236" as="geometry" />
         </mxCell>
-        <mxCell id="U-HvtogTb1K9tVLTSSLx-310" value="listForSale" style="ellipse;whiteSpace=wrap;html=1;" parent="U-HvtogTb1K9tVLTSSLx-256" vertex="1">
+        <mxCell id="U-HvtogTb1K9tVLTSSLx-310" value="createLottery" style="ellipse;whiteSpace=wrap;html=1;" parent="U-HvtogTb1K9tVLTSSLx-256" vertex="1">
           <mxGeometry x="87" y="41" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="U-HvtogTb1K9tVLTSSLx-312" value="purchaseTicket" style="ellipse;whiteSpace=wrap;html=1;" parent="U-HvtogTb1K9tVLTSSLx-256" vertex="1">
@@ -589,7 +589,7 @@
         <mxCell id="AoXdwYpE5xKdrdKqpB0P-46" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="AoXdwYpE5xKdrdKqpB0P-42" vertex="1">
           <mxGeometry y="130" width="182" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="AoXdwYpE5xKdrdKqpB0P-47" value="+ createListing" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="AoXdwYpE5xKdrdKqpB0P-42" vertex="1">
+        <mxCell id="AoXdwYpE5xKdrdKqpB0P-47" value="+ createLottery" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="AoXdwYpE5xKdrdKqpB0P-42" vertex="1">
           <mxGeometry y="138" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="AoXdwYpE5xKdrdKqpB0P-49" value="+ purchaseTicket" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="AoXdwYpE5xKdrdKqpB0P-42" vertex="1">
