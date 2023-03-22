@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T11:00:36.821Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="xKLdI6eLVmM8CMiRhrUo" version="21.0.10" type="github">
-  <diagram name="Страница 1" id="aJdUSx-QS-0cPneFwsWe">
-    <mxGraphModel dx="1193" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-03-22T11:04:37.543Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="rSv_P8uBF47fKvlUXKVi" version="21.0.10" type="github">
+  <diagram name="Контекстная" id="aJdUSx-QS-0cPneFwsWe">
+    <mxGraphModel dx="1004" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NcMo99bP7BFtLYDiCOAP-1" value="Система" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="475" y="290" width="150" height="150" as="geometry" />
+          <mxGeometry x="475" y="310" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="NcMo99bP7BFtLYDiCOAP-2" value="Панель администрирования" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="180" width="160" height="60" as="geometry" />
+          <mxGeometry x="260" y="180" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NcMo99bP7BFtLYDiCOAP-3" value="Backend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="180" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NcMo99bP7BFtLYDiCOAP-4" value="Мобильное приложение" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="180" width="160" height="60" as="geometry" />
+          <mxGeometry x="680" y="180" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NcMo99bP7BFtLYDiCOAP-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.23;entryY=0.085;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NcMo99bP7BFtLYDiCOAP-3" target="NcMo99bP7BFtLYDiCOAP-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NcMo99bP7BFtLYDiCOAP-9" value="Интернет-эквайринг" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="60" width="160" height="60" as="geometry" />
+          <mxGeometry x="470" y="80" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NcMo99bP7BFtLYDiCOAP-10" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="NcMo99bP7BFtLYDiCOAP-3" target="NcMo99bP7BFtLYDiCOAP-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
