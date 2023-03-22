@@ -1,14 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T10:58:40.519Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="LITGRtybxfV7R4HMyjLR" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T10:59:02.065Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="b9-RTftVHaEuPTGR8eVQ" version="21.0.10" type="github">
   <diagram name="Страница 1" id="aJdUSx-QS-0cPneFwsWe">
     <mxGraphModel dx="954" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NcMo99bP7BFtLYDiCOAP-1" value="Система" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="250" width="150" height="150" as="geometry" />
+          <mxGeometry x="470" y="290" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="NcMo99bP7BFtLYDiCOAP-2" value="Панель администрирования" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="70" width="160" height="60" as="geometry" />
+          <mxGeometry x="470" y="70" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NcMo99bP7BFtLYDiCOAP-3" value="Backend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="180" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NcMo99bP7BFtLYDiCOAP-4" value="Мобильное приложение" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="150" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
