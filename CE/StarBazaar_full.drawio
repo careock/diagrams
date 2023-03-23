@@ -1,57 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T11:04:58.557Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="o-0vM2HlCDxyQa0uU_RU" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T21:23:24.638Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="eq2EejGBlMHASC7jrCA5" version="21.0.10" type="github">
   <diagram name="Контекстная" id="aJdUSx-QS-0cPneFwsWe">
-    <mxGraphModel dx="1004" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NcMo99bP7BFtLYDiCOAP-1" value="Система" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NcMo99bP7BFtLYDiCOAP-1" value="Система" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="475" y="310" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="NcMo99bP7BFtLYDiCOAP-2" value="Панель администрирования" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NcMo99bP7BFtLYDiCOAP-2" value="Панель администрирования" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="180" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NcMo99bP7BFtLYDiCOAP-3" value="Backend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NcMo99bP7BFtLYDiCOAP-3" value="Backend" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="180" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NcMo99bP7BFtLYDiCOAP-4" value="Мобильное приложение" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NcMo99bP7BFtLYDiCOAP-4" value="Мобильное приложение" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="180" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NcMo99bP7BFtLYDiCOAP-5" value="Ответ" style="endArrow=classic;html=1;rounded=0;entryX=0.23;entryY=0.085;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NcMo99bP7BFtLYDiCOAP-3" target="NcMo99bP7BFtLYDiCOAP-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="390" as="sourcePoint" />
-            <mxPoint x="630" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NcMo99bP7BFtLYDiCOAP-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.767;exitY=0.067;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NcMo99bP7BFtLYDiCOAP-1" target="NcMo99bP7BFtLYDiCOAP-3">
+        <mxCell id="NcMo99bP7BFtLYDiCOAP-6" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;" parent="1" source="NcMo99bP7BFtLYDiCOAP-1" target="NcMo99bP7BFtLYDiCOAP-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="250" as="sourcePoint" />
             <mxPoint x="520" y="313" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NcMo99bP7BFtLYDiCOAP-11" value="Запрос" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NcMo99bP7BFtLYDiCOAP-6">
+        <mxCell id="NcMo99bP7BFtLYDiCOAP-11" value="REST API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NcMo99bP7BFtLYDiCOAP-6" vertex="1" connectable="0">
           <mxGeometry x="-0.0336" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NcMo99bP7BFtLYDiCOAP-7" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="NcMo99bP7BFtLYDiCOAP-2" target="NcMo99bP7BFtLYDiCOAP-3">
+        <mxCell id="NcMo99bP7BFtLYDiCOAP-7" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;" parent="1" source="NcMo99bP7BFtLYDiCOAP-2" target="NcMo99bP7BFtLYDiCOAP-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="320" as="sourcePoint" />
             <mxPoint x="570" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NcMo99bP7BFtLYDiCOAP-8" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="NcMo99bP7BFtLYDiCOAP-3" target="NcMo99bP7BFtLYDiCOAP-4">
+        <mxCell id="NcMo99bP7BFtLYDiCOAP-8" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;" parent="1" source="NcMo99bP7BFtLYDiCOAP-3" target="NcMo99bP7BFtLYDiCOAP-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="220" as="sourcePoint" />
             <mxPoint x="480" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NcMo99bP7BFtLYDiCOAP-9" value="Интернет-эквайринг" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="80" width="160" height="60" as="geometry" />
+        <mxCell id="NcMo99bP7BFtLYDiCOAP-9" value="Интернет-эквайринг" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="60" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NcMo99bP7BFtLYDiCOAP-10" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="NcMo99bP7BFtLYDiCOAP-3" target="NcMo99bP7BFtLYDiCOAP-9">
+        <mxCell id="NcMo99bP7BFtLYDiCOAP-10" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;" parent="1" source="NcMo99bP7BFtLYDiCOAP-3" target="NcMo99bP7BFtLYDiCOAP-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="220" as="sourcePoint" />
             <mxPoint x="700" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="An7sI7D4Ozpl-AYZfNoe-1" value="firebase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="60" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="An7sI7D4Ozpl-AYZfNoe-2" value="" style="endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;" edge="1" parent="1" source="NcMo99bP7BFtLYDiCOAP-3" target="An7sI7D4Ozpl-AYZfNoe-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="536" y="190" as="sourcePoint" />
+            <mxPoint x="504" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="An7sI7D4Ozpl-AYZfNoe-3" value="Запрос на &lt;br&gt;отправку письма" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="An7sI7D4Ozpl-AYZfNoe-2">
+          <mxGeometry x="-0.0902" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
