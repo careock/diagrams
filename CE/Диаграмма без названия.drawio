@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T12:51:47.436Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ydruBsdFw-wkFm4Tbz4_" version="21.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-28T12:52:12.886Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="1Kshf8K5BvmIU98ggvFH" version="21.1.1" type="github" pages="3">
   <diagram name="NFT + архитектура" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="1320" dy="2184" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1184,7 +1184,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xFvAmQW_zRe3f-eQC2Nm" name="Сущности">
-    <mxGraphModel dx="-1145" dy="-48" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-1657" dy="-382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1192,13 +1192,19 @@
           <mxGeometry x="2470" y="1060" width="182" height="52" as="geometry" />
         </mxCell>
         <mxCell id="avsSEZx10Kzngl5tKC2M-11" value="Карта" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="2470" y="1189" width="182" height="52" as="geometry" />
+          <mxGeometry x="2741" y="1060" width="182" height="52" as="geometry" />
         </mxCell>
         <mxCell id="avsSEZx10Kzngl5tKC2M-12" value="Клетка" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="2470" y="1300" width="182" height="52" as="geometry" />
+          <mxGeometry x="2741" y="1171" width="182" height="52" as="geometry" />
         </mxCell>
         <mxCell id="avsSEZx10Kzngl5tKC2M-13" value="Дерево" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="2470" y="1410" width="182" height="52" as="geometry" />
+          <mxGeometry x="3020" y="1050" width="182" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="avsSEZx10Kzngl5tKC2M-14" value="Лесозаготовка" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="3020" y="1150" width="182" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="avsSEZx10Kzngl5tKC2M-15" value="Лесозаготовка" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="3020" y="1230" width="182" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
