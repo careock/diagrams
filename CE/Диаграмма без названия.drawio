@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T12:51:20.512Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="363MF8qhb4e0vh1WQ1-T" version="21.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-28T12:51:40.077Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="K0ge_-_e0q91MRtir2jw" version="21.1.1" type="github" pages="3">
   <diagram name="NFT + архитектура" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="1320" dy="2184" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1195,7 +1195,10 @@
           <mxGeometry x="2470" y="1189" width="182" height="52" as="geometry" />
         </mxCell>
         <mxCell id="avsSEZx10Kzngl5tKC2M-12" value="Клетка" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="2720" y="1060" width="182" height="52" as="geometry" />
+          <mxGeometry x="2470" y="1300" width="182" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="avsSEZx10Kzngl5tKC2M-13" value="Дерево" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="2741" y="1050" width="182" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
