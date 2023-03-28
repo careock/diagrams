@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T12:53:52.780Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="BJXylREMLVuv-wKDpamS" version="21.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-28T12:53:58.995Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="DHcXguhuRnambliH0dom" version="21.1.1" type="github" pages="3">
   <diagram name="NFT + архитектура" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="1320" dy="2184" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1221,7 +1221,7 @@
         <mxCell id="avsSEZx10Kzngl5tKC2M-21" value="Базовый ресурс" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="3020" y="1690" width="182" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="avsSEZx10Kzngl5tKC2M-22" value="Рынки сбыта" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="avsSEZx10Kzngl5tKC2M-22" value="Рынок сбыта" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="3020" y="1780" width="182" height="52" as="geometry" />
         </mxCell>
       </root>
