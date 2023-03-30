@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T18:28:10.395Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="nFNrOe3dzRx0blnDYC95" version="21.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-03-30T18:28:49.273Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="j9VD2-4rBbzaV8RkX-QO" version="21.1.1" type="github" pages="7">
   <diagram name="NFT + архитектура" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="3016" dy="3292" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1433,7 +1433,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="p5SsUAG1_GjVNtL2NbAN" name="Контекстная">
-    <mxGraphModel dx="909" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="867" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1611,10 +1611,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4YF8giQvccr5CdplSy-N-38" value="Immutable zkEVM" style="swimlane;startSize=23;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="870" y="447.5" width="200" height="90" as="geometry" />
+          <mxGeometry x="870" y="420" width="200" height="152.5" as="geometry" />
         </mxCell>
-        <mxCell id="4YF8giQvccr5CdplSy-N-39" value="Smartcontracts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4YF8giQvccr5CdplSy-N-38">
+        <mxCell id="4YF8giQvccr5CdplSy-N-39" value="PaT smartcontracts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4YF8giQvccr5CdplSy-N-38">
           <mxGeometry x="32.5" y="35" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bX-eogIEgNUk6heCCfVe-3" value="System smartcontracts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4YF8giQvccr5CdplSy-N-38">
+          <mxGeometry x="32.5" y="92.5" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4YF8giQvccr5CdplSy-N-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4YF8giQvccr5CdplSy-N-38">
           <mxGeometry relative="1" as="geometry">
