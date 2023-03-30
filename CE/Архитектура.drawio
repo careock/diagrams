@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T18:01:40.610Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="PKEs1pVeB15Cff0-ZSmf" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T18:02:03.911Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="cyJSXj_XZjkBOZH0ppP0" version="21.1.1" type="github">
   <diagram name="Страница 1" id="PqeBgnLbpA4RvhlEJzvI">
     <mxGraphModel dx="1434" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="1" parent="0" />
         <mxCell id="SLxa5Ql-JvaU1fJUSNm6-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="300" y="410" width="770" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="a4giFGb1ugFx-ambTczS-16" value="Game-logic service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="690" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a4giFGb1ugFx-ambTczS-7" value="Game-logic service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="680" width="100" height="60" as="geometry" />
