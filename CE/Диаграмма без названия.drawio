@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T18:31:32.488Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Tqdn-AGnSSruT5nDGexp" version="21.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-03-30T18:31:36.980Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="2zvge6WwM1PaSO-qsug8" version="21.1.1" type="github" pages="7">
   <diagram name="NFT + архитектура" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="3016" dy="3292" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1626,7 +1626,7 @@
         <mxCell id="bX-eogIEgNUk6heCCfVe-10" value="Etherium" style="swimlane;startSize=23;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="620" y="300" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="bX-eogIEgNUk6heCCfVe-12" value="TBD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bX-eogIEgNUk6heCCfVe-10">
+        <mxCell id="bX-eogIEgNUk6heCCfVe-12" value="SC TBD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bX-eogIEgNUk6heCCfVe-10">
           <mxGeometry x="25" y="30" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
