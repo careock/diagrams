@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T18:13:59.045Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="nJDVDctkPmYCk9ujpilu" version="21.1.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-30T18:14:05.404Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="uIqxytqqE0dpPJOSAull" version="21.1.1" type="github" pages="4">
   <diagram name="NFT + архитектура" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="3016" dy="3292" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1294,10 +1294,134 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eZNFV229ATWuNB-HpDF8" name="Архитектура">
-    <mxGraphModel dx="954" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1735" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="THvPoRSkesWEAyy1matU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="300" y="410" width="630" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="THvPoRSkesWEAyy1matU-16" target="THvPoRSkesWEAyy1matU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-3" value="HTTP&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="THvPoRSkesWEAyy1matU-2">
+          <mxGeometry x="0.0958" relative="1" as="geometry">
+            <mxPoint y="24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="THvPoRSkesWEAyy1matU-6" target="THvPoRSkesWEAyy1matU-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-5" value="Websocket" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="THvPoRSkesWEAyy1matU-4">
+          <mxGeometry x="-0.14" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-6" value="SSO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="THvPoRSkesWEAyy1matU-8" target="THvPoRSkesWEAyy1matU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-8" value="Game frontend (WebGL)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="130" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="THvPoRSkesWEAyy1matU-10" target="THvPoRSkesWEAyy1matU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-10" value="Marketplace frontend &lt;br&gt;(web-browser)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="130" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="THvPoRSkesWEAyy1matU-12" target="THvPoRSkesWEAyy1matU-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="320" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="390" y="340" />
+              <mxPoint x="390" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-12" value="Object Storage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="310" y="300" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="THvPoRSkesWEAyy1matU-14" target="THvPoRSkesWEAyy1matU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-14" value="IPFS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="585" y="770" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" target="THvPoRSkesWEAyy1matU-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="410" />
+            </Array>
+            <mxPoint x="530" y="410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-16" value="CDN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-17" value="Торговля" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-18" value="Аренда" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-19" value="Лотерея" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-20" value="Уведомления" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="805" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-21" value="Управление учетными записями" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="540" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-22" value="zkEVM &lt;br&gt;integration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="630" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-23" value="Blockchain data provider" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="630" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-24" value="Node manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-25" value="Chainlink job manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="630" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-26" value="Discord bot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="540" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-27" value="Аукцион" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-28" value="Игровой чат" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="540" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-29" value="KYC handler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="540" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-30" value="Маркетплейс менеджер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="430" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-31" value="Collab.land integration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="805" y="540" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="330" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-33" value="Game-logic service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="THvPoRSkesWEAyy1matU-32">
+          <mxGeometry x="20" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-34" value="Game-logic service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="THvPoRSkesWEAyy1matU-32">
+          <mxGeometry x="10" y="10" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="THvPoRSkesWEAyy1matU-35" value="Game-logic service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="THvPoRSkesWEAyy1matU-32">
+          <mxGeometry width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
