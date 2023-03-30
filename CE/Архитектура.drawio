@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T17:56:54.594Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="GgxnswOU3Dfccnese5T3" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T17:57:10.618Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Ycarv2CdQ5YY74bRGx2j" version="21.1.1" type="github">
   <diagram name="Страница 1" id="PqeBgnLbpA4RvhlEJzvI">
-    <mxGraphModel dx="1434" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,12 +63,12 @@
         <mxCell id="SLxa5Ql-JvaU1fJUSNm6-24" value="IPFS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="625" y="830" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="15EVGwNbLVUYAnyvLdJj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="15EVGwNbLVUYAnyvLdJj-1" edge="1">
+        <mxCell id="15EVGwNbLVUYAnyvLdJj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" edge="1" target="15EVGwNbLVUYAnyvLdJj-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="410" as="targetPoint" />
             <Array as="points">
               <mxPoint x="530" y="410" />
             </Array>
+            <mxPoint x="530" y="410" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="15EVGwNbLVUYAnyvLdJj-1" value="CDN" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
