@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T18:01:13.906Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="biMxq-bVp_1AIXKHcvin" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T18:01:40.610Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="PKEs1pVeB15Cff0-ZSmf" version="21.1.1" type="github">
   <diagram name="Страница 1" id="PqeBgnLbpA4RvhlEJzvI">
     <mxGraphModel dx="1434" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -90,7 +90,7 @@
           <mxGeometry x="920" y="440" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a4giFGb1ugFx-ambTczS-5" value="Управление учетными записями" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="805" y="440" width="100" height="60" as="geometry" />
+          <mxGeometry x="330" y="540" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a4giFGb1ugFx-ambTczS-6" value="zkEVM &lt;br&gt;integration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="680" width="100" height="60" as="geometry" />
@@ -102,22 +102,22 @@
           <mxGeometry x="120" y="520" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a4giFGb1ugFx-ambTczS-10" value="Chainlink job manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="520" width="100" height="60" as="geometry" />
+          <mxGeometry x="730" y="680" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a4giFGb1ugFx-ambTczS-11" value="Discord bot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="520" width="100" height="60" as="geometry" />
+          <mxGeometry x="450" y="540" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a4giFGb1ugFx-ambTczS-12" value="Аукцион" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="440" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a4giFGb1ugFx-ambTczS-13" value="Игровой чат" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="520" width="100" height="60" as="geometry" />
+          <mxGeometry x="570" y="540" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a4giFGb1ugFx-ambTczS-14" value="KYC handler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="520" width="100" height="60" as="geometry" />
+          <mxGeometry x="690" y="540" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a4giFGb1ugFx-ambTczS-15" value="Маркетплейс менеджер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="805" y="520" width="100" height="60" as="geometry" />
+          <mxGeometry x="120" y="430" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
