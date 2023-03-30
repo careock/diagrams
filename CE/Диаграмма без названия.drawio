@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T18:28:49.273Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="j9VD2-4rBbzaV8RkX-QO" version="21.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-03-30T18:28:56.051Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="VOtCJ9Y9XqSO0VKy05MT" version="21.1.1" type="github" pages="7">
   <diagram name="NFT + архитектура" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="3016" dy="3292" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1628,9 +1628,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4YF8giQvccr5CdplSy-N-41" value="Верификация" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4YF8giQvccr5CdplSy-N-40">
+        <mxCell id="4YF8giQvccr5CdplSy-N-41" value="Rollup" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4YF8giQvccr5CdplSy-N-40">
           <mxGeometry x="0.4604" y="2" relative="1" as="geometry">
-            <mxPoint x="41" y="23" as="offset" />
+            <mxPoint x="55" y="28" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bX-eogIEgNUk6heCCfVe-1" value="Etherium" style="swimlane;startSize=23;fontStyle=0" vertex="1" parent="1">
