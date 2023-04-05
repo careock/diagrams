@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T16:53:04.098Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="uRmKbNQZUFYpIqJzrHZZ" version="21.1.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-04-05T16:53:12.256Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="xjhQH1uPUh_Kt6njT-4j" version="21.1.4" type="github" pages="7">
   <diagram name="NFT + архитектура" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="3016" dy="3292" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1433,7 +1433,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="p5SsUAG1_GjVNtL2NbAN" name="Контекстная">
-    <mxGraphModel dx="1876" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1999" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1610,7 +1610,7 @@
         </mxCell>
         <mxCell id="4YF8giQvccr5CdplSy-N-41" value="Block batch" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4YF8giQvccr5CdplSy-N-40" vertex="1" connectable="0">
           <mxGeometry x="0.4604" y="2" relative="1" as="geometry">
-            <mxPoint x="55" y="28" as="offset" />
+            <mxPoint x="39" y="48" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bX-eogIEgNUk6heCCfVe-5" value="Data provider" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
