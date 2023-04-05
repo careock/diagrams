@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T16:33:42.146Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="1ZA6wWpaAjvrRfTQi4cU" version="21.1.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-04-05T16:35:01.346Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="FlbAWjec7FsMjMTz9wjM" version="21.1.4" type="github" pages="7">
   <diagram name="NFT + архитектура" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="3016" dy="3292" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1433,7 +1433,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="p5SsUAG1_GjVNtL2NbAN" name="Контекстная">
-    <mxGraphModel dx="2123" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1658" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1458,11 +1458,13 @@
             <mxPoint y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4YF8giQvccr5CdplSy-N-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.716;exitY=0.037;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="4YF8giQvccr5CdplSy-N-7" target="4YF8giQvccr5CdplSy-N-30" edge="1">
+        <mxCell id="4YF8giQvccr5CdplSy-N-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.586;exitY=0.014;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="4YF8giQvccr5CdplSy-N-7" target="4YF8giQvccr5CdplSy-N-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="470" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="430" y="140" />
+              <mxPoint x="390" y="420" />
+              <mxPoint x="390" y="410" />
+              <mxPoint x="430" y="380" />
               <mxPoint x="430" y="148" />
             </Array>
           </mxGeometry>
@@ -1527,30 +1529,36 @@
         <mxCell id="4YF8giQvccr5CdplSy-N-23" value="IPFS - хранилище" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-240" y="484" width="130" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="4YF8giQvccr5CdplSy-N-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=0.671;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4YF8giQvccr5CdplSy-N-30" edge="1">
+        <mxCell id="4YF8giQvccr5CdplSy-N-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" source="4YF8giQvccr5CdplSy-N-30" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="754.2" y="300.53999999999996" as="targetPoint" />
+            <mxPoint x="620" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="340" />
+              <mxPoint x="600" y="340" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4YF8giQvccr5CdplSy-N-27" value="Ответ &lt;br&gt;на запрос" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4YF8giQvccr5CdplSy-N-26" vertex="1" connectable="0">
           <mxGeometry x="0.0733" y="2" relative="1" as="geometry">
-            <mxPoint x="-2" y="-2" as="offset" />
+            <mxPoint x="-16" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4YF8giQvccr5CdplSy-N-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.399;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="4YF8giQvccr5CdplSy-N-30" target="4YF8giQvccr5CdplSy-N-7" edge="1">
+        <mxCell id="4YF8giQvccr5CdplSy-N-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.399;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" target="4YF8giQvccr5CdplSy-N-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="410" y="120" />
+              <mxPoint x="358" y="370" />
+              <mxPoint x="350" y="380" />
             </Array>
+            <mxPoint x="370" y="350" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4YF8giQvccr5CdplSy-N-29" value="Запрос &lt;br&gt;данных" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4YF8giQvccr5CdplSy-N-28" vertex="1" connectable="0">
           <mxGeometry x="-0.4908" relative="1" as="geometry">
-            <mxPoint x="2" y="157" as="offset" />
+            <mxPoint x="-8" y="29" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4YF8giQvccr5CdplSy-N-30" value="Chainlink" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="110" width="120" height="50" as="geometry" />
+          <mxGeometry x="320" y="300" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4YF8giQvccr5CdplSy-N-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.706;entryY=0.957;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="4YF8giQvccr5CdplSy-N-35" target="4YF8giQvccr5CdplSy-N-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1563,15 +1571,18 @@
         <mxCell id="4YF8giQvccr5CdplSy-N-35" value="KYC сервис" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="720" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4YF8giQvccr5CdplSy-N-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.371;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="4YF8giQvccr5CdplSy-N-30" edge="1">
+        <mxCell id="4YF8giQvccr5CdplSy-N-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;exitX=0.371;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="4YF8giQvccr5CdplSy-N-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="759" y="311" as="targetPoint" />
             <mxPoint x="694.2" y="300.53999999999996" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="694" y="310" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4YF8giQvccr5CdplSy-N-37" value="Запрос" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4YF8giQvccr5CdplSy-N-36" vertex="1" connectable="0">
           <mxGeometry x="0.0733" y="2" relative="1" as="geometry">
-            <mxPoint x="-2" y="-2" as="offset" />
+            <mxPoint x="-52" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4YF8giQvccr5CdplSy-N-38" value="Immutable zkEVM operator" style="swimlane;startSize=23;fontStyle=0" parent="1" vertex="1">
