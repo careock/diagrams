@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T16:54:07.776Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="KaTlRvfZzv9mD5CQAC5V" version="21.1.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-04-05T16:54:33.400Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="TkOqSGyonz4E4ciarHlN" version="21.1.4" type="github" pages="7">
   <diagram name="NFT + архитектура" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="3016" dy="3292" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1433,7 +1433,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="p5SsUAG1_GjVNtL2NbAN" name="Контекстная">
-    <mxGraphModel dx="1658" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1442" dy="178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1463,10 +1463,11 @@
             <mxPoint y="16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4YF8giQvccr5CdplSy-N-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.586;exitY=0.014;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="4YF8giQvccr5CdplSy-N-7" target="4YF8giQvccr5CdplSy-N-30" edge="1">
+        <mxCell id="4YF8giQvccr5CdplSy-N-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.662;exitY=0.024;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="4YF8giQvccr5CdplSy-N-7" target="4YF8giQvccr5CdplSy-N-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="439" as="sourcePoint" />
             <Array as="points">
+              <mxPoint x="333" y="350" />
               <mxPoint x="320" y="389" />
               <mxPoint x="320" y="379" />
               <mxPoint x="360" y="349" />
@@ -1477,6 +1478,11 @@
         <mxCell id="4YF8giQvccr5CdplSy-N-6" value="Ответ &lt;br&gt;на запрос" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4YF8giQvccr5CdplSy-N-5" vertex="1" connectable="0">
           <mxGeometry x="0.5" y="1" relative="1" as="geometry">
             <mxPoint y="136" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7AknBe-rjG6dkQh1fr7b-4" value="Ответ &lt;br&gt;на зпрос" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4YF8giQvccr5CdplSy-N-5">
+          <mxGeometry x="-0.3432" y="1" relative="1" as="geometry">
+            <mxPoint x="8" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4YF8giQvccr5CdplSy-N-7" value="Система" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
