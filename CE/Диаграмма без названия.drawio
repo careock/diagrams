@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T14:29:35.294Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="vrslo9d_Ar9-hpc545WV" version="21.1.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-04-06T14:30:27.264Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="56HT2lIsgeyc49TG5mWn" version="21.1.4" type="github" pages="7">
   <diagram name="NFT + архитектура" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="393" dy="1579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1315,7 +1315,7 @@
           <mxGeometry y="78" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="avsSEZx10Kzngl5tKC2M-37" value="Активность" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="1650" y="1139" width="182" height="208" as="geometry" />
+          <mxGeometry x="1620" y="710" width="182" height="208" as="geometry" />
         </mxCell>
         <mxCell id="dSnuXkMimng7IdVMOjFN-44" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="avsSEZx10Kzngl5tKC2M-37">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
@@ -1342,7 +1342,7 @@
           <mxGeometry x="1620" y="1029" width="182" height="52" as="geometry" />
         </mxCell>
         <mxCell id="avsSEZx10Kzngl5tKC2M-39" value="Продажа" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="1920" y="973" width="182" height="182" as="geometry" />
+          <mxGeometry x="1920" y="800" width="182" height="182" as="geometry" />
         </mxCell>
         <mxCell id="dSnuXkMimng7IdVMOjFN-66" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="avsSEZx10Kzngl5tKC2M-39">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
@@ -1362,11 +1362,11 @@
         <mxCell id="dSnuXkMimng7IdVMOjFN-80" value="is_fullfilled" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="avsSEZx10Kzngl5tKC2M-39">
           <mxGeometry y="156" width="182" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="dSnuXkMimng7IdVMOjFN-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avsSEZx10Kzngl5tKC2M-41" target="avsSEZx10Kzngl5tKC2M-39">
+        <mxCell id="dSnuXkMimng7IdVMOjFN-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="avsSEZx10Kzngl5tKC2M-41" target="avsSEZx10Kzngl5tKC2M-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="avsSEZx10Kzngl5tKC2M-41" value="Предложение о покупке" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="2190" y="1012" width="182" height="104" as="geometry" />
+          <mxGeometry x="2240" y="1012" width="182" height="104" as="geometry" />
         </mxCell>
         <mxCell id="dSnuXkMimng7IdVMOjFN-65" value="trade_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="avsSEZx10Kzngl5tKC2M-41">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
