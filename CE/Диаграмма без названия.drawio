@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T22:24:33.686Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="aF_gYCCmmHuNaj5lIeSU" version="21.1.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-04-06T22:24:46.818Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="w5KsOtSgE8sABcGf-F1h" version="21.1.4" type="github" pages="9">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="1185" dy="3745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1476,7 +1476,7 @@
           <mxGeometry y="52" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="avsSEZx10Kzngl5tKC2M-47" value="Игрок" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="3950" y="590" width="182" height="156" as="geometry">
+          <mxGeometry x="3950" y="590" width="182" height="130" as="geometry">
             <mxRectangle x="1480" y="1060" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1491,9 +1491,6 @@
         </mxCell>
         <mxCell id="dSnuXkMimng7IdVMOjFN-32" value="date_registered" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="avsSEZx10Kzngl5tKC2M-47" vertex="1">
           <mxGeometry y="104" width="182" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="1n2AZCSPmpbpA7FVhe-w-69" value="KYC_verified" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="avsSEZx10Kzngl5tKC2M-47" vertex="1">
-          <mxGeometry y="130" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="avsSEZx10Kzngl5tKC2M-48" value="Линия завода" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="3192" y="-70" width="182" height="52" as="geometry" />
@@ -1860,7 +1857,7 @@
         <mxCell id="W7QLuqoiqsSeQJOZolMX-16" value="time" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="ZLDgoQQEU_eSHVJpO-WN-60">
           <mxGeometry y="52" width="182" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="W7QLuqoiqsSeQJOZolMX-17" value="success" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="ZLDgoQQEU_eSHVJpO-WN-60">
+        <mxCell id="W7QLuqoiqsSeQJOZolMX-17" value="is_successfull" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="ZLDgoQQEU_eSHVJpO-WN-60">
           <mxGeometry y="78" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="W7QLuqoiqsSeQJOZolMX-18" value="success" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="ZLDgoQQEU_eSHVJpO-WN-60">
