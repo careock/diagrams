@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T22:24:46.818Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="w5KsOtSgE8sABcGf-F1h" version="21.1.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-04-06T22:25:06.778Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="rFHgiOTR8JnArjcykSDX" version="21.1.4" type="github" pages="9">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="1185" dy="3745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1228,7 +1228,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xFvAmQW_zRe3f-eQC2Nm" name="Сущности">
-    <mxGraphModel dx="-119" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="1951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1735,31 +1735,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1n2AZCSPmpbpA7FVhe-w-93" value="Ресурс" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="3266" y="1450" width="250" height="234" as="geometry" />
+          <mxGeometry x="3290" y="1450" width="202" height="234" as="geometry" />
         </mxCell>
         <mxCell id="1n2AZCSPmpbpA7FVhe-w-94" value="location type (moving, on map, in factory, на рынке сбыта)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="1n2AZCSPmpbpA7FVhe-w-93" vertex="1">
-          <mxGeometry y="26" width="250" height="26" as="geometry" />
+          <mxGeometry y="26" width="202" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ZLDgoQQEU_eSHVJpO-WN-34" value="locatiobn_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="1n2AZCSPmpbpA7FVhe-w-93" vertex="1">
-          <mxGeometry y="52" width="250" height="26" as="geometry" />
+          <mxGeometry y="52" width="202" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1n2AZCSPmpbpA7FVhe-w-95" value="owned_by" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="1n2AZCSPmpbpA7FVhe-w-93" vertex="1">
-          <mxGeometry y="78" width="250" height="26" as="geometry" />
+          <mxGeometry y="78" width="202" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ZLDgoQQEU_eSHVJpO-WN-26" value="name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="1n2AZCSPmpbpA7FVhe-w-93" vertex="1">
-          <mxGeometry y="104" width="250" height="26" as="geometry" />
+          <mxGeometry y="104" width="202" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ZLDgoQQEU_eSHVJpO-WN-12" value="type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="1n2AZCSPmpbpA7FVhe-w-93" vertex="1">
-          <mxGeometry y="130" width="250" height="26" as="geometry" />
+          <mxGeometry y="130" width="202" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ZLDgoQQEU_eSHVJpO-WN-13" value="price" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="1n2AZCSPmpbpA7FVhe-w-93" vertex="1">
-          <mxGeometry y="156" width="250" height="26" as="geometry" />
+          <mxGeometry y="156" width="202" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ZLDgoQQEU_eSHVJpO-WN-28" value="owned_by" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="1n2AZCSPmpbpA7FVhe-w-93" vertex="1">
-          <mxGeometry y="182" width="250" height="26" as="geometry" />
+          <mxGeometry y="182" width="202" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ZLDgoQQEU_eSHVJpO-WN-14" value="currency" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="1n2AZCSPmpbpA7FVhe-w-93" vertex="1">
-          <mxGeometry y="208" width="250" height="26" as="geometry" />
+          <mxGeometry y="208" width="202" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1n2AZCSPmpbpA7FVhe-w-96" value="" style="endArrow=none;html=1;rounded=0;endFill=0;endSize=24;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="avsSEZx10Kzngl5tKC2M-36" target="1n2AZCSPmpbpA7FVhe-w-93" edge="1">
           <mxGeometry relative="1" as="geometry">
