@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T13:28:51.703Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="hAhGxr6yu2n-nSF44Fek" version="21.1.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-04-06T13:29:00.654Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="s2FPjuFzAk0Lkq3JO7Db" version="21.1.4" type="github" pages="7">
   <diagram name="NFT + архитектура" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="393" dy="1579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1184,7 +1184,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xFvAmQW_zRe3f-eQC2Nm" name="Сущности">
-    <mxGraphModel dx="1985" dy="1558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1508" dy="1246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1496,12 +1496,12 @@
         </mxCell>
         <mxCell id="1n2AZCSPmpbpA7FVhe-w-10" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="1n2AZCSPmpbpA7FVhe-w-9">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="169" y="-168" as="offset" />
+            <mxPoint x="169" y="-340" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1n2AZCSPmpbpA7FVhe-w-11" value="0..n" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1n2AZCSPmpbpA7FVhe-w-9">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-121" y="212" as="offset" />
+            <mxPoint x="-131" y="358" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1n2AZCSPmpbpA7FVhe-w-17" value="" style="endArrow=none;html=1;rounded=0;endFill=0;endSize=24;" edge="1" parent="1" source="avsSEZx10Kzngl5tKC2M-19" target="avsSEZx10Kzngl5tKC2M-20">
