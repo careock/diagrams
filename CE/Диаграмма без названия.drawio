@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T14:15:15.624Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="aYnGT2lfhODiAh0r_bmy" version="21.1.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-04-06T14:15:33.661Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="q65K5wdK9_H_0BONyr1X" version="21.1.4" type="github" pages="7">
   <diagram name="NFT + архитектура" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="393" dy="1579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1184,7 +1184,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xFvAmQW_zRe3f-eQC2Nm" name="Сущности">
-    <mxGraphModel dx="554" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="258" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1796,14 +1796,14 @@
             <mxPoint x="3861" y="1384" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZLDgoQQEU_eSHVJpO-WN-31" value="*" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="ZLDgoQQEU_eSHVJpO-WN-30">
+        <mxCell id="ZLDgoQQEU_eSHVJpO-WN-31" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="ZLDgoQQEU_eSHVJpO-WN-30">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="8" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZLDgoQQEU_eSHVJpO-WN-32" value="*" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="ZLDgoQQEU_eSHVJpO-WN-30">
+        <mxCell id="ZLDgoQQEU_eSHVJpO-WN-32" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="ZLDgoQQEU_eSHVJpO-WN-30">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="19" y="32" as="offset" />
+            <mxPoint x="-20" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
