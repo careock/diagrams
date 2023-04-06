@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T13:10:04.685Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="rEPhK6j4U0oX09EJO8Ik" version="21.1.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-04-06T13:10:15.912Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="dd865-RjJH2izpkbHqve" version="21.1.4" type="github" pages="7">
   <diagram name="NFT + архитектура" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="3016" dy="3292" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1483,8 +1483,8 @@
             <mxPoint x="3611" y="870" as="sourcePoint" />
             <mxPoint x="3611" y="782" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3361" y="560" />
-              <mxPoint x="3601" y="560" />
+              <mxPoint x="3361" y="550" />
+              <mxPoint x="3601" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1503,8 +1503,8 @@
             <mxPoint x="3780" y="542" as="sourcePoint" />
             <mxPoint x="3621" y="610" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3840" y="560" />
-              <mxPoint x="3601" y="560" />
+              <mxPoint x="3840" y="550" />
+              <mxPoint x="3601" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
