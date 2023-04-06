@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T14:20:08.907Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="6MkkQOM7eNDM7MO7znf7" version="21.1.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-04-06T14:21:21.702Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="a1SV_xqU7JNhfchgxfbf" version="21.1.4" type="github" pages="7">
   <diagram name="NFT + архитектура" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="393" dy="1579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1184,7 +1184,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xFvAmQW_zRe3f-eQC2Nm" name="Сущности">
-    <mxGraphModel dx="963" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1508" dy="1646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1249,13 +1249,13 @@
           <mxGeometry y="52" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="avsSEZx10Kzngl5tKC2M-19" value="Чертежи заводов" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="3510" y="300" width="182" height="52" as="geometry" />
+          <mxGeometry x="3510" y="290" width="182" height="52" as="geometry" />
         </mxCell>
         <mxCell id="1n2AZCSPmpbpA7FVhe-w-25" value="fabric_type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="avsSEZx10Kzngl5tKC2M-19">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="avsSEZx10Kzngl5tKC2M-20" value="Заводы" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="3192" y="300" width="182" height="52" as="geometry" />
+          <mxGeometry x="3192" y="160" width="182" height="52" as="geometry" />
         </mxCell>
         <mxCell id="avsSEZx10Kzngl5tKC2M-23" value="Рынок сбыта" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="4160" y="1514" width="182" height="104" as="geometry" />
@@ -1381,16 +1381,16 @@
           <mxGeometry x="460" y="1060" width="182" height="52" as="geometry" />
         </mxCell>
         <mxCell id="avsSEZx10Kzngl5tKC2M-43" value="Рецепты" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="3170" y="1918" width="182" height="52" as="geometry" />
+          <mxGeometry x="3560" y="-40" width="182" height="52" as="geometry" />
         </mxCell>
         <mxCell id="avsSEZx10Kzngl5tKC2M-44" value="Синдикат" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="3730" y="300" width="182" height="52" as="geometry" />
+          <mxGeometry x="3950" y="390" width="182" height="52" as="geometry" />
         </mxCell>
         <mxCell id="1n2AZCSPmpbpA7FVhe-w-50" value="date_created" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="avsSEZx10Kzngl5tKC2M-44">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="avsSEZx10Kzngl5tKC2M-46" value="Склад" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="2940" y="1918" width="182" height="52" as="geometry" />
+          <mxGeometry x="4202" y="1140" width="182" height="52" as="geometry" />
         </mxCell>
         <mxCell id="avsSEZx10Kzngl5tKC2M-47" value="Игрок" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="3950" y="590" width="182" height="156" as="geometry">
@@ -1413,7 +1413,7 @@
           <mxGeometry y="130" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="avsSEZx10Kzngl5tKC2M-48" value="Линия завода" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="3192" y="80" width="182" height="52" as="geometry" />
+          <mxGeometry x="3192" y="-70" width="182" height="52" as="geometry" />
         </mxCell>
         <mxCell id="dSnuXkMimng7IdVMOjFN-17" value="Перемещение" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="3200" y="1100" width="182" height="156" as="geometry" />
@@ -1482,10 +1482,13 @@
             <mxPoint x="3882" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1n2AZCSPmpbpA7FVhe-w-17" value="" style="endArrow=none;html=1;rounded=0;endFill=0;endSize=24;" edge="1" parent="1" source="avsSEZx10Kzngl5tKC2M-19" target="avsSEZx10Kzngl5tKC2M-20">
+        <mxCell id="1n2AZCSPmpbpA7FVhe-w-17" value="" style="endArrow=none;html=1;rounded=0;endFill=0;endSize=24;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="avsSEZx10Kzngl5tKC2M-19" target="avsSEZx10Kzngl5tKC2M-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3142" y="621" as="sourcePoint" />
             <mxPoint x="3250" y="621" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3430" y="216" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1n2AZCSPmpbpA7FVhe-w-18" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="1n2AZCSPmpbpA7FVhe-w-17">
@@ -1663,6 +1666,8 @@
             <mxPoint x="3520" y="336" as="sourcePoint" />
             <mxPoint x="3432" y="336" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="3300" y="110" />
+              <mxPoint x="3560" y="70" />
               <mxPoint x="3330" y="240" />
               <mxPoint x="3370" y="270" />
             </Array>
@@ -1726,7 +1731,7 @@
             <mxPoint x="2890" y="460" as="sourcePoint" />
             <mxPoint x="3230" y="743" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3060" y="320" />
+              <mxPoint x="3150" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
