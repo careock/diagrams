@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T22:23:04.276Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="2O8_Zl9Muz8LxXwaw8Of" version="21.1.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-04-06T22:23:08.811Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="9tiMpLctbEl1652VsO3F" version="21.1.4" type="github" pages="9">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="1185" dy="3745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1350,10 +1350,10 @@
           <mxGeometry y="104" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="avsSEZx10Kzngl5tKC2M-30" value="Стекинг (посадка) дерева" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="2660" y="720" width="182" height="52" as="geometry" />
+          <mxGeometry x="2560" y="710" width="182" height="52" as="geometry" />
         </mxCell>
         <mxCell id="avsSEZx10Kzngl5tKC2M-31" value="Прореживание" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="2880" y="958" width="182" height="52" as="geometry" />
+          <mxGeometry x="2550" y="814" width="182" height="52" as="geometry" />
         </mxCell>
         <mxCell id="avsSEZx10Kzngl5tKC2M-32" value="Рубка дерева" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="2912" y="810" width="182" height="104" as="geometry" />
