@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T14:51:13.102Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="_wpYl4IPBkAO5X2Tyc4b" version="21.1.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-04-06T14:51:24.872Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="kRFjH6Q5k18hmk7PpusF" version="21.1.4" type="github" pages="7">
   <diagram name="NFT + архитектура" id="BOJsoSEfQLmtbxHjsDLz">
     <mxGraphModel dx="393" dy="1579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1149,7 +1149,7 @@
           <mxGeometry y="47" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OWiLh1dCpwQ6caeG8wRo-10" value="&lt;&lt;interface&gt;&gt; &#xa;ERC-721" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=39;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="269" y="1179" width="182" height="125" as="geometry" />
+          <mxGeometry x="324" y="1034" width="182" height="125" as="geometry" />
         </mxCell>
         <mxCell id="vgssaVGF-Cgb-UuBw7Xb-3" value="+ transfer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;" vertex="1" parent="OWiLh1dCpwQ6caeG8wRo-10">
           <mxGeometry y="39" width="182" height="26" as="geometry" />
