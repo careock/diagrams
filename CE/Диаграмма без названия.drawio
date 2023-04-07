@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T00:39:14.579Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="EBmJ2F9_rINxQ-vvTYx9" version="21.1.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-04-07T00:39:29.340Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="gov6y6U9H539KGr1plzh" version="21.1.4" type="github" pages="10">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="1185" dy="3745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2680,7 +2680,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2EmP7TZW_WFA77t9q_Y8" name="Игровой чат">
-    <mxGraphModel dx="855" dy="1815" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="895" dy="1451" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2695,6 +2695,9 @@
         </mxCell>
         <mxCell id="BJuKCTJIx6ZgW_NzJxJr-4" value="чат 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="111" y="263" width="122" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="BJuKCTJIx6ZgW_NzJxJr-5" value="приглашение" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-11" y="-95" width="122" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
