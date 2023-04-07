@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T00:37:54.530Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="t0thzwtR2N2GNivHhFYB" version="21.1.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-04-07T00:39:14.579Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="EBmJ2F9_rINxQ-vvTYx9" version="21.1.4" type="github" pages="10">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="1185" dy="3745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1228,7 +1228,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xFvAmQW_zRe3f-eQC2Nm" name="Сущности">
-    <mxGraphModel dx="2380" dy="2643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1080" dy="4392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2675,6 +2675,26 @@
           <mxGeometry x="0.2615" relative="1" as="geometry">
             <mxPoint x="-15" y="-5" as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2EmP7TZW_WFA77t9q_Y8" name="Игровой чат">
+    <mxGraphModel dx="855" dy="1815" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BJuKCTJIx6ZgW_NzJxJr-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BJuKCTJIx6ZgW_NzJxJr-1" target="BJuKCTJIx6ZgW_NzJxJr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BJuKCTJIx6ZgW_NzJxJr-1" value="чат 1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="111" y="59" width="122" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="BJuKCTJIx6ZgW_NzJxJr-2" value="чат 1.1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="111" y="157" width="122" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="BJuKCTJIx6ZgW_NzJxJr-4" value="чат 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="111" y="263" width="122" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
