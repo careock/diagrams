@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T15:44:39.609Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="xnP3Qn3UuauGOcDYvJFx" version="21.1.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-04-07T15:57:06.821Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="KvuzkZpa2fPaPPG20xm2" version="21.1.4" type="github" pages="10">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
-    <mxGraphModel dx="1185" dy="3745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-655" dy="2399" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,6 +123,9 @@
         </mxCell>
         <mxCell id="zOuTpZu3GYqGqp9g4MdC-54" value="Завод" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zOuTpZu3GYqGqp9g4MdC-33">
           <mxGeometry x="464" y="300" width="122" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vpWhPpcGA1lNvO-eXUGc-1" value="Склад" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zOuTpZu3GYqGqp9g4MdC-33">
+          <mxGeometry x="464" y="160" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zOuTpZu3GYqGqp9g4MdC-63" value="Chainlink" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2130" y="-1776" width="306" height="153" as="geometry" />
@@ -1228,7 +1231,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xFvAmQW_zRe3f-eQC2Nm" name="Сущности">
-    <mxGraphModel dx="4370" dy="3890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3416" dy="3192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
