@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-09T19:48:26.794Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="TbcG0GgwU6Qg0-VUK9n8" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-09T19:50:35.841Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="AfsmHYsRsNyTk-iiBnYV" version="21.1.5" type="github">
   <diagram name="Page-1" id="OQpa5ru06Z7B6Gejn0i9">
-    <mxGraphModel dx="1122" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="SEltiXhkZLcWSk58OTIP-6" value="&lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px &#39;Helvetica Neue&#39;&quot;&gt;В управлении продаж и развитии бизнеса есть теперь еще маркетинг&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="199" y="820" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SEltiXhkZLcWSk58OTIP-7" value="&lt;p style=&quot;margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px &#39;Helvetica Neue&#39;&quot;&gt;Там вроде Диана Анисина (аудитор) и Марина агибалова (ресурсный менеджер)&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="564" width="490" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
