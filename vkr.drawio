@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-09T18:18:48.241Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="SkhdfO5wrxXr5jJ1B9E_" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-09T18:43:19.301Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="bp_BG2zQ4rrqjNk2QEeR" version="21.1.5" type="github">
   <diagram name="Page-1" id="OQpa5ru06Z7B6Gejn0i9">
     <mxGraphModel dx="954" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,14 @@
         <mxCell id="SEltiXhkZLcWSk58OTIP-1" value="Системный анализ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SEltiXhkZLcWSk58OTIP-2" value="Системный анализ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SEltiXhkZLcWSk58OTIP-2" value="Бизнес анализ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SEltiXhkZLcWSk58OTIP-3" value="Отдел продаж" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SEltiXhkZLcWSk58OTIP-4" value="Отдел лидогенерация" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
