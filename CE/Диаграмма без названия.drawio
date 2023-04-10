@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T14:39:05.109Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="2h8fAT42AJtIwoBnwJ66" version="21.1.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-04-10T14:39:42.687Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="2_4Q7GoOlUcfDHZF4jUY" version="21.1.5" type="github" pages="10">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-532" dy="3074" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1234,7 +1234,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s9FCNn2JOylREXp0spJo" name="ERC-20 + 721">
-    <mxGraphModel dx="2509" dy="-135" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2722" dy="21" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1357,6 +1357,15 @@
           <mxGeometry y="39" width="182" height="8" as="geometry" />
         </mxCell>
         <mxCell id="9G9l4yuQP00BphGD2bXn-11" value="+ approveForAll" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;" parent="9G9l4yuQP00BphGD2bXn-9" vertex="1">
+          <mxGeometry y="47" width="182" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8eHVJiGRxS38sMk7X7g5-3" value="Address" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=39;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-172" y="1019" width="182" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="8eHVJiGRxS38sMk7X7g5-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;rounded=0;" vertex="1" parent="8eHVJiGRxS38sMk7X7g5-3">
+          <mxGeometry y="39" width="182" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="8eHVJiGRxS38sMk7X7g5-5" value="- balanceOf" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;" vertex="1" parent="8eHVJiGRxS38sMk7X7g5-3">
           <mxGeometry y="47" width="182" height="26" as="geometry" />
         </mxCell>
       </root>
