@@ -1,20 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T10:48:00.390Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="mQ-A2qpAgTHeTomA72Gl" version="21.1.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-04-10T10:48:33.970Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="_pQuAKpYJRSInxGgSZFr" version="21.1.5" type="github" pages="10">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-78" dy="2821" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zOuTpZu3GYqGqp9g4MdC-19" value="Immutable zkEVM" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2523" y="-1450" width="955" height="765" as="geometry" />
-        </mxCell>
-        <mxCell id="zOuTpZu3GYqGqp9g4MdC-24" value="Лотерея" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d3d3d3;" parent="zOuTpZu3GYqGqp9g4MdC-19" vertex="1">
-          <mxGeometry x="273" y="373" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="zOuTpZu3GYqGqp9g4MdC-25" value="Аукцион" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d3d3d3;" parent="zOuTpZu3GYqGqp9g4MdC-19" vertex="1">
-          <mxGeometry x="273" y="273" width="120" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="zOuTpZu3GYqGqp9g4MdC-26" value="Торговля" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d3d3d3;strokeColor=#030608;" parent="zOuTpZu3GYqGqp9g4MdC-19" vertex="1">
-          <mxGeometry x="273" y="323" width="120" height="42" as="geometry" />
+          <mxGeometry x="2523" y="-1450" width="955" height="844" as="geometry" />
         </mxCell>
         <mxCell id="zOuTpZu3GYqGqp9g4MdC-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.504;exitY=-0.011;exitDx=0;exitDy=0;exitPerimeter=0;" parent="zOuTpZu3GYqGqp9g4MdC-19" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -40,7 +31,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-44" value="Служебные смарт-контракты Immutable" style="swimlane;whiteSpace=wrap;html=1;startSize=46;" vertex="1" parent="zOuTpZu3GYqGqp9g4MdC-19">
-          <mxGeometry x="98" y="575" width="189" height="131" as="geometry" />
+          <mxGeometry x="510" y="672" width="189" height="131" as="geometry" />
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hxw9fh6h9t1TY859qYZI-44">
           <mxGeometry x="28" y="63" width="35" height="50" as="geometry" />
@@ -99,7 +90,16 @@
           <mxGeometry x="152" y="39" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-62" value="Маркетплейс" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="zOuTpZu3GYqGqp9g4MdC-19">
-          <mxGeometry x="129" y="445" width="246" height="95" as="geometry" />
+          <mxGeometry x="129" y="445" width="169" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="zOuTpZu3GYqGqp9g4MdC-25" value="Аукцион" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d3d3d3;" parent="hxw9fh6h9t1TY859qYZI-62" vertex="1">
+          <mxGeometry x="23" y="38.5" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zOuTpZu3GYqGqp9g4MdC-24" value="Лотерея" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d3d3d3;" parent="hxw9fh6h9t1TY859qYZI-62" vertex="1">
+          <mxGeometry x="23" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zOuTpZu3GYqGqp9g4MdC-26" value="Торговля" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d3d3d3;strokeColor=#030608;" parent="hxw9fh6h9t1TY859qYZI-62" vertex="1">
+          <mxGeometry x="23" y="90" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="zOuTpZu3GYqGqp9g4MdC-33" value="ETH" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1548" y="-1442" width="715" height="765" as="geometry" />
