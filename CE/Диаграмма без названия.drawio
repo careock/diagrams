@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T13:25:42.017Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="8XLgda3-wsorgNTJL6I2" version="21.1.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-04-10T13:26:01.711Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="6p0ZeY-DcgVgYDvLiEkB" version="21.1.5" type="github" pages="10">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-807" dy="2873" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -183,7 +183,7 @@
         <mxCell id="hxw9fh6h9t1TY859qYZI-112" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="zOuTpZu3GYqGqp9g4MdC-33" source="zOuTpZu3GYqGqp9g4MdC-63" target="zOuTpZu3GYqGqp9g4MdC-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hxw9fh6h9t1TY859qYZI-72" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="hxw9fh6h9t1TY859qYZI-51" target="hxw9fh6h9t1TY859qYZI-81">
+        <mxCell id="hxw9fh6h9t1TY859qYZI-72" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="hxw9fh6h9t1TY859qYZI-51" target="hxw9fh6h9t1TY859qYZI-81">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2926" y="-1158" as="sourcePoint" />
             <mxPoint x="2353" y="-1514" as="targetPoint" />
@@ -203,7 +203,7 @@
         </mxCell>
         <mxCell id="SeNk0quKgv8H59qNqG-Z-1" value="сообщение" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="hxw9fh6h9t1TY859qYZI-72">
           <mxGeometry x="-0.4015" y="-1" relative="1" as="geometry">
-            <mxPoint x="-18" y="1" as="offset" />
+            <mxPoint x="-34" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-44" value="Служебные смарт-контракты Immutable" style="swimlane;whiteSpace=wrap;html=1;startSize=46;dashed=1;" vertex="1" parent="1">
