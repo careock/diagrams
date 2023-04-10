@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T11:04:40.727Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="d1NXE9yK6lD3QulzX-7D" version="21.1.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-04-10T11:04:59.302Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="piwZHDXfhUp3Ng36QjKA" version="21.1.5" type="github" pages="10">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
-    <mxGraphModel dx="-407" dy="2873" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-132" dy="3074" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,27 +54,27 @@
           <mxGeometry x="147" y="76" width="122" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-52" value="ERC-721" style="swimlane;whiteSpace=wrap;html=1;startSize=23;dashed=1;" vertex="1" parent="zOuTpZu3GYqGqp9g4MdC-19">
-          <mxGeometry x="630" y="307" width="241" height="507" as="geometry" />
+          <mxGeometry x="630" y="332" width="162" height="464" as="geometry" />
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-53" value="Форвадер и Харвестер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hxw9fh6h9t1TY859qYZI-52">
-          <mxGeometry x="56.5" y="301" width="120" height="50" as="geometry" />
+          <mxGeometry x="21.5" y="274" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-54" value="Лесовоз" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hxw9fh6h9t1TY859qYZI-52">
-          <mxGeometry x="56.5" y="361" width="120" height="50" as="geometry" />
+          <mxGeometry x="21.5" y="334" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-55" value="Синдикат" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hxw9fh6h9t1TY859qYZI-52">
-          <mxGeometry x="56.5" y="423" width="122" height="50" as="geometry" />
+          <mxGeometry x="21.5" y="396" width="122" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-56" value="Деревья" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hxw9fh6h9t1TY859qYZI-52">
-          <mxGeometry x="55" y="174" width="120" height="50" as="geometry" />
+          <mxGeometry x="20" y="147" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-57" value="Чертеж завода" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hxw9fh6h9t1TY859qYZI-52">
-          <mxGeometry x="56" y="70" width="120" height="50" as="geometry" />
+          <mxGeometry x="21" y="43" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-58" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;startFill=0;" edge="1" parent="hxw9fh6h9t1TY859qYZI-52" source="hxw9fh6h9t1TY859qYZI-56" target="hxw9fh6h9t1TY859qYZI-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-779.5" y="307" as="sourcePoint" />
-            <mxPoint x="-649.5" y="317" as="targetPoint" />
+            <mxPoint x="-814.5" y="280" as="sourcePoint" />
+            <mxPoint x="-684.5" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-59" value="Вызов mint()&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;награды за стекинг" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hxw9fh6h9t1TY859qYZI-58">
@@ -83,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-60" value="Завод" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hxw9fh6h9t1TY859qYZI-52">
-          <mxGeometry x="56.5" y="237" width="122" height="50" as="geometry" />
+          <mxGeometry x="21.5" y="210" width="122" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-61" value="ERC-20" style="swimlane;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="zOuTpZu3GYqGqp9g4MdC-19">
           <mxGeometry x="289" y="300" width="169" height="149" as="geometry" />
