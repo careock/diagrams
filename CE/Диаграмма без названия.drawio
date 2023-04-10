@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T10:52:02.843Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="tv70_tEPllKv9kEd5Jzx" version="21.1.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-04-10T10:52:26.690Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="R7PaK2HLidJZtAB7smfV" version="21.1.5" type="github" pages="10">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
-    <mxGraphModel dx="163" dy="2997" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-542" dy="2481" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,7 +69,7 @@
           <mxGeometry x="55" y="174" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-57" value="Чертеж завода" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hxw9fh6h9t1TY859qYZI-52">
-          <mxGeometry x="56" y="43" width="120" height="50" as="geometry" />
+          <mxGeometry x="56" y="70" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-58" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;startFill=0;" edge="1" parent="hxw9fh6h9t1TY859qYZI-52" source="hxw9fh6h9t1TY859qYZI-56" target="hxw9fh6h9t1TY859qYZI-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
