@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T13:29:31.186Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qBw553xoVSAmvLxDCE2t" version="21.1.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-04-10T13:29:48.471Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="oqb0o4AR-ZuQ5hOCHVEv" version="21.1.5" type="github" pages="10">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
-    <mxGraphModel dx="-92" dy="3396" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-410" dy="3163" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,7 +208,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SeNk0quKgv8H59qNqG-Z-1" value="msg" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="hxw9fh6h9t1TY859qYZI-72">
+        <mxCell id="SeNk0quKgv8H59qNqG-Z-1" value="Инициализация&lt;br style=&quot;font-size: 11px;&quot;&gt;сделки" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="hxw9fh6h9t1TY859qYZI-72">
           <mxGeometry x="-0.4015" y="-1" relative="1" as="geometry">
             <mxPoint x="-27" y="-1" as="offset" />
           </mxGeometry>
