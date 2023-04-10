@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T11:01:00.643Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="OOPG9uIvfUgp6TZCYxK0" version="21.1.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-04-10T11:01:09.246Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="IPbOsoVWY8Shh0JtBHxB" version="21.1.5" type="github" pages="10">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-328" dy="2931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-44" value="Служебные смарт-контракты Immutable" style="swimlane;whiteSpace=wrap;html=1;startSize=46;dashed=1;" vertex="1" parent="zOuTpZu3GYqGqp9g4MdC-19">
-          <mxGeometry x="286" y="842" width="382" height="131" as="geometry" />
+          <mxGeometry x="281" y="866" width="382" height="131" as="geometry" />
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-76" value="Вывод" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hxw9fh6h9t1TY859qYZI-44">
           <mxGeometry x="23" y="65" width="122" height="50" as="geometry" />
@@ -163,20 +163,6 @@
               <mxPoint x="2614" y="-1540" />
               <mxPoint x="2636" y="-1479" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hxw9fh6h9t1TY859qYZI-88" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" target="hxw9fh6h9t1TY859qYZI-52">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2908" y="-1158" as="sourcePoint" />
-            <mxPoint x="2908" y="-1274" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2873" y="-1156" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hxw9fh6h9t1TY859qYZI-89" value="Вызов&lt;br&gt;transferFrom()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hxw9fh6h9t1TY859qYZI-88">
-          <mxGeometry x="0.2364" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
