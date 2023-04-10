@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T11:00:42.262Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Z4jJlSpN9zDBPUNnqMY9" version="21.1.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-04-10T11:01:00.643Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="OOPG9uIvfUgp6TZCYxK0" version="21.1.5" type="github" pages="10">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
-    <mxGraphModel dx="-10" dy="3163" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-328" dy="2931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,13 +36,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-44" value="Служебные смарт-контракты Immutable" style="swimlane;whiteSpace=wrap;html=1;startSize=46;dashed=1;" vertex="1" parent="zOuTpZu3GYqGqp9g4MdC-19">
-          <mxGeometry x="286" y="842" width="302" height="131" as="geometry" />
+          <mxGeometry x="286" y="842" width="382" height="131" as="geometry" />
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-76" value="Вывод" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hxw9fh6h9t1TY859qYZI-44">
           <mxGeometry x="23" y="65" width="122" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-78" value="Регистрация" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hxw9fh6h9t1TY859qYZI-44">
           <mxGeometry x="164" y="65" width="122" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hxw9fh6h9t1TY859qYZI-93" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="hxw9fh6h9t1TY859qYZI-44">
+          <mxGeometry x="305" y="65" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-46" value="Финансы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zOuTpZu3GYqGqp9g4MdC-19">
           <mxGeometry x="121" y="284" width="122" height="50" as="geometry" />
