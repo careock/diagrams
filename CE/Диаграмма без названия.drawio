@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T11:43:36.324Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="VjEgmHM8g00vy5qx5Q1C" version="21.1.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-04-10T11:43:50.007Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="vL8HleUkH9bo3sCIFi6-" version="21.1.5" type="github" pages="10">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="726" dy="3994" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1860,7 +1860,7 @@
         <mxCell id="ZLDgoQQEU_eSHVJpO-WN-14" value="currency" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="1n2AZCSPmpbpA7FVhe-w-93" vertex="1">
           <mxGeometry y="208" width="202" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1n2AZCSPmpbpA7FVhe-w-96" value="" style="endArrow=none;html=1;rounded=0;endFill=0;endSize=24;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="avsSEZx10Kzngl5tKC2M-36" target="1n2AZCSPmpbpA7FVhe-w-93" edge="1">
+        <mxCell id="1n2AZCSPmpbpA7FVhe-w-96" value="" style="endArrow=none;html=1;rounded=0;endFill=0;endSize=24;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="avsSEZx10Kzngl5tKC2M-36" target="oYczRwD-ZehrEEIxyXtf-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5240" y="-32" as="sourcePoint" />
             <mxPoint x="5410" y="80" as="targetPoint" />
@@ -2061,6 +2061,22 @@
         </mxCell>
         <mxCell id="oYczRwD-ZehrEEIxyXtf-9" value="currency" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="oYczRwD-ZehrEEIxyXtf-1">
           <mxGeometry y="208" width="202" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oYczRwD-ZehrEEIxyXtf-10" value="" style="endArrow=none;html=1;rounded=0;endFill=0;endSize=24;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="avsSEZx10Kzngl5tKC2M-36" target="1n2AZCSPmpbpA7FVhe-w-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5241" y="54" as="sourcePoint" />
+            <mxPoint x="5551" y="-116" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYczRwD-ZehrEEIxyXtf-11" value="*" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="oYczRwD-ZehrEEIxyXtf-10">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="8" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYczRwD-ZehrEEIxyXtf-12" value="*" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="oYczRwD-ZehrEEIxyXtf-10">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="19" y="32" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
