@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T10:54:12.386Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="VdRj51aBxCFaHBiGAuyh" version="21.1.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-04-10T10:55:10.523Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Or_SlNnjyl2ia2PvMIbc" version="21.1.5" type="github" pages="10">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
-    <mxGraphModel dx="920" dy="3551" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-407" dy="2873" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,16 +36,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-44" value="Служебные смарт-контракты Immutable" style="swimlane;whiteSpace=wrap;html=1;startSize=46;dashed=1;" vertex="1" parent="zOuTpZu3GYqGqp9g4MdC-19">
-          <mxGeometry x="77" y="626" width="189" height="131" as="geometry" />
+          <mxGeometry x="77" y="626" width="457" height="131" as="geometry" />
         </mxCell>
-        <mxCell id="hxw9fh6h9t1TY859qYZI-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hxw9fh6h9t1TY859qYZI-44">
-          <mxGeometry x="28" y="63" width="35" height="50" as="geometry" />
+        <mxCell id="hxw9fh6h9t1TY859qYZI-76" value="Вывод" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hxw9fh6h9t1TY859qYZI-44">
+          <mxGeometry x="19" y="62" width="122" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hxw9fh6h9t1TY859qYZI-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hxw9fh6h9t1TY859qYZI-44">
-          <mxGeometry x="76" y="63" width="35" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="hxw9fh6h9t1TY859qYZI-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hxw9fh6h9t1TY859qYZI-44">
-          <mxGeometry x="126" y="63" width="35" height="50" as="geometry" />
+        <mxCell id="hxw9fh6h9t1TY859qYZI-78" value="Вывод" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hxw9fh6h9t1TY859qYZI-44">
+          <mxGeometry x="160" y="62" width="122" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-46" value="Финансы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zOuTpZu3GYqGqp9g4MdC-19">
           <mxGeometry x="77" y="266" width="122" height="50" as="geometry" />
@@ -107,34 +104,7 @@
           <mxGeometry x="23" y="90" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="zOuTpZu3GYqGqp9g4MdC-33" value="ETH" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1548" y="-1442" width="715" height="765" as="geometry" />
-        </mxCell>
-        <mxCell id="zOuTpZu3GYqGqp9g4MdC-35" value="Форвадер и Харвестер" style="rounded=0;whiteSpace=wrap;html=1;" parent="zOuTpZu3GYqGqp9g4MdC-33" vertex="1">
-          <mxGeometry x="276" y="110" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="zOuTpZu3GYqGqp9g4MdC-36" value="Токен TREE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="zOuTpZu3GYqGqp9g4MdC-33" vertex="1">
-          <mxGeometry x="30" y="102" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="zOuTpZu3GYqGqp9g4MdC-41" value="Лесовоз" style="rounded=0;whiteSpace=wrap;html=1;" parent="zOuTpZu3GYqGqp9g4MdC-33" vertex="1">
-          <mxGeometry x="276" y="170" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="zOuTpZu3GYqGqp9g4MdC-42" value="Синдикат" style="rounded=0;whiteSpace=wrap;html=1;" parent="zOuTpZu3GYqGqp9g4MdC-33" vertex="1">
-          <mxGeometry x="276" y="232" width="122" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="zOuTpZu3GYqGqp9g4MdC-47" value="Деревья" style="rounded=0;whiteSpace=wrap;html=1;" parent="zOuTpZu3GYqGqp9g4MdC-33" vertex="1">
-          <mxGeometry x="460" y="365" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="zOuTpZu3GYqGqp9g4MdC-48" value="Токен PLANT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="zOuTpZu3GYqGqp9g4MdC-33" vertex="1">
-          <mxGeometry x="30" y="182" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="zOuTpZu3GYqGqp9g4MdC-51" value="Чертеж завода" style="rounded=0;whiteSpace=wrap;html=1;" parent="zOuTpZu3GYqGqp9g4MdC-33" vertex="1">
-          <mxGeometry x="464" y="235" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="zOuTpZu3GYqGqp9g4MdC-54" value="Завод" style="rounded=0;whiteSpace=wrap;html=1;" parent="zOuTpZu3GYqGqp9g4MdC-33" vertex="1">
-          <mxGeometry x="464" y="300" width="122" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="vpWhPpcGA1lNvO-eXUGc-1" value="Склад" style="rounded=0;whiteSpace=wrap;html=1;" parent="zOuTpZu3GYqGqp9g4MdC-33" vertex="1">
-          <mxGeometry x="464" y="160" width="120" height="50" as="geometry" />
+          <mxGeometry x="1730" y="-1690" width="715" height="765" as="geometry" />
         </mxCell>
         <mxCell id="zOuTpZu3GYqGqp9g4MdC-63" value="Chainlink" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2523" y="-1690" width="306" height="153" as="geometry" />
