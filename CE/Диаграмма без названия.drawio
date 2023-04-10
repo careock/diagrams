@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T14:36:42.991Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="_AqQ_qIpeJ-6DHnXOgkP" version="21.1.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-04-10T14:37:11.211Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qzyciGkiBomLXgOOc-iA" version="21.1.5" type="github" pages="10">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-532" dy="3074" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1234,7 +1234,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s9FCNn2JOylREXp0spJo" name="ERC-20 + 721">
-    <mxGraphModel dx="2554" dy="-102" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1982" dy="-521" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1266,7 +1266,7 @@
           <mxGeometry y="203" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OWiLh1dCpwQ6caeG8wRo-6" value="PLANT" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=39;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-420" y="1423" width="182" height="73" as="geometry" />
+          <mxGeometry x="-546" y="1301" width="182" height="73" as="geometry" />
         </mxCell>
         <mxCell id="OWiLh1dCpwQ6caeG8wRo-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;rounded=0;" parent="OWiLh1dCpwQ6caeG8wRo-6" vertex="1">
           <mxGeometry y="39" width="182" height="8" as="geometry" />
@@ -1290,7 +1290,7 @@
           <mxGeometry y="99" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OWiLh1dCpwQ6caeG8wRo-14" value="TREE" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=39;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-171" y="1423" width="182" height="73" as="geometry" />
+          <mxGeometry x="-277" y="1303" width="182" height="73" as="geometry" />
         </mxCell>
         <mxCell id="OWiLh1dCpwQ6caeG8wRo-15" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;rounded=0;" parent="OWiLh1dCpwQ6caeG8wRo-14" vertex="1">
           <mxGeometry y="39" width="182" height="8" as="geometry" />
@@ -1306,6 +1306,8 @@
             <mxPoint x="-12" y="1432" as="sourcePoint" />
             <mxPoint x="-12" y="1091" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="-425" y="1278" />
+              <mxPoint x="-469" y="1269" />
               <mxPoint x="-316" y="1357" />
               <mxPoint x="-93" y="1443" />
               <mxPoint x="-213" y="1383" />
@@ -1321,7 +1323,7 @@
             <mxPoint x="-306" y="1527" as="sourcePoint" />
             <mxPoint x="-306" y="1258" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-75" y="1329" />
+              <mxPoint x="-316" y="1278" />
               <mxPoint x="-151" y="1329" />
               <mxPoint x="-316" y="1314" />
               <mxPoint x="-306" y="1367" />
