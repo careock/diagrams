@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T14:50:42.131Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Orgh18bQFaWtyNX5ojwx" version="21.1.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-04-12T14:53:14.592Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="LScFWeHM2CmX5RFwNluS" version="21.1.5" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-410" dy="3122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3009,7 +3009,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QiNLRUHo82s20kkSOVs7" name="Авторизация">
-    <mxGraphModel dx="1036" dy="1249" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="1361" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3100,20 +3100,6 @@
         <mxCell id="FAzoI0XQtIZhtI-MnwLG-28" value="Backend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="140" y="-456" width="100" height="463" as="geometry" />
         </mxCell>
-        <mxCell id="FAzoI0XQtIZhtI-MnwLG-32" value="" style="fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;startSize=8;endSize=8;elbow=vertical;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="190.02380952380963" y="-187" as="sourcePoint" />
-            <mxPoint x="342.5" y="-187" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="208" y="-187" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FAzoI0XQtIZhtI-MnwLG-33" value="JWT token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="FAzoI0XQtIZhtI-MnwLG-32">
-          <mxGeometry x="0.3616" y="-3" relative="1" as="geometry">
-            <mxPoint x="-24" y="-14" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FAzoI0XQtIZhtI-MnwLG-41" value="get address &lt;br&gt;from signature" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" target="FAzoI0XQtIZhtI-MnwLG-28" parent="1" source="FAzoI0XQtIZhtI-MnwLG-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="197" y="-350" as="sourcePoint" />
@@ -3135,12 +3121,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FAzoI0XQtIZhtI-MnwLG-43" value="JWT token" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" source="FAzoI0XQtIZhtI-MnwLG-28" target="FAzoI0XQtIZhtI-MnwLG-24">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0038" relative="1" as="geometry">
             <mxPoint x="146" y="-213" as="sourcePoint" />
             <mxPoint x="66" y="-213" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="155" y="-173" />
+              <mxPoint x="149" y="-206" />
+              <mxPoint x="113" y="-253" />
               <mxPoint x="125" y="-203" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FAzoI0XQtIZhtI-MnwLG-44" value="signature" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="FAzoI0XQtIZhtI-MnwLG-24" target="FAzoI0XQtIZhtI-MnwLG-28">
@@ -3152,13 +3142,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FAzoI0XQtIZhtI-MnwLG-46" value="signature" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="FAzoI0XQtIZhtI-MnwLG-24" target="FAzoI0XQtIZhtI-MnwLG-28">
+        <mxCell id="FAzoI0XQtIZhtI-MnwLG-49" value="signature" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="FAzoI0XQtIZhtI-MnwLG-24" target="FAzoI0XQtIZhtI-MnwLG-28">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="23" y="-353" as="sourcePoint" />
-            <mxPoint x="200" y="-353" as="targetPoint" />
+            <mxPoint x="13" y="-131" as="sourcePoint" />
+            <mxPoint x="173" y="-131" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="139" y="-171" />
-              <mxPoint x="149" y="-353" />
+              <mxPoint x="107" y="-170" />
+              <mxPoint x="139" y="-131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FAzoI0XQtIZhtI-MnwLG-50" value="JWT token" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="FAzoI0XQtIZhtI-MnwLG-28" target="FAzoI0XQtIZhtI-MnwLG-25">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="23" y="-121" as="sourcePoint" />
+            <mxPoint x="301" y="-182" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="263" y="-74" />
+              <mxPoint x="284" y="-182" />
+              <mxPoint x="149" y="-121" />
             </Array>
           </mxGeometry>
         </mxCell>
