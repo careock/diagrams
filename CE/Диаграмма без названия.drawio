@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T23:35:00.075Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="HunNlhCYKtD7mIMuQIbK" version="21.1.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-04-12T23:35:06.246Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Ps8GR3_J-t3v1EAEf_bL" version="21.1.5" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-92" dy="3346" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1288,7 +1288,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UvqsLZzrArS1hHLnVVpe-70" value="Offer" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="2212" y="1366" width="182" height="130" as="geometry" />
+          <mxGeometry x="2212" y="1366" width="182" height="104" as="geometry" />
         </mxCell>
         <mxCell id="UvqsLZzrArS1hHLnVVpe-71" value="- listingID: uint" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UvqsLZzrArS1hHLnVVpe-70">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
@@ -1296,11 +1296,8 @@
         <mxCell id="UvqsLZzrArS1hHLnVVpe-72" value="- price: uint" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UvqsLZzrArS1hHLnVVpe-70">
           <mxGeometry y="52" width="182" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="UvqsLZzrArS1hHLnVVpe-74" value="- price: uint" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UvqsLZzrArS1hHLnVVpe-70">
-          <mxGeometry y="78" width="182" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="UvqsLZzrArS1hHLnVVpe-91" value="- buyer: uint" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UvqsLZzrArS1hHLnVVpe-70">
-          <mxGeometry y="104" width="182" height="26" as="geometry" />
+          <mxGeometry y="78" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="UvqsLZzrArS1hHLnVVpe-86" value="" style="endArrow=diamondThin;html=1;rounded=0;endFill=0;edgeStyle=elbowEdgeStyle;elbow=vertical;endSize=12;" edge="1" parent="1" source="UvqsLZzrArS1hHLnVVpe-70" target="AoXdwYpE5xKdrdKqpB0P-11">
           <mxGeometry relative="1" as="geometry">
