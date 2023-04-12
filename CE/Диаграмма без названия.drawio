@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T16:48:43.980Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="rGt6r4vppwTw8Ig0dXLd" version="21.1.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-04-12T16:49:03.371Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="D7aDm1yTyaxgt4urGq9V" version="21.1.5" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-410" dy="3122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3009,7 +3009,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QiNLRUHo82s20kkSOVs7" name="Авторизация">
-    <mxGraphModel dx="1036" dy="1249" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1309" dy="1441" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3148,14 +3148,14 @@
           <mxGeometry x="-54" y="104" width="100" height="483" as="geometry" />
         </mxCell>
         <mxCell id="FAzoI0XQtIZhtI-MnwLG-82" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="FAzoI0XQtIZhtI-MnwLG-57">
-          <mxGeometry x="45" y="368" width="10" height="25" as="geometry" />
+          <mxGeometry x="45" y="408.99" width="10" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="FAzoI0XQtIZhtI-MnwLG-83" value="save token" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" target="FAzoI0XQtIZhtI-MnwLG-82" parent="FAzoI0XQtIZhtI-MnwLG-57" source="FAzoI0XQtIZhtI-MnwLG-57">
+        <mxCell id="FAzoI0XQtIZhtI-MnwLG-83" value="save token" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" target="FAzoI0XQtIZhtI-MnwLG-82" parent="FAzoI0XQtIZhtI-MnwLG-57">
           <mxGeometry x="0.0387" y="8" relative="1" as="geometry">
-            <mxPoint x="51" y="281" as="sourcePoint" />
+            <mxPoint x="50.23333333333335" y="389.00333333333333" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="110" y="348" />
-              <mxPoint x="110" y="381" />
+              <mxPoint x="110" y="388.99" />
+              <mxPoint x="110" y="421.99" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -3236,6 +3236,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-148" y="572" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="127" y="466" />
               <mxPoint x="83" y="419" />
               <mxPoint x="86" y="537" />
               <mxPoint x="146" y="489" />
