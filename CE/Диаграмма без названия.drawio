@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T12:18:44.209Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="T8fnr1DUv6_bI2o-UvaQ" version="21.1.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-04-12T12:18:55.323Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="cKG0BPD4z4UW6UenlDgh" version="21.1.5" type="github" pages="10">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-410" dy="3122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1391,7 +1391,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xFvAmQW_zRe3f-eQC2Nm" name="Сущности">
-    <mxGraphModel dx="554" dy="1073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="722" dy="1192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1697,7 +1697,7 @@
         <mxCell id="1n2AZCSPmpbpA7FVhe-w-26" value="S.C. address" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="dSnuXkMimng7IdVMOjFN-88" vertex="1">
           <mxGeometry y="134" width="182" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="dSnuXkMimng7IdVMOjFN-106" value="ERC-20 token" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="dSnuXkMimng7IdVMOjFN-88" vertex="1">
+        <mxCell id="dSnuXkMimng7IdVMOjFN-106" value="ERC-20 token" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="dSnuXkMimng7IdVMOjFN-88" vertex="1">
           <mxGeometry y="160" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dSnuXkMimng7IdVMOjFN-108" value="is_on_L2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="dSnuXkMimng7IdVMOjFN-88" vertex="1">
