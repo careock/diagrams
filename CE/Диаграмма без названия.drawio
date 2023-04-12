@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T22:11:07.914Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="6YP9vevB1igXsqTepQhN" version="21.1.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-04-12T22:11:20.327Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="DOo0hkOWvjJnvujYSOuX" version="21.1.5" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-92" dy="3346" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1013,7 +1013,7 @@
           <mxGeometry x="522" y="27" width="90" height="43" as="geometry" />
         </mxCell>
         <mxCell id="UvqsLZzrArS1hHLnVVpe-8" value="transferFrom &lt;br&gt;seller to buyer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UvqsLZzrArS1hHLnVVpe-6">
-          <mxGeometry x="185" y="30" width="122" height="44" as="geometry" />
+          <mxGeometry x="219" y="33" width="122" height="44" as="geometry" />
         </mxCell>
         <mxCell id="UvqsLZzrArS1hHLnVVpe-9" value="Смарт-контракт ERC-20 токена" style="swimlane;whiteSpace=wrap;html=1;swimlaneLine=0;gradientColor=none;fillColor=none;strokeColor=#242424;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1632" y="1125" width="740" height="99" as="geometry" />
