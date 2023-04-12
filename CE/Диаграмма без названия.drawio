@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T16:40:02.969Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="n0Mxhs45q9FIKEvNjeUT" version="21.1.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-04-12T16:40:09.238Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="fYp3TYIf9v-dLhAshCAa" version="21.1.5" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-410" dy="3122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3009,7 +3009,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QiNLRUHo82s20kkSOVs7" name="Авторизация">
-    <mxGraphModel dx="1763" dy="1761" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="1473" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3403,7 +3403,7 @@
             <mxPoint x="2186" y="255" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FAzoI0XQtIZhtI-MnwLG-132" value="Browser" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+        <mxCell id="FAzoI0XQtIZhtI-MnwLG-132" value="Metamask" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2214" y="42" width="100" height="366" as="geometry" />
         </mxCell>
         <mxCell id="FAzoI0XQtIZhtI-MnwLG-133" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="FAzoI0XQtIZhtI-MnwLG-132">
