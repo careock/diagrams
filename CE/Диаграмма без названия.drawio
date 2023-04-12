@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T20:31:30.708Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="hVvdkwjSDyT88nKzDQb0" version="21.1.5" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-04-12T20:32:20.656Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="PfvjQGSwwRqKgJiO4DIC" version="21.1.5" type="github" pages="12">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-410" dy="3122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3422,7 +3422,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HSDMvJRWn0n7ZfznhWYn" name="Дискорд сервер">
-    <mxGraphModel dx="1804" dy="1108" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1630" dy="985" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3448,7 +3448,7 @@
           <mxGeometry x="164" y="172" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="anx3SibYRjNzaKiiRP49-8" value="report-a-scam" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="164" y="268" width="120" height="60" as="geometry" />
+          <mxGeometry x="164" y="257" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="anx3SibYRjNzaKiiRP49-9" value="bug-report" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="164" y="343" width="120" height="60" as="geometry" />
@@ -3475,10 +3475,10 @@
           <mxGeometry x="359" y="-13" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="anx3SibYRjNzaKiiRP49-17" value="rules" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-234" y="86" width="120" height="60" as="geometry" />
+          <mxGeometry x="-221" y="86" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="anx3SibYRjNzaKiiRP49-19" value="welcome" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-234" y="-13" width="120" height="60" as="geometry" />
+          <mxGeometry x="-221" y="-13" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
