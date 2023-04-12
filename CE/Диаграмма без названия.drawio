@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T14:38:56.319Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="QAXVw37b0bYUsKx4V_M-" version="21.1.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-04-12T14:40:06.382Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="yaxsxZZEg1VdqkcIK44H" version="21.1.5" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-410" dy="3122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3009,7 +3009,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QiNLRUHo82s20kkSOVs7" name="Авторизация">
-    <mxGraphModel dx="1522" dy="1592" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="1473" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3104,13 +3104,40 @@
         <mxCell id="FAzoI0XQtIZhtI-MnwLG-29" value="Browser" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="479" y="-460" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="FAzoI0XQtIZhtI-MnwLG-30" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;startSize=8;endSize=8;elbow=vertical;" edge="1" parent="1" source="FAzoI0XQtIZhtI-MnwLG-24" target="FAzoI0XQtIZhtI-MnwLG-28">
+        <mxCell id="FAzoI0XQtIZhtI-MnwLG-30" value="" style="fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;startSize=8;endSize=8;elbow=vertical;" edge="1" parent="1" source="FAzoI0XQtIZhtI-MnwLG-24" target="FAzoI0XQtIZhtI-MnwLG-28">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-117" y="-373" as="sourcePoint" />
             <mxPoint x="23" y="-373" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="-348" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FAzoI0XQtIZhtI-MnwLG-31" value="Подпись" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="FAzoI0XQtIZhtI-MnwLG-30">
+          <mxGeometry x="0.3616" y="-3" relative="1" as="geometry">
+            <mxPoint x="-38" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FAzoI0XQtIZhtI-MnwLG-32" value="" style="fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;startSize=8;endSize=8;elbow=vertical;" edge="1" parent="1" source="FAzoI0XQtIZhtI-MnwLG-28" target="FAzoI0XQtIZhtI-MnwLG-25">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="23" y="-296" as="sourcePoint" />
+            <mxPoint x="200" y="-296" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FAzoI0XQtIZhtI-MnwLG-33" value="create JWT token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="FAzoI0XQtIZhtI-MnwLG-32">
+          <mxGeometry x="0.3616" y="-3" relative="1" as="geometry">
+            <mxPoint x="-26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FAzoI0XQtIZhtI-MnwLG-34" value="" style="fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;startSize=8;endSize=8;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="184" y="-516" as="sourcePoint" />
+            <mxPoint x="337" y="-516" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FAzoI0XQtIZhtI-MnwLG-35" value="Подпись" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="FAzoI0XQtIZhtI-MnwLG-34">
           <mxGeometry x="0.3616" y="-3" relative="1" as="geometry">
             <mxPoint x="-38" y="-3" as="offset" />
           </mxGeometry>
