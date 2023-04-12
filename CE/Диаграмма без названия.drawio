@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T22:06:00.788Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="N8ic_94TkmBxDX4duFDg" version="21.1.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-04-12T22:09:50.338Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="gQLS19dsBkZZdvKeV6NX" version="21.1.5" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-92" dy="3346" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -260,7 +260,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SC маркетплейса" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="163" dy="561" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-564" dy="49" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1000,8 +1000,11 @@
         <mxCell id="UvqsLZzrArS1hHLnVVpe-5" value="makePurchase" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UvqsLZzrArS1hHLnVVpe-1">
           <mxGeometry x="39" y="69" width="90" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="UvqsLZzrArS1hHLnVVpe-59" value="cancelPurchase" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UvqsLZzrArS1hHLnVVpe-1">
+        <mxCell id="UvqsLZzrArS1hHLnVVpe-59" value="cancelOffer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UvqsLZzrArS1hHLnVVpe-1">
           <mxGeometry x="15" y="164" width="90" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="UvqsLZzrArS1hHLnVVpe-64" value="makeOffer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UvqsLZzrArS1hHLnVVpe-1">
+          <mxGeometry x="47" y="242" width="90" height="44" as="geometry" />
         </mxCell>
         <mxCell id="UvqsLZzrArS1hHLnVVpe-6" value="Смарт-контракт NFT" style="swimlane;whiteSpace=wrap;html=1;swimlaneLine=0;gradientColor=none;fillColor=none;strokeColor=#242424;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1632" y="732" width="740" height="93" as="geometry" />
@@ -1025,7 +1028,7 @@
           <mxGeometry x="1632" y="825" width="128" height="300" as="geometry" />
         </mxCell>
         <mxCell id="UvqsLZzrArS1hHLnVVpe-13" value="Сделать предложение" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UvqsLZzrArS1hHLnVVpe-12">
-          <mxGeometry x="21" y="199" width="100" height="52" as="geometry" />
+          <mxGeometry x="14" y="186" width="100" height="52" as="geometry" />
         </mxCell>
         <mxCell id="UvqsLZzrArS1hHLnVVpe-14" value="Купить NFT" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UvqsLZzrArS1hHLnVVpe-12">
           <mxGeometry x="21" y="37" width="90" height="40" as="geometry" />
@@ -1246,6 +1249,28 @@
         <mxCell id="UvqsLZzrArS1hHLnVVpe-61" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="UvqsLZzrArS1hHLnVVpe-60">
           <mxGeometry x="-0.1115" y="-4" relative="1" as="geometry">
             <mxPoint x="-3" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UvqsLZzrArS1hHLnVVpe-65" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="UvqsLZzrArS1hHLnVVpe-13" target="UvqsLZzrArS1hHLnVVpe-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1742" y="976" as="sourcePoint" />
+            <mxPoint x="1799" y="1005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UvqsLZzrArS1hHLnVVpe-66" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="UvqsLZzrArS1hHLnVVpe-65">
+          <mxGeometry x="-0.1115" y="-4" relative="1" as="geometry">
+            <mxPoint x="-3" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UvqsLZzrArS1hHLnVVpe-67" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="UvqsLZzrArS1hHLnVVpe-64" target="UvqsLZzrArS1hHLnVVpe-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1748" y="1061" as="sourcePoint" />
+            <mxPoint x="1825" y="1087" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UvqsLZzrArS1hHLnVVpe-68" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="UvqsLZzrArS1hHLnVVpe-67">
+          <mxGeometry x="-0.1115" y="-4" relative="1" as="geometry">
+            <mxPoint x="-5" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
