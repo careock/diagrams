@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T13:46:23.786Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="hNSVXIF4fhDjYnHcznxK" version="21.1.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-04-12T13:47:05.556Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="n8Xh1WLrElxehXYcFmay" version="21.1.5" type="github" pages="10">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-410" dy="3122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1391,7 +1391,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xFvAmQW_zRe3f-eQC2Nm" name="Сущности">
-    <mxGraphModel dx="509" dy="1041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="963" dy="1361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2238,6 +2238,9 @@
               <mxPoint x="3490" y="734" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="F6Ix9yl6gJQPGMpaYq05-44" value="Прореживание дерева" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="2510" y="766" width="182" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
