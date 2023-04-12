@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T15:03:31.326Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="1iFe3EF3fM-1mgOOzYWX" version="21.1.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-04-12T15:03:36.701Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="MdKW0nFFvgWWK9cx1Asz" version="21.1.5" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-410" dy="3122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3009,7 +3009,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QiNLRUHo82s20kkSOVs7" name="Авторизация">
-    <mxGraphModel dx="1058" dy="1264" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="1473" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3169,7 +3169,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="296" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="80" y="326" />
+              <mxPoint x="80" y="296" />
+              <mxPoint x="80" y="338" />
             </Array>
           </mxGeometry>
         </mxCell>
