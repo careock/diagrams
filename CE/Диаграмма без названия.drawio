@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T16:26:08.234Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="XfNfrBm__5v5ySUTPWNH" version="21.1.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-04-12T16:27:16.406Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="q1KFux1-D6j3Hu3IdMoG" version="21.1.5" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-410" dy="3122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3009,7 +3009,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QiNLRUHo82s20kkSOVs7" name="Авторизация">
-    <mxGraphModel dx="1522" dy="1592" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1081" dy="1281" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3278,7 +3278,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FAzoI0XQtIZhtI-MnwLG-90" value="Backend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1226" y="61" width="100" height="364" as="geometry" />
+          <mxGeometry x="1314" y="61" width="100" height="364" as="geometry" />
         </mxCell>
         <mxCell id="FAzoI0XQtIZhtI-MnwLG-91" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="FAzoI0XQtIZhtI-MnwLG-90">
           <mxGeometry x="45" y="83" width="10" height="182" as="geometry" />
@@ -3303,19 +3303,21 @@
             <mxPoint x="65" y="167" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FAzoI0XQtIZhtI-MnwLG-94" value="signature" style="html=1;verticalAlign=bottom;endArrow=block;elbow=vertical;rounded=0;fontSize=12;startSize=8;endSize=8;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="FAzoI0XQtIZhtI-MnwLG-85">
+        <mxCell id="FAzoI0XQtIZhtI-MnwLG-94" value="signature" style="html=1;verticalAlign=bottom;endArrow=block;elbow=vertical;rounded=0;fontSize=12;startSize=8;endSize=8;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="FAzoI0XQtIZhtI-MnwLG-113" target="FAzoI0XQtIZhtI-MnwLG-91">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="848" y="321" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1103" y="175" />
+              <mxPoint x="1296" y="163" />
+              <mxPoint x="1180" y="183" />
             </Array>
             <mxPoint x="1131" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FAzoI0XQtIZhtI-MnwLG-95" value="jwt token" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" target="FAzoI0XQtIZhtI-MnwLG-85">
+        <mxCell id="FAzoI0XQtIZhtI-MnwLG-95" value="jwt token" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" source="FAzoI0XQtIZhtI-MnwLG-90" target="FAzoI0XQtIZhtI-MnwLG-113">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="848" y="396" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="1242" y="309" />
               <mxPoint x="1146" y="306" />
               <mxPoint x="1132" y="253" />
               <mxPoint x="1093" y="214" />
@@ -3325,7 +3327,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FAzoI0XQtIZhtI-MnwLG-113" value="Browser" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1092" y="61" width="100" height="366" as="geometry" />
+          <mxGeometry x="1133" y="61" width="100" height="366" as="geometry" />
+        </mxCell>
+        <mxCell id="FAzoI0XQtIZhtI-MnwLG-116" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="826" y="271" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FAzoI0XQtIZhtI-MnwLG-117" value="generate &lt;br&gt;signature" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="FAzoI0XQtIZhtI-MnwLG-116">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="833" y="261" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="863" y="291" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
