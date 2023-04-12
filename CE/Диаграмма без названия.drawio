@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T14:57:26.794Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="11275_mUFzxCHGGmD6PO" version="21.1.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-04-12T15:00:03.617Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="jT2WNZYm7dnVTgC2gXOV" version="21.1.5" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-410" dy="3122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3009,7 +3009,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QiNLRUHo82s20kkSOVs7" name="Авторизация">
-    <mxGraphModel dx="945" dy="1185" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1058" dy="1264" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3199,17 +3199,46 @@
         <mxCell id="FAzoI0XQtIZhtI-MnwLG-61" value="Backend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="123" y="87" width="100" height="463" as="geometry" />
         </mxCell>
-        <mxCell id="FAzoI0XQtIZhtI-MnwLG-68" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-78" y="347" width="10" height="80" as="geometry" />
+        <mxCell id="FAzoI0XQtIZhtI-MnwLG-68" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="FAzoI0XQtIZhtI-MnwLG-61">
+          <mxGeometry x="45" y="83" width="10" height="182" as="geometry" />
         </mxCell>
-        <mxCell id="FAzoI0XQtIZhtI-MnwLG-69" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="FAzoI0XQtIZhtI-MnwLG-68">
+        <mxCell id="FAzoI0XQtIZhtI-MnwLG-74" value="get address&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;from signature" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" target="FAzoI0XQtIZhtI-MnwLG-68" parent="FAzoI0XQtIZhtI-MnwLG-61" source="FAzoI0XQtIZhtI-MnwLG-68">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-148" y="347" as="sourcePoint" />
+            <mxPoint x="49" y="131" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="74" y="119" />
+              <mxPoint x="74" y="157" />
+            </Array>
+            <mxPoint x="55" y="156" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FAzoI0XQtIZhtI-MnwLG-70" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" source="FAzoI0XQtIZhtI-MnwLG-68">
+        <mxCell id="FAzoI0XQtIZhtI-MnwLG-75" value="generate&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;JWT token" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="FAzoI0XQtIZhtI-MnwLG-61" source="FAzoI0XQtIZhtI-MnwLG-68" target="FAzoI0XQtIZhtI-MnwLG-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="129" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="74" y="187" />
+              <mxPoint x="74" y="237" />
+            </Array>
+            <mxPoint x="65" y="167" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FAzoI0XQtIZhtI-MnwLG-69" value="signature" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="FAzoI0XQtIZhtI-MnwLG-68" source="FAzoI0XQtIZhtI-MnwLG-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-148" y="347" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="127" y="191" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FAzoI0XQtIZhtI-MnwLG-70" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" source="FAzoI0XQtIZhtI-MnwLG-68" target="FAzoI0XQtIZhtI-MnwLG-57">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-148" y="422" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="332" />
+              <mxPoint x="136" y="279" />
+              <mxPoint x="97" y="240" />
+              <mxPoint x="134" y="367" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
