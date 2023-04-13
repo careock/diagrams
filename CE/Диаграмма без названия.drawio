@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T18:07:32.478Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="VYAf9v-DtwxuKx88pIIx" version="21.1.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-04-13T18:08:16.326Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="W9_sOEX0Dx-Jc9nKQgrQ" version="21.1.5" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-713" dy="3145" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2853,7 +2853,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s3X1-ShmR8cfL6XgbZY4" name="KYC activity">
-    <mxGraphModel dx="989" dy="-156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3183,7 +3183,7 @@
         <mxCell id="PigRv1wZA126oPpK8xqf-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="PigRv1wZA126oPpK8xqf-2">
           <mxGeometry x="45" y="100" width="10" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="PigRv1wZA126oPpK8xqf-5" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" target="PigRv1wZA126oPpK8xqf-3">
+        <mxCell id="PigRv1wZA126oPpK8xqf-5" value="initiate trade &lt;br&gt;fullfilment" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" target="PigRv1wZA126oPpK8xqf-3">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="220" y="3210" as="sourcePoint" />
             <mxPoint x="280" y="3260" as="targetPoint" />
