@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T18:16:29.756Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="dVKY5kcSml6kSVAD7M8A" version="21.1.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-04-13T18:22:17.651Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="F-VHgwIAoVBS5CsF21po" version="21.1.5" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
-    <mxGraphModel dx="-713" dy="3145" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-488" dy="3297" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1357,6 +1357,45 @@
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="-17" y="25" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4oJvVFlKMCJFi15rzrlC-1" value="Рынок сбыта" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="5784" y="683" width="166" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="4oJvVFlKMCJFi15rzrlC-2" value="S.C. &quot;Рын&quot;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="5800" y="854" width="199" height="294" as="geometry" />
+        </mxCell>
+        <mxCell id="4oJvVFlKMCJFi15rzrlC-3" value="- nftSmartContracts: mapping" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4oJvVFlKMCJFi15rzrlC-2">
+          <mxGeometry y="26" width="199" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="4oJvVFlKMCJFi15rzrlC-4" value="- erc20SmartContracts: mapping" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4oJvVFlKMCJFi15rzrlC-2">
+          <mxGeometry y="52" width="199" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="4oJvVFlKMCJFi15rzrlC-5" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="4oJvVFlKMCJFi15rzrlC-2">
+          <mxGeometry y="78" width="199" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="4oJvVFlKMCJFi15rzrlC-6" value="+ transferOwnership" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4oJvVFlKMCJFi15rzrlC-2">
+          <mxGeometry y="86" width="199" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="4oJvVFlKMCJFi15rzrlC-7" value="+ pause " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4oJvVFlKMCJFi15rzrlC-2">
+          <mxGeometry y="112" width="199" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="4oJvVFlKMCJFi15rzrlC-8" value="+ unpause" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4oJvVFlKMCJFi15rzrlC-2">
+          <mxGeometry y="138" width="199" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="4oJvVFlKMCJFi15rzrlC-9" value="+ withdraw" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4oJvVFlKMCJFi15rzrlC-2">
+          <mxGeometry y="164" width="199" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="4oJvVFlKMCJFi15rzrlC-10" value="+ changeCommissionAddress" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4oJvVFlKMCJFi15rzrlC-2">
+          <mxGeometry y="190" width="199" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="4oJvVFlKMCJFi15rzrlC-11" value="+ addNewSmartcontract" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4oJvVFlKMCJFi15rzrlC-2">
+          <mxGeometry y="216" width="199" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="4oJvVFlKMCJFi15rzrlC-12" value="+ changeSmartContractAddress" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4oJvVFlKMCJFi15rzrlC-2">
+          <mxGeometry y="242" width="199" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="4oJvVFlKMCJFi15rzrlC-13" value="+ changeComissionPercent" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4oJvVFlKMCJFi15rzrlC-2">
+          <mxGeometry y="268" width="199" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -2853,7 +2892,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s3X1-ShmR8cfL6XgbZY4" name="KYC activity">
-    <mxGraphModel dx="1304" dy="58" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3585" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3077,7 +3116,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D4q3Zie0pAFXF3eLdh0M-24" value="S.C. &quot;Рынки сбыта&quot;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+        <mxCell id="D4q3Zie0pAFXF3eLdh0M-24" value="S.C. &quot;Рынок сбыта&quot;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="420" y="3100" width="100" height="421" as="geometry" />
         </mxCell>
         <mxCell id="D4q3Zie0pAFXF3eLdh0M-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="D4q3Zie0pAFXF3eLdh0M-24">
