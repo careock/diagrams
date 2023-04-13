@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T10:41:03.058Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ho1l5BoXubo08uMSmDBB" version="21.1.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-04-13T10:41:38.681Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="51VLmPExK8MAdl1KzPsV" version="21.1.5" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-92" dy="3346" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3156,7 +3156,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D4q3Zie0pAFXF3eLdh0M-36" value="в" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="D4q3Zie0pAFXF3eLdh0M-25" target="D4q3Zie0pAFXF3eLdh0M-27">
+        <mxCell id="D4q3Zie0pAFXF3eLdh0M-36" value="job &quot;withdraw&quot; request" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="D4q3Zie0pAFXF3eLdh0M-25" target="D4q3Zie0pAFXF3eLdh0M-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="585" y="3209" as="sourcePoint" />
             <Array as="points">
