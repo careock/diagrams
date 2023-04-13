@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T10:41:49.321Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="N4n2QIp2exkrxDMXVZUc" version="21.1.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-04-13T10:42:23.425Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Cdz1tL3EhM_W3kQ9aIYN" version="21.1.5" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-92" dy="3346" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2872,7 +2872,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s3X1-ShmR8cfL6XgbZY4" name="KYC activity">
-    <mxGraphModel dx="989" dy="-156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="-16" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3115,7 +3115,7 @@
           <mxGeometry x="730" y="3109" width="100" height="450" as="geometry" />
         </mxCell>
         <mxCell id="D4q3Zie0pAFXF3eLdh0M-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="D4q3Zie0pAFXF3eLdh0M-26">
-          <mxGeometry x="45" y="100" width="10" height="200" as="geometry" />
+          <mxGeometry x="45" y="100" width="10" height="230" as="geometry" />
         </mxCell>
         <mxCell id="D4q3Zie0pAFXF3eLdh0M-28" value="Система" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1000" y="3109" width="100" height="450" as="geometry" />
@@ -3127,8 +3127,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="57" y="161" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="80" y="181" />
-              <mxPoint x="80" y="201" />
+              <mxPoint x="80" y="211" />
+              <mxPoint x="80" y="231" />
             </Array>
             <mxPoint x="65" y="201" as="targetPoint" />
           </mxGeometry>
@@ -3181,11 +3181,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="915" y="3209" as="sourcePoint" />
             <Array as="points">
+              <mxPoint x="810" y="3309" />
               <mxPoint x="950" y="3249" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D4q3Zie0pAFXF3eLdh0M-41" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" source="D4q3Zie0pAFXF3eLdh0M-29" target="D4q3Zie0pAFXF3eLdh0M-27">
+        <mxCell id="D4q3Zie0pAFXF3eLdh0M-41" value="return info of withdraw" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" source="D4q3Zie0pAFXF3eLdh0M-29" target="D4q3Zie0pAFXF3eLdh0M-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="915" y="3284" as="targetPoint" />
             <Array as="points">
