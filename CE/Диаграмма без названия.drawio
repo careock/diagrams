@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T17:51:41.766Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="BzJqLKx5Iz4mOPaiJelr" version="21.1.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-04-13T17:52:31.947Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="b2CmD8LVJEkHrl-kBB8n" version="21.1.5" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
-    <mxGraphModel dx="-1181" dy="2556" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-313" dy="3145" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,10 +139,10 @@
         <mxCell id="zOuTpZu3GYqGqp9g4MdC-63" value="Chainlink" style="swimlane;whiteSpace=wrap;html=1;" parent="zOuTpZu3GYqGqp9g4MdC-33" vertex="1">
           <mxGeometry x="222" y="179" width="205" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="zOuTpZu3GYqGqp9g4MdC-64" value="Job_KYC" style="rounded=0;whiteSpace=wrap;html=1;" parent="zOuTpZu3GYqGqp9g4MdC-63" vertex="1">
+        <mxCell id="zOuTpZu3GYqGqp9g4MdC-64" value="job_withdraw" style="rounded=0;whiteSpace=wrap;html=1;" parent="zOuTpZu3GYqGqp9g4MdC-63" vertex="1">
           <mxGeometry x="16" y="39" width="169" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="hxw9fh6h9t1TY859qYZI-86" value="Job_Cлучайное число" style="rounded=0;whiteSpace=wrap;html=1;" parent="zOuTpZu3GYqGqp9g4MdC-63" vertex="1">
+        <mxCell id="hxw9fh6h9t1TY859qYZI-86" value="job_randomWord" style="rounded=0;whiteSpace=wrap;html=1;" parent="zOuTpZu3GYqGqp9g4MdC-63" vertex="1">
           <mxGeometry x="15" y="92" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-81" value="Рынок сбыта" style="rounded=0;whiteSpace=wrap;html=1;" parent="zOuTpZu3GYqGqp9g4MdC-33" vertex="1">
