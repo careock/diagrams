@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T10:42:59.416Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="prm_NwTiQkO9VMXMnjuf" version="21.1.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-04-13T10:43:08.257Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="-01CtOLsCkGyvpQSdwJv" version="21.1.5" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-92" dy="3346" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2872,7 +2872,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s3X1-ShmR8cfL6XgbZY4" name="KYC activity">
-    <mxGraphModel dx="1434" dy="146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="-16" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3172,6 +3172,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="585" y="3284" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="690" y="3400" />
               <mxPoint x="610" y="3389" />
               <mxPoint x="530" y="3269" />
             </Array>
