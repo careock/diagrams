@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T17:59:38.765Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="R0ysXgtUkWATLdUKbPIb" version="21.1.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-04-13T18:00:03.733Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Vm7l8gLZE8CsZ5unFTpP" version="21.1.5" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
-    <mxGraphModel dx="-966" dy="2973" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-713" dy="3145" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
