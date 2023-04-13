@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T18:02:44.660Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="7hZdwZDTj12GM4GOphgZ" version="21.1.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-04-13T18:03:02.965Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="3e5nqNjEyhpJWP1JbYfL" version="21.1.5" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-713" dy="3145" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2853,7 +2853,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s3X1-ShmR8cfL6XgbZY4" name="KYC activity">
-    <mxGraphModel dx="1024" dy="-132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3081,7 +3081,7 @@
           <mxGeometry x="430" y="3109" width="100" height="450" as="geometry" />
         </mxCell>
         <mxCell id="D4q3Zie0pAFXF3eLdh0M-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="D4q3Zie0pAFXF3eLdh0M-24">
-          <mxGeometry x="45" y="100" width="10" height="320" as="geometry" />
+          <mxGeometry x="45" y="100" width="10" height="250" as="geometry" />
         </mxCell>
         <mxCell id="D4q3Zie0pAFXF3eLdh0M-44" value="check if verified" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="D4q3Zie0pAFXF3eLdh0M-24" source="D4q3Zie0pAFXF3eLdh0M-25" target="D4q3Zie0pAFXF3eLdh0M-25">
           <mxGeometry relative="1" as="geometry">
@@ -3097,7 +3097,7 @@
           <mxGeometry x="730" y="3109" width="100" height="450" as="geometry" />
         </mxCell>
         <mxCell id="D4q3Zie0pAFXF3eLdh0M-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="D4q3Zie0pAFXF3eLdh0M-26">
-          <mxGeometry x="45" y="100" width="10" height="280" as="geometry" />
+          <mxGeometry x="45" y="100" width="10" height="240" as="geometry" />
         </mxCell>
         <mxCell id="D4q3Zie0pAFXF3eLdh0M-28" value="Система" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1000" y="3109" width="100" height="450" as="geometry" />
@@ -3143,6 +3143,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="3404" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="420" y="3440" />
               <mxPoint x="440" y="3509" />
               <mxPoint x="430" y="3279" />
             </Array>
@@ -3164,6 +3165,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="585" y="3284" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="750" y="3420" />
               <mxPoint x="730" y="3480" />
               <mxPoint x="690" y="3400" />
               <mxPoint x="610" y="3389" />
@@ -3185,7 +3187,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="915" y="3284" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1010" y="3420" />
+              <mxPoint x="1010" y="3400" />
               <mxPoint x="900" y="3410" />
               <mxPoint x="950" y="3379" />
               <mxPoint x="880" y="3279" />
