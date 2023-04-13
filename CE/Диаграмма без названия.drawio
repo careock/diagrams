@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T10:39:25.620Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Lo8DEmZuCrC7MKpFgGUS" version="21.1.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-04-13T10:40:51.875Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="2DOA_ERKeu3lo_zXSY2w" version="21.1.5" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-92" dy="3346" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2872,7 +2872,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s3X1-ShmR8cfL6XgbZY4" name="KYC activity">
-    <mxGraphModel dx="1434" dy="146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="-156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3105,8 +3105,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="90" y="111" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="122" y="131" />
-              <mxPoint x="122" y="151" />
+              <mxPoint x="80" y="131" />
+              <mxPoint x="80" y="151" />
             </Array>
             <mxPoint x="90" y="151" as="targetPoint" />
           </mxGeometry>
@@ -3127,8 +3127,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="57" y="161" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="87" y="161" />
-              <mxPoint x="87" y="201" />
+              <mxPoint x="80" y="181" />
+              <mxPoint x="80" y="201" />
             </Array>
             <mxPoint x="65" y="201" as="targetPoint" />
           </mxGeometry>
