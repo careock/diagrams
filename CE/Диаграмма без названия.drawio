@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T14:10:59.036Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="_Z814ywVz3iWeVwrKIBe" version="21.1.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-04-13T14:11:18.196Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="TgYb82qssGEBsHBrIng6" version="21.1.5" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-566" dy="2973" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2555,7 +2555,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="p5SsUAG1_GjVNtL2NbAN" name="Контекстная">
-    <mxGraphModel dx="1743" dy="389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2856" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2636,9 +2636,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4YF8giQvccr5CdplSy-N-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4YF8giQvccr5CdplSy-N-15" edge="1">
+        <mxCell id="4YF8giQvccr5CdplSy-N-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4YF8giQvccr5CdplSy-N-15" edge="1" target="bX-eogIEgNUk6heCCfVe-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650" y="359" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="645" y="392" />
+              <mxPoint x="650" y="392" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4YF8giQvccr5CdplSy-N-14" value="Транзакция" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4YF8giQvccr5CdplSy-N-13" vertex="1" connectable="0">
@@ -2737,7 +2741,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bX-eogIEgNUk6heCCfVe-10" value="Etherium" style="swimlane;startSize=23;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="550" y="160" width="200" height="199" as="geometry" />
+          <mxGeometry x="550" y="150" width="200" height="199" as="geometry" />
         </mxCell>
         <mxCell id="bX-eogIEgNUk6heCCfVe-12" value="immutable zkEVM" style="rounded=0;whiteSpace=wrap;html=1;" parent="bX-eogIEgNUk6heCCfVe-10" vertex="1">
           <mxGeometry x="25" y="30" width="140" height="50" as="geometry" />
@@ -2790,6 +2794,9 @@
         </mxCell>
         <mxCell id="AEbMiz8whbjSLudzPPPK-1" value="Moonpay" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="669" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qRuqOw54fppiIEqzAZ-P-3" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;elbow=vertical;startArrow=classic;startFill=1;" edge="1" parent="1" source="qRuqOw54fppiIEqzAZ-P-1" target="4YF8giQvccr5CdplSy-N-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
