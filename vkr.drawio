@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T17:31:43.137Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="8YbSsH3aebO5wVA107F3" version="21.2.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-04-25T17:32:37.419Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="7B3aoFVWBot9ibi46mYq" version="21.2.1" type="github" pages="5">
   <diagram name="организация структура" id="OQpa5ru06Z7B6Gejn0i9">
     <mxGraphModel dx="1590" dy="1437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -221,7 +221,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WWOFenK2nA5GYVjHkCdE" name="Декомпозиция процесса">
-    <mxGraphModel dx="1735" dy="1531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2385" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -455,7 +455,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wPy5i6R9BCsDsqCvH0oV" name="Декомпозиция 2">
-    <mxGraphModel dx="2163" dy="2089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2708" dy="2444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -693,8 +693,9 @@
         <mxCell id="yfEyq5syAgTfOiiKOK3b-46" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" target="yfEyq5syAgTfOiiKOK3b-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1510" y="-230" as="targetPoint" />
-            <mxPoint x="1510" y="-60" as="sourcePoint" />
+            <mxPoint x="1340" y="-50" as="sourcePoint" />
             <Array as="points">
+              <mxPoint x="1340" y="-60" />
               <mxPoint x="1510" y="-100" />
               <mxPoint x="1460" y="-90" />
               <mxPoint x="1460" y="-120" />
@@ -704,7 +705,7 @@
         </mxCell>
         <mxCell id="yfEyq5syAgTfOiiKOK3b-47" value="Шаблон для &lt;br&gt;произведения измерения" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yfEyq5syAgTfOiiKOK3b-46">
           <mxGeometry x="-0.2659" relative="1" as="geometry">
-            <mxPoint x="70" as="offset" />
+            <mxPoint x="70" y="31" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yfEyq5syAgTfOiiKOK3b-48" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" target="yfEyq5syAgTfOiiKOK3b-9">
