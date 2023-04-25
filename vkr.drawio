@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T09:22:43.095Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="noJJXDoaF9jAf-2NZaKM" version="21.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-25T09:24:14.786Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="owHkEGGqu_IFLbbROlE8" version="21.2.1" type="github" pages="2">
   <diagram name="организация структура" id="OQpa5ru06Z7B6Gejn0i9">
     <mxGraphModel dx="1590" dy="1437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -142,12 +142,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OPArHdwmCxT7qsWJl8eG" name="карта процессов">
-    <mxGraphModel dx="2395" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2563" dy="1289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WX6yXTX2OnVCEluPkEM_-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://t24543538.p.clickup-attachments.com/t24543538/fef5b0b4-b652-4284-956c-70997e5c9b84/image.png;" vertex="1" parent="1">
-          <mxGeometry x="-1290" y="-30" width="1036" height="704" as="geometry" />
+          <mxGeometry x="-1060" y="-30" width="1036" height="704" as="geometry" />
         </mxCell>
         <mxCell id="WX6yXTX2OnVCEluPkEM_-2" value="Управляющие процессы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" width="830" height="40" as="geometry" />
@@ -196,6 +196,18 @@
         </mxCell>
         <mxCell id="WX6yXTX2OnVCEluPkEM_-25" value="процесс поддержки ПО" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="510" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WX6yXTX2OnVCEluPkEM_-26" value="Стратегическое планирования" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="130" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="WX6yXTX2OnVCEluPkEM_-27" value="Финансовое планирование" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="80" width="130" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="WX6yXTX2OnVCEluPkEM_-28" value="Менеджмент персонала" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="644" width="130" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="WX6yXTX2OnVCEluPkEM_-29" value="Менеджмент информации" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="644" width="130" height="86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
