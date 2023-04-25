@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T14:11:27.546Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="t3ERVhBaXowSZKOBcKno" version="21.2.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-04-25T14:11:40.484Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="n1_O2uHB4RNkV-Rpp8Kr" version="21.2.1" type="github" pages="5">
   <diagram name="организация структура" id="OQpa5ru06Z7B6Gejn0i9">
     <mxGraphModel dx="1590" dy="1437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -270,6 +270,58 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bLvR9KudlRkqFYbPbGX5-13" value="Разбить работы на этапы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="430" width="140" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wPy5i6R9BCsDsqCvH0oV" name="Декомпозиция 2">
+    <mxGraphModel dx="3180" dy="2073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xZSwxwSSIL2NeIs0ch1x-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xZSwxwSSIL2NeIs0ch1x-2" target="xZSwxwSSIL2NeIs0ch1x-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="80" />
+              <mxPoint x="390" y="137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xZSwxwSSIL2NeIs0ch1x-2" value="Выделить&lt;br&gt;приложения" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="30" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xZSwxwSSIL2NeIs0ch1x-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xZSwxwSSIL2NeIs0ch1x-4" target="xZSwxwSSIL2NeIs0ch1x-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xZSwxwSSIL2NeIs0ch1x-4" value="Определить роли&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="101.65" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xZSwxwSSIL2NeIs0ch1x-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xZSwxwSSIL2NeIs0ch1x-6" target="xZSwxwSSIL2NeIs0ch1x-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xZSwxwSSIL2NeIs0ch1x-6" value="Декомпозировать по экранам приложений" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="180" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xZSwxwSSIL2NeIs0ch1x-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xZSwxwSSIL2NeIs0ch1x-8" target="xZSwxwSSIL2NeIs0ch1x-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xZSwxwSSIL2NeIs0ch1x-8" value="Дополнить работами, не включенными в разработку экранов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="250" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xZSwxwSSIL2NeIs0ch1x-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;" edge="1" parent="1" source="xZSwxwSSIL2NeIs0ch1x-10" target="xZSwxwSSIL2NeIs0ch1x-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xZSwxwSSIL2NeIs0ch1x-10" value="Произвести оценку выделенных работ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="340" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xZSwxwSSIL2NeIs0ch1x-11" value="Определить сроки этапов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="500" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xZSwxwSSIL2NeIs0ch1x-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xZSwxwSSIL2NeIs0ch1x-13" target="xZSwxwSSIL2NeIs0ch1x-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xZSwxwSSIL2NeIs0ch1x-13" value="Разбить работы на этапы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="430" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
