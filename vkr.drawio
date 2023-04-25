@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T14:28:07.400Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="zFWJJ6-u7lqPd2wHRtRu" version="21.2.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-04-25T14:28:43.450Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="iir7cjpBrmv41aW-gp5l" version="21.2.1" type="github" pages="5">
   <diagram name="организация структура" id="OQpa5ru06Z7B6Gejn0i9">
     <mxGraphModel dx="1590" dy="1437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -221,7 +221,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WWOFenK2nA5GYVjHkCdE" name="Декомпозиция процесса">
-    <mxGraphModel dx="2535" dy="1531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2920" dy="1782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -417,7 +417,17 @@
         </mxCell>
         <mxCell id="zPbyqHIP-na0lMqusOiL-27" value="Шаблон сметы" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zPbyqHIP-na0lMqusOiL-26">
           <mxGeometry x="-0.1826" y="1" relative="1" as="geometry">
-            <mxPoint x="51" y="80" as="offset" />
+            <mxPoint x="-49" y="80" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zPbyqHIP-na0lMqusOiL-28" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" target="bLvR9KudlRkqFYbPbGX5-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="620" as="sourcePoint" />
+            <mxPoint x="1050" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="980" y="620" />
+              <mxPoint x="850" y="570" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
