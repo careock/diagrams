@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T16:31:38.172Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="KTWk5JCHBOjUKZ8BTwW8" version="21.2.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-04-25T16:32:14.240Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="NlfZuitjMxa9RreYpspc" version="21.2.1" type="github" pages="5">
   <diagram name="организация структура" id="OQpa5ru06Z7B6Gejn0i9">
     <mxGraphModel dx="1590" dy="1437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -440,7 +440,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wPy5i6R9BCsDsqCvH0oV" name="Декомпозиция 2">
-    <mxGraphModel dx="2163" dy="2089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1922" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -528,10 +528,13 @@
         </mxCell>
         <mxCell id="yfEyq5syAgTfOiiKOK3b-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yfEyq5syAgTfOiiKOK3b-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1990" y="-225" as="targetPoint" />
+            <mxPoint x="1640" y="-240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1600" y="-240" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yfEyq5syAgTfOiiKOK3b-34" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yfEyq5syAgTfOiiKOK3b-33">
+        <mxCell id="yfEyq5syAgTfOiiKOK3b-34" value="Сроки" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yfEyq5syAgTfOiiKOK3b-33">
           <mxGeometry x="-0.2659" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -597,6 +600,20 @@
         <mxCell id="yfEyq5syAgTfOiiKOK3b-30" value="Регламент&lt;br&gt;произведения оценки" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yfEyq5syAgTfOiiKOK3b-29">
           <mxGeometry x="-0.1826" y="1" relative="1" as="geometry">
             <mxPoint x="59" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfEyq5syAgTfOiiKOK3b-35" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="yfEyq5syAgTfOiiKOK3b-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1640" y="-210" as="targetPoint" />
+            <mxPoint x="1510" y="-230" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1560" y="-210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfEyq5syAgTfOiiKOK3b-36" value="Трудозатраты" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yfEyq5syAgTfOiiKOK3b-35">
+          <mxGeometry x="-0.2659" relative="1" as="geometry">
+            <mxPoint x="8" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
