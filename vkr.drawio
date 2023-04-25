@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T16:24:47.222Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="BEKPzBnmUs1zOWRqmMiN" version="21.2.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-04-25T16:25:10.920Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="6NiGvLvEwjrJRMO4H4g8" version="21.2.1" type="github" pages="5">
   <diagram name="организация структура" id="OQpa5ru06Z7B6Gejn0i9">
     <mxGraphModel dx="1590" dy="1437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -440,7 +440,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wPy5i6R9BCsDsqCvH0oV" name="Декомпозиция 2">
-    <mxGraphModel dx="2268" dy="2157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1993" dy="1978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -502,37 +502,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yfEyq5syAgTfOiiKOK3b-6" value="Определить функциональные процессы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-720" width="140" height="70" as="geometry" />
+          <mxGeometry x="510" y="-720" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yfEyq5syAgTfOiiKOK3b-7" value="Определить группы данных и их атрибуты" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-610" width="140" height="70" as="geometry" />
+          <mxGeometry x="510" y="-610" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yfEyq5syAgTfOiiKOK3b-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yfEyq5syAgTfOiiKOK3b-8" target="yfEyq5syAgTfOiiKOK3b-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yfEyq5syAgTfOiiKOK3b-8" value="Определить манипуляции данных (data movements)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-500" width="140" height="70" as="geometry" />
+          <mxGeometry x="510" y="-500" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yfEyq5syAgTfOiiKOK3b-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yfEyq5syAgTfOiiKOK3b-9" target="yfEyq5syAgTfOiiKOK3b-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yfEyq5syAgTfOiiKOK3b-9" value="Произвести измерение для каждого приложения" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="-460" width="140" height="70" as="geometry" />
+          <mxGeometry x="720" y="-460" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yfEyq5syAgTfOiiKOK3b-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yfEyq5syAgTfOiiKOK3b-11" target="yfEyq5syAgTfOiiKOK3b-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yfEyq5syAgTfOiiKOK3b-11" value="Агрегировать размер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="-350" width="140" height="70" as="geometry" />
+          <mxGeometry x="720" y="-350" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yfEyq5syAgTfOiiKOK3b-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yfEyq5syAgTfOiiKOK3b-12" target="yfEyq5syAgTfOiiKOK3b-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yfEyq5syAgTfOiiKOK3b-12" value="Рассчитать трудозатраты&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="-240" width="140" height="70" as="geometry" />
+          <mxGeometry x="720" y="-240" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yfEyq5syAgTfOiiKOK3b-13" value="Рассчитать сроки&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="-140" width="140" height="70" as="geometry" />
+          <mxGeometry x="720" y="-140" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yfEyq5syAgTfOiiKOK3b-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yfEyq5syAgTfOiiKOK3b-3" target="yfEyq5syAgTfOiiKOK3b-6">
           <mxGeometry relative="1" as="geometry">
@@ -546,15 +546,30 @@
         <mxCell id="yfEyq5syAgTfOiiKOK3b-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yfEyq5syAgTfOiiKOK3b-6" target="yfEyq5syAgTfOiiKOK3b-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="400" y="-700" as="sourcePoint" />
-            <mxPoint x="570" y="-670" as="targetPoint" />
+            <mxPoint x="350" y="-700" as="sourcePoint" />
+            <mxPoint x="520" y="-670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yfEyq5syAgTfOiiKOK3b-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yfEyq5syAgTfOiiKOK3b-7" target="yfEyq5syAgTfOiiKOK3b-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="640" y="-640" as="sourcePoint" />
-            <mxPoint x="640" y="-600" as="targetPoint" />
+            <mxPoint x="590" y="-640" as="sourcePoint" />
+            <mxPoint x="590" y="-600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfEyq5syAgTfOiiKOK3b-23" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" target="TlKU8jg4pu826nNX5VmE-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="-880" as="sourcePoint" />
+            <mxPoint x="280" y="-880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="-880" />
+              <mxPoint x="120" y="-890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfEyq5syAgTfOiiKOK3b-24" value="Шаблон процесса измерения" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yfEyq5syAgTfOiiKOK3b-23">
+          <mxGeometry x="-0.1826" y="1" relative="1" as="geometry">
+            <mxPoint x="8" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
