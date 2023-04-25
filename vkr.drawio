@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T14:16:35.707Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="d9YHnqZVnsNUIN_SCoR4" version="21.2.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-04-25T14:17:12.299Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="lBonwFRECxtepL1jCSth" version="21.2.1" type="github" pages="5">
   <diagram name="организация структура" id="OQpa5ru06Z7B6Gejn0i9">
     <mxGraphModel dx="1590" dy="1437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -221,7 +221,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WWOFenK2nA5GYVjHkCdE" name="Декомпозиция процесса">
-    <mxGraphModel dx="1804" dy="1055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1993" dy="1178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,6 +303,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zPbyqHIP-na0lMqusOiL-11" value="Проект" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zPbyqHIP-na0lMqusOiL-10">
+          <mxGeometry x="-0.1826" y="1" relative="1" as="geometry">
+            <mxPoint x="8" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zPbyqHIP-na0lMqusOiL-12" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="270" as="sourcePoint" />
+            <mxPoint x="360" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="270" />
+              <mxPoint x="290" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zPbyqHIP-na0lMqusOiL-13" value="Экспертиза аналитика" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zPbyqHIP-na0lMqusOiL-12">
           <mxGeometry x="-0.1826" y="1" relative="1" as="geometry">
             <mxPoint x="8" y="-9" as="offset" />
           </mxGeometry>
