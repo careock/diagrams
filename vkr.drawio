@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T08:50:52.358Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="J8XhtSeN_wK6O3x9s3hu" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-25T08:50:57.698Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="EL2b-UGZDP9j0ucNH14c" version="21.2.1" type="github">
   <diagram name="Page-1" id="OQpa5ru06Z7B6Gejn0i9">
     <mxGraphModel dx="1590" dy="1437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="910" y="564" width="120" height="46" as="geometry" />
         </mxCell>
         <mxCell id="cxtDH-rswB0v-jsNszgG-1" value="Генеральный директор" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="-220" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="-280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cxtDH-rswB0v-jsNszgG-2" value="Исполнительный директор" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="599" y="-130" width="120" height="60" as="geometry" />
