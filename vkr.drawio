@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T14:06:31.950Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="G1Vz-1g7URu1jHqzT4z4" version="21.2.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-04-25T14:08:58.773Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="sJuz8Osi3J9aZubLgzAN" version="21.2.1" type="github" pages="4">
   <diagram name="организация структура" id="OQpa5ru06Z7B6Gejn0i9">
     <mxGraphModel dx="1590" dy="1437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -221,7 +221,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WWOFenK2nA5GYVjHkCdE" name="Декомпозиция процесса">
-    <mxGraphModel dx="1354" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1522" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -231,8 +231,20 @@
         <mxCell id="bLvR9KudlRkqFYbPbGX5-7" value="Выделить&lt;br&gt;приложения" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="20" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="bLvR9KudlRkqFYbPbGX5-8" value="Определить роли инженеров" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="150" width="140" height="70" as="geometry" />
+        <mxCell id="bLvR9KudlRkqFYbPbGX5-8" value="Определить роли&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bLvR9KudlRkqFYbPbGX5-9" value="Декомпозировать по экранам приложений" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="220" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bLvR9KudlRkqFYbPbGX5-10" value="Дополнить работами, не включенными в разработку экранов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="340" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bLvR9KudlRkqFYbPbGX5-11" value="Произвести оценку выделенных работ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="450" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bLvR9KudlRkqFYbPbGX5-12" value="Определить сроки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="570" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
