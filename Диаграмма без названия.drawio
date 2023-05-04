@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T13:41:04.886Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="l0a3tRIIqvplSmWSl1DC" version="21.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-04T14:09:38.516Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="07lzaLNGVIdRDgV3GAc-" version="21.2.7" type="github" pages="2">
   <diagram name="Страница 1" id="xeV2qMJRbDBGLSl03ngG">
     <mxGraphModel dx="3985" dy="2083" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -193,7 +193,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UO3YGPil2kB3kXAUvF5V" name="Страница 2">
-    <mxGraphModel dx="2535" dy="1224" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2920" dy="1496" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -259,7 +259,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cA77wTq4uHCTd_L1Nn2C-22" value="Платформа" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="544" y="1146" width="318" height="75" as="geometry" />
+          <mxGeometry x="424" y="1146" width="318" height="75" as="geometry" />
         </mxCell>
         <mxCell id="cA77wTq4uHCTd_L1Nn2C-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="cA77wTq4uHCTd_L1Nn2C-25" target="cA77wTq4uHCTd_L1Nn2C-27">
           <mxGeometry relative="1" as="geometry" />
@@ -274,22 +274,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cA77wTq4uHCTd_L1Nn2C-30" value="BI решение" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="542" y="996" width="318" height="75" as="geometry" />
+          <mxGeometry x="422" y="996" width="318" height="75" as="geometry" />
         </mxCell>
         <mxCell id="cA77wTq4uHCTd_L1Nn2C-32" value="Панель администрирования" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="542" y="1291" width="318" height="75" as="geometry" />
+          <mxGeometry x="422" y="1291" width="318" height="75" as="geometry" />
         </mxCell>
         <mxCell id="cA77wTq4uHCTd_L1Nn2C-36" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="cA77wTq4uHCTd_L1Nn2C-35" target="cA77wTq4uHCTd_L1Nn2C-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cA77wTq4uHCTd_L1Nn2C-35" value="Датасет" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="641" y="853" width="120" height="80" as="geometry" />
+          <mxGeometry x="521" y="853" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cA77wTq4uHCTd_L1Nn2C-39" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="cA77wTq4uHCTd_L1Nn2C-37" target="cA77wTq4uHCTd_L1Nn2C-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cA77wTq4uHCTd_L1Nn2C-37" value="База данных игры" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="542" y="731" width="318" height="75" as="geometry" />
+          <mxGeometry x="422" y="731" width="318" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
