@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T23:42:20.574Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="6yOuAJ2drwuq5Fv2wO4Z" version="21.2.9" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-05-10T23:43:11.467Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="7wbdPBrUxNGJtbGLvJEI" version="21.2.9" type="github" pages="7">
   <diagram name="организация структура" id="OQpa5ru06Z7B6Gejn0i9">
     <mxGraphModel dx="954" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -745,7 +745,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LoD5r0aH3zq62ONL1DUG" name="Дерево проблем">
-    <mxGraphModel dx="-331" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1407" dy="1676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -882,7 +882,7 @@
         <mxCell id="4j_qERbIriXcxH-FNixl-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4j_qERbIriXcxH-FNixl-40" target="4j_qERbIriXcxH-FNixl-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4j_qERbIriXcxH-FNixl-40" value="Для получения достаточной точности необходимо &amp;nbsp;нецелесообразно много времени" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4j_qERbIriXcxH-FNixl-40" value="Разработать&amp;nbsp;шаблоны и&amp;nbsp;&lt;br&gt;регламентирующие документы" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3240" y="1100" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4j_qERbIriXcxH-FNixl-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4j_qERbIriXcxH-FNixl-42" target="4j_qERbIriXcxH-FNixl-48">
