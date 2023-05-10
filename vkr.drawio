@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T17:36:05.090Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="NNVZ-bCIpd-J3oxx73Fp" version="21.2.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-10T16:54:53.609Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="n8NMQha_G8CV2yfODevD" version="21.2.9" type="github" pages="6">
   <diagram name="организация структура" id="OQpa5ru06Z7B6Gejn0i9">
-    <mxGraphModel dx="1590" dy="1437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="SEltiXhkZLcWSk58OTIP-4" value="Отдел лидогенерации" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cxtDH-rswB0v-jsNszgG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="cxtDH-rswB0v-jsNszgG-1" target="cxtDH-rswB0v-jsNszgG-4">
+        <mxCell id="cxtDH-rswB0v-jsNszgG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="cxtDH-rswB0v-jsNszgG-1" target="cxtDH-rswB0v-jsNszgG-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="530" y="-160" />
@@ -24,10 +24,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cxtDH-rswB0v-jsNszgG-1" value="Генеральный директор" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cxtDH-rswB0v-jsNszgG-1" value="Генеральный директор" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="-250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cxtDH-rswB0v-jsNszgG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="cxtDH-rswB0v-jsNszgG-6">
+        <mxCell id="cxtDH-rswB0v-jsNszgG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" target="cxtDH-rswB0v-jsNszgG-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1080" y="-170" as="sourcePoint" />
             <Array as="points">
@@ -36,7 +36,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cxtDH-rswB0v-jsNszgG-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="SEltiXhkZLcWSk58OTIP-2">
+        <mxCell id="cxtDH-rswB0v-jsNszgG-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" target="SEltiXhkZLcWSk58OTIP-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1080" y="-170" as="sourcePoint" />
             <Array as="points">
@@ -45,7 +45,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cxtDH-rswB0v-jsNszgG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="SEltiXhkZLcWSk58OTIP-1">
+        <mxCell id="cxtDH-rswB0v-jsNszgG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" target="SEltiXhkZLcWSk58OTIP-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1080" y="-170" as="sourcePoint" />
             <Array as="points">
@@ -54,7 +54,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cxtDH-rswB0v-jsNszgG-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="cxtDH-rswB0v-jsNszgG-5">
+        <mxCell id="cxtDH-rswB0v-jsNszgG-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" target="cxtDH-rswB0v-jsNszgG-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1080" y="-170" as="sourcePoint" />
             <Array as="points">
@@ -63,10 +63,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cxtDH-rswB0v-jsNszgG-2" value="Исполнительный директор" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cxtDH-rswB0v-jsNszgG-2" value="Исполнительный директор" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="-190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cxtDH-rswB0v-jsNszgG-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="cxtDH-rswB0v-jsNszgG-4" target="SEltiXhkZLcWSk58OTIP-3">
+        <mxCell id="cxtDH-rswB0v-jsNszgG-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="cxtDH-rswB0v-jsNszgG-4" target="SEltiXhkZLcWSk58OTIP-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="440" y="40" />
@@ -74,10 +74,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cxtDH-rswB0v-jsNszgG-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="cxtDH-rswB0v-jsNszgG-4" target="SEltiXhkZLcWSk58OTIP-4">
+        <mxCell id="cxtDH-rswB0v-jsNszgG-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="cxtDH-rswB0v-jsNszgG-4" target="SEltiXhkZLcWSk58OTIP-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cxtDH-rswB0v-jsNszgG-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="cxtDH-rswB0v-jsNszgG-4" target="cxtDH-rswB0v-jsNszgG-10">
+        <mxCell id="cxtDH-rswB0v-jsNszgG-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="cxtDH-rswB0v-jsNszgG-4" target="cxtDH-rswB0v-jsNszgG-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="440" y="40" />
@@ -85,31 +85,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cxtDH-rswB0v-jsNszgG-4" value="Управление продаж и развития бизнеса" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cxtDH-rswB0v-jsNszgG-4" value="Управление продаж и развития бизнеса" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="-70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cxtDH-rswB0v-jsNszgG-5" value="Административное управление" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cxtDH-rswB0v-jsNszgG-5" value="Административное управление" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cxtDH-rswB0v-jsNszgG-6" value="Отдел персонала" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cxtDH-rswB0v-jsNszgG-6" value="Отдел персонала" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1060" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cxtDH-rswB0v-jsNszgG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="cxtDH-rswB0v-jsNszgG-7" target="cxtDH-rswB0v-jsNszgG-8">
+        <mxCell id="cxtDH-rswB0v-jsNszgG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="cxtDH-rswB0v-jsNszgG-7" target="cxtDH-rswB0v-jsNszgG-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cxtDH-rswB0v-jsNszgG-7" value="Управление разработки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cxtDH-rswB0v-jsNszgG-7" value="Управление разработки" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1220" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cxtDH-rswB0v-jsNszgG-8" value="Отдел проектного менеджмент" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cxtDH-rswB0v-jsNszgG-8" value="Отдел проектного менеджмент" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1220" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cxtDH-rswB0v-jsNszgG-9" value="Отдел аудита и ресурсного менеджмента" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cxtDH-rswB0v-jsNszgG-9" value="Отдел аудита и ресурсного менеджмента" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1370" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cxtDH-rswB0v-jsNszgG-10" value="Отдел маркетинга" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cxtDH-rswB0v-jsNszgG-10" value="Отдел маркетинга" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cxtDH-rswB0v-jsNszgG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="cxtDH-rswB0v-jsNszgG-1" target="cxtDH-rswB0v-jsNszgG-2">
+        <mxCell id="cxtDH-rswB0v-jsNszgG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="cxtDH-rswB0v-jsNszgG-1" target="cxtDH-rswB0v-jsNszgG-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="-210" as="sourcePoint" />
             <mxPoint x="269" y="-60" as="targetPoint" />
@@ -118,7 +118,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cxtDH-rswB0v-jsNszgG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="cxtDH-rswB0v-jsNszgG-2" target="cxtDH-rswB0v-jsNszgG-9">
+        <mxCell id="cxtDH-rswB0v-jsNszgG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="cxtDH-rswB0v-jsNszgG-2" target="cxtDH-rswB0v-jsNszgG-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1080" y="-170" as="sourcePoint" />
             <mxPoint x="770" y="-150" as="targetPoint" />
@@ -128,7 +128,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cxtDH-rswB0v-jsNszgG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="cxtDH-rswB0v-jsNszgG-2" target="cxtDH-rswB0v-jsNszgG-7">
+        <mxCell id="cxtDH-rswB0v-jsNszgG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="cxtDH-rswB0v-jsNszgG-2" target="cxtDH-rswB0v-jsNszgG-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1080" y="-160" as="sourcePoint" />
             <mxPoint x="1290" y="150" as="targetPoint" />
@@ -741,6 +741,14 @@
         <mxCell id="yfEyq5syAgTfOiiKOK3b-52" value="Определить этапы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1450" y="-330" width="140" height="70" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LoD5r0aH3zq62ONL1DUG" name="Дерево проблем">
+    <mxGraphModel dx="954" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
