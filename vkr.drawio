@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T23:38:44.154Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="QlLLUoaSTYpHBp9gz4Kl" version="21.2.9" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-05-10T23:42:20.574Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="6yOuAJ2drwuq5Fv2wO4Z" version="21.2.9" type="github" pages="7">
   <diagram name="организация структура" id="OQpa5ru06Z7B6Gejn0i9">
     <mxGraphModel dx="954" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -745,7 +745,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LoD5r0aH3zq62ONL1DUG" name="Дерево проблем">
-    <mxGraphModel dx="487" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-331" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -805,7 +805,7 @@
         <mxCell id="N6rhMuFF6IerwjO1s7Pa-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N6rhMuFF6IerwjO1s7Pa-17" target="N6rhMuFF6IerwjO1s7Pa-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N6rhMuFF6IerwjO1s7Pa-17" value="Для получения достаточной точности необходимо &amp;nbsp;нецелесообразно много времени" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="N6rhMuFF6IerwjO1s7Pa-17" value="Для получения достаточной точности необходимо обладание оценщиком экспертизы" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1715" y="1100" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="N6rhMuFF6IerwjO1s7Pa-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N6rhMuFF6IerwjO1s7Pa-27" target="N6rhMuFF6IerwjO1s7Pa-6">
@@ -817,7 +817,7 @@
         <mxCell id="N6rhMuFF6IerwjO1s7Pa-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N6rhMuFF6IerwjO1s7Pa-28" target="N6rhMuFF6IerwjO1s7Pa-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N6rhMuFF6IerwjO1s7Pa-28" value="Наличие большого количества различных факторов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="N6rhMuFF6IerwjO1s7Pa-28" value="Наличие большого количества различных факторов, присущих аутсорсным проектам" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="920" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="N6rhMuFF6IerwjO1s7Pa-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N6rhMuFF6IerwjO1s7Pa-29" target="N6rhMuFF6IerwjO1s7Pa-27">
@@ -888,7 +888,7 @@
         <mxCell id="4j_qERbIriXcxH-FNixl-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4j_qERbIriXcxH-FNixl-42" target="4j_qERbIriXcxH-FNixl-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4j_qERbIriXcxH-FNixl-42" value="Для получения достаточной точности необходимо &amp;nbsp;нецелесообразно много времени" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4j_qERbIriXcxH-FNixl-42" value="Использовать существующий метод оценки, не зависящий от экспертной оценки" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3515" y="1110" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4j_qERbIriXcxH-FNixl-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4j_qERbIriXcxH-FNixl-44" target="4j_qERbIriXcxH-FNixl-32">
@@ -900,13 +900,13 @@
         <mxCell id="4j_qERbIriXcxH-FNixl-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4j_qERbIriXcxH-FNixl-46" target="4j_qERbIriXcxH-FNixl-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4j_qERbIriXcxH-FNixl-46" value="Наличие большого количества различных факторов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4j_qERbIriXcxH-FNixl-46" value="Разработать методику учета существенных факторов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3260" y="930" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4j_qERbIriXcxH-FNixl-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4j_qERbIriXcxH-FNixl-48" target="4j_qERbIriXcxH-FNixl-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4j_qERbIriXcxH-FNixl-48" value="Значительная диверсификация проектов по технологиям" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4j_qERbIriXcxH-FNixl-48" value="Снизить влияние конкретных технологий на оценку" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3520" y="930" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4j_qERbIriXcxH-FNixl-49" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="4j_qERbIriXcxH-FNixl-50" target="4j_qERbIriXcxH-FNixl-36">
