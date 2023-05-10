@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T23:37:09.734Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="Pa7EtiCXwQCFpzdBY8oV" version="21.2.9" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-05-10T23:38:44.154Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="QlLLUoaSTYpHBp9gz4Kl" version="21.2.9" type="github" pages="7">
   <diagram name="организация структура" id="OQpa5ru06Z7B6Gejn0i9">
     <mxGraphModel dx="954" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -745,7 +745,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LoD5r0aH3zq62ONL1DUG" name="Дерево проблем">
-    <mxGraphModel dx="47" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="487" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -859,7 +859,7 @@
         <mxCell id="4j_qERbIriXcxH-FNixl-33" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="4j_qERbIriXcxH-FNixl-34" target="4j_qERbIriXcxH-FNixl-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4j_qERbIriXcxH-FNixl-34" value="Сложность учета специфики проектов&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4j_qERbIriXcxH-FNixl-34" value="Разработать методы учета специфики проектов&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3740" y="715" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4j_qERbIriXcxH-FNixl-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4j_qERbIriXcxH-FNixl-36" target="4j_qERbIriXcxH-FNixl-27">
@@ -876,7 +876,7 @@
         <mxCell id="4j_qERbIriXcxH-FNixl-37" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="4j_qERbIriXcxH-FNixl-38" target="4j_qERbIriXcxH-FNixl-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4j_qERbIriXcxH-FNixl-38" value="Неправильный или неполный сбор информации" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4j_qERbIriXcxH-FNixl-38" value="Разработать методы сбора и документации информации" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3970" y="715" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4j_qERbIriXcxH-FNixl-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4j_qERbIriXcxH-FNixl-40" target="4j_qERbIriXcxH-FNixl-46">
@@ -912,7 +912,7 @@
         <mxCell id="4j_qERbIriXcxH-FNixl-49" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="4j_qERbIriXcxH-FNixl-50" target="4j_qERbIriXcxH-FNixl-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4j_qERbIriXcxH-FNixl-50" value="Отсутствие практики полноценного использования технической спецификации" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4j_qERbIriXcxH-FNixl-50" value="Разработать регламент использования технической спецификации" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4210" y="715" width="220" height="100" as="geometry" />
         </mxCell>
       </root>
