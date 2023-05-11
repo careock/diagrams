@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T09:20:25.314Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="5TATS2srZgPGP_-bbUa3" version="21.2.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-05-11T09:20:35.571Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="NH5ZUEXncORQmM9KlmgD" version="21.2.9" type="github" pages="8">
   <diagram name="организация структура" id="OQpa5ru06Z7B6Gejn0i9">
     <mxGraphModel dx="954" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1029,6 +1029,9 @@
         </mxCell>
         <mxCell id="GrbyvBAn4pVNwKmJg9Fi-29" value="Процесс разработки ПО" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="1210" y="1190" width="118" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-30" value="Процесс поддержки" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1400" width="118" height="118" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
