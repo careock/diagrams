@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T09:24:53.637Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="fn-_vv1fJyqMZF4wo2Tk" version="21.2.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-05-11T09:25:29.098Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="ZgftuAGc2ux56YtOlu7f" version="21.2.9" type="github" pages="8">
   <diagram name="организация структура" id="OQpa5ru06Z7B6Gejn0i9">
     <mxGraphModel dx="954" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1034,7 +1034,7 @@
           <mxGeometry x="160" y="370" width="130" height="86" as="geometry" />
         </mxCell>
         <mxCell id="GrbyvBAn4pVNwKmJg9Fi-25" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="1390" width="260" height="50" as="geometry" />
+          <mxGeometry x="558" y="1000" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GrbyvBAn4pVNwKmJg9Fi-26" value="Процесс дизайна&amp;nbsp;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="1240" y="840" width="118" height="118" as="geometry" />
@@ -1062,10 +1062,10 @@
           <mxGeometry x="945" y="980" width="118" height="118" as="geometry" />
         </mxCell>
         <mxCell id="GrbyvBAn4pVNwKmJg9Fi-29" value="Процесс разработки ПО" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="950" y="1240" width="118" height="118" as="geometry" />
+          <mxGeometry x="1150" y="1170" width="118" height="118" as="geometry" />
         </mxCell>
         <mxCell id="GrbyvBAn4pVNwKmJg9Fi-30" value="Процесс поддержки" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="1016" width="118" height="118" as="geometry" />
+          <mxGeometry x="700" y="1220" width="118" height="118" as="geometry" />
         </mxCell>
         <mxCell id="GrbyvBAn4pVNwKmJg9Fi-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrbyvBAn4pVNwKmJg9Fi-28" target="GrbyvBAn4pVNwKmJg9Fi-29">
           <mxGeometry relative="1" as="geometry">
@@ -1089,7 +1089,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrbyvBAn4pVNwKmJg9Fi-26" target="GrbyvBAn4pVNwKmJg9Fi-30">
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrbyvBAn4pVNwKmJg9Fi-26" target="GrbyvBAn4pVNwKmJg9Fi-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1337" y="650" as="sourcePoint" />
             <mxPoint x="1541" y="687" as="targetPoint" />
@@ -1097,6 +1097,17 @@
         </mxCell>
         <mxCell id="GrbyvBAn4pVNwKmJg9Fi-39" value="Дизайн-макеты" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GrbyvBAn4pVNwKmJg9Fi-38">
           <mxGeometry x="-0.1676" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrbyvBAn4pVNwKmJg9Fi-29" target="GrbyvBAn4pVNwKmJg9Fi-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="972" y="1090" as="sourcePoint" />
+            <mxPoint x="811" y="1248" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-50" value="Нефункциональные&lt;br&gt;требования" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GrbyvBAn4pVNwKmJg9Fi-49">
+          <mxGeometry x="-0.2387" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
