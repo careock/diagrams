@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T09:13:16.782Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="7r8FdQ8LeHazswSIHcP6" version="21.2.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-05-11T09:19:52.767Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="Ve5C7g7JACrmtbzRmD4n" version="21.2.9" type="github" pages="8">
   <diagram name="организация структура" id="OQpa5ru06Z7B6Gejn0i9">
     <mxGraphModel dx="954" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -142,78 +142,78 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OPArHdwmCxT7qsWJl8eG" name="карта процессов">
-    <mxGraphModel dx="1363" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1109" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WX6yXTX2OnVCEluPkEM_-2" value="Управляющие процессы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="WX6yXTX2OnVCEluPkEM_-2" value="Управляющие процессы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="120" y="54" width="640" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WX6yXTX2OnVCEluPkEM_-3" value="Поддерживающие процессы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="WX6yXTX2OnVCEluPkEM_-3" value="Поддерживающие процессы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="110" y="430" width="650" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WX6yXTX2OnVCEluPkEM_-4" value="Ключевые процессы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="WX6yXTX2OnVCEluPkEM_-4" value="Ключевые процессы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="120" y="180" width="640" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WX6yXTX2OnVCEluPkEM_-5" value="Заказ клиента" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WX6yXTX2OnVCEluPkEM_-5" value="Заказ клиента" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="260" width="80" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="WX6yXTX2OnVCEluPkEM_-6" value="Готовый заказ клиента" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WX6yXTX2OnVCEluPkEM_-6" value="Готовый заказ клиента" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="260" width="80" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="WX6yXTX2OnVCEluPkEM_-12" value="процесс продаж" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WX6yXTX2OnVCEluPkEM_-12" value="процесс продаж" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="250" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WX6yXTX2OnVCEluPkEM_-13" value="процесс лидогенерации" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WX6yXTX2OnVCEluPkEM_-13" value="процесс лидогенерации" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="220" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WX6yXTX2OnVCEluPkEM_-16" value="процесс дизайна и проектирования&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WX6yXTX2OnVCEluPkEM_-16" value="процесс дизайна и проектирования&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="280" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WX6yXTX2OnVCEluPkEM_-17" value="процесс процесс разработки сметной-проектной документации" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WX6yXTX2OnVCEluPkEM_-17" value="процесс процесс разработки сметной-проектной документации" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="310" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WX6yXTX2OnVCEluPkEM_-18" value="Обеспечение качества" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WX6yXTX2OnVCEluPkEM_-18" value="Обеспечение качества" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="470" width="130" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="WX6yXTX2OnVCEluPkEM_-19" value="Поддержка коммуникации с заказчиком" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WX6yXTX2OnVCEluPkEM_-19" value="Поддержка коммуникации с заказчиком" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="470" width="130" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="WX6yXTX2OnVCEluPkEM_-20" value="процесс разработки ПО" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WX6yXTX2OnVCEluPkEM_-20" value="процесс разработки ПО" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="340" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WX6yXTX2OnVCEluPkEM_-21" value="процесс ввода в эксплуатацию" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WX6yXTX2OnVCEluPkEM_-21" value="процесс ввода в эксплуатацию" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="370" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WX6yXTX2OnVCEluPkEM_-23" value="Проектное планирования" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WX6yXTX2OnVCEluPkEM_-23" value="Проектное планирования" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="94" width="130" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="WX6yXTX2OnVCEluPkEM_-25" value="процесс поддержки ПО" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WX6yXTX2OnVCEluPkEM_-25" value="процесс поддержки ПО" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="400" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WX6yXTX2OnVCEluPkEM_-26" value="Стратегическое планирования" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WX6yXTX2OnVCEluPkEM_-26" value="Стратегическое планирования" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="94" width="130" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="WX6yXTX2OnVCEluPkEM_-27" value="Финансовое планирование" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WX6yXTX2OnVCEluPkEM_-27" value="Финансовое планирование" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="94" width="130" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="WX6yXTX2OnVCEluPkEM_-28" value="Менеджмент персонала" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WX6yXTX2OnVCEluPkEM_-28" value="Менеджмент персонала" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="470" width="130" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="WX6yXTX2OnVCEluPkEM_-29" value="Управление документооборотом" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WX6yXTX2OnVCEluPkEM_-29" value="Управление документооборотом" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="470" width="130" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="WX6yXTX2OnVCEluPkEM_-30" value="Бухгалтерский учет" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WX6yXTX2OnVCEluPkEM_-30" value="Бухгалтерский учет" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="470" width="130" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="WX6yXTX2OnVCEluPkEM_-31" value="Оперативное управление процессами" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WX6yXTX2OnVCEluPkEM_-31" value="Оперативное управление процессами" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="94" width="130" height="86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="WnBNWZrePPtOGONEvn09" name="Процесс">
-    <mxGraphModel dx="954" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1109" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -930,27 +930,102 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6o51qSl2F-7KErCaAYQf" name="111">
-    <mxGraphModel dx="709" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1984" dy="1317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iheCFF-_RU3OZwQnKq4A-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="650" y="680" width="80" height="80" as="geometry" />
+        <mxCell id="iheCFF-_RU3OZwQnKq4A-1" value="Процесс лидогенерации" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="780" y="650" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="iheCFF-_RU3OZwQnKq4A-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iheCFF-_RU3OZwQnKq4A-2" target="iheCFF-_RU3OZwQnKq4A-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iheCFF-_RU3OZwQnKq4A-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iheCFF-_RU3OZwQnKq4A-2" value="Заказчик" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iheCFF-_RU3OZwQnKq4A-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="740" y="840" width="80" height="80" as="geometry" />
+        <mxCell id="iheCFF-_RU3OZwQnKq4A-4" value="Процесс продаж" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="820" y="810" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="iheCFF-_RU3OZwQnKq4A-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iheCFF-_RU3OZwQnKq4A-1" target="iheCFF-_RU3OZwQnKq4A-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="758" y="590" as="sourcePoint" />
             <mxPoint x="715" y="693" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-1" value="Управляющие процессы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="330" width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-2" value="Поддерживающие процессы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="706" width="650" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-3" value="Ключевые процессы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="456" width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-4" value="Заказ клиента" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="536" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-5" value="Готовый заказ клиента" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="536" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-6" value="процесс продаж" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="526" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-7" value="процесс лидогенерации" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="496" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-8" value="процесс дизайна и проектирования&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="556" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-9" value="процесс процесс разработки сметной-проектной документации" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="586" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-10" value="Обеспечение качества" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="746" width="130" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-11" value="Поддержка коммуникации с заказчиком" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="746" width="130" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-12" value="процесс разработки ПО" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="616" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-13" value="процесс ввода в эксплуатацию" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="646" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-14" value="Проектное планирования" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="370" width="130" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-15" value="процесс поддержки ПО" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="676" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-16" value="Стратегическое планирования" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="370" width="130" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-17" value="Финансовое планирование" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="370" width="130" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-18" value="Менеджмент персонала" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="746" width="130" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-19" value="Управление документооборотом" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="746" width="130" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-20" value="Бухгалтерский учет" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="746" width="130" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-21" value="Оперативное управление процессами" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="370" width="130" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-25" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1050" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-26" value="Процесс дизайна&amp;nbsp;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="800" width="118" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-27" value="Процесс проектирования" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="982" width="118" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-28" value="Процесс проектирования" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1180" width="118" height="118" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
