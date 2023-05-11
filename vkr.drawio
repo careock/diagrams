@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T09:25:29.098Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="ZgftuAGc2ux56YtOlu7f" version="21.2.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-05-11T09:27:32.884Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="3GqkG-IWmFzjqHFtLfmx" version="21.2.9" type="github" pages="8">
   <diagram name="организация структура" id="OQpa5ru06Z7B6Gejn0i9">
     <mxGraphModel dx="954" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1033,8 +1033,8 @@
         <mxCell id="GrbyvBAn4pVNwKmJg9Fi-21" value="Оперативное управление процессами" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="370" width="130" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-25" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
-          <mxGeometry x="558" y="1000" width="260" height="50" as="geometry" />
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-25" value="Техническая спецификация (SRS document)&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;FRD, NFR, BRD&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1444" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GrbyvBAn4pVNwKmJg9Fi-26" value="Процесс дизайна&amp;nbsp;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="1240" y="840" width="118" height="118" as="geometry" />
@@ -1050,22 +1050,14 @@
         <mxCell id="GrbyvBAn4pVNwKmJg9Fi-27" value="Процесс проектирования" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="955" y="770" width="118" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrbyvBAn4pVNwKmJg9Fi-28" target="GrbyvBAn4pVNwKmJg9Fi-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-32" value="Нефункциональные&lt;br&gt;требования" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GrbyvBAn4pVNwKmJg9Fi-31">
-          <mxGeometry x="-0.2387" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GrbyvBAn4pVNwKmJg9Fi-28" value="Процесс разработки сметной-проектной документации" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="945" y="980" width="118" height="118" as="geometry" />
         </mxCell>
         <mxCell id="GrbyvBAn4pVNwKmJg9Fi-29" value="Процесс разработки ПО" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="1170" width="118" height="118" as="geometry" />
+          <mxGeometry x="1180" y="1190" width="118" height="118" as="geometry" />
         </mxCell>
         <mxCell id="GrbyvBAn4pVNwKmJg9Fi-30" value="Процесс поддержки" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1220" width="118" height="118" as="geometry" />
+          <mxGeometry x="1210" y="1400" width="118" height="118" as="geometry" />
         </mxCell>
         <mxCell id="GrbyvBAn4pVNwKmJg9Fi-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrbyvBAn4pVNwKmJg9Fi-28" target="GrbyvBAn4pVNwKmJg9Fi-29">
           <mxGeometry relative="1" as="geometry">
@@ -1073,7 +1065,7 @@
             <mxPoint x="1592" y="974" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-34" value="Техническая спецификация (SRS document)&amp;nbsp;&lt;br&gt;FRD, NFR, BRD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GrbyvBAn4pVNwKmJg9Fi-33">
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-34" value="Техническая спецификация&lt;br&gt;(SRS document)&amp;nbsp;&lt;br&gt;FRD, NFR, BRD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GrbyvBAn4pVNwKmJg9Fi-33">
           <mxGeometry x="-0.2387" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1106,9 +1098,31 @@
             <mxPoint x="811" y="1248" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-50" value="Нефункциональные&lt;br&gt;требования" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GrbyvBAn4pVNwKmJg9Fi-49">
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-50" value="Кодовая база, bug reports" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GrbyvBAn4pVNwKmJg9Fi-49">
           <mxGeometry x="-0.2387" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrbyvBAn4pVNwKmJg9Fi-28" target="GrbyvBAn4pVNwKmJg9Fi-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="1097" as="sourcePoint" />
+            <mxPoint x="854" y="1271" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-52" value="Техническая спецификация &lt;br&gt;(SRS document)&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;FRD, NFR, BRD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GrbyvBAn4pVNwKmJg9Fi-51">
+          <mxGeometry x="-0.2387" y="-2" relative="1" as="geometry">
+            <mxPoint x="-15" y="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrbyvBAn4pVNwKmJg9Fi-25" target="GrbyvBAn4pVNwKmJg9Fi-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620.0004895104896" y="1110" as="sourcePoint" />
+            <mxPoint x="858.6903591379066" y="1330.9233097522374" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrbyvBAn4pVNwKmJg9Fi-54" value="Пользовательские сценарии,&lt;br&gt;NFR&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GrbyvBAn4pVNwKmJg9Fi-53">
+          <mxGeometry x="-0.2387" y="-2" relative="1" as="geometry">
+            <mxPoint x="20" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
