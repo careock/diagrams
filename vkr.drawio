@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T09:28:02.935Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="hbPQ_khqdMLJariCLHNH" version="21.2.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-05-11T09:28:16.756Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="UV1Jb9L-gUrb_S9B7K9V" version="21.2.9" type="github" pages="8">
   <diagram name="организация структура" id="OQpa5ru06Z7B6Gejn0i9">
     <mxGraphModel dx="954" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -930,12 +930,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6o51qSl2F-7KErCaAYQf" name="111">
-    <mxGraphModel dx="1705" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2248" dy="1537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="iheCFF-_RU3OZwQnKq4A-1" value="Процесс лидогенерации" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="955" y="421" width="110" height="110" as="geometry" />
+          <mxGeometry x="955" y="446" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="iheCFF-_RU3OZwQnKq4A-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iheCFF-_RU3OZwQnKq4A-2" target="iheCFF-_RU3OZwQnKq4A-1">
           <mxGeometry relative="1" as="geometry" />
@@ -946,7 +946,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iheCFF-_RU3OZwQnKq4A-2" value="Заказчик" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="945" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="950" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GrbyvBAn4pVNwKmJg9Fi-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iheCFF-_RU3OZwQnKq4A-4" target="GrbyvBAn4pVNwKmJg9Fi-27">
           <mxGeometry relative="1" as="geometry" />
@@ -957,7 +957,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iheCFF-_RU3OZwQnKq4A-4" value="Процесс продаж" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="950" y="571" width="120" height="120" as="geometry" />
+          <mxGeometry x="950" y="590" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="iheCFF-_RU3OZwQnKq4A-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iheCFF-_RU3OZwQnKq4A-1" target="iheCFF-_RU3OZwQnKq4A-4">
           <mxGeometry relative="1" as="geometry">
@@ -1034,7 +1034,7 @@
           <mxGeometry x="160" y="370" width="130" height="86" as="geometry" />
         </mxCell>
         <mxCell id="GrbyvBAn4pVNwKmJg9Fi-25" value="Техническая спецификация (SRS document)&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;FRD, NFR, BRD&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1444" width="260" height="50" as="geometry" />
+          <mxGeometry x="730" y="1354" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GrbyvBAn4pVNwKmJg9Fi-26" value="Процесс дизайна&amp;nbsp;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="1180" y="1000" width="118" height="118" as="geometry" />
@@ -1054,10 +1054,10 @@
           <mxGeometry x="837" y="1020" width="118" height="118" as="geometry" />
         </mxCell>
         <mxCell id="GrbyvBAn4pVNwKmJg9Fi-29" value="Процесс разработки ПО" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="1190" width="118" height="118" as="geometry" />
+          <mxGeometry x="1180" y="1150" width="118" height="118" as="geometry" />
         </mxCell>
         <mxCell id="GrbyvBAn4pVNwKmJg9Fi-30" value="Процесс поддержки" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="1410" width="118" height="118" as="geometry" />
+          <mxGeometry x="1220" y="1320" width="118" height="118" as="geometry" />
         </mxCell>
         <mxCell id="GrbyvBAn4pVNwKmJg9Fi-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrbyvBAn4pVNwKmJg9Fi-27" target="GrbyvBAn4pVNwKmJg9Fi-26">
           <mxGeometry relative="1" as="geometry">
