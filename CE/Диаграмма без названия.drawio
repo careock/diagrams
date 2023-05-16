@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T16:18:14.767Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="wGVWuPd0i5usBEejkh7d" version="21.2.9" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-05-16T16:24:24.031Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="IvTthLmMw0MNMnH7lbpl" version="21.2.9" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-1446" dy="2673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1823,7 +1823,7 @@
           <mxGeometry y="164" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="FshjPB1H7nFRpNNr9KF9-26" value="Благотворительность" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="213" y="425" width="182" height="138" as="geometry" />
+          <mxGeometry x="213" y="294" width="182" height="138" as="geometry" />
         </mxCell>
         <mxCell id="FshjPB1H7nFRpNNr9KF9-31" value="Бpercent" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="FshjPB1H7nFRpNNr9KF9-26">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
@@ -1837,7 +1837,7 @@
         <mxCell id="FshjPB1H7nFRpNNr9KF9-18" value="+ setБFeeRecipient" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="FshjPB1H7nFRpNNr9KF9-26">
           <mxGeometry y="86" width="182" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FshjPB1H7nFRpNNr9KF9-25" value="- withdrawБлаготворитльность" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="FshjPB1H7nFRpNNr9KF9-26">
+        <mxCell id="FshjPB1H7nFRpNNr9KF9-25" value="- sendБлаготворитльность" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="FshjPB1H7nFRpNNr9KF9-26">
           <mxGeometry y="112" width="182" height="26" as="geometry" />
         </mxCell>
       </root>
