@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T15:26:18.373Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="gVsPOOP5S5ML045OtELB" version="21.2.9" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-05-16T15:27:35.267Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Z4mIhj37W6YFTcp2aktY" version="21.2.9" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-1446" dy="2673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1641,7 +1641,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2uPxmb7U1pIHdPR1cBjY" name="Финансы">
-    <mxGraphModel dx="2793" dy="1641" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2604" dy="1508" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1740,8 +1740,8 @@
         </mxCell>
         <mxCell id="z28DxBcjiyrVil28kn0U-2" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamondThin;endFill=0;endSize=24;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="161" y="490" as="sourcePoint" />
-            <mxPoint x="-19" y="490" as="targetPoint" />
+            <mxPoint x="441" y="518" as="sourcePoint" />
+            <mxPoint x="261" y="518" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z28DxBcjiyrVil28kn0U-8" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-block-id=&quot;block-6e8ef509-3306-4b9e-a77a-516b9b4f25d3&quot; class=&quot;ql-block&quot;&gt;The given code represents a &lt;/div&gt;&lt;div data-block-id=&quot;block-d5b75906-46c3-4c97-a5f4-5d685cbdb7ff&quot; class=&quot;ql-block&quot;&gt;multisignature wallet contract in Solidity. It allows multiple parties to agree on transactions before they can be executed. The contract is divided into two parts: &lt;code&gt;MultiSigWallet&lt;/code&gt; and &lt;code&gt;MultiSigWalletWithDailyLimit&lt;/code&gt;.&lt;/div&gt;&lt;div data-block-id=&quot;block-0abe7ef6-3e86-4c07-856c-6b037e01c749&quot; class=&quot;ql-block&quot;&gt;The &lt;code&gt;MultiSigWallet&lt;/code&gt; contract defines the basic functionality of a multisignature wallet. It includes features such as adding and removing owners, changing the required number of confirmations, submitting and confirming transactions, revoking confirmations, executing transactions, and retrieving transaction and owner information.&lt;/div&gt;&lt;div data-block-id=&quot;block-66f0bac3-3235-482a-bd7d-746855ee7ee2&quot; class=&quot;ql-block&quot;&gt;The &lt;code&gt;MultiSigWalletWithDailyLimit&lt;/code&gt; contract extends the &lt;code&gt;MultiSigWallet&lt;/code&gt; contract to include a daily withdrawal limit functionality. Owners of the wallet can withdraw funds up to the daily limit without requiring confirmations from other owners.&lt;/div&gt;&lt;div data-block-id=&quot;block-1344dbda-60a5-4fc0-9657-3c029f15ca80&quot; class=&quot;ql-block&quot;&gt;Here is a brief explanation of some key components and functions in the code:&lt;/div&gt;&lt;ul&gt;&lt;li&gt;The &lt;code&gt;Transaction&lt;/code&gt; struct represents a transaction to be executed and includes properties like the destination address, value (amount of ether), data payload, and execution status.&lt;/li&gt;&lt;li&gt;The &lt;code&gt;owners&lt;/code&gt; array stores the addresses of all the owners of the wallet.&lt;/li&gt;&lt;li&gt;The &lt;code&gt;confirmations&lt;/code&gt; mapping tracks which owners have confirmed a particular transaction.&lt;/li&gt;&lt;li&gt;The &lt;code&gt;required&lt;/code&gt; variable defines the number of owner confirmations required for a transaction to be considered valid.&lt;/li&gt;&lt;/ul&gt;&lt;div data-block-id=&quot;block-69fa1200-4eaa-4e5f-b973-f75dd21ce1e2&quot; class=&quot;ql-block&quot;&gt;&lt;/div&gt;&lt;div data-block-id=&quot;block-7ea6f085-5204-4a7f-a038-517df3ba8773&quot; class=&quot;ql-block&quot;&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;The &lt;code&gt;submitTransaction&lt;/code&gt; function allows an owner to submit a new transaction and automatically confirm it.&lt;/li&gt;&lt;li&gt;The &lt;code&gt;confirmTransaction&lt;/code&gt; function is used by an owner to confirm a transaction.&lt;/li&gt;&lt;li&gt;The &lt;code&gt;executeTransaction&lt;/code&gt; function is called to execute a confirmed transaction.&lt;/li&gt;&lt;li&gt;The &lt;code&gt;external_call&lt;/code&gt; function is an internal helper function used to execute external contract calls.&lt;/li&gt;&lt;li&gt;The &lt;code&gt;isConfirmed&lt;/code&gt; function checks if a transaction has received the required number of confirmations.&lt;/li&gt;&lt;li&gt;The &lt;code&gt;getConfirmationCount&lt;/code&gt; function returns the number of confirmations for a given transaction.&lt;/li&gt;&lt;li&gt;The &lt;code&gt;getTransactionCount&lt;/code&gt; function returns the total number of transactions based on specified filters.&lt;/li&gt;&lt;li&gt;The &lt;code&gt;getOwners&lt;/code&gt; function returns the list of owner addresses.&lt;/li&gt;&lt;li&gt;The &lt;code&gt;getConfirmations&lt;/code&gt; function returns the list of owner addresses that have confirmed a specific transaction.&lt;/li&gt;&lt;li&gt;The &lt;code&gt;getTransactionIds&lt;/code&gt; function returns an array of transaction IDs within a specified range.&lt;/li&gt;&lt;/ul&gt;&lt;div data-block-id=&quot;block-26f40b5e-cb73-4427-982e-dffd0e890a3c&quot; class=&quot;ql-block&quot;&gt;The &lt;code&gt;MultiSigWalletWithDailyLimit&lt;/code&gt; contract extends the &lt;code&gt;MultiSigWallet&lt;/code&gt; contract and adds the following features:&lt;/div&gt;&lt;ul&gt;&lt;li&gt;The &lt;code&gt;dailyLimit&lt;/code&gt; variable represents the maximum amount of ether that can be withdrawn without confirmations on a daily basis.&lt;/li&gt;&lt;li&gt;The &lt;code&gt;lastDay&lt;/code&gt; variable keeps track of the last day a withdrawal was made.&lt;/li&gt;&lt;li&gt;The &lt;code&gt;spentToday&lt;/code&gt; variable tracks the total amount of ether withdrawn in the current day.&lt;/li&gt;&lt;li&gt;The &lt;code&gt;changeDailyLimit&lt;/code&gt; function allows the wallet contract to change the daily withdrawal limit.&lt;/li&gt;&lt;li&gt;The &lt;code&gt;executeTransaction&lt;/code&gt; function is modified to consider the daily withdrawal limit. If the transaction is confirmed or if the transaction value is below the daily limit, the transaction is executed without requiring additional confirmations.&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
@@ -1764,6 +1764,24 @@
             <mxPoint x="229" y="701" as="sourcePoint" />
             <mxPoint x="127" y="701" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="z28DxBcjiyrVil28kn0U-25" value="Ownership" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="363" width="182" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="z28DxBcjiyrVil28kn0U-26" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;rounded=0;" vertex="1" parent="z28DxBcjiyrVil28kn0U-25">
+          <mxGeometry y="26" width="182" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="z28DxBcjiyrVil28kn0U-22" value="- pause" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="z28DxBcjiyrVil28kn0U-25">
+          <mxGeometry y="34" width="182" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="z28DxBcjiyrVil28kn0U-24" value="- unpause" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="z28DxBcjiyrVil28kn0U-25">
+          <mxGeometry y="60" width="182" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="z28DxBcjiyrVil28kn0U-23" value="- transferOwnership" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="z28DxBcjiyrVil28kn0U-25">
+          <mxGeometry y="86" width="182" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="z28DxBcjiyrVil28kn0U-28" value="- renounceOwnership" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="z28DxBcjiyrVil28kn0U-25">
+          <mxGeometry y="112" width="182" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
