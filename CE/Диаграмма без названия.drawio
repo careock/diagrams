@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T15:11:19.807Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="FNxr9dXdUgHZEefttufi" version="21.2.9" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-05-16T15:13:56.349Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="aT8-a7TXUz7zFMsRagrC" version="21.2.9" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-1446" dy="2673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -214,7 +214,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s9FCNn2JOylREXp0spJo" name="ERC-20 + 721">
-    <mxGraphModel dx="2722" dy="-8" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2554" dy="-127" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -371,7 +371,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xFvAmQW_zRe3f-eQC2Nm" name="Сущности">
-    <mxGraphModel dx="1190" dy="1522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="872" dy="1297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1229,41 +1229,41 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fL-ExI7_WdFXoGodUgVi" name="Рынки сбыта">
-    <mxGraphModel dx="-2807" dy="41" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-3046" dy="-127" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-1" value="S.C. &quot;Рынки сбыта&quot;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-1" value="S.C. &quot;Рынки сбыта&quot;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="4513" y="1077" width="100" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="Q8-cpZhffDTcG6hXZ2mg-1">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="Q8-cpZhffDTcG6hXZ2mg-1" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-3" value="Chainlink" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-3" value="Chainlink" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="4693" y="1077" width="100" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="Q8-cpZhffDTcG6hXZ2mg-3">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="Q8-cpZhffDTcG6hXZ2mg-3" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-5" value="Система" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-5" value="Система" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="4863" y="1077" width="100" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="Q8-cpZhffDTcG6hXZ2mg-5">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="Q8-cpZhffDTcG6hXZ2mg-5" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-7" value="KYC сервис" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-7" value="KYC сервис" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="5253" y="1077" width="100" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="Q8-cpZhffDTcG6hXZ2mg-7">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="Q8-cpZhffDTcG6hXZ2mg-7" vertex="1">
           <mxGeometry x="45" y="90" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="4376" y="1137" width="10" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-10" value="Игрок" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-10" value="Игрок" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="4366" y="1028" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-11" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-9" target="Q8-cpZhffDTcG6hXZ2mg-2">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-11" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-9" target="Q8-cpZhffDTcG6hXZ2mg-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4443" y="1297" as="sourcePoint" />
             <Array as="points">
@@ -1271,7 +1271,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-12" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-2" target="Q8-cpZhffDTcG6hXZ2mg-9">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-12" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-2" target="Q8-cpZhffDTcG6hXZ2mg-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4443" y="1372" as="targetPoint" />
             <Array as="points">
@@ -1280,7 +1280,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-13" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-2" target="Q8-cpZhffDTcG6hXZ2mg-4">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-13" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-2" target="Q8-cpZhffDTcG6hXZ2mg-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4668" y="1177" as="sourcePoint" />
             <Array as="points">
@@ -1288,7 +1288,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-14" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-4" target="Q8-cpZhffDTcG6hXZ2mg-2">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-14" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-4" target="Q8-cpZhffDTcG6hXZ2mg-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4668" y="1252" as="targetPoint" />
             <Array as="points">
@@ -1297,7 +1297,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-15" value="валидация верификации&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-6" target="Q8-cpZhffDTcG6hXZ2mg-8">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-15" value="валидация верификации&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-6" target="Q8-cpZhffDTcG6hXZ2mg-8" edge="1">
           <mxGeometry x="0.2895" relative="1" as="geometry">
             <mxPoint x="5003" y="1167" as="sourcePoint" />
             <Array as="points">
@@ -1306,7 +1306,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-16" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-8" target="Q8-cpZhffDTcG6hXZ2mg-6">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-16" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-8" target="Q8-cpZhffDTcG6hXZ2mg-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5003" y="1242" as="targetPoint" />
             <Array as="points">
@@ -1316,7 +1316,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-17" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-4" target="Q8-cpZhffDTcG6hXZ2mg-6">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-17" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-4" target="Q8-cpZhffDTcG6hXZ2mg-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4838" y="1177" as="sourcePoint" />
             <Array as="points">
@@ -1324,7 +1324,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-18" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-6" target="Q8-cpZhffDTcG6hXZ2mg-4">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-18" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-6" target="Q8-cpZhffDTcG6hXZ2mg-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4838" y="1252" as="targetPoint" />
             <Array as="points">
@@ -1333,13 +1333,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-19" value="S.C. &quot;Рынок сбыта&quot;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-19" value="S.C. &quot;Рынок сбыта&quot;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="4513" y="1647" width="100" height="421" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="Q8-cpZhffDTcG6hXZ2mg-19">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="Q8-cpZhffDTcG6hXZ2mg-19" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-21" value="initiate &lt;br&gt;reward minting" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="Q8-cpZhffDTcG6hXZ2mg-19" source="Q8-cpZhffDTcG6hXZ2mg-20" target="Q8-cpZhffDTcG6hXZ2mg-20">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-21" value="initiate &lt;br&gt;reward minting" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" parent="Q8-cpZhffDTcG6hXZ2mg-19" source="Q8-cpZhffDTcG6hXZ2mg-20" target="Q8-cpZhffDTcG6hXZ2mg-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="65" y="331" as="sourcePoint" />
             <Array as="points">
@@ -1349,19 +1349,19 @@
             <mxPoint x="65" y="351" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-22" value="Chainlink" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-22" value="Chainlink" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="4683" y="1647" width="100" height="421" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="Q8-cpZhffDTcG6hXZ2mg-22">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="Q8-cpZhffDTcG6hXZ2mg-22" vertex="1">
           <mxGeometry x="45" y="120" width="10" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-24" value="Система" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-24" value="Система" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="4853" y="1656" width="100" height="421" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="Q8-cpZhffDTcG6hXZ2mg-24">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="Q8-cpZhffDTcG6hXZ2mg-24" vertex="1">
           <mxGeometry x="45" y="170" width="10" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-26" value="check if user is verified or &quot;payed&quot;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="Q8-cpZhffDTcG6hXZ2mg-24" source="Q8-cpZhffDTcG6hXZ2mg-25" target="Q8-cpZhffDTcG6hXZ2mg-25">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-26" value="check if user is verified or &quot;payed&quot;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" parent="Q8-cpZhffDTcG6hXZ2mg-24" source="Q8-cpZhffDTcG6hXZ2mg-25" target="Q8-cpZhffDTcG6hXZ2mg-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="57" y="161" as="sourcePoint" />
             <Array as="points">
@@ -1371,7 +1371,7 @@
             <mxPoint x="65" y="201" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-27" value="calculate amount of &lt;br&gt;TREE eligable for withdraw" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="Q8-cpZhffDTcG6hXZ2mg-24" source="Q8-cpZhffDTcG6hXZ2mg-25" target="Q8-cpZhffDTcG6hXZ2mg-25">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-27" value="calculate amount of &lt;br&gt;TREE eligable for withdraw" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" parent="Q8-cpZhffDTcG6hXZ2mg-24" source="Q8-cpZhffDTcG6hXZ2mg-25" target="Q8-cpZhffDTcG6hXZ2mg-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="245" as="sourcePoint" />
             <Array as="points">
@@ -1381,10 +1381,10 @@
             <mxPoint x="50" y="265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-28" value="Игрок" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-28" value="Игрок" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="4283" y="1717" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-29" value="status response" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-20" target="Q8-cpZhffDTcG6hXZ2mg-35">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-29" value="status response" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-20" target="Q8-cpZhffDTcG6hXZ2mg-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4453" y="1951" as="targetPoint" />
             <Array as="points">
@@ -1398,7 +1398,7 @@
             <mxPoint x="4393" y="1977" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-30" value="validation request" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-20" target="Q8-cpZhffDTcG6hXZ2mg-23">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-30" value="validation request" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-20" target="Q8-cpZhffDTcG6hXZ2mg-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4678" y="1756" as="sourcePoint" />
             <Array as="points">
@@ -1412,7 +1412,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-31" value="validation status&lt;br&gt;and information" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-23" target="Q8-cpZhffDTcG6hXZ2mg-20">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-31" value="validation status&lt;br&gt;and information" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-23" target="Q8-cpZhffDTcG6hXZ2mg-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4678" y="1831" as="targetPoint" />
             <Array as="points">
@@ -1428,7 +1428,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-32" value="validation &lt;br&gt;request" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-23" target="Q8-cpZhffDTcG6hXZ2mg-25">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-32" value="validation &lt;br&gt;request" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-23" target="Q8-cpZhffDTcG6hXZ2mg-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5008" y="1756" as="sourcePoint" />
             <Array as="points">
@@ -1438,7 +1438,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-33" value="amount of TREE &lt;br&gt;eligible for withdraw&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fontSize=12;" edge="1" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-25" target="Q8-cpZhffDTcG6hXZ2mg-23">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-33" value="amount of TREE &lt;br&gt;eligible for withdraw&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fontSize=12;" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-25" target="Q8-cpZhffDTcG6hXZ2mg-23" edge="1">
           <mxGeometry x="-0.0556" relative="1" as="geometry">
             <mxPoint x="5008" y="1831" as="targetPoint" />
             <Array as="points">
@@ -1449,13 +1449,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-34" value="DeFi wallet" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-34" value="DeFi wallet" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="4373" y="1647" width="100" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-35" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="Q8-cpZhffDTcG6hXZ2mg-34">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-35" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="Q8-cpZhffDTcG6hXZ2mg-34" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-36" value="initiate trade &lt;br&gt;fullfilment" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" target="Q8-cpZhffDTcG6hXZ2mg-35">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-36" value="initiate trade &lt;br&gt;fullfilment" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;fontSize=12;" parent="1" target="Q8-cpZhffDTcG6hXZ2mg-35" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="4313" y="1757" as="sourcePoint" />
             <mxPoint x="4373" y="1807" as="targetPoint" />
@@ -1464,7 +1464,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-37" value="getReward &lt;br&gt;request" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-35" target="Q8-cpZhffDTcG6hXZ2mg-20">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-37" value="getReward &lt;br&gt;request" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-35" target="Q8-cpZhffDTcG6hXZ2mg-20" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="4423" y="1797" as="sourcePoint" />
             <mxPoint x="4503" y="1797" as="targetPoint" />
@@ -1476,16 +1476,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-38" value="Игрок" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-38" value="Игрок" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="6041" y="1180" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-39" value="DeFi wallet" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-39" value="DeFi wallet" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="6131" y="1110" width="100" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-40" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="Q8-cpZhffDTcG6hXZ2mg-39">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-40" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="Q8-cpZhffDTcG6hXZ2mg-39" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-41" value="initiate trade &lt;br&gt;fullfilment" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" target="Q8-cpZhffDTcG6hXZ2mg-40">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-41" value="initiate trade &lt;br&gt;fullfilment" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;fontSize=12;" parent="1" target="Q8-cpZhffDTcG6hXZ2mg-40" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="6071" y="1220" as="sourcePoint" />
             <mxPoint x="6131" y="1270" as="targetPoint" />
@@ -1494,13 +1494,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-42" value="S.C. &quot;Рынок сбыта&quot;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-42" value="S.C. &quot;Рынок сбыта&quot;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="6265" y="1666" width="100" height="421" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-43" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="Q8-cpZhffDTcG6hXZ2mg-42">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-43" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="Q8-cpZhffDTcG6hXZ2mg-42" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-44" value="initiate &lt;br&gt;reward minting" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="Q8-cpZhffDTcG6hXZ2mg-42" source="Q8-cpZhffDTcG6hXZ2mg-43" target="Q8-cpZhffDTcG6hXZ2mg-43">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-44" value="initiate &lt;br&gt;reward minting" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" parent="Q8-cpZhffDTcG6hXZ2mg-42" source="Q8-cpZhffDTcG6hXZ2mg-43" target="Q8-cpZhffDTcG6hXZ2mg-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="65" y="331" as="sourcePoint" />
             <Array as="points">
@@ -1510,19 +1510,19 @@
             <mxPoint x="65" y="351" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-45" value="Chainlink" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-45" value="Chainlink" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="6435" y="1666" width="100" height="421" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-46" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="Q8-cpZhffDTcG6hXZ2mg-45">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-46" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="Q8-cpZhffDTcG6hXZ2mg-45" vertex="1">
           <mxGeometry x="45" y="120" width="10" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-47" value="Система" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-47" value="Система" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="6605" y="1675" width="100" height="421" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-48" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="Q8-cpZhffDTcG6hXZ2mg-47">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-48" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="Q8-cpZhffDTcG6hXZ2mg-47" vertex="1">
           <mxGeometry x="45" y="170" width="10" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-49" value="check if user is verified or &quot;payed&quot;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="Q8-cpZhffDTcG6hXZ2mg-47" source="Q8-cpZhffDTcG6hXZ2mg-48" target="Q8-cpZhffDTcG6hXZ2mg-48">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-49" value="check if user is verified or &quot;payed&quot;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" parent="Q8-cpZhffDTcG6hXZ2mg-47" source="Q8-cpZhffDTcG6hXZ2mg-48" target="Q8-cpZhffDTcG6hXZ2mg-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="57" y="161" as="sourcePoint" />
             <Array as="points">
@@ -1532,7 +1532,7 @@
             <mxPoint x="65" y="201" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-50" value="calculate amount of &lt;br&gt;TREE eligable for withdraw" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="Q8-cpZhffDTcG6hXZ2mg-47" source="Q8-cpZhffDTcG6hXZ2mg-48" target="Q8-cpZhffDTcG6hXZ2mg-48">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-50" value="calculate amount of &lt;br&gt;TREE eligable for withdraw" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" parent="Q8-cpZhffDTcG6hXZ2mg-47" source="Q8-cpZhffDTcG6hXZ2mg-48" target="Q8-cpZhffDTcG6hXZ2mg-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="245" as="sourcePoint" />
             <Array as="points">
@@ -1542,10 +1542,10 @@
             <mxPoint x="50" y="265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-51" value="Игрок" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-51" value="Игрок" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="6035" y="1736" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-52" value="status response" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-43" target="Q8-cpZhffDTcG6hXZ2mg-58">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-52" value="status response" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-43" target="Q8-cpZhffDTcG6hXZ2mg-58" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="6205" y="1970" as="targetPoint" />
             <Array as="points">
@@ -1559,7 +1559,7 @@
             <mxPoint x="6145" y="1996" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-53" value="validation request" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-43" target="Q8-cpZhffDTcG6hXZ2mg-46">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-53" value="validation request" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-43" target="Q8-cpZhffDTcG6hXZ2mg-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="6430" y="1775" as="sourcePoint" />
             <Array as="points">
@@ -1573,7 +1573,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-54" value="validation status&lt;br&gt;and information" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-46" target="Q8-cpZhffDTcG6hXZ2mg-43">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-54" value="validation status&lt;br&gt;and information" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-46" target="Q8-cpZhffDTcG6hXZ2mg-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="6430" y="1850" as="targetPoint" />
             <Array as="points">
@@ -1589,7 +1589,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-55" value="validation &lt;br&gt;request" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-46" target="Q8-cpZhffDTcG6hXZ2mg-48">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-55" value="validation &lt;br&gt;request" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-46" target="Q8-cpZhffDTcG6hXZ2mg-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="6760" y="1775" as="sourcePoint" />
             <Array as="points">
@@ -1599,7 +1599,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-56" value="amount of TREE &lt;br&gt;eligible for withdraw&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fontSize=12;" edge="1" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-48" target="Q8-cpZhffDTcG6hXZ2mg-46">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-56" value="amount of TREE &lt;br&gt;eligible for withdraw&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fontSize=12;" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-48" target="Q8-cpZhffDTcG6hXZ2mg-46" edge="1">
           <mxGeometry x="-0.0556" relative="1" as="geometry">
             <mxPoint x="6760" y="1850" as="targetPoint" />
             <Array as="points">
@@ -1610,13 +1610,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-57" value="DeFi wallet" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-57" value="DeFi wallet" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="6125" y="1666" width="100" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-58" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="Q8-cpZhffDTcG6hXZ2mg-57">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-58" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" parent="Q8-cpZhffDTcG6hXZ2mg-57" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-59" value="initiate withdrawl" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" target="Q8-cpZhffDTcG6hXZ2mg-58">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-59" value="initiate withdrawl" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;fontSize=12;" parent="1" target="Q8-cpZhffDTcG6hXZ2mg-58" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="6065" y="1776" as="sourcePoint" />
             <mxPoint x="6125" y="1826" as="targetPoint" />
@@ -1625,7 +1625,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-60" value="getReward &lt;br&gt;request" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-58" target="Q8-cpZhffDTcG6hXZ2mg-43">
+        <mxCell id="Q8-cpZhffDTcG6hXZ2mg-60" value="getReward &lt;br&gt;request" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="Q8-cpZhffDTcG6hXZ2mg-58" target="Q8-cpZhffDTcG6hXZ2mg-43" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="6175" y="1816" as="sourcePoint" />
             <mxPoint x="6255" y="1816" as="targetPoint" />
@@ -1641,7 +1641,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2uPxmb7U1pIHdPR1cBjY" name="Финансы">
-    <mxGraphModel dx="2660" dy="748" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2467" dy="612" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1649,7 +1649,7 @@
           <mxGeometry x="-1293" y="673" width="779.1" height="958" as="geometry" />
         </mxCell>
         <mxCell id="lu14GP-3lymqNPwP8V3t-1" value="MultiSigWallet" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="44" y="547" width="182" height="268" as="geometry" />
+          <mxGeometry x="44" y="547" width="182" height="190" as="geometry" />
         </mxCell>
         <mxCell id="oCfZlcyCRVg7YKxARQkf-30" value="lastDay" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="lu14GP-3lymqNPwP8V3t-1">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
@@ -1669,20 +1669,11 @@
         <mxCell id="lu14GP-3lymqNPwP8V3t-6" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;rounded=0;" parent="lu14GP-3lymqNPwP8V3t-1" vertex="1">
           <mxGeometry y="156" width="182" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="lu14GP-3lymqNPwP8V3t-3" value="+ submitTransaction" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="lu14GP-3lymqNPwP8V3t-1" vertex="1">
+        <mxCell id="oCfZlcyCRVg7YKxARQkf-32" value="+ changeDayLimit" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="lu14GP-3lymqNPwP8V3t-1">
           <mxGeometry y="164" width="182" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="oCfZlcyCRVg7YKxARQkf-1" value="+ confirmTransaction" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="lu14GP-3lymqNPwP8V3t-1">
-          <mxGeometry y="190" width="182" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="oCfZlcyCRVg7YKxARQkf-32" value="+ changeDayLimit" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="lu14GP-3lymqNPwP8V3t-1">
-          <mxGeometry y="216" width="182" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="oCfZlcyCRVg7YKxARQkf-2" value="+ executeTransaction" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="lu14GP-3lymqNPwP8V3t-1">
-          <mxGeometry y="242" width="182" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="lu14GP-3lymqNPwP8V3t-8" value="Fees" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="463" y="673" width="182" height="86" as="geometry" />
+          <mxGeometry x="312" y="686" width="182" height="112" as="geometry" />
         </mxCell>
         <mxCell id="lu14GP-3lymqNPwP8V3t-9" value="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="lu14GP-3lymqNPwP8V3t-8" vertex="1">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
@@ -1690,11 +1681,14 @@
         <mxCell id="lu14GP-3lymqNPwP8V3t-10" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;rounded=0;" parent="lu14GP-3lymqNPwP8V3t-8" vertex="1">
           <mxGeometry y="52" width="182" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="lu14GP-3lymqNPwP8V3t-11" value="+ stage" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="lu14GP-3lymqNPwP8V3t-8" vertex="1">
+        <mxCell id="lu14GP-3lymqNPwP8V3t-11" value="+ setFee" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="lu14GP-3lymqNPwP8V3t-8" vertex="1">
           <mxGeometry y="60" width="182" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="C61byAKfe5Oblf38NK49-1" value="+ setFeeRecipient" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="lu14GP-3lymqNPwP8V3t-8">
+          <mxGeometry y="86" width="182" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="lu14GP-3lymqNPwP8V3t-12" value="Transaction" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="446" y="461" width="182" height="138" as="geometry" />
+          <mxGeometry x="312" y="481" width="182" height="138" as="geometry" />
         </mxCell>
         <mxCell id="oCfZlcyCRVg7YKxARQkf-34" value="confirmations" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="lu14GP-3lymqNPwP8V3t-12">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
@@ -1754,7 +1748,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="p5SsUAG1_GjVNtL2NbAN" name="Контекстная">
-    <mxGraphModel dx="3077" dy="1346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2123" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1990,7 +1984,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SC маркетплейса" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="5160" dy="4087" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-246" dy="273" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
