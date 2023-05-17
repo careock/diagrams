@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T07:55:59.060Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="4Ea5RbFpEPVw1RANw0Ex" version="21.3.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-05-17T07:56:46.254Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="D4yu3m39xy97uXwcKEpe" version="21.3.2" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-966" dy="2853" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1641,7 +1641,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2uPxmb7U1pIHdPR1cBjY" name="Финансы">
-    <mxGraphModel dx="3649" dy="2019" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2795" dy="1511" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1814,7 +1814,7 @@
           <mxGeometry y="164" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="FshjPB1H7nFRpNNr9KF9-26" value="Charity" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="304" y="838" width="182" height="138" as="geometry" />
+          <mxGeometry x="304" y="838" width="182" height="112" as="geometry" />
         </mxCell>
         <mxCell id="FshjPB1H7nFRpNNr9KF9-31" value="charityFee" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="FshjPB1H7nFRpNNr9KF9-26" vertex="1">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
@@ -1822,14 +1822,11 @@
         <mxCell id="FshjPB1H7nFRpNNr9KF9-27" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;rounded=0;" parent="FshjPB1H7nFRpNNr9KF9-26" vertex="1">
           <mxGeometry y="52" width="182" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="FshjPB1H7nFRpNNr9KF9-28" value="+ setБFee" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="FshjPB1H7nFRpNNr9KF9-26" vertex="1">
+        <mxCell id="FshjPB1H7nFRpNNr9KF9-28" value="- setCharityFee" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="FshjPB1H7nFRpNNr9KF9-26" vertex="1">
           <mxGeometry y="60" width="182" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FshjPB1H7nFRpNNr9KF9-18" value="+ setБFeeRecipient" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="FshjPB1H7nFRpNNr9KF9-26" vertex="1">
+        <mxCell id="FshjPB1H7nFRpNNr9KF9-25" value="- sendCharityFee" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="FshjPB1H7nFRpNNr9KF9-26" vertex="1">
           <mxGeometry y="86" width="182" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="FshjPB1H7nFRpNNr9KF9-25" value="- sendБлаготворитльность" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="FshjPB1H7nFRpNNr9KF9-26" vertex="1">
-          <mxGeometry y="112" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OyJveZ2Z53jnjTskhZ13-3" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamondThin;endFill=0;endSize=16;elbow=vertical;" edge="1" parent="1" source="FshjPB1H7nFRpNNr9KF9-26" target="oCfZlcyCRVg7YKxARQkf-8">
           <mxGeometry relative="1" as="geometry">
