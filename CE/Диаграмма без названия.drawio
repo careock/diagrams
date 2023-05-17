@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T12:09:31.412Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="k8jtPpbIEv6jg6eqGzb9" version="21.3.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-05-17T12:09:46.474Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="XCsp8ijF9k_5zHizZEP8" version="21.3.2" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-966" dy="2853" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1660,10 +1660,10 @@
         <mxCell id="oCfZlcyCRVg7YKxARQkf-20" value="dailyLimit" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="lu14GP-3lymqNPwP8V3t-1" vertex="1">
           <mxGeometry y="78" width="182" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="oCfZlcyCRVg7YKxARQkf-31" value="PLANTspentToday" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="lu14GP-3lymqNPwP8V3t-1" vertex="1">
+        <mxCell id="oCfZlcyCRVg7YKxARQkf-31" value="PlantSpentToday" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="lu14GP-3lymqNPwP8V3t-1" vertex="1">
           <mxGeometry y="104" width="182" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="OyJveZ2Z53jnjTskhZ13-9" value="TREEspentToday" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="lu14GP-3lymqNPwP8V3t-1">
+        <mxCell id="OyJveZ2Z53jnjTskhZ13-9" value="TreeSpentToday" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="lu14GP-3lymqNPwP8V3t-1">
           <mxGeometry y="130" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="oCfZlcyCRVg7YKxARQkf-33" value="admins" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="lu14GP-3lymqNPwP8V3t-1" vertex="1">
