@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T10:41:35.557Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="35lWDpRuvczoffMaoiTH" version="21.3.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-05-17T10:53:38.593Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="EvLyOAhgRW8FVUN3gU0X" version="21.3.2" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-966" dy="2853" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1702,7 +1702,7 @@
         <mxCell id="z28DxBcjiyrVil28kn0U-9" value="- isConfirmed" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="lu14GP-3lymqNPwP8V3t-12" vertex="1">
           <mxGeometry y="138" width="182" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="z28DxBcjiyrVil28kn0U-10" value="- getConfirmationCount" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="lu14GP-3lymqNPwP8V3t-12" vertex="1">
+        <mxCell id="z28DxBcjiyrVil28kn0U-10" value="- getConfirmations" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="lu14GP-3lymqNPwP8V3t-12" vertex="1">
           <mxGeometry y="164" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="C61byAKfe5Oblf38NK49-4" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=12;endArrow=block;endFill=0;elbow=vertical;" parent="1" source="oCfZlcyCRVg7YKxARQkf-8" target="lu14GP-3lymqNPwP8V3t-1" edge="1">
