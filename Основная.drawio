@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T11:16:03.604Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="CDOUucBJs_3uqEGfniyH" version="21.3.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-05-22T12:10:27.473Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Jm3e911OtFo6otMYrYP3" version="21.3.2" type="github" pages="11">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="657" dy="4243" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2699,7 +2699,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SC маркетплейса" id="BOJsoSEfQLmtbxHjsDLz">
-    <mxGraphModel dx="-303" dy="253" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4536" dy="3112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3785,45 +3785,6 @@
             <mxPoint x="-17" y="25" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UvqsLZzrArS1hHLnVVpe-105" value="Финансы" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="5073" y="678" width="122" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="UvqsLZzrArS1hHLnVVpe-106" value="S.C. &quot;Аукцион&quot;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="5084" y="851" width="199" height="294" as="geometry" />
-        </mxCell>
-        <mxCell id="UvqsLZzrArS1hHLnVVpe-107" value="- nftSmartContracts: mapping" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="UvqsLZzrArS1hHLnVVpe-106" vertex="1">
-          <mxGeometry y="26" width="199" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="UvqsLZzrArS1hHLnVVpe-121" value="- erc20SmartContracts: mapping" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="UvqsLZzrArS1hHLnVVpe-106" vertex="1">
-          <mxGeometry y="52" width="199" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="UvqsLZzrArS1hHLnVVpe-111" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="UvqsLZzrArS1hHLnVVpe-106" vertex="1">
-          <mxGeometry y="78" width="199" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="UvqsLZzrArS1hHLnVVpe-113" value="+ transferOwnership" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="UvqsLZzrArS1hHLnVVpe-106" vertex="1">
-          <mxGeometry y="86" width="199" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="UvqsLZzrArS1hHLnVVpe-114" value="+ pause " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="UvqsLZzrArS1hHLnVVpe-106" vertex="1">
-          <mxGeometry y="112" width="199" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="UvqsLZzrArS1hHLnVVpe-115" value="+ unpause" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="UvqsLZzrArS1hHLnVVpe-106" vertex="1">
-          <mxGeometry y="138" width="199" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="UvqsLZzrArS1hHLnVVpe-116" value="+ withdraw" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="UvqsLZzrArS1hHLnVVpe-106" vertex="1">
-          <mxGeometry y="164" width="199" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="UvqsLZzrArS1hHLnVVpe-117" value="+ changeCommissionAddress" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="UvqsLZzrArS1hHLnVVpe-106" vertex="1">
-          <mxGeometry y="190" width="199" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="UvqsLZzrArS1hHLnVVpe-120" value="+ addNewSmartcontract" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="UvqsLZzrArS1hHLnVVpe-106" vertex="1">
-          <mxGeometry y="216" width="199" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="UvqsLZzrArS1hHLnVVpe-122" value="+ changeSmartContractAddress" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="UvqsLZzrArS1hHLnVVpe-106" vertex="1">
-          <mxGeometry y="242" width="199" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="UvqsLZzrArS1hHLnVVpe-119" value="+ changeComissionPercent" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="UvqsLZzrArS1hHLnVVpe-106" vertex="1">
-          <mxGeometry y="268" width="199" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="VmaodDpGAgOZDJmlIU3v-9" value="Cancelations" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="4210" y="1844" width="182" height="52" as="geometry" />
         </mxCell>
@@ -3845,36 +3806,6 @@
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="-17" y="25" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="4oJvVFlKMCJFi15rzrlC-1" value="Рынок сбыта" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="5784" y="683" width="166" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="4oJvVFlKMCJFi15rzrlC-2" value="S.C. &quot;Рынок сбыта&quot;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="5800" y="854" width="199" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="4oJvVFlKMCJFi15rzrlC-5" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="4oJvVFlKMCJFi15rzrlC-2" vertex="1">
-          <mxGeometry y="26" width="199" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="cyTYVrXIECxog4X8K2Sr-1" value="NFT smartcontracts" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="5384" y="727" width="199" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="cyTYVrXIECxog4X8K2Sr-2" value="- nftSmartContracts: mapping" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="cyTYVrXIECxog4X8K2Sr-1" vertex="1">
-          <mxGeometry y="26" width="199" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="cyTYVrXIECxog4X8K2Sr-3" value="- erc20SmartContracts: mapping" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="cyTYVrXIECxog4X8K2Sr-1" vertex="1">
-          <mxGeometry y="52" width="199" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="cyTYVrXIECxog4X8K2Sr-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="cyTYVrXIECxog4X8K2Sr-1" vertex="1">
-          <mxGeometry y="78" width="199" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="cyTYVrXIECxog4X8K2Sr-13" value="erc20SmartContracts" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="5384" y="950" width="199" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="cyTYVrXIECxog4X8K2Sr-14" value="address" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="cyTYVrXIECxog4X8K2Sr-13" vertex="1">
-          <mxGeometry y="26" width="199" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="cyTYVrXIECxog4X8K2Sr-17" value="address" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="cyTYVrXIECxog4X8K2Sr-13" vertex="1">
-          <mxGeometry y="52" width="199" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
