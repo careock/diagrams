@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T15:32:49.398Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="WNMFJzw_dp5NXg1Nq5ce" version="21.3.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-22T15:33:13.775Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="m6cRma3LzfHejUXpKu9E" version="21.3.2" type="github" pages="12">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="1697" dy="4509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -575,7 +575,7 @@
             <mxPoint x="-209" y="1014" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2z1LM9T3_MGwqNh-F7-n-2" value="покупатель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="2z1LM9T3_MGwqNh-F7-n-2" value="Владелец NFT" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-268" y="1786.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2z1LM9T3_MGwqNh-F7-n-3" value="Смарт-контракт &quot;Деревья&quot;" style="swimlane;whiteSpace=wrap;html=1;labelBorderColor=none;swimlaneLine=0;fontColor=default;strokeColor=#242424;" vertex="1" parent="1">
