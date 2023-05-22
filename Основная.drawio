@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T15:33:13.775Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="m6cRma3LzfHejUXpKu9E" version="21.3.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-22T15:34:16.171Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="EVte6fkm75i28DkKbtyt" version="21.3.2" type="github" pages="12">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="1697" dy="4509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -335,7 +335,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CPX2y4bf_DTZpoddZVtU" name="ERC-721">
-    <mxGraphModel dx="2104" dy="798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3006" dy="1351" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -615,9 +615,6 @@
         <mxCell id="2z1LM9T3_MGwqNh-F7-n-18" value="Смарт-контракт &quot;TREE&quot;" style="swimlane;whiteSpace=wrap;html=1;swimlaneLine=0;gradientColor=none;fillColor=none;strokeColor=#242424;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="163" y="1731" width="247" height="196" as="geometry" />
         </mxCell>
-        <mxCell id="2z1LM9T3_MGwqNh-F7-n-19" value="approveForAll" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="2z1LM9T3_MGwqNh-F7-n-18">
-          <mxGeometry x="558" y="49" width="90" height="43" as="geometry" />
-        </mxCell>
         <mxCell id="2z1LM9T3_MGwqNh-F7-n-20" value="mint" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="2z1LM9T3_MGwqNh-F7-n-18">
           <mxGeometry x="81" y="66" width="99" height="44" as="geometry" />
         </mxCell>
@@ -651,9 +648,6 @@
         </mxCell>
         <mxCell id="2z1LM9T3_MGwqNh-F7-n-75" value="Смарт-контракт &quot;Чертеж завода&quot;" style="swimlane;whiteSpace=wrap;html=1;swimlaneLine=0;gradientColor=none;fillColor=none;strokeColor=#242424;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="163" y="1927" width="248" height="229" as="geometry" />
-        </mxCell>
-        <mxCell id="2z1LM9T3_MGwqNh-F7-n-76" value="approveForAll" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="2z1LM9T3_MGwqNh-F7-n-75">
-          <mxGeometry x="558" y="49" width="90" height="43" as="geometry" />
         </mxCell>
         <mxCell id="2z1LM9T3_MGwqNh-F7-n-72" value="mint" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="2z1LM9T3_MGwqNh-F7-n-75">
           <mxGeometry x="87" y="120" width="99" height="44" as="geometry" />
