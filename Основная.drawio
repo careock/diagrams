@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T13:42:31.549Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="mFu9thoSJQaGC2Tt5nzo" version="21.3.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-22T13:42:42.235Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="l2HokieTi6yghvwVF5EF" version="21.3.2" type="github" pages="12">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="1697" dy="4509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -335,7 +335,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CPX2y4bf_DTZpoddZVtU" name="ERC-721">
-    <mxGraphModel dx="2712" dy="1571" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2047" dy="763" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -448,7 +448,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RId7HZstPXyoeukzWSBG-34" value="аренда" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-1" y="291" width="133" height="133" as="geometry" />
+          <mxGeometry x="-7" y="291" width="133" height="133" as="geometry" />
         </mxCell>
         <mxCell id="RId7HZstPXyoeukzWSBG-42" value="mint" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-711" y="291" width="133" height="133" as="geometry" />
@@ -457,10 +457,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RId7HZstPXyoeukzWSBG-43" value="СК PLANT" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="-3" width="160" height="86" as="geometry" />
+          <mxGeometry x="-720" y="74" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="RId7HZstPXyoeukzWSBG-49" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="RId7HZstPXyoeukzWSBG-47" target="RId7HZstPXyoeukzWSBG-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RId7HZstPXyoeukzWSBG-47" value="approveForAll" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="208" y="291" width="133" height="133" as="geometry" />
+          <mxGeometry x="194" y="291" width="133" height="133" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
