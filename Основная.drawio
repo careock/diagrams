@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T15:47:14.615Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="V4cOHtXF5hmFatvEJvBv" version="21.3.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-22T15:57:03.336Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="WJv9oue0HfQ0H5mWFEgx" version="21.3.2" type="github" pages="12">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="1697" dy="4509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -335,15 +335,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CPX2y4bf_DTZpoddZVtU" name="ERC-721">
-    <mxGraphModel dx="3006" dy="1351" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2047" dy="763" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="n_Hg6TVZqlzlgwpI49G0-1" value="&lt;&lt;interface&gt;&gt; &#xa;ERC-721" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=39;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-717" y="889.5" width="182" height="48" as="geometry" />
+          <mxGeometry x="-726" y="889.5" width="182" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0RfP0_3DAhNkY-Ktb071-1" value="S.C. Деревья" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=39;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-477" y="851" width="182" height="125" as="geometry" />
+          <mxGeometry x="-478" y="851" width="182" height="125" as="geometry" />
         </mxCell>
         <mxCell id="0RfP0_3DAhNkY-Ktb071-2" value="upgradeLevels[]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;" vertex="1" parent="0RfP0_3DAhNkY-Ktb071-1">
           <mxGeometry y="39" width="182" height="26" as="geometry" />
