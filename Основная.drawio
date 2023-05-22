@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T12:17:49.867Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="B-0Ah-k4qm6JbSF7gcoF" version="21.3.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-22T12:18:44.351Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ET16qnEyROoYj0b76xwP" version="21.3.2" type="github" pages="12">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="1697" dy="4509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -335,12 +335,45 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CPX2y4bf_DTZpoddZVtU" name="ERC-721">
-    <mxGraphModel dx="3668" dy="956" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2166" dy="36" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="n_Hg6TVZqlzlgwpI49G0-1" value="&lt;&lt;interface&gt;&gt; &#xa;ERC-721" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=39;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-419" y="1019" width="182" height="48" as="geometry" />
+          <mxGeometry x="-528" y="1019" width="182" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0RfP0_3DAhNkY-Ktb071-1" value="S.C. Техника" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=39;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="1093" width="182" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="0RfP0_3DAhNkY-Ktb071-2" value="balances" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;" vertex="1" parent="0RfP0_3DAhNkY-Ktb071-1">
+          <mxGeometry y="39" width="182" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="0RfP0_3DAhNkY-Ktb071-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;rounded=0;" vertex="1" parent="0RfP0_3DAhNkY-Ktb071-1">
+          <mxGeometry y="65" width="182" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="0RfP0_3DAhNkY-Ktb071-8" value="+ approveForAll" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;" vertex="1" parent="0RfP0_3DAhNkY-Ktb071-1">
+          <mxGeometry y="73" width="182" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="0RfP0_3DAhNkY-Ktb071-9" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="0RfP0_3DAhNkY-Ktb071-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-256" y="1730" as="sourcePoint" />
+            <mxPoint x="-290" y="1036" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-191" y="1140" />
+              <mxPoint x="-126" y="1034" />
+              <mxPoint x="-132" y="1246" />
+              <mxPoint x="-266" y="1481" />
+              <mxPoint x="-101" y="1532" />
+              <mxPoint x="-266" y="1517" />
+              <mxPoint x="-256" y="1570" />
+              <mxPoint x="-33" y="1656" />
+              <mxPoint x="-153" y="1596" />
+              <mxPoint x="-173" y="1476" />
+              <mxPoint x="-113" y="1406" />
+              <mxPoint x="-113" y="1466" />
+              <mxPoint x="48" y="1406" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
