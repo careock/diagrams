@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T16:27:06.629Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="3gb1hRRNC7z8EXasp97K" version="21.3.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-26T16:31:08.808Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="X2Pxtlrn3lDT5wvOSYjo" version="21.3.4" type="github" pages="12">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="1697" dy="4437" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -335,7 +335,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CPX2y4bf_DTZpoddZVtU" name="ERC-721">
-    <mxGraphModel dx="2593" dy="1066" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2047" dy="742" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -681,11 +681,17 @@
         <mxCell id="XOGtWZegE_2UiibxK_lN-6" value="+ mintNFT" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;" vertex="1" parent="XOGtWZegE_2UiibxK_lN-2">
           <mxGeometry y="99" width="182" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="vQ0pJw8K4y8dfdT7EbEy-1" value="Allowences" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=39;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-751" y="1103" width="182" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="vQ0pJw8K4y8dfdT7EbEy-2" value="address" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;" vertex="1" parent="vQ0pJw8K4y8dfdT7EbEy-1">
+          <mxGeometry y="39" width="182" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="xFvAmQW_zRe3f-eQC2Nm" name="Сущности">
-    <mxGraphModel dx="9160" dy="6253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1649" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -962,7 +968,7 @@
           <mxGeometry y="182" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dSnuXkMimng7IdVMOjFN-88" value="NFT" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="3520" y="540" width="182" height="238" as="geometry" />
+          <mxGeometry x="3520" y="540" width="182" height="212" as="geometry" />
         </mxCell>
         <mxCell id="dSnuXkMimng7IdVMOjFN-22" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="dSnuXkMimng7IdVMOjFN-88" vertex="1">
           <mxGeometry y="30" width="182" height="26" as="geometry" />
@@ -979,14 +985,11 @@
         <mxCell id="1n2AZCSPmpbpA7FVhe-w-26" value="S.C. address" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="dSnuXkMimng7IdVMOjFN-88" vertex="1">
           <mxGeometry y="134" width="182" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="dSnuXkMimng7IdVMOjFN-106" value="currency" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="dSnuXkMimng7IdVMOjFN-88" vertex="1">
+        <mxCell id="dSnuXkMimng7IdVMOjFN-108" value="is_on_L2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="dSnuXkMimng7IdVMOjFN-88" vertex="1">
           <mxGeometry y="160" width="182" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="dSnuXkMimng7IdVMOjFN-108" value="is_on_L2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="dSnuXkMimng7IdVMOjFN-88" vertex="1">
-          <mxGeometry y="186" width="182" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="dSnuXkMimng7IdVMOjFN-109" value="timestamp_minted" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="dSnuXkMimng7IdVMOjFN-88" vertex="1">
-          <mxGeometry y="212" width="182" height="26" as="geometry" />
+          <mxGeometry y="186" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1n2AZCSPmpbpA7FVhe-w-1" value="" style="endArrow=diamondThin;html=1;rounded=0;endFill=0;endSize=24;edgeStyle=elbowEdgeStyle;" parent="1" source="dSnuXkMimng7IdVMOjFN-17" target="avsSEZx10Kzngl5tKC2M-17" edge="1">
           <mxGeometry relative="1" as="geometry">
