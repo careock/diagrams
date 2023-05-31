@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T15:22:40.501Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="d1lNrlfTVSdzTFw24otX" version="21.3.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-31T15:22:49.497Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="l5Um_UIteX98ps7-v7mm" version="21.3.4" type="github" pages="12">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-622" dy="3306" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1966,7 +1966,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fL-ExI7_WdFXoGodUgVi" name="Рынки сбыта">
-    <mxGraphModel dx="3423" dy="1233" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2470" dy="133" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1974,16 +1974,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CVVsGj45L-rQEsAGtmJR-11" value="Владелец" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="795" width="160" height="86" as="geometry" />
+          <mxGeometry x="-879" y="1020" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="CVVsGj45L-rQEsAGtmJR-14" value="Хранилище смарт-контракта" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-949" y="1629" width="330" height="30" as="geometry" />
+          <mxGeometry x="-966.5" y="1563" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CVVsGj45L-rQEsAGtmJR-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="CVVsGj45L-rQEsAGtmJR-16" target="CVVsGj45L-rQEsAGtmJR-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CVVsGj45L-rQEsAGtmJR-16" value="Управление&amp;nbsp; функциональностью MultiSigWallet" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-1010" y="1247" width="177" height="177" as="geometry" />
+          <mxGeometry x="-890" y="1250" width="177" height="177" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
