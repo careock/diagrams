@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T16:37:11.774Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="FvppXT_wNnXRF3pQxrjH" version="21.3.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-31T18:26:20.150Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Jh4oOhSARRNxUCMukjMQ" version="21.3.4" type="github" pages="12">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-622" dy="3306" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1966,7 +1966,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fL-ExI7_WdFXoGodUgVi" name="Рынки сбыта">
-    <mxGraphModel dx="2978" dy="506" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2715" dy="322" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2014,7 +2014,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Om9FiwA3GgE7s_mBR5Hz-26" value="update user&#39;s balance" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="Om9FiwA3GgE7s_mBR5Hz-1" source="Om9FiwA3GgE7s_mBR5Hz-2" target="Om9FiwA3GgE7s_mBR5Hz-2">
+        <mxCell id="Om9FiwA3GgE7s_mBR5Hz-26" value="update gamer&#39;s balance" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="Om9FiwA3GgE7s_mBR5Hz-1" source="Om9FiwA3GgE7s_mBR5Hz-2" target="Om9FiwA3GgE7s_mBR5Hz-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="297" y="351" as="sourcePoint" />
             <Array as="points">
@@ -2081,7 +2081,7 @@
         <mxCell id="Om9FiwA3GgE7s_mBR5Hz-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="Om9FiwA3GgE7s_mBR5Hz-20">
           <mxGeometry x="45" y="170" width="10" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="Om9FiwA3GgE7s_mBR5Hz-25" value="mint tokens &lt;br&gt;to user&#39;s wallet &lt;br&gt;address" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="Om9FiwA3GgE7s_mBR5Hz-20" source="Om9FiwA3GgE7s_mBR5Hz-21" target="Om9FiwA3GgE7s_mBR5Hz-21">
+        <mxCell id="Om9FiwA3GgE7s_mBR5Hz-25" value="mint tokens &lt;br&gt;to gamer&#39;s wallet &lt;br&gt;address" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="Om9FiwA3GgE7s_mBR5Hz-20" source="Om9FiwA3GgE7s_mBR5Hz-21" target="Om9FiwA3GgE7s_mBR5Hz-21">
           <mxGeometry x="-0.0513" y="7" relative="1" as="geometry">
             <mxPoint x="62" y="239" as="sourcePoint" />
             <Array as="points">
