@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T15:23:44.878Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="knxtx5YEvN6MI5OAUStu" version="21.3.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-31T15:30:16.656Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="SH2RfcXZ8RGPU3fiT8Eu" version="21.3.4" type="github" pages="12">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-622" dy="3306" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1966,7 +1966,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fL-ExI7_WdFXoGodUgVi" name="Рынки сбыта">
-    <mxGraphModel dx="2978" dy="506" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2089" dy="-147" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1993,6 +1993,130 @@
         </mxCell>
         <mxCell id="CVVsGj45L-rQEsAGtmJR-24" value="Вывод" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="37" y="1243" width="177" height="177" as="geometry" />
+        </mxCell>
+        <mxCell id="Om9FiwA3GgE7s_mBR5Hz-1" value="S.C. &quot;Рынок сбыта&quot;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="1865" width="100" height="421" as="geometry" />
+        </mxCell>
+        <mxCell id="Om9FiwA3GgE7s_mBR5Hz-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="Om9FiwA3GgE7s_mBR5Hz-1">
+          <mxGeometry x="45" y="100" width="10" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Om9FiwA3GgE7s_mBR5Hz-3" value="initiate &lt;br&gt;reward minting" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="Om9FiwA3GgE7s_mBR5Hz-1" source="Om9FiwA3GgE7s_mBR5Hz-2" target="Om9FiwA3GgE7s_mBR5Hz-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="331" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="90" y="341" />
+              <mxPoint x="90" y="361" />
+            </Array>
+            <mxPoint x="65" y="351" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Om9FiwA3GgE7s_mBR5Hz-6" value="Система" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-364" y="1843" width="100" height="421" as="geometry" />
+        </mxCell>
+        <mxCell id="Om9FiwA3GgE7s_mBR5Hz-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="Om9FiwA3GgE7s_mBR5Hz-6">
+          <mxGeometry x="45" y="170" width="10" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Om9FiwA3GgE7s_mBR5Hz-8" value="check if user is verified or &quot;payed&quot;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="Om9FiwA3GgE7s_mBR5Hz-6" source="Om9FiwA3GgE7s_mBR5Hz-7" target="Om9FiwA3GgE7s_mBR5Hz-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="57" y="161" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="211" />
+              <mxPoint x="80" y="231" />
+            </Array>
+            <mxPoint x="65" y="201" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Om9FiwA3GgE7s_mBR5Hz-9" value="calculate amount of &lt;br&gt;TREE eligable for withdraw" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="Om9FiwA3GgE7s_mBR5Hz-6" source="Om9FiwA3GgE7s_mBR5Hz-7" target="Om9FiwA3GgE7s_mBR5Hz-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="245" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="75" y="251" />
+              <mxPoint x="75" y="271" />
+            </Array>
+            <mxPoint x="50" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Om9FiwA3GgE7s_mBR5Hz-10" value="Игрок" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-930" y="1935" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Om9FiwA3GgE7s_mBR5Hz-11" value="status response" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" source="Om9FiwA3GgE7s_mBR5Hz-2" target="Om9FiwA3GgE7s_mBR5Hz-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-760" y="2169" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-690" y="2255" />
+              <mxPoint x="-730" y="2245" />
+              <mxPoint x="-680" y="2205" />
+              <mxPoint x="-700" y="2205" />
+              <mxPoint x="-680" y="2274" />
+              <mxPoint x="-690" y="2044" />
+            </Array>
+            <mxPoint x="-820" y="2195" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Om9FiwA3GgE7s_mBR5Hz-13" value="validation status&lt;br&gt;and information" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" target="Om9FiwA3GgE7s_mBR5Hz-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-535" y="2049" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-500" y="2185" />
+              <mxPoint x="-460" y="2195" />
+              <mxPoint x="-440" y="2185" />
+              <mxPoint x="-370" y="2185" />
+              <mxPoint x="-390" y="2245" />
+              <mxPoint x="-430" y="2165" />
+              <mxPoint x="-510" y="2154" />
+              <mxPoint x="-590" y="2034" />
+            </Array>
+            <mxPoint as="offset" />
+            <mxPoint x="-484.9999999999998" y="2185" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Om9FiwA3GgE7s_mBR5Hz-14" value="validation &lt;br&gt;request" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="Om9FiwA3GgE7s_mBR5Hz-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-474.9999999999998" y="2065" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-350" y="2065" />
+              <mxPoint x="-310" y="2165" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Om9FiwA3GgE7s_mBR5Hz-15" value="amount of TREE &lt;br&gt;eligible for withdraw&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fontSize=12;" edge="1" parent="1" source="Om9FiwA3GgE7s_mBR5Hz-7">
+          <mxGeometry x="-0.0556" relative="1" as="geometry">
+            <mxPoint x="-474.9999999999998" y="2165" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-440" y="2165" />
+              <mxPoint x="-310" y="2055" />
+            </Array>
+            <mxPoint x="-20" y="2275" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Om9FiwA3GgE7s_mBR5Hz-16" value="Фронтенд" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="1865" width="100" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="Om9FiwA3GgE7s_mBR5Hz-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="Om9FiwA3GgE7s_mBR5Hz-16">
+          <mxGeometry x="45" y="100" width="10" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Om9FiwA3GgE7s_mBR5Hz-18" value="initiate withdrawl" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" target="Om9FiwA3GgE7s_mBR5Hz-17">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="-900" y="1975" as="sourcePoint" />
+            <mxPoint x="-840" y="2025" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-850" y="1975" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Om9FiwA3GgE7s_mBR5Hz-19" value="getReward &lt;br&gt;request" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Om9FiwA3GgE7s_mBR5Hz-17" target="Om9FiwA3GgE7s_mBR5Hz-2">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-790" y="2015" as="sourcePoint" />
+            <mxPoint x="-710" y="2015" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-760" y="1995" />
+              <mxPoint x="-740" y="2025" />
+              <mxPoint x="-690" y="1985" />
+              <mxPoint x="-670" y="1995" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -4378,7 +4502,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Er8KJV211eDlapSOatZE" name="Архив">
-    <mxGraphModel dx="6727" dy="4753" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="18580" dy="13460" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
