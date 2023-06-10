@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T01:04:38.706Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="mvPh3GSkAnH5VnHec99Z" version="21.3.7" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-06-10T01:10:20.864Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="MakqjFoQclpgcnvnQega" version="21.3.7" type="github" pages="13">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-1130" dy="2933" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -5820,7 +5820,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="G_IrISzo8CbkQ_ZhK_lq" name="Синдикаты">
-    <mxGraphModel dx="1274" dy="1024" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1677" dy="1497" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6403,7 +6403,7 @@
         <mxCell id="HW1M0QwQ9ZSiA937G9d--104" value="- submitPolicy" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="HW1M0QwQ9ZSiA937G9d--100">
           <mxGeometry y="112" width="182" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="HW1M0QwQ9ZSiA937G9d--92" value="- calculateIfApproved" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="HW1M0QwQ9ZSiA937G9d--100">
+        <mxCell id="HW1M0QwQ9ZSiA937G9d--92" value="- calculateIfPolicyIsApproved" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="HW1M0QwQ9ZSiA937G9d--100">
           <mxGeometry y="138" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HW1M0QwQ9ZSiA937G9d--105" value="- approvePolicy" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="HW1M0QwQ9ZSiA937G9d--100">
