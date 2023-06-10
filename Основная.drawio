@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T00:55:25.159Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ugTy6YxxITxKqT_ZTb7A" version="21.3.7" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-06-10T00:55:36.571Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="uLi2h6rSr01YLM5xvCxY" version="21.3.7" type="github" pages="13">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-1130" dy="2933" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -5820,7 +5820,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="G_IrISzo8CbkQ_ZhK_lq" name="Синдикаты">
-    <mxGraphModel dx="1783" dy="1622" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1586" dy="1390" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6599,30 +6599,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4064" y="533" as="sourcePoint" />
             <mxPoint x="4131" y="533" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HW1M0QwQ9ZSiA937G9d--188" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;elbow=vertical;" edge="1" parent="1" source="HW1M0QwQ9ZSiA937G9d--141" target="HW1M0QwQ9ZSiA937G9d--167">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3434" y="612" as="sourcePoint" />
-            <mxPoint x="3434" y="572" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3182" y="853" />
-              <mxPoint x="3294" y="853" />
-              <mxPoint x="3180" y="909" />
-              <mxPoint x="3004" y="900" />
-              <mxPoint x="3968" y="735" />
-              <mxPoint x="3899" y="703" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HW1M0QwQ9ZSiA937G9d--190" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;elbow=vertical;" edge="1" parent="1" source="HW1M0QwQ9ZSiA937G9d--86" target="HW1M0QwQ9ZSiA937G9d--167">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3331" y="331" as="sourcePoint" />
-            <mxPoint x="3265" y="331" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3180" y="542" />
-              <mxPoint x="3299" y="535" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HW1M0QwQ9ZSiA937G9d--191" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;elbow=vertical;" edge="1" parent="1" source="HW1M0QwQ9ZSiA937G9d--155" target="HW1M0QwQ9ZSiA937G9d--167">
