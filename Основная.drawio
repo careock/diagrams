@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T00:56:09.552Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="J56gF1ged6OoB3rnT0y3" version="21.3.7" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-06-10T00:56:12.306Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Pe39vNfnG43sq60Zkap3" version="21.3.7" type="github" pages="13">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-1130" dy="2933" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6711,6 +6711,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3614" y="507" as="sourcePoint" />
             <mxPoint x="4032" y="744" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3278" y="919" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
