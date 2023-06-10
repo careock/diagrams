@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T00:55:36.571Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="uLi2h6rSr01YLM5xvCxY" version="21.3.7" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-06-10T00:56:09.552Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="J56gF1ged6OoB3rnT0y3" version="21.3.7" type="github" pages="13">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-1130" dy="2933" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6601,6 +6601,20 @@
             <mxPoint x="4131" y="533" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HW1M0QwQ9ZSiA937G9d--188" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;elbow=vertical;" edge="1" parent="1" source="HW1M0QwQ9ZSiA937G9d--86" target="HW1M0QwQ9ZSiA937G9d--167">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3434" y="612" as="sourcePoint" />
+            <mxPoint x="3434" y="572" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3347" y="504" />
+              <mxPoint x="3294" y="853" />
+              <mxPoint x="3180" y="909" />
+              <mxPoint x="3004" y="900" />
+              <mxPoint x="3968" y="735" />
+              <mxPoint x="3899" y="703" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HW1M0QwQ9ZSiA937G9d--191" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;elbow=vertical;" edge="1" parent="1" source="HW1M0QwQ9ZSiA937G9d--155" target="HW1M0QwQ9ZSiA937G9d--167">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3331" y="331" as="sourcePoint" />
@@ -6654,7 +6668,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Nk-RJinM44aaKvJrHhvn-12" value="Голос за вступление" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="3857" y="939" width="182" height="112" as="geometry" />
+          <mxGeometry x="3055" y="1013" width="182" height="112" as="geometry" />
         </mxCell>
         <mxCell id="Nk-RJinM44aaKvJrHhvn-13" value="isSupporting" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="Nk-RJinM44aaKvJrHhvn-12">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
@@ -6669,7 +6683,7 @@
           <mxGeometry y="86" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Nk-RJinM44aaKvJrHhvn-17" value="Заявка на вступление" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="3857" y="788" width="182" height="86" as="geometry" />
+          <mxGeometry x="3057" y="879" width="182" height="86" as="geometry" />
         </mxCell>
         <mxCell id="Nk-RJinM44aaKvJrHhvn-18" value="address" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="Nk-RJinM44aaKvJrHhvn-17">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
@@ -6685,7 +6699,8 @@
             <mxPoint x="3434" y="658" as="sourcePoint" />
             <mxPoint x="3434" y="593" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3948" y="932" />
+              <mxPoint x="3148" y="977" />
+              <mxPoint x="3284" y="880" />
               <mxPoint x="3796" y="236" />
               <mxPoint x="3774" y="272" />
               <mxPoint x="3929" y="211" />
