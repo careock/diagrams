@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T15:51:45.144Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="v-J0sYD9ucyT_OcIZ8kT" version="21.3.8" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-06-15T15:53:08.173Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jYq8ubbufx1cC-MyNoC5" version="21.3.8" type="github" pages="13">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-1491" dy="2673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6603,7 +6603,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AistmRKEGbFnsoMNfWNu-77" value="Участник синдиката" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="5341" y="1652" width="120" height="60" as="geometry" />
+          <mxGeometry x="5339" y="1677" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AistmRKEGbFnsoMNfWNu-79" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="AistmRKEGbFnsoMNfWNu-77" target="AistmRKEGbFnsoMNfWNu-75">
           <mxGeometry relative="1" as="geometry">
@@ -6620,8 +6620,8 @@
         <mxCell id="AistmRKEGbFnsoMNfWNu-84" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="AistmRKEGbFnsoMNfWNu-83" target="AistmRKEGbFnsoMNfWNu-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AistmRKEGbFnsoMNfWNu-83" value="Глава дивизиона" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="6359" y="1617" width="120" height="60" as="geometry" />
+        <mxCell id="AistmRKEGbFnsoMNfWNu-83" value="Главы дивизионов" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="6308" y="1622" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AistmRKEGbFnsoMNfWNu-96" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="AistmRKEGbFnsoMNfWNu-89" target="AistmRKEGbFnsoMNfWNu-74">
           <mxGeometry relative="1" as="geometry">
