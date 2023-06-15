@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T12:41:01.981Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="iKpr_BrfTt1vFyphS5ti" version="21.3.8" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-06-15T12:41:33.851Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Rq26fHk1Ccy7jSvsiuRy" version="21.3.8" type="github" pages="13">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-1491" dy="2673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -5820,7 +5820,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="G_IrISzo8CbkQ_ZhK_lq" name="Синдикаты">
-    <mxGraphModel dx="-193" dy="2351" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-1553" dy="1542" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6467,32 +6467,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gbaVU5IVxQu2pvaHn5ir-29" value="Attribute" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="5001" y="1227" width="182" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="gbaVU5IVxQu2pvaHn5ir-30" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="gbaVU5IVxQu2pvaHn5ir-29">
-          <mxGeometry y="26" width="182" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="gbaVU5IVxQu2pvaHn5ir-31" value="value" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="gbaVU5IVxQu2pvaHn5ir-29">
-          <mxGeometry y="52" width="182" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="gbaVU5IVxQu2pvaHn5ir-32" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=16;endSize=8;endArrow=none;endFill=0;elbow=vertical;startArrow=diamondThin;startFill=0;" edge="1" parent="1" source="gbaVU5IVxQu2pvaHn5ir-24" target="gbaVU5IVxQu2pvaHn5ir-29">
+        <mxCell id="gbaVU5IVxQu2pvaHn5ir-33" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5193" y="1071" as="sourcePoint" />
-            <mxPoint x="5260" y="1071" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="5114" y="1238" />
-              <mxPoint x="5507" y="1228" />
-              <mxPoint x="5486" y="1065" />
-              <mxPoint x="5452" y="1053" />
-              <mxPoint x="5234" y="1071" />
-              <mxPoint x="5016" y="785" />
-              <mxPoint x="5034" y="828" />
-            </Array>
+            <mxPoint x="5137.5" y="1227" as="sourcePoint" />
+            <mxPoint x="5137.5" y="1227" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="gbaVU5IVxQu2pvaHn5ir-33" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="gbaVU5IVxQu2pvaHn5ir-29" target="gbaVU5IVxQu2pvaHn5ir-29">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gbaVU5IVxQu2pvaHn5ir-54" value="rightsToManageRights" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3820" y="-654" width="212" height="26" as="geometry" />
@@ -6546,6 +6525,12 @@
               <mxPoint x="5307" y="596" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AistmRKEGbFnsoMNfWNu-35" value="Upgrade" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="5290" y="1145" width="182" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="AistmRKEGbFnsoMNfWNu-37" value="newUpgradeLevels" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="AistmRKEGbFnsoMNfWNu-35">
+          <mxGeometry y="26" width="182" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
