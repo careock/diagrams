@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T14:31:59.561Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="WYFQuUpMUmLntkvpQT06" version="21.3.8" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-06-15T15:44:53.557Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tqg_EqdzmA7tQ1DmxHuB" version="21.3.8" type="github" pages="13">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-1491" dy="2673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -5820,7 +5820,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="G_IrISzo8CbkQ_ZhK_lq" name="Синдикаты">
-    <mxGraphModel dx="-713" dy="1804" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-10" dy="2222" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6589,6 +6589,15 @@
               <mxPoint x="3858" y="228" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AistmRKEGbFnsoMNfWNu-74" value="Управление группой" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="5293" y="1880" width="216" height="216" as="geometry" />
+        </mxCell>
+        <mxCell id="AistmRKEGbFnsoMNfWNu-75" value="Управление демократическим и сбалансированным синдикатами" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="5631" y="1880" width="216" height="216" as="geometry" />
+        </mxCell>
+        <mxCell id="AistmRKEGbFnsoMNfWNu-76" value="Управление авторитарным синдикатом" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="6028" y="1875" width="216" height="216" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
