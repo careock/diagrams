@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T05:17:04.389Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-nSa8xUe1xwDLGFPzRJL" version="21.3.8" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-06-15T05:18:50.181Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NG25lrUs7OmGaJi8vMf7" version="21.3.8" type="github" pages="13">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-1491" dy="2673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -5820,7 +5820,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="G_IrISzo8CbkQ_ZhK_lq" name="Синдикаты">
-    <mxGraphModel dx="-1501" dy="961" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-1934" dy="641" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6353,7 +6353,7 @@
         <mxCell id="iWi1LyXkio6wP6rhCRS7-13" value="divisionName" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="iWi1LyXkio6wP6rhCRS7-1" vertex="1">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="dEnzKCAXtZ7AIf-m77cj-1" value="attribute" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="iWi1LyXkio6wP6rhCRS7-1" vertex="1">
+        <mxCell id="dEnzKCAXtZ7AIf-m77cj-1" value="attribute" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="iWi1LyXkio6wP6rhCRS7-1" vertex="1">
           <mxGeometry y="52" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iWi1LyXkio6wP6rhCRS7-5" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=16;endSize=8;endArrow=none;endFill=0;elbow=vertical;startArrow=diamondThin;startFill=0;" parent="1" source="HW1M0QwQ9ZSiA937G9d--66" target="iWi1LyXkio6wP6rhCRS7-1" edge="1">
