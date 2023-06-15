@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T10:10:06.343Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="UQHrKCyvnKREap5_WiiD" version="21.3.8" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-06-15T10:15:41.934Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="TJVdQCRsuqY19idDZ0Lx" version="21.3.8" type="github" pages="13">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-1491" dy="2673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -5820,7 +5820,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="G_IrISzo8CbkQ_ZhK_lq" name="Синдикаты">
-    <mxGraphModel dx="-1512" dy="656" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-940" dy="948" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5926,10 +5926,10 @@
         <mxCell id="iWi1LyXkio6wP6rhCRS7-10" value="- sendRewards" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="HW1M0QwQ9ZSiA937G9d--66" vertex="1">
           <mxGeometry y="311" width="182" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="HW1M0QwQ9ZSiA937G9d--74" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=12;endArrow=block;endFill=0;elbow=vertical;" parent="1" source="dEnzKCAXtZ7AIf-m77cj-2" target="BcrVp7SAHlHn-iIxkAku-9" edge="1">
+        <mxCell id="HW1M0QwQ9ZSiA937G9d--74" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=12;endArrow=block;endFill=0;elbow=vertical;" parent="1" source="dEnzKCAXtZ7AIf-m77cj-2" target="HW1M0QwQ9ZSiA937G9d--131" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4120" y="908" as="sourcePoint" />
-            <mxPoint x="4243" y="635" as="targetPoint" />
+            <mxPoint x="5473" y="646" as="targetPoint" />
             <Array as="points">
               <mxPoint x="5521" y="646" />
               <mxPoint x="5287" y="576" />
@@ -6374,7 +6374,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dEnzKCAXtZ7AIf-m77cj-2" value="Глава дивизиона" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="5574" y="619" width="182" height="60" as="geometry" />
+          <mxGeometry x="5348" y="631" width="182" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dEnzKCAXtZ7AIf-m77cj-3" value="division" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="dEnzKCAXtZ7AIf-m77cj-2" vertex="1">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
@@ -6416,35 +6416,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BcrVp7SAHlHn-iIxkAku-1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="iWi1LyXkio6wP6rhCRS7-1" target="BcrVp7SAHlHn-iIxkAku-9">
+        <mxCell id="BcrVp7SAHlHn-iIxkAku-1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="iWi1LyXkio6wP6rhCRS7-1" target="HW1M0QwQ9ZSiA937G9d--131">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5157" y="756" as="sourcePoint" />
-            <mxPoint x="5404" y="727" as="targetPoint" />
+            <mxPoint x="5355" y="676" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="5172" y="775" />
               <mxPoint x="5355" y="747" />
               <mxPoint x="5417" y="696" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="BcrVp7SAHlHn-iIxkAku-12" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=12;endArrow=block;endFill=0;elbow=vertical;" edge="1" parent="1" source="BcrVp7SAHlHn-iIxkAku-9" target="HW1M0QwQ9ZSiA937G9d--131">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5331" y="586" as="sourcePoint" />
-            <mxPoint x="5248" y="586" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="5319" y="665" />
-              <mxPoint x="5384" y="714" />
-              <mxPoint x="5297" y="586" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BcrVp7SAHlHn-iIxkAku-9" value="Участник дивизиона" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="5291" y="616" width="182" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BcrVp7SAHlHn-iIxkAku-10" value="division" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="BcrVp7SAHlHn-iIxkAku-9">
-          <mxGeometry y="26" width="182" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="BcrVp7SAHlHn-iIxkAku-11" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;rounded=0;" vertex="1" parent="BcrVp7SAHlHn-iIxkAku-9">
-          <mxGeometry y="52" width="182" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
