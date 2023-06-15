@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T15:50:42.052Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="p9tNZKzYb6NSAcaNODEI" version="21.3.8" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-06-15T15:51:06.074Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NYAj9H5PwVshtl_tCxhW" version="21.3.8" type="github" pages="13">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-1491" dy="2673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -5820,7 +5820,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="G_IrISzo8CbkQ_ZhK_lq" name="Синдикаты">
-    <mxGraphModel dx="207" dy="2351" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-194" dy="2112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6597,13 +6597,13 @@
           <mxGeometry x="5615" y="1942" width="163" height="163" as="geometry" />
         </mxCell>
         <mxCell id="AistmRKEGbFnsoMNfWNu-76" value="Управление авторитарным синдикатом" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="5813" y="1933" width="163" height="163" as="geometry" />
+          <mxGeometry x="6233" y="1920" width="163" height="163" as="geometry" />
         </mxCell>
         <mxCell id="AistmRKEGbFnsoMNfWNu-78" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="AistmRKEGbFnsoMNfWNu-77" target="AistmRKEGbFnsoMNfWNu-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AistmRKEGbFnsoMNfWNu-77" value="Участник синдиката" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="5532" y="1630" width="120" height="60" as="geometry" />
+          <mxGeometry x="5443" y="1643" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AistmRKEGbFnsoMNfWNu-79" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="AistmRKEGbFnsoMNfWNu-77" target="AistmRKEGbFnsoMNfWNu-75">
           <mxGeometry relative="1" as="geometry">
@@ -6615,13 +6615,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AistmRKEGbFnsoMNfWNu-81" value="Глава синдиката" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="5754" y="1633" width="120" height="60" as="geometry" />
+          <mxGeometry x="6174" y="1620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AistmRKEGbFnsoMNfWNu-84" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="AistmRKEGbFnsoMNfWNu-83" target="AistmRKEGbFnsoMNfWNu-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AistmRKEGbFnsoMNfWNu-83" value="Глава дивизиона" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="5939" y="1630" width="120" height="60" as="geometry" />
+          <mxGeometry x="6359" y="1617" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AistmRKEGbFnsoMNfWNu-96" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="AistmRKEGbFnsoMNfWNu-89" target="AistmRKEGbFnsoMNfWNu-74">
           <mxGeometry relative="1" as="geometry">
@@ -6641,19 +6641,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AistmRKEGbFnsoMNfWNu-91" value="Создание авторитарного синдиката" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="6074" y="1929" width="167" height="167" as="geometry" />
+          <mxGeometry x="5983" y="1930" width="167" height="167" as="geometry" />
         </mxCell>
         <mxCell id="AistmRKEGbFnsoMNfWNu-92" value="Игрок" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="6129" y="1625" width="120" height="60" as="geometry" />
+          <mxGeometry x="5995" y="1622" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AistmRKEGbFnsoMNfWNu-93" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="AistmRKEGbFnsoMNfWNu-92" target="AistmRKEGbFnsoMNfWNu-91">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="6612" y="1613" as="sourcePoint" />
-            <mxPoint x="6445" y="1889" as="targetPoint" />
+            <mxPoint x="7032" y="1600" as="sourcePoint" />
+            <mxPoint x="6865" y="1876" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AistmRKEGbFnsoMNfWNu-97" value="Игрок" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="5040" y="1633" width="120" height="60" as="geometry" />
+          <mxGeometry x="5040" y="1642" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AistmRKEGbFnsoMNfWNu-99" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="AistmRKEGbFnsoMNfWNu-74" target="AistmRKEGbFnsoMNfWNu-98">
           <mxGeometry relative="1" as="geometry">
