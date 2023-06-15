@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T10:40:55.354Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RIENr1WY9Aoy7yHvvA7Q" version="21.3.8" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-06-15T10:42:09.053Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DHgWSL-XVJj7ImHm0U04" version="21.3.8" type="github" pages="13">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-1491" dy="2673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6483,6 +6483,42 @@
               <mxPoint x="5672" y="625" />
               <mxPoint x="5531" y="656" />
               <mxPoint x="5297" y="586" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gbaVU5IVxQu2pvaHn5ir-24" value="Ветка дивизиона" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="5250" y="1041" width="182" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gbaVU5IVxQu2pvaHn5ir-28" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=16;endSize=8;endArrow=none;endFill=0;elbow=vertical;startArrow=diamondThin;startFill=0;" edge="1" parent="1" source="iWi1LyXkio6wP6rhCRS7-1" target="gbaVU5IVxQu2pvaHn5ir-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4988" y="775" as="sourcePoint" />
+            <mxPoint x="5102" y="1032" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="5224" y="1061" />
+              <mxPoint x="5006" y="775" />
+              <mxPoint x="5024" y="818" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gbaVU5IVxQu2pvaHn5ir-29" value="Attribute" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="5515" y="1041" width="182" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="gbaVU5IVxQu2pvaHn5ir-30" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="gbaVU5IVxQu2pvaHn5ir-29">
+          <mxGeometry y="26" width="182" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gbaVU5IVxQu2pvaHn5ir-31" value="value" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="gbaVU5IVxQu2pvaHn5ir-29">
+          <mxGeometry y="52" width="182" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gbaVU5IVxQu2pvaHn5ir-32" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=16;endSize=8;endArrow=none;endFill=0;elbow=vertical;startArrow=diamondThin;startFill=0;" edge="1" parent="1" source="gbaVU5IVxQu2pvaHn5ir-24" target="gbaVU5IVxQu2pvaHn5ir-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5193" y="1071" as="sourcePoint" />
+            <mxPoint x="5260" y="1071" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="5486" y="1065" />
+              <mxPoint x="5452" y="1053" />
+              <mxPoint x="5234" y="1071" />
+              <mxPoint x="5016" y="785" />
+              <mxPoint x="5034" y="828" />
             </Array>
           </mxGeometry>
         </mxCell>
