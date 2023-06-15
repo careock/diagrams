@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T12:50:57.107Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HxySnA5rR97N_Djrzx1n" version="21.3.8" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-06-15T12:51:16.696Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZVcvEUpZBX299tSEAs8Q" version="21.3.8" type="github" pages="13">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-1491" dy="2673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6497,7 +6497,7 @@
         <mxCell id="AistmRKEGbFnsoMNfWNu-26" value="rightsToSetRewardPercentages" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="AistmRKEGbFnsoMNfWNu-21">
           <mxGeometry y="145" width="212" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="AistmRKEGbFnsoMNfWNu-27" value="rightsToUpgradeBranchOfDivision" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="AistmRKEGbFnsoMNfWNu-21">
+        <mxCell id="AistmRKEGbFnsoMNfWNu-27" value="rightsToUpgradeBranch" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="AistmRKEGbFnsoMNfWNu-21">
           <mxGeometry y="171" width="212" height="26" as="geometry" />
         </mxCell>
         <mxCell id="AistmRKEGbFnsoMNfWNu-29" value="rightsToSetPolicies" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="AistmRKEGbFnsoMNfWNu-21">
@@ -6548,6 +6548,9 @@
               <mxPoint x="5079" y="663" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AistmRKEGbFnsoMNfWNu-41" value="rightsToUpgradeSyndicate" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="5854" y="391" width="212" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
