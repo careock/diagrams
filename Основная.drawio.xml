@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T05:19:03.478Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fILfa0auIfkNsJm0apQE" version="21.3.8" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-06-15T05:19:25.218Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qirMdt0Yf2-xhnsMV71D" version="21.3.8" type="github" pages="13">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-1491" dy="2673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -5820,7 +5820,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="G_IrISzo8CbkQ_ZhK_lq" name="Синдикаты">
-    <mxGraphModel dx="-1588" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-1790" dy="748" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6408,6 +6408,15 @@
             <Array as="points">
               <mxPoint x="3551" y="114" />
               <mxPoint x="3810" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BcrVp7SAHlHn-iIxkAku-1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="iWi1LyXkio6wP6rhCRS7-1" target="dEnzKCAXtZ7AIf-m77cj-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5157" y="756" as="sourcePoint" />
+            <mxPoint x="5157" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="5417" y="696" />
             </Array>
           </mxGeometry>
         </mxCell>
