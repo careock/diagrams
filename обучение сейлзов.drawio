@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T12:01:12.152Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DCh2dLBVinW5ZN6Kpx25" version="21.5.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-20T12:01:27.152Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-kp7SusIFoebXR0HaHEf" version="21.5.0" type="github" pages="2">
   <diagram id="8788a3DS1QVcUZw9lr2Y" name="1">
-    <mxGraphModel dx="521" dy="1910" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="2666" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -575,7 +575,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RrqE9qkYfOPVqTJPEBIi-144" value="&lt;b&gt;broker&lt;/b&gt;&lt;br&gt;&lt;i&gt;rabbitMQ&lt;/i&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;rotation=0;verticalAlign=middle;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="4783" y="-142.5" width="179.75" height="44" as="geometry" />
+          <mxGeometry x="4772" y="-115" width="179.75" height="44" as="geometry" />
         </mxCell>
         <mxCell id="RrqE9qkYfOPVqTJPEBIi-145" value="&lt;b&gt;&lt;i&gt;сервис пушей&lt;/i&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="5131" y="-71" width="125" height="66" as="geometry" />
