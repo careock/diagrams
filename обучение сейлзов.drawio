@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T20:09:11.417Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="C04S4vNo2RLiIT5pCSle" version="21.5.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-06-20T20:09:16.762Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fxdDBDGVlk1GLYBZN3RC" version="21.5.0" type="github" pages="4">
   <diagram id="8788a3DS1QVcUZw9lr2Y" name="1">
     <mxGraphModel dx="2790" dy="1822" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -536,9 +536,6 @@
         </mxCell>
         <mxCell id="gIslvgVnZbEdrJqsJ3eF-6" value="&lt;b&gt;Server&lt;/b&gt;&lt;br&gt;logic" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="452" y="175" width="94" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="5-aMtcOqg72XXiPGYJiz-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="432" y="175" width="20" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
