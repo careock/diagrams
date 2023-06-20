@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T12:16:23.545Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="LglDxm0hrw9qj6DJj9X5" version="21.5.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-20T12:17:59.466Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="sooBw0ggm9vR64nPQhME" version="21.5.0" type="github" pages="2">
   <diagram id="8788a3DS1QVcUZw9lr2Y" name="1">
     <mxGraphModel dx="2087" dy="1404" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -628,7 +628,7 @@
         <mxCell id="RrqE9qkYfOPVqTJPEBIi-216" value="frontend" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="RrqE9qkYfOPVqTJPEBIi-215" target="RrqE9qkYfOPVqTJPEBIi-212">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RrqE9qkYfOPVqTJPEBIi-218" value="Backend" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="RrqE9qkYfOPVqTJPEBIi-218" value="sync service" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="381" y="968" width="144" height="105" as="geometry" />
         </mxCell>
         <mxCell id="RrqE9qkYfOPVqTJPEBIi-221" value="api request" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="RrqE9qkYfOPVqTJPEBIi-212" target="RrqE9qkYfOPVqTJPEBIi-218">
@@ -647,6 +647,19 @@
             <Array as="points">
               <mxPoint x="300" y="1063" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RrqE9qkYfOPVqTJPEBIi-223" value="async service" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="379" y="1104" width="144" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="RrqE9qkYfOPVqTJPEBIi-224" value="websocket connection" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="RrqE9qkYfOPVqTJPEBIi-223" target="RrqE9qkYfOPVqTJPEBIi-212">
+          <mxGeometry x="-0.0968" y="-13" relative="1" as="geometry">
+            <mxPoint x="391" y="1051" as="sourcePoint" />
+            <mxPoint x="235" y="1050" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="286" y="1138" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
