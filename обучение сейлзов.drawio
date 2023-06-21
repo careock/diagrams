@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T14:27:32.030Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jy5jAy46hlEJuVpVcX9l" version="21.5.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-06-21T14:27:49.031Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KEy-dw8s_tiTKU_4pZOA" version="21.5.0" type="github" pages="4">
   <diagram id="8788a3DS1QVcUZw9lr2Y" name="1">
     <mxGraphModel dx="2218" dy="1746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -463,8 +463,8 @@
         <mxCell id="RrqE9qkYfOPVqTJPEBIi-144" value="&lt;b&gt;broker&lt;/b&gt;&lt;br&gt;&lt;i&gt;rabbitMQ&lt;/i&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;rotation=0;verticalAlign=middle;direction=south;" vertex="1" parent="1">
           <mxGeometry x="4953" y="-113" width="179.75" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="RrqE9qkYfOPVqTJPEBIi-145" value="&lt;b&gt;&lt;i&gt;карты--&lt;/i&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="5449.5" y="-55" width="125" height="66" as="geometry" />
+        <mxCell id="RrqE9qkYfOPVqTJPEBIi-145" value="&lt;b&gt;&lt;i&gt;картографический сервис&lt;/i&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="5442" y="-45" width="201.5" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RrqE9qkYfOPVqTJPEBIi-146" value="&lt;b&gt;&lt;i&gt;эквайринг&lt;/i&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="5449.5" y="-136" width="121" height="63" as="geometry" />
