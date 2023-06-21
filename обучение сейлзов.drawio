@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T14:01:07.045Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QzM0WTJ_p4bvouiNUIqi" version="21.5.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-06-21T14:01:20.434Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="TXsYN8fVoiH6kVV0JLZv" version="21.5.0" type="github" pages="4">
   <diagram id="8788a3DS1QVcUZw9lr2Y" name="1">
-    <mxGraphModel dx="1158" dy="961" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1915" dy="1522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -310,10 +310,10 @@
         <mxCell id="RrqE9qkYfOPVqTJPEBIi-87" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;load balancer&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;nginx&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="3769.75" y="279" width="103.5" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="RrqE9qkYfOPVqTJPEBIi-88" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="RrqE9qkYfOPVqTJPEBIi-82" target="RrqE9qkYfOPVqTJPEBIi-96">
+        <mxCell id="RrqE9qkYfOPVqTJPEBIi-88" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="RrqE9qkYfOPVqTJPEBIi-82" target="0tKs7pHsZavUH-t7Kj87-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3944.824536082475" y="195" as="sourcePoint" />
-            <mxPoint x="3909.34" y="175" as="targetPoint" />
+            <mxPoint x="4054.601994382023" y="254" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RrqE9qkYfOPVqTJPEBIi-89" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="RrqE9qkYfOPVqTJPEBIi-82" target="RrqE9qkYfOPVqTJPEBIi-97">
@@ -342,9 +342,6 @@
         </mxCell>
         <mxCell id="RrqE9qkYfOPVqTJPEBIi-94" value="&lt;b style=&quot;&quot;&gt;cloud storage&lt;/b&gt;&lt;br&gt;&lt;i&gt;amazon s3&lt;/i&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10.86597938144331;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="3579" y="220" width="98" height="107" as="geometry" />
-        </mxCell>
-        <mxCell id="RrqE9qkYfOPVqTJPEBIi-96" value="&lt;b&gt;cache&lt;/b&gt;&lt;br&gt;&lt;i&gt;radis&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=35;" vertex="1" parent="1">
-          <mxGeometry x="4040.59" y="254" width="100" height="47" as="geometry" />
         </mxCell>
         <mxCell id="RrqE9qkYfOPVqTJPEBIi-97" value="&lt;b&gt;nosqlDB&lt;/b&gt;&lt;br&gt;&lt;i&gt;mongo db&lt;/i&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10.86597938144331;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="4050" y="-28" width="94.5" height="84" as="geometry" />
@@ -537,6 +534,9 @@
         </mxCell>
         <mxCell id="0tKs7pHsZavUH-t7Kj87-5" value="&lt;b&gt;Cache&lt;/b&gt;&lt;br&gt;&lt;i&gt;Redis&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="5450.5" y="257" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0tKs7pHsZavUH-t7Kj87-6" value="&lt;b&gt;Cache&lt;/b&gt;&lt;br&gt;&lt;i&gt;Redis&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4040" y="244" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
