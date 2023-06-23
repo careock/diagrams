@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T11:49:53.128Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="V6KvyhOl2KnoCFEPpyEZ" version="21.5.0" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-06-23T11:50:19.633Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="rgnjDMogF6m-VJJ5W8IV" version="21.5.0" type="github" pages="14">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-784" dy="3187" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6856,11 +6856,20 @@
         <mxCell id="ED-llaG6lNq71sHg0ERl-18" value="Отловить событие" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontSize=16;" vertex="1" parent="ED-llaG6lNq71sHg0ERl-3">
           <mxGeometry x="70" y="16" width="170" height="72" as="geometry" />
         </mxCell>
+        <mxCell id="ED-llaG6lNq71sHg0ERl-26" value="Разместить транзакцию" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontSize=16;" vertex="1" parent="ED-llaG6lNq71sHg0ERl-3">
+          <mxGeometry x="284" y="16" width="170" height="72" as="geometry" />
+        </mxCell>
         <mxCell id="ED-llaG6lNq71sHg0ERl-4" value="Сервер" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=16;" vertex="1" parent="ED-llaG6lNq71sHg0ERl-1">
           <mxGeometry x="24" y="360" width="977" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="ED-llaG6lNq71sHg0ERl-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="ED-llaG6lNq71sHg0ERl-4" source="ED-llaG6lNq71sHg0ERl-7" target="ED-llaG6lNq71sHg0ERl-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ED-llaG6lNq71sHg0ERl-7" value="Проверить наличие ресурсов у пользователя" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontSize=16;" vertex="1" parent="ED-llaG6lNq71sHg0ERl-4">
           <mxGeometry x="70" y="27" width="170" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="ED-llaG6lNq71sHg0ERl-27" value="Сформировать транзакцию" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontSize=16;" vertex="1" parent="ED-llaG6lNq71sHg0ERl-4">
+          <mxGeometry x="284" y="24" width="170" height="72" as="geometry" />
         </mxCell>
         <mxCell id="ED-llaG6lNq71sHg0ERl-22" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;elbow=vertical;" edge="1" parent="ED-llaG6lNq71sHg0ERl-1" source="ED-llaG6lNq71sHg0ERl-16" target="ED-llaG6lNq71sHg0ERl-23">
           <mxGeometry relative="1" as="geometry">
@@ -6871,6 +6880,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ED-llaG6lNq71sHg0ERl-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="ED-llaG6lNq71sHg0ERl-1" source="ED-llaG6lNq71sHg0ERl-18" target="ED-llaG6lNq71sHg0ERl-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ED-llaG6lNq71sHg0ERl-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="ED-llaG6lNq71sHg0ERl-1" source="ED-llaG6lNq71sHg0ERl-27" target="ED-llaG6lNq71sHg0ERl-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
