@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T11:45:53.892Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Qd0xXD58ZuT46KpZ1PZr" version="21.5.0" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-06-23T11:46:27.381Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="OQJf-mXQlDDyFJk09AF2" version="21.5.0" type="github" pages="14">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-784" dy="3187" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6822,7 +6822,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Buk6Um9PrSEkKl8jw4ir" name="Заводы">
-    <mxGraphModel dx="1834" dy="1253" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1595" dy="1111" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6832,8 +6832,14 @@
         <mxCell id="ED-llaG6lNq71sHg0ERl-15" value="Игрок" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=16;" vertex="1" parent="ED-llaG6lNq71sHg0ERl-1">
           <mxGeometry x="20" width="863" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="ED-llaG6lNq71sHg0ERl-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="ED-llaG6lNq71sHg0ERl-15" source="ED-llaG6lNq71sHg0ERl-16" target="ED-llaG6lNq71sHg0ERl-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ED-llaG6lNq71sHg0ERl-16" value="Вызвать метод &quot;mint&quot;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontSize=16;" vertex="1" parent="ED-llaG6lNq71sHg0ERl-15">
-          <mxGeometry x="90" y="27" width="170" height="72" as="geometry" />
+          <mxGeometry x="90" y="27" width="114" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="ED-llaG6lNq71sHg0ERl-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="ED-llaG6lNq71sHg0ERl-15" source="ED-llaG6lNq71sHg0ERl-17" target="ED-llaG6lNq71sHg0ERl-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ED-llaG6lNq71sHg0ERl-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="ED-llaG6lNq71sHg0ERl-15">
           <mxGeometry x="39" y="47.5" width="31" height="31" as="geometry" />
@@ -6847,11 +6853,11 @@
         <mxCell id="ED-llaG6lNq71sHg0ERl-5" value="Сделать&amp;nbsp;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontSize=16;" vertex="1" parent="ED-llaG6lNq71sHg0ERl-2">
           <mxGeometry x="90" y="27" width="170" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="ED-llaG6lNq71sHg0ERl-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="ED-llaG6lNq71sHg0ERl-2">
-          <mxGeometry x="39" y="47.5" width="31" height="31" as="geometry" />
-        </mxCell>
         <mxCell id="ED-llaG6lNq71sHg0ERl-7" value="Сделать&amp;nbsp;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontSize=16;" vertex="1" parent="ED-llaG6lNq71sHg0ERl-2">
           <mxGeometry x="316" y="20" width="170" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="ED-llaG6lNq71sHg0ERl-21" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;fontSize=16;" vertex="1" parent="ED-llaG6lNq71sHg0ERl-2">
+          <mxGeometry x="806" y="45" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ED-llaG6lNq71sHg0ERl-3" value="Нода" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=16;" vertex="1" parent="ED-llaG6lNq71sHg0ERl-1">
           <mxGeometry x="20" y="240" width="863" height="120" as="geometry" />
