@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T11:36:14.014Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RLEmpatFppcJZnU8RRy9" version="21.3.8" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-06-23T06:20:26.665Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Q3wS8bFR6w3aBZW4z2Kb" version="21.5.0" type="github" pages="13">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
-    <mxGraphModel dx="-1491" dy="2673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-1264" dy="2841" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,11 +128,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hxw9fh6h9t1TY859qYZI-116" value="Новая &lt;br&gt;комиссия" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" parent="hxw9fh6h9t1TY859qYZI-115" vertex="1" connectable="0">
-          <mxGeometry x="-0.5227" y="1" relative="1" as="geometry">
-            <mxPoint x="1" y="9" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-72" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;dashed=1;" parent="1" source="hxw9fh6h9t1TY859qYZI-51" target="zOuTpZu3GYqGqp9g4MdC-64" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2926" y="-1158" as="sourcePoint" />
@@ -214,7 +209,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s9FCNn2JOylREXp0spJo" name="ERC-20 + 721">
-    <mxGraphModel dx="4385" dy="1333" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1709" dy="-127" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
