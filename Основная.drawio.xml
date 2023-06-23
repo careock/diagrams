@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T15:44:03.407Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8q-kHHwIGfvHYmFCc_kR" version="21.5.0" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-06-23T15:48:58.002Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_Dmg3WqOMppKkLMfZ2Gm" version="21.5.0" type="github" pages="14">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-784" dy="3187" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1958,7 +1958,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fL-ExI7_WdFXoGodUgVi" name="Рынки сбыта">
-    <mxGraphModel dx="2156" dy="-231" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="6936" dy="2612" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2137,7 +2137,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v4Wor43hYztjlrHOvgRD-1" value="S.C. &quot;Рынок сбыта&quot;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="492" y="1243" width="182" height="242" as="geometry" />
+          <mxGeometry x="492" y="1243" width="182" height="268" as="geometry" />
         </mxCell>
         <mxCell id="v4Wor43hYztjlrHOvgRD-2" value="dailyWithdrawLimit" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="v4Wor43hYztjlrHOvgRD-1" vertex="1">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
@@ -2160,11 +2160,14 @@
         <mxCell id="1csank4ypIXA9gbQ7OZm-9" value="- withdraw" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="v4Wor43hYztjlrHOvgRD-1" vertex="1">
           <mxGeometry y="164" width="182" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="v4Wor43hYztjlrHOvgRD-15" value="- setAdmin" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="v4Wor43hYztjlrHOvgRD-1" vertex="1">
+        <mxCell id="YGFPLvpEMqTjZpR-Zhh0-9" value="+ deposit" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="v4Wor43hYztjlrHOvgRD-1">
           <mxGeometry y="190" width="182" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1csank4ypIXA9gbQ7OZm-10" value="- setTreeAddress" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="v4Wor43hYztjlrHOvgRD-1" vertex="1">
+        <mxCell id="v4Wor43hYztjlrHOvgRD-15" value="- setAdmin" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="v4Wor43hYztjlrHOvgRD-1" vertex="1">
           <mxGeometry y="216" width="182" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1csank4ypIXA9gbQ7OZm-10" value="- setTreeAddress" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="v4Wor43hYztjlrHOvgRD-1" vertex="1">
+          <mxGeometry y="242" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="v4Wor43hYztjlrHOvgRD-16" value="Withdraw" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="749" y="1237" width="182" height="78" as="geometry" />
@@ -4238,7 +4241,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eZNFV229ATWuNB-HpDF8" name="Архитектура">
-    <mxGraphModel dx="1434" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4291,12 +4294,6 @@
         </mxCell>
         <mxCell id="THvPoRSkesWEAyy1matU-12" value="Object Storage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="310" y="300" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="THvPoRSkesWEAyy1matU-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="THvPoRSkesWEAyy1matU-14" target="THvPoRSkesWEAyy1matU-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="THvPoRSkesWEAyy1matU-14" value="IPFS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="585" y="770" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THvPoRSkesWEAyy1matU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" target="THvPoRSkesWEAyy1matU-16" edge="1">
           <mxGeometry relative="1" as="geometry">
