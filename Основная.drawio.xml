@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T12:27:23.542Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="rOYYkupwInSMscqNGk0O" version="21.5.0" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-06-26T12:32:02.339Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KHDzEFhbrMPpk_ineGkR" version="21.5.0" type="github" pages="14">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-1205" dy="2711" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -4203,15 +4203,20 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eZNFV229ATWuNB-HpDF8" name="Архитектура">
-    <mxGraphModel dx="1687" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="THvPoRSkesWEAyy1matU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="300" y="410" width="630" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="THvPoRSkesWEAyy1matU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" parent="1" source="THvPoRSkesWEAyy1matU-16" target="THvPoRSkesWEAyy1matU-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="THvPoRSkesWEAyy1matU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" parent="1" source="THvPoRSkesWEAyy1matU-1" target="THvPoRSkesWEAyy1matU-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="320" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="550" y="260" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="THvPoRSkesWEAyy1matU-3" value="HTTP&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="THvPoRSkesWEAyy1matU-2" vertex="1" connectable="0">
           <mxGeometry x="0.0958" relative="1" as="geometry">
@@ -4245,28 +4250,18 @@
         <mxCell id="THvPoRSkesWEAyy1matU-10" value="Marketplace frontend &lt;br&gt;(web-browser)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="655" y="130" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="THvPoRSkesWEAyy1matU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="THvPoRSkesWEAyy1matU-12" target="THvPoRSkesWEAyy1matU-16" edge="1">
+        <mxCell id="THvPoRSkesWEAyy1matU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="THvPoRSkesWEAyy1matU-12" target="THvPoRSkesWEAyy1matU-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="320" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="390" y="340" />
-              <mxPoint x="390" y="340" />
+              <mxPoint x="920" y="520" />
+              <mxPoint x="920" y="520" />
             </Array>
+            <mxPoint x="470" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="THvPoRSkesWEAyy1matU-12" value="Object Storage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="310" y="300" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="THvPoRSkesWEAyy1matU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" target="THvPoRSkesWEAyy1matU-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="530" y="410" />
-            </Array>
-            <mxPoint x="530" y="410" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="THvPoRSkesWEAyy1matU-16" value="CDN" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="1030" y="470" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THvPoRSkesWEAyy1matU-17" value="Торговля" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="440" width="100" height="60" as="geometry" />
