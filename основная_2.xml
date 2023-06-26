@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T15:27:15.942Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_rzXhhR4GDPdyicBZPws" version="21.5.0" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-06-26T15:34:46.259Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bA423XvOrmqekJRIddgo" version="21.5.0" type="github" pages="14">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-10" dy="3422" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6008,7 +6008,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="G_IrISzo8CbkQ_ZhK_lq" name="Синдикаты">
-    <mxGraphModel dx="-1207" dy="1748" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-1113" dy="1804" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6480,7 +6480,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nk-RJinM44aaKvJrHhvn-22" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;elbow=vertical;" parent="1" source="Nk-RJinM44aaKvJrHhvn-17" target="HW1M0QwQ9ZSiA937G9d--77" edge="1">
+        <mxCell id="Nk-RJinM44aaKvJrHhvn-22" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=16;endArrow=diamondThin;endFill=1;elbow=vertical;" parent="1" source="Nk-RJinM44aaKvJrHhvn-17" target="HW1M0QwQ9ZSiA937G9d--77" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3471" y="967" as="sourcePoint" />
             <mxPoint x="3889" y="1204" as="targetPoint" />
