@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T14:30:02.981Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GjmZkh02DumHYlmHhmDa" version="21.5.0" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-06-26T14:32:07.655Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="rKhLnj7QVrDzn3GtZL3Z" version="21.5.0" type="github" pages="14">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-10" dy="3422" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6008,7 +6008,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="G_IrISzo8CbkQ_ZhK_lq" name="Синдикаты">
-    <mxGraphModel dx="-1153" dy="1542" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-607" dy="1866" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6272,6 +6272,8 @@
             <mxPoint x="3750" y="929" as="sourcePoint" />
             <mxPoint x="3705" y="798" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="3520" y="1419" />
+              <mxPoint x="3491" y="1445" />
               <mxPoint x="3508" y="1537" />
               <mxPoint x="3479" y="1574" />
               <mxPoint x="3705" y="846" />
@@ -6446,7 +6448,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Nk-RJinM44aaKvJrHhvn-12" value="Голос за вступление" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="2914" y="1505" width="182" height="112" as="geometry" />
+          <mxGeometry x="3805" y="1614" width="182" height="112" as="geometry" />
         </mxCell>
         <mxCell id="Nk-RJinM44aaKvJrHhvn-13" value="isSupporting" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="Nk-RJinM44aaKvJrHhvn-12" vertex="1">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
@@ -6461,7 +6463,7 @@
           <mxGeometry y="86" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Nk-RJinM44aaKvJrHhvn-17" value="Заявка на вступление" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="2914" y="1339" width="182" height="105" as="geometry" />
+          <mxGeometry x="3800" y="1437" width="182" height="105" as="geometry" />
         </mxCell>
         <mxCell id="Nk-RJinM44aaKvJrHhvn-18" value="address" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="Nk-RJinM44aaKvJrHhvn-17" vertex="1">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
@@ -6477,6 +6479,7 @@
             <mxPoint x="3291" y="1118" as="sourcePoint" />
             <mxPoint x="3291" y="1053" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="3925" y="1620" />
               <mxPoint x="3005" y="1437" />
               <mxPoint x="3141" y="1340" />
               <mxPoint x="3653" y="696" />
@@ -6490,9 +6493,9 @@
             <mxPoint x="3471" y="967" as="sourcePoint" />
             <mxPoint x="3889" y="1204" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3460" y="1392" />
-              <mxPoint x="3322" y="1394" />
-              <mxPoint x="3135" y="1379" />
+              <mxPoint x="3556" y="1370" />
+              <mxPoint x="3706" y="1385" />
+              <mxPoint x="3573" y="1370" />
             </Array>
           </mxGeometry>
         </mxCell>
