@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T15:40:32.693Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HnzNDck1We1E0xBXa_63" version="21.5.0" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-06-26T15:53:17.062Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8g15WLDeVwa-g-wIbz9e" version="21.5.0" type="github" pages="14">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-10" dy="3422" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6008,7 +6008,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="G_IrISzo8CbkQ_ZhK_lq" name="Синдикаты">
-    <mxGraphModel dx="-1291" dy="1698" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-594" dy="2112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6117,38 +6117,38 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HW1M0QwQ9ZSiA937G9d--77" value="[Демократ-й / Сбалансир-й]&#xa;Синдикат" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=43;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="3434" y="1034" width="182" height="285" as="geometry" />
+        <mxCell id="HW1M0QwQ9ZSiA937G9d--77" value="Синдикат" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=28;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="3434" y="1034" width="182" height="270" as="geometry" />
         </mxCell>
         <mxCell id="HW1M0QwQ9ZSiA937G9d--59" value="syndicateType" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="HW1M0QwQ9ZSiA937G9d--77" vertex="1">
-          <mxGeometry y="43" width="182" height="26" as="geometry" />
+          <mxGeometry y="28" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Nk-RJinM44aaKvJrHhvn-43" value="balance" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="HW1M0QwQ9ZSiA937G9d--77" vertex="1">
-          <mxGeometry y="69" width="182" height="26" as="geometry" />
+          <mxGeometry y="54" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HW1M0QwQ9ZSiA937G9d--78" value="syndicateDateCreated" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="HW1M0QwQ9ZSiA937G9d--77" vertex="1">
-          <mxGeometry y="95" width="182" height="26" as="geometry" />
+          <mxGeometry y="80" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HW1M0QwQ9ZSiA937G9d--153" value="enrollmentPrice" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="HW1M0QwQ9ZSiA937G9d--77" vertex="1">
-          <mxGeometry y="121" width="182" height="26" as="geometry" />
+          <mxGeometry y="106" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HW1M0QwQ9ZSiA937G9d--79" value="upgradeLevels" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="HW1M0QwQ9ZSiA937G9d--77" vertex="1">
-          <mxGeometry y="147" width="182" height="26" as="geometry" />
+          <mxGeometry y="132" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HW1M0QwQ9ZSiA937G9d--81" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;rounded=0;" parent="HW1M0QwQ9ZSiA937G9d--77" vertex="1">
-          <mxGeometry y="173" width="182" height="8" as="geometry" />
+          <mxGeometry y="158" width="182" height="8" as="geometry" />
         </mxCell>
         <mxCell id="HW1M0QwQ9ZSiA937G9d--195" value="+ createSyndicate" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="HW1M0QwQ9ZSiA937G9d--77" vertex="1">
-          <mxGeometry y="181" width="182" height="26" as="geometry" />
+          <mxGeometry y="166" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="AistmRKEGbFnsoMNfWNu-67" value="- leaveSyndicate" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="HW1M0QwQ9ZSiA937G9d--77" vertex="1">
-          <mxGeometry y="207" width="182" height="26" as="geometry" />
+          <mxGeometry y="192" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HW1M0QwQ9ZSiA937G9d--176" value="- submitEnrollementRequest" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="HW1M0QwQ9ZSiA937G9d--77" vertex="1">
-          <mxGeometry y="233" width="182" height="26" as="geometry" />
+          <mxGeometry y="218" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="AistmRKEGbFnsoMNfWNu-68" value="- deleteSyndicate" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="HW1M0QwQ9ZSiA937G9d--77" vertex="1">
-          <mxGeometry y="259" width="182" height="26" as="geometry" />
+          <mxGeometry y="244" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HW1M0QwQ9ZSiA937G9d--84" value="Голос за вступление" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="3339.5" y="618" width="182" height="112" as="geometry" />
