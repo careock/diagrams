@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T12:33:23.995Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="SjBijrrd1oDkEnI-80NV" version="21.5.0" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-06-26T12:34:18.613Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HE6LKNKhjzujX9SvoQ3w" version="21.5.0" type="github" pages="14">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-1205" dy="2711" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -4203,7 +4203,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eZNFV229ATWuNB-HpDF8" name="Архитектура">
-    <mxGraphModel dx="1687" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4214,7 +4214,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="250" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="550" y="190" />
+              <mxPoint x="550" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4226,7 +4226,7 @@
         <mxCell id="THvPoRSkesWEAyy1matU-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" parent="1" source="THvPoRSkesWEAyy1matU-6" target="THvPoRSkesWEAyy1matU-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="730" y="190" />
+              <mxPoint x="730" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4236,19 +4236,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="THvPoRSkesWEAyy1matU-6" value="SSO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="570" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="THvPoRSkesWEAyy1matU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="THvPoRSkesWEAyy1matU-8" target="THvPoRSkesWEAyy1matU-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="THvPoRSkesWEAyy1matU-8" value="Game frontend (WebGL)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="60" width="150" height="60" as="geometry" />
+          <mxGeometry x="490" y="90" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="THvPoRSkesWEAyy1matU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="THvPoRSkesWEAyy1matU-10" target="THvPoRSkesWEAyy1matU-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="THvPoRSkesWEAyy1matU-10" value="Marketplace frontend &lt;br&gt;(web-browser)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="655" y="60" width="150" height="60" as="geometry" />
+          <mxGeometry x="655" y="90" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="THvPoRSkesWEAyy1matU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="THvPoRSkesWEAyy1matU-12" target="THvPoRSkesWEAyy1matU-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -4276,13 +4276,13 @@
           <mxGeometry x="810" y="370" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="THvPoRSkesWEAyy1matU-22" value="zkEVM &lt;br&gt;integration" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="560" width="100" height="60" as="geometry" />
+          <mxGeometry x="690" y="460" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="THvPoRSkesWEAyy1matU-23" value="Blockchain data provider" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="560" width="100" height="60" as="geometry" />
+          <mxGeometry x="570" y="460" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="THvPoRSkesWEAyy1matU-25" value="Chainlink job manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="730" y="560" width="100" height="60" as="geometry" />
+          <mxGeometry x="810" y="460" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="THvPoRSkesWEAyy1matU-26" value="Discord bot" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="460" width="100" height="60" as="geometry" />
@@ -4316,6 +4316,24 @@
               <mxPoint x="940" y="500" />
             </Array>
             <mxPoint x="940" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jl16YymJxN5hZYGZVos7-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="470" y="720" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jl16YymJxN5hZYGZVos7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="THvPoRSkesWEAyy1matU-1" target="Jl16YymJxN5hZYGZVos7-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="660" />
+              <mxPoint x="630" y="660" />
+            </Array>
+            <mxPoint x="700" y="230" as="sourcePoint" />
+            <mxPoint x="740" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jl16YymJxN5hZYGZVos7-5" value="Websocket" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Jl16YymJxN5hZYGZVos7-4">
+          <mxGeometry x="-0.14" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
