@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T15:34:46.259Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bA423XvOrmqekJRIddgo" version="21.5.0" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-06-26T15:35:02.303Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hwmpsk2KcVbS05dyXBoB" version="21.5.0" type="github" pages="14">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-10" dy="3422" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6246,7 +6246,7 @@
         <mxCell id="HW1M0QwQ9ZSiA937G9d--109" value="newAttributeValue" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="HW1M0QwQ9ZSiA937G9d--108" vertex="1">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="HW1M0QwQ9ZSiA937G9d--118" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;elbow=vertical;" parent="1" source="HW1M0QwQ9ZSiA937G9d--93" target="HW1M0QwQ9ZSiA937G9d--100" edge="1">
+        <mxCell id="HW1M0QwQ9ZSiA937G9d--118" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=16;endArrow=diamondThin;endFill=1;elbow=vertical;" parent="1" source="HW1M0QwQ9ZSiA937G9d--93" target="HW1M0QwQ9ZSiA937G9d--100" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3533" y="1132" as="sourcePoint" />
             <mxPoint x="3533" y="1094" as="targetPoint" />
