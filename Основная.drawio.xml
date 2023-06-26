@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T12:26:58.091Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="VhA6hG__7c_qiA14r6c-" version="21.5.0" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-06-26T12:27:23.542Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="rOYYkupwInSMscqNGk0O" version="21.5.0" type="github" pages="14">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
-    <mxGraphModel dx="-966" dy="2853" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-1205" dy="2711" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,6 +31,7 @@
             <mxPoint x="92" y="809" as="sourcePoint" />
             <mxPoint x="224" y="983.3999999999999" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="311" y="451" />
               <mxPoint x="325" y="427" />
               <mxPoint x="337" y="269" />
               <mxPoint x="393" y="320" />
@@ -46,16 +47,17 @@
         <mxCell id="hxw9fh6h9t1TY859qYZI-46" value="Финансы" style="rounded=0;whiteSpace=wrap;html=1;" parent="zOuTpZu3GYqGqp9g4MdC-19" vertex="1">
           <mxGeometry x="203" y="36" width="122" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="56A5574tXd8ZfzoVsGtL-3" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="zOuTpZu3GYqGqp9g4MdC-19" source="hxw9fh6h9t1TY859qYZI-51" target="hxw9fh6h9t1TY859qYZI-61" edge="1">
+        <mxCell id="56A5574tXd8ZfzoVsGtL-3" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="zOuTpZu3GYqGqp9g4MdC-19" target="hxw9fh6h9t1TY859qYZI-61" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="32" y="173" />
-              <mxPoint x="17" y="180" />
+              <mxPoint x="98" y="178" />
             </Array>
+            <mxPoint x="98" y="86" as="sourcePoint" />
+            <mxPoint x="113" y="165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-51" value="Рынок сбыта" style="rounded=0;whiteSpace=wrap;html=1;" parent="zOuTpZu3GYqGqp9g4MdC-19" vertex="1">
-          <mxGeometry x="21" y="36" width="122" height="50" as="geometry" />
+          <mxGeometry x="34" y="36" width="122" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hxw9fh6h9t1TY859qYZI-52" value="ERC-721" style="swimlane;whiteSpace=wrap;html=1;startSize=23;dashed=1;" parent="zOuTpZu3GYqGqp9g4MdC-19" vertex="1">
           <mxGeometry x="353" y="36" width="162" height="525" as="geometry" />
