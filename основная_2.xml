@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T15:39:39.516Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="JVucFE-8gZpFEPw7rxLZ" version="21.5.0" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-06-26T15:39:57.253Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="IaK20mD_oFwNHGrxD0RC" version="21.5.0" type="github" pages="14">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-10" dy="3422" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6842,12 +6842,12 @@
         <mxCell id="Y2HidYOGel4pQWuI3Nk_-1" value="Игрок" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="6009.5" y="1625" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y2HidYOGel4pQWuI3Nk_-4" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;elbow=vertical;" edge="1" parent="1" source="HW1M0QwQ9ZSiA937G9d--100">
+        <mxCell id="Y2HidYOGel4pQWuI3Nk_-4" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="HW1M0QwQ9ZSiA937G9d--100" target="HW1M0QwQ9ZSiA937G9d--141">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3475" y="1422" as="sourcePoint" />
             <mxPoint x="3355" y="1285" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3519" y="1422" />
+              <mxPoint x="3354" y="1432" />
             </Array>
           </mxGeometry>
         </mxCell>
