@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T14:32:07.655Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="rKhLnj7QVrDzn3GtZL3Z" version="21.5.0" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-06-26T14:32:30.252Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="l5O8uu3UNduYGqWqPiQw" version="21.5.0" type="github" pages="14">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-10" dy="3422" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6193,7 +6193,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HW1M0QwQ9ZSiA937G9d--93" value="Голос за политику" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="3192" y="1492" width="182" height="190" as="geometry" />
+          <mxGeometry x="3151" y="1395" width="182" height="190" as="geometry" />
         </mxCell>
         <mxCell id="HW1M0QwQ9ZSiA937G9d--94" value="policyId" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="HW1M0QwQ9ZSiA937G9d--93" vertex="1">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
@@ -6217,7 +6217,7 @@
           <mxGeometry y="164" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HW1M0QwQ9ZSiA937G9d--100" value="Выдвинутая политика" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="3438" y="1505" width="182" height="164" as="geometry" />
+          <mxGeometry x="3397" y="1408" width="182" height="164" as="geometry" />
         </mxCell>
         <mxCell id="HW1M0QwQ9ZSiA937G9d--101" value="policyId" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="HW1M0QwQ9ZSiA937G9d--100" vertex="1">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
@@ -6238,33 +6238,33 @@
           <mxGeometry y="138" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HW1M0QwQ9ZSiA937G9d--106" value="Апгрейд синдиката" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="3334" y="1767" width="182" height="52" as="geometry" />
+          <mxGeometry x="3293" y="1670" width="182" height="52" as="geometry" />
         </mxCell>
         <mxCell id="HW1M0QwQ9ZSiA937G9d--107" value="newUpgradeLevels" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="HW1M0QwQ9ZSiA937G9d--106" vertex="1">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HW1M0QwQ9ZSiA937G9d--108" value="Изменение атрибутов" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="3538" y="1767" width="182" height="52" as="geometry" />
+          <mxGeometry x="3497" y="1670" width="182" height="52" as="geometry" />
         </mxCell>
         <mxCell id="HW1M0QwQ9ZSiA937G9d--109" value="newAttributeValue" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="HW1M0QwQ9ZSiA937G9d--108" vertex="1">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HW1M0QwQ9ZSiA937G9d--118" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;elbow=vertical;" parent="1" source="HW1M0QwQ9ZSiA937G9d--93" target="HW1M0QwQ9ZSiA937G9d--100" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3574" y="1229" as="sourcePoint" />
-            <mxPoint x="3574" y="1191" as="targetPoint" />
+            <mxPoint x="3533" y="1132" as="sourcePoint" />
+            <mxPoint x="3533" y="1094" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HW1M0QwQ9ZSiA937G9d--119" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=12;endArrow=block;endFill=0;elbow=vertical;" parent="1" source="HW1M0QwQ9ZSiA937G9d--106" target="HW1M0QwQ9ZSiA937G9d--100" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3772" y="1101" as="sourcePoint" />
-            <mxPoint x="3772" y="1025" as="targetPoint" />
+            <mxPoint x="3731" y="1004" as="sourcePoint" />
+            <mxPoint x="3731" y="928" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HW1M0QwQ9ZSiA937G9d--120" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=12;endArrow=block;endFill=0;elbow=vertical;" parent="1" source="HW1M0QwQ9ZSiA937G9d--108" target="HW1M0QwQ9ZSiA937G9d--100" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3695" y="1788" as="sourcePoint" />
-            <mxPoint x="3539" y="1666" as="targetPoint" />
+            <mxPoint x="3654" y="1691" as="sourcePoint" />
+            <mxPoint x="3498" y="1569" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HW1M0QwQ9ZSiA937G9d--122" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamondThin;endFill=1;endSize=16;" parent="1" source="HW1M0QwQ9ZSiA937G9d--100" target="HW1M0QwQ9ZSiA937G9d--77" edge="1">
@@ -6448,7 +6448,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Nk-RJinM44aaKvJrHhvn-12" value="Голос за вступление" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="3805" y="1614" width="182" height="112" as="geometry" />
+          <mxGeometry x="3721" y="1585" width="182" height="112" as="geometry" />
         </mxCell>
         <mxCell id="Nk-RJinM44aaKvJrHhvn-13" value="isSupporting" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="Nk-RJinM44aaKvJrHhvn-12" vertex="1">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
@@ -6463,7 +6463,7 @@
           <mxGeometry y="86" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Nk-RJinM44aaKvJrHhvn-17" value="Заявка на вступление" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="3800" y="1437" width="182" height="105" as="geometry" />
+          <mxGeometry x="3716" y="1408" width="182" height="105" as="geometry" />
         </mxCell>
         <mxCell id="Nk-RJinM44aaKvJrHhvn-18" value="address" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="Nk-RJinM44aaKvJrHhvn-17" vertex="1">
           <mxGeometry y="26" width="182" height="26" as="geometry" />
@@ -6479,6 +6479,7 @@
             <mxPoint x="3291" y="1118" as="sourcePoint" />
             <mxPoint x="3291" y="1053" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="3801" y="1547" />
               <mxPoint x="3925" y="1620" />
               <mxPoint x="3005" y="1437" />
               <mxPoint x="3141" y="1340" />
