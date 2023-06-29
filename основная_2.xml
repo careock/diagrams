@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T11:52:57.048Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9WNBKZDkE68rOXH_hSsI" version="21.5.0" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-06-29T11:53:29.561Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ouriXK8ha8h6tAnN8bvt" version="21.5.0" type="github" pages="15">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
-    <mxGraphModel dx="-10" dy="3422" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-1491" dy="2673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,7 +159,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s9FCNn2JOylREXp0spJo" name="ERC-20 + 721">
-    <mxGraphModel dx="2234" dy="53" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1709" dy="-127" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -630,7 +630,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xFvAmQW_zRe3f-eQC2Nm" name="Сущности">
-    <mxGraphModel dx="1034" dy="1253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="509" dy="1073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6991,10 +6991,34 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y1H_ll4pxHDzxgVJnUi_" name="NFT и активности">
-    <mxGraphModel dx="909" dy="673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-2291" dy="273" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3rVoPwYJyXE6hK3ODq3Y-1" value="NFT" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="3520" y="540" width="182" height="212" as="geometry" />
+        </mxCell>
+        <mxCell id="3rVoPwYJyXE6hK3ODq3Y-2" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="3rVoPwYJyXE6hK3ODq3Y-1">
+          <mxGeometry y="30" width="182" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3rVoPwYJyXE6hK3ODq3Y-3" value="token_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="3rVoPwYJyXE6hK3ODq3Y-1">
+          <mxGeometry y="56" width="182" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3rVoPwYJyXE6hK3ODq3Y-4" value="date_minted" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="3rVoPwYJyXE6hK3ODq3Y-1">
+          <mxGeometry y="82" width="182" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3rVoPwYJyXE6hK3ODq3Y-5" value="owned_by" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="3rVoPwYJyXE6hK3ODq3Y-1">
+          <mxGeometry y="108" width="182" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3rVoPwYJyXE6hK3ODq3Y-6" value="S.C. address" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="3rVoPwYJyXE6hK3ODq3Y-1">
+          <mxGeometry y="134" width="182" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3rVoPwYJyXE6hK3ODq3Y-7" value="is_on_L2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="3rVoPwYJyXE6hK3ODq3Y-1">
+          <mxGeometry y="160" width="182" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3rVoPwYJyXE6hK3ODq3Y-8" value="timestamp_minted" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="3rVoPwYJyXE6hK3ODq3Y-1">
+          <mxGeometry y="186" width="182" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
