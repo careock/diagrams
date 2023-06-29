@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T17:50:41.829Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8KXd8iZ5Q4fplR92RCGl" version="21.5.0" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-06-29T17:52:20.089Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QP0OoaEcymw80vyU4rgP" version="21.5.0" type="github" pages="16">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-1491" dy="2673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7062,7 +7062,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gY9qkuvpwRSEsuVoBEzL" name="1111111">
-    <mxGraphModel dx="909" dy="673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1069" dy="792" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7087,21 +7087,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HcX3-jAn0bTv9APvnRbC-9" value="Эквайринг в РФ" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="932" y="100" width="100" height="544" as="geometry" />
+          <mxGeometry x="945" y="100" width="100" height="544" as="geometry" />
         </mxCell>
         <mxCell id="HcX3-jAn0bTv9APvnRbC-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="HcX3-jAn0bTv9APvnRbC-9">
-          <mxGeometry x="45" y="90" width="10" height="227" as="geometry" />
-        </mxCell>
-        <mxCell id="kpVqDXPnjzA5TCyX0b39-1" value="зачисление крипты &lt;br&gt;на наш баланс" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="HcX3-jAn0bTv9APvnRbC-9" source="HcX3-jAn0bTv9APvnRbC-10" target="HcX3-jAn0bTv9APvnRbC-10">
-          <mxGeometry y="1" relative="1" as="geometry">
-            <mxPoint x="84" y="161" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="103" y="161" />
-              <mxPoint x="103" y="189" />
-            </Array>
-            <mxPoint x="84" y="189" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry x="45" y="90" width="10" height="172" as="geometry" />
         </mxCell>
         <mxCell id="HcX3-jAn0bTv9APvnRbC-12" value="запрос" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="HcX3-jAn0bTv9APvnRbC-20">
           <mxGeometry relative="1" as="geometry">
@@ -7117,11 +7106,11 @@
             <mxPoint x="820.9999999999998" y="211.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HcX3-jAn0bTv9APvnRbC-13" value="подтверждение &lt;br&gt;пополнения" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" target="HcX3-jAn0bTv9APvnRbC-5">
+        <mxCell id="HcX3-jAn0bTv9APvnRbC-13" value="подтверждение &lt;br&gt;пополнения" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" source="HcX3-jAn0bTv9APvnRbC-20" target="HcX3-jAn0bTv9APvnRbC-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="461" y="564" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="686" y="353" />
+              <mxPoint x="749" y="358" />
               <mxPoint x="736" y="458" />
               <mxPoint x="692" y="411" />
               <mxPoint x="695" y="529" />
@@ -7134,7 +7123,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HcX3-jAn0bTv9APvnRbC-14" value="Зарубежный эквайринг" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;size=62;" vertex="1" parent="1">
-          <mxGeometry x="1269" y="91" width="115" height="520" as="geometry" />
+          <mxGeometry x="1359" y="91" width="115" height="520" as="geometry" />
         </mxCell>
         <mxCell id="HcX3-jAn0bTv9APvnRbC-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="HcX3-jAn0bTv9APvnRbC-14">
           <mxGeometry x="52.5" y="97" width="10" height="219" as="geometry" />
@@ -7143,7 +7132,18 @@
           <mxGeometry x="1131" y="93" width="100" height="524" as="geometry" />
         </mxCell>
         <mxCell id="HcX3-jAn0bTv9APvnRbC-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="HcX3-jAn0bTv9APvnRbC-17">
-          <mxGeometry x="45" y="95" width="10" height="231" as="geometry" />
+          <mxGeometry x="45" y="95" width="10" height="186" as="geometry" />
+        </mxCell>
+        <mxCell id="kpVqDXPnjzA5TCyX0b39-1" value="зачисление крипты &lt;br&gt;на наш баланс" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="HcX3-jAn0bTv9APvnRbC-17" source="HcX3-jAn0bTv9APvnRbC-18" target="HcX3-jAn0bTv9APvnRbC-18">
+          <mxGeometry y="1" relative="1" as="geometry">
+            <mxPoint x="59" y="151" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="107" y="165" />
+              <mxPoint x="107" y="191" />
+            </Array>
+            <mxPoint x="59" y="179" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="HcX3-jAn0bTv9APvnRbC-19" value="Сервер" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="758" y="97.5" width="100" height="524.5" as="geometry" />
@@ -7180,6 +7180,37 @@
               <mxPoint x="978" y="475" />
             </Array>
             <mxPoint x="971" y="319" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kpVqDXPnjzA5TCyX0b39-3" value="запрос на конвертацию &lt;br&gt;руб.-крипта" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1001" y="249" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1029" y="249" />
+              <mxPoint x="958" y="242" />
+              <mxPoint x="1002" y="247" />
+              <mxPoint x="995" y="252" />
+              <mxPoint x="972" y="336" />
+              <mxPoint x="984" y="336" />
+              <mxPoint x="987" y="317" />
+            </Array>
+            <mxPoint x="1177" y="249" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kpVqDXPnjzA5TCyX0b39-4" value="подтверждение &lt;br&gt;пополнения" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" source="HcX3-jAn0bTv9APvnRbC-18" target="HcX3-jAn0bTv9APvnRbC-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1008" y="306" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1083" y="306" />
+              <mxPoint x="1002" y="411" />
+              <mxPoint x="958" y="364" />
+              <mxPoint x="961" y="482" />
+              <mxPoint x="1021" y="434" />
+              <mxPoint x="1011" y="374" />
+              <mxPoint x="972" y="335" />
+              <mxPoint x="1009" y="462" />
+            </Array>
+            <mxPoint x="1197" y="306" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
