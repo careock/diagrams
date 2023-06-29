@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T18:05:16.018Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6s5ciDs95LLOzWriKEG5" version="21.5.0" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-06-29T18:05:28.652Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="l_h2JyriQqMG-Q2eTOWV" version="21.5.0" type="github" pages="16">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-1491" dy="2673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7369,7 +7369,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kpVqDXPnjzA5TCyX0b39-23" value="подтверждение оплаты" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" edge="1" parent="1">
+        <mxCell id="kpVqDXPnjzA5TCyX0b39-23" value="отображение покупки" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" edge="1" parent="1">
           <mxGeometry x="0.057" y="4" relative="1" as="geometry">
             <mxPoint x="611" y="804" as="targetPoint" />
             <Array as="points">
