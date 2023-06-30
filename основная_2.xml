@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-30T12:16:02.398Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Q5qZJYQRxG5keMOMZInf" version="21.5.0" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-06-30T12:16:55.532Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="mhcrGDqVM8_f4wSoA7zP" version="21.5.0" type="github" pages="15">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-1491" dy="2673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7058,14 +7058,6 @@
         <mxCell id="-S1ncy--rK7Ja3HD5_3u-8" value="+ createGroup" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="-S1ncy--rK7Ja3HD5_3u-3">
           <mxGeometry y="77" width="182" height="26" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="gY9qkuvpwRSEsuVoBEzL" name="1111111">
-    <mxGraphModel dx="3636" dy="2692" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
