@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-30T12:17:40.996Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PkyYI5UlaBS8DO6TBkaO" version="21.5.0" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-06-30T12:17:53.097Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hns5xDkAawiEO8ps5Xt9" version="21.5.0" type="github" pages="15">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-1491" dy="2673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6991,7 +6991,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y1H_ll4pxHDzxgVJnUi_" name="NFT и активности">
-    <mxGraphModel dx="-1382" dy="946" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-2291" dy="273" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7047,7 +7047,7 @@
           <mxGeometry y="129" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-S1ncy--rK7Ja3HD5_3u-3" value="&lt;&lt;interface&gt;&gt;&#xa;activity " style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=43;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="3964" y="806" width="182" height="103" as="geometry" />
+          <mxGeometry x="3773" y="757" width="182" height="103" as="geometry" />
         </mxCell>
         <mxCell id="-S1ncy--rK7Ja3HD5_3u-4" value="startingPrice" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="-S1ncy--rK7Ja3HD5_3u-3">
           <mxGeometry y="43" width="182" height="26" as="geometry" />
@@ -7056,6 +7056,18 @@
           <mxGeometry y="69" width="182" height="8" as="geometry" />
         </mxCell>
         <mxCell id="-S1ncy--rK7Ja3HD5_3u-8" value="+ createGroup" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="-S1ncy--rK7Ja3HD5_3u-3">
+          <mxGeometry y="77" width="182" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="xS6kFYw1nBfZXwGO4GHp-1" value="&lt;&lt;interface&gt;&gt;&#xa;activity " style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=43;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="3999" y="757" width="182" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="xS6kFYw1nBfZXwGO4GHp-2" value="startingPrice" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="xS6kFYw1nBfZXwGO4GHp-1">
+          <mxGeometry y="43" width="182" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="xS6kFYw1nBfZXwGO4GHp-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;rounded=0;" vertex="1" parent="xS6kFYw1nBfZXwGO4GHp-1">
+          <mxGeometry y="69" width="182" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="xS6kFYw1nBfZXwGO4GHp-4" value="+ createGroup" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="xS6kFYw1nBfZXwGO4GHp-1">
           <mxGeometry y="77" width="182" height="26" as="geometry" />
         </mxCell>
       </root>
