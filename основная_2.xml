@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T16:21:13.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="itW5-6Va_Q2IL2DyVtaK" version="21.5.2" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-07-04T16:22:15.669Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="u6_MRXnfwXFL9EJUm5dP" version="21.5.2" type="github" pages="15">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-966" dy="2846" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7000,45 +7000,45 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y1H_ll4pxHDzxgVJnUi_" name="NFT и активности">
-    <mxGraphModel dx="-1766" dy="446" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-1766" dy="846" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3rVoPwYJyXE6hK3ODq3Y-1" value="NFT" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="3520" y="540" width="182" height="272" as="geometry" />
+        <mxCell id="3rVoPwYJyXE6hK3ODq3Y-1" value="&lt;&lt;interface&gt;&gt;&#xa;NFT" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=43;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="3488" y="253" width="182" height="285" as="geometry" />
         </mxCell>
         <mxCell id="3rVoPwYJyXE6hK3ODq3Y-2" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="3rVoPwYJyXE6hK3ODq3Y-1" vertex="1">
-          <mxGeometry y="30" width="182" height="26" as="geometry" />
+          <mxGeometry y="43" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3rVoPwYJyXE6hK3ODq3Y-3" value="token_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="3rVoPwYJyXE6hK3ODq3Y-1" vertex="1">
-          <mxGeometry y="56" width="182" height="26" as="geometry" />
+          <mxGeometry y="69" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3rVoPwYJyXE6hK3ODq3Y-4" value="date_minted" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="3rVoPwYJyXE6hK3ODq3Y-1" vertex="1">
-          <mxGeometry y="82" width="182" height="26" as="geometry" />
+          <mxGeometry y="95" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3rVoPwYJyXE6hK3ODq3Y-5" value="owned_by" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="3rVoPwYJyXE6hK3ODq3Y-1" vertex="1">
-          <mxGeometry y="108" width="182" height="26" as="geometry" />
+          <mxGeometry y="121" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3rVoPwYJyXE6hK3ODq3Y-6" value="S.C. address" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="3rVoPwYJyXE6hK3ODq3Y-1" vertex="1">
-          <mxGeometry y="134" width="182" height="26" as="geometry" />
+          <mxGeometry y="147" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3rVoPwYJyXE6hK3ODq3Y-8" value="timestamp_minted" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="3rVoPwYJyXE6hK3ODq3Y-1" vertex="1">
-          <mxGeometry y="160" width="182" height="26" as="geometry" />
+          <mxGeometry y="173" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-S1ncy--rK7Ja3HD5_3u-9" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;rounded=0;" parent="3rVoPwYJyXE6hK3ODq3Y-1" vertex="1">
-          <mxGeometry y="186" width="182" height="8" as="geometry" />
+          <mxGeometry y="199" width="182" height="8" as="geometry" />
         </mxCell>
         <mxCell id="-S1ncy--rK7Ja3HD5_3u-11" value="- CompleteListing" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="3rVoPwYJyXE6hK3ODq3Y-1" vertex="1">
-          <mxGeometry y="194" width="182" height="26" as="geometry" />
+          <mxGeometry y="207" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-S1ncy--rK7Ja3HD5_3u-10" value="- ListForSale" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="3rVoPwYJyXE6hK3ODq3Y-1" vertex="1">
-          <mxGeometry y="220" width="182" height="26" as="geometry" />
+          <mxGeometry y="233" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-S1ncy--rK7Ja3HD5_3u-12" value="ListForSale" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="3rVoPwYJyXE6hK3ODq3Y-1" vertex="1">
-          <mxGeometry y="246" width="182" height="26" as="geometry" />
+          <mxGeometry y="259" width="182" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3rVoPwYJyXE6hK3ODq3Y-9" value="&lt;&lt;interface&gt;&gt;&#xa;NFT on sale" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=43;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="3773" y="540" width="182" height="155" as="geometry" />
+        <mxCell id="3rVoPwYJyXE6hK3ODq3Y-9" value="На продаже" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=43;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="3491" y="590" width="182" height="155" as="geometry" />
         </mxCell>
         <mxCell id="3rVoPwYJyXE6hK3ODq3Y-17" value="startingPrice" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="3rVoPwYJyXE6hK3ODq3Y-9" vertex="1">
           <mxGeometry y="43" width="182" height="26" as="geometry" />
@@ -7056,7 +7056,7 @@
           <mxGeometry y="129" width="182" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-S1ncy--rK7Ja3HD5_3u-3" value="&lt;&lt;interface&gt;&gt;&#xa;activity " style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=43;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="3773" y="757" width="182" height="103" as="geometry" />
+          <mxGeometry x="4001" y="301" width="182" height="103" as="geometry" />
         </mxCell>
         <mxCell id="-S1ncy--rK7Ja3HD5_3u-4" value="startingPrice" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="-S1ncy--rK7Ja3HD5_3u-3" vertex="1">
           <mxGeometry y="43" width="182" height="26" as="geometry" />
@@ -7099,6 +7099,24 @@
         </mxCell>
         <mxCell id="RGdfDSj2OhRjPa1QPT-e-10" value="+ createGroup" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="RGdfDSj2OhRjPa1QPT-e-7">
           <mxGeometry y="77" width="182" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RGdfDSj2OhRjPa1QPT-e-11" value="На лотерее" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=43;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="3704" y="586" width="182" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="RGdfDSj2OhRjPa1QPT-e-15" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;rounded=0;" vertex="1" parent="RGdfDSj2OhRjPa1QPT-e-11">
+          <mxGeometry y="43" width="182" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="RGdfDSj2OhRjPa1QPT-e-16" value="+ createGroup" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="RGdfDSj2OhRjPa1QPT-e-11">
+          <mxGeometry y="51" width="182" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RGdfDSj2OhRjPa1QPT-e-17" value="На аукционе" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=43;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="3915" y="584" width="182" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="RGdfDSj2OhRjPa1QPT-e-18" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;rounded=0;" vertex="1" parent="RGdfDSj2OhRjPa1QPT-e-17">
+          <mxGeometry y="43" width="182" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="RGdfDSj2OhRjPa1QPT-e-19" value="+ createGroup" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="RGdfDSj2OhRjPa1QPT-e-17">
+          <mxGeometry y="51" width="182" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
