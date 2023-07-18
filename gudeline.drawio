@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T10:00:30.027Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3iPxX_4Zop-cOMdGBJ0J" version="21.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-18T10:00:35.646Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MQj8DHsEWPFZDloW3rm-" version="21.6.2" type="github" pages="2">
   <diagram name="карта экранов" id="XdYg-4Eie37ftPTnFXVo">
     <mxGraphModel dx="2449" dy="1619" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -134,7 +134,7 @@
         <mxCell id="2M03O7v3jr8MmmYq2PWk-20" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="2M03O7v3jr8MmmYq2PWk-17" target="2M03O7v3jr8MmmYq2PWk-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-492" y="180" />
+              <mxPoint x="-492" y="185" />
             </Array>
           </mxGeometry>
         </mxCell>
