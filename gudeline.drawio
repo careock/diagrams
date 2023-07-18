@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T12:28:39.716Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="h29_o-u9KbTiz3LsyaVJ" version="21.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-18T12:28:49.818Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ImUWvbTf4raeroIGelRA" version="21.6.2" type="github" pages="2">
   <diagram name="карта экранов" id="XdYg-4Eie37ftPTnFXVo">
     <mxGraphModel dx="2449" dy="1619" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="THMrJFljjWWgmb37G2gp" name="Page-2">
-    <mxGraphModel dx="3109" dy="1298" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2112" dy="705" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,7 +185,7 @@
           <mxGeometry x="69" y="136" width="122" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2M03O7v3jr8MmmYq2PWk-45" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=50;" vertex="1" parent="2M03O7v3jr8MmmYq2PWk-31">
-          <mxGeometry x="10" y="173.5" width="52" height="15" as="geometry" />
+          <mxGeometry x="10" y="173.5" width="46" height="15" as="geometry" />
         </mxCell>
         <mxCell id="2M03O7v3jr8MmmYq2PWk-46" value="Начало" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#212121;" vertex="1" parent="2M03O7v3jr8MmmYq2PWk-31">
           <mxGeometry x="69" y="166" width="65" height="30" as="geometry" />
