@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T09:33:35.113Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8Aqd5deHmOHipFkIIJu9" version="21.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-18T09:35:02.601Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Bc3NHK-giuamcKWaf_zs" version="21.6.2" type="github" pages="2">
   <diagram name="карта экранов" id="XdYg-4Eie37ftPTnFXVo">
     <mxGraphModel dx="2449" dy="1619" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="THMrJFljjWWgmb37G2gp" name="Page-2">
-    <mxGraphModel dx="2395" dy="711" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2234" dy="853" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,7 +90,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2M03O7v3jr8MmmYq2PWk-2" value="Stakeholder" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="369.5" width="30" height="60" as="geometry" />
+          <mxGeometry x="-352" y="194" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2M03O7v3jr8MmmYq2PWk-10" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;elbow=vertical;" edge="1" parent="1" source="2M03O7v3jr8MmmYq2PWk-5" target="2M03O7v3jr8MmmYq2PWk-2">
           <mxGeometry relative="1" as="geometry">
@@ -99,14 +99,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="2M03O7v3jr8MmmYq2PWk-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="2M03O7v3jr8MmmYq2PWk-5" target="2M03O7v3jr8MmmYq2PWk-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2M03O7v3jr8MmmYq2PWk-5" value="Системные требования" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="462" width="120" height="80" as="geometry" />
+          <mxGeometry x="-397" y="468" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2M03O7v3jr8MmmYq2PWk-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="2M03O7v3jr8MmmYq2PWk-8" target="2M03O7v3jr8MmmYq2PWk-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2M03O7v3jr8MmmYq2PWk-8" value="Анализ" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-603" y="337" width="125" height="125" as="geometry" />
+          <mxGeometry x="-399.5" y="312" width="125" height="125" as="geometry" />
         </mxCell>
         <mxCell id="2M03O7v3jr8MmmYq2PWk-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="2M03O7v3jr8MmmYq2PWk-11" target="2M03O7v3jr8MmmYq2PWk-5">
           <mxGeometry relative="1" as="geometry">
@@ -114,7 +117,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2M03O7v3jr8MmmYq2PWk-11" value="Прототипы ПИ&lt;br&gt;Концептуальные модели&lt;br&gt;Состав U.C.&lt;br&gt;User Stories" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-175" y="410" width="50" height="100" as="geometry" />
+          <mxGeometry x="-198" y="458" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2M03O7v3jr8MmmYq2PWk-13" value="Общее описание" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-397" y="636" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2M03O7v3jr8MmmYq2PWk-15" value="SRS дкоумент" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-409" y="615" width="427" height="136" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
