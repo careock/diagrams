@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T13:11:32.738Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Ha9vgrurpBvrc6gzb77v" version="21.6.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-25T13:13:13.763Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vRpCASIC6eMi0utzZpYn" version="21.6.5" type="github" pages="5">
   <diagram name="Страница 1" id="-DRFQCNpOs20CNCx-nF7">
     <mxGraphModel dx="1653" dy="1224" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -860,7 +860,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Rk5nKBFt398-CjrYR4Ig" name="архитектура">
-    <mxGraphModel dx="2587" dy="2053" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2227" dy="1832" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1061,7 +1061,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Zv3EkVByYtIr8Wl405YA-75" value="API gateway" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="492" y="-69" width="823" height="60" as="geometry" />
+          <mxGeometry x="478" y="-69" width="837" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zv3EkVByYtIr8Wl405YA-77" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Zv3EkVByYtIr8Wl405YA-75" target="SHANgyYuFXgYXb-og-k8-3">
           <mxGeometry relative="1" as="geometry">
@@ -1069,8 +1069,8 @@
             <mxPoint x="692" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SHANgyYuFXgYXb-og-k8-1" value="Сервис аналитики и мониторинга" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1472" y="616" width="121" height="60" as="geometry" />
+        <mxCell id="SHANgyYuFXgYXb-og-k8-1" value="Сервис логирования и мониторинга" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1436" y="-84" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SHANgyYuFXgYXb-og-k8-3" value="Load balancer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="495" y="26" width="410" height="60" as="geometry" />
@@ -1092,6 +1092,12 @@
             <mxPoint x="1133" y="1" as="sourcePoint" />
             <mxPoint x="1133" y="36" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SHANgyYuFXgYXb-og-k8-7" value="Backup сервис" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1456" y="13" width="121" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SHANgyYuFXgYXb-og-k8-8" value="Сервис аналитики" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1461" y="110" width="121" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
