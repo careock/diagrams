@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T11:14:33.353Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="d1BBaGsUD22elt2r6nmD" version="21.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-25T11:15:57.694Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6pm9_XlCmNA6QhtFdRwz" version="21.6.5" type="github" pages="5">
   <diagram name="Страница 1" id="-DRFQCNpOs20CNCx-nF7">
     <mxGraphModel dx="1653" dy="1224" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -334,7 +334,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6_U_m9snSyB2Jp1W-bS9" name="Page-2">
-    <mxGraphModel dx="1309" dy="1073" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="1253" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -367,7 +367,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="zldSmNpLJS5rNz2jmQ4X" name="Page-3">
+  <diagram id="zldSmNpLJS5rNz2jmQ4X" name="юзкейсы">
     <mxGraphModel dx="2606" dy="1712" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -431,6 +431,28 @@
             <mxPoint x="1191" y="-12" as="sourcePoint" />
             <mxPoint x="1381" y="-8" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3bzZV1Ws0YEbKCL0U1P5" name="контекстная">
+    <mxGraphModel dx="2087" dy="1004" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1-NmKsiyoDpbAj-olh7g-1" value="Система" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-53" y="98" width="122" height="122" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Rk5nKBFt398-CjrYR4Ig" name="архитектура">
+    <mxGraphModel dx="1834" dy="853" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="klYmNbgUVxbOf9JS7oIF-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-108" y="106" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
