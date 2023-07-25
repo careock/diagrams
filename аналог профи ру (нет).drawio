@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T13:03:04.098Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="UZPqgseKiXVQlKPtUpg4" version="21.6.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-25T13:04:01.216Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="aLm319K-1PPyoZ0RPBfv" version="21.6.5" type="github" pages="5">
   <diagram name="Страница 1" id="-DRFQCNpOs20CNCx-nF7">
     <mxGraphModel dx="1653" dy="1224" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -888,25 +888,25 @@
         <mxCell id="Zv3EkVByYtIr8Wl405YA-14" value="Сервис платажей" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="584" y="-1094" width="177" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zv3EkVByYtIr8Wl405YA-73" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Zv3EkVByYtIr8Wl405YA-17" target="x3hVErHcKjzYtvKyxFCa-3">
+        <mxCell id="Zv3EkVByYtIr8Wl405YA-73" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Zv3EkVByYtIr8Wl405YA-75" target="x3hVErHcKjzYtvKyxFCa-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zv3EkVByYtIr8Wl405YA-17" value="Криптообменник" style="points=[[0.03,0.03,0],[0.5,0,0],[0.97,0.03,0],[1,0.4,0],[0.97,0.745,0],[0.5,1,0],[0.03,0.745,0],[0,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.workstation;fillColor=#00070A;strokeColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="283" y="-264" width="87.5" height="70" as="geometry" />
+          <mxGeometry x="221" y="-277" width="87.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Zv3EkVByYtIr8Wl405YA-72" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Zv3EkVByYtIr8Wl405YA-18" target="x3hVErHcKjzYtvKyxFCa-4">
+        <mxCell id="Zv3EkVByYtIr8Wl405YA-72" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Zv3EkVByYtIr8Wl405YA-18" target="Zv3EkVByYtIr8Wl405YA-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zv3EkVByYtIr8Wl405YA-18" value="Сервис платежей" style="points=[[0.03,0.03,0],[0.5,0,0],[0.97,0.03,0],[1,0.4,0],[0.97,0.745,0],[0.5,1,0],[0.03,0.745,0],[0,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.workstation;fillColor=#00070A;strokeColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="544" y="-264" width="87.5" height="70" as="geometry" />
+          <mxGeometry x="677" y="-274" width="87.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Zv3EkVByYtIr8Wl405YA-74" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.692;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Zv3EkVByYtIr8Wl405YA-19">
+        <mxCell id="Zv3EkVByYtIr8Wl405YA-74" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Zv3EkVByYtIr8Wl405YA-19" target="Zv3EkVByYtIr8Wl405YA-75">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="681.652" y="13.240999999999985" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Zv3EkVByYtIr8Wl405YA-19" value="Панель&lt;br&gt;администрирования" style="points=[[0.03,0.03,0],[0.5,0,0],[0.97,0.03,0],[1,0.4,0],[0.97,0.745,0],[0.5,1,0],[0.03,0.745,0],[0,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.workstation;fillColor=#00070A;strokeColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1061" y="-314" width="87.5" height="70" as="geometry" />
+          <mxGeometry x="429" y="-274" width="87.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Zv3EkVByYtIr8Wl405YA-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Zv3EkVByYtIr8Wl405YA-20" target="x3hVErHcKjzYtvKyxFCa-4">
           <mxGeometry relative="1" as="geometry" />
@@ -1048,8 +1048,20 @@
         <mxCell id="Zv3EkVByYtIr8Wl405YA-64" value="Управление контентом" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Zv3EkVByYtIr8Wl405YA-65">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Zv3EkVByYtIr8Wl405YA-76" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Zv3EkVByYtIr8Wl405YA-17" target="Zv3EkVByYtIr8Wl405YA-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="323" y="-194" as="sourcePoint" />
+            <mxPoint x="303" y="23" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Zv3EkVByYtIr8Wl405YA-75" value="API gateway" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1099" y="-31" width="395" height="60" as="geometry" />
+          <mxGeometry x="47" y="-89" width="837" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zv3EkVByYtIr8Wl405YA-77" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Zv3EkVByYtIr8Wl405YA-75" target="x3hVErHcKjzYtvKyxFCa-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="777" y="-47" as="sourcePoint" />
+            <mxPoint x="764" y="31" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
