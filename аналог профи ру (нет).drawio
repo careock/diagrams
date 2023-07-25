@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T13:49:53.461Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="UpWexC3tDqkyVaPrNBv3" version="21.6.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-25T13:50:41.882Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2_pDg46uVn-uvsv8rN03" version="21.6.5" type="github" pages="5">
   <diagram name="Страница 1" id="-DRFQCNpOs20CNCx-nF7">
     <mxGraphModel dx="1653" dy="1224" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -828,7 +828,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3bzZV1Ws0YEbKCL0U1P5" name="контекстная">
-    <mxGraphModel dx="1787" dy="1253" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1757" dy="988" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -854,7 +854,7 @@
           <mxGeometry x="-147" y="331" width="199" height="71" as="geometry" />
         </mxCell>
         <mxCell id="YSDiQVrbqcbOi1_kds3u-4" value="Сервис SMS уведомлений" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-391" y="121" width="120" height="60" as="geometry" />
+          <mxGeometry x="-477" y="121" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PIYM_Lf_hM9VI1_wiz2--1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;elbow=vertical;" edge="1" parent="1" target="rzxESSEZE2pykLZewNk_-5">
           <mxGeometry relative="1" as="geometry">
@@ -881,10 +881,15 @@
             <mxPoint x="2" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PIYM_Lf_hM9VI1_wiz2--3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" target="YSDiQVrbqcbOi1_kds3u-4">
+        <mxCell id="PIYM_Lf_hM9VI1_wiz2--3" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=none;startFill=0;elbow=vertical;" edge="1" parent="1" target="YSDiQVrbqcbOi1_kds3u-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-149" y="150.71" as="sourcePoint" />
-            <mxPoint x="-287" y="150.71" as="targetPoint" />
+            <mxPoint x="-146.99999999999932" y="137" as="sourcePoint" />
+            <mxPoint x="-269" y="137" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIYM_Lf_hM9VI1_wiz2--13" value="Запрос операции" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="PIYM_Lf_hM9VI1_wiz2--3">
+          <mxGeometry x="-0.1803" y="-3" relative="1" as="geometry">
+            <mxPoint x="-20" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PIYM_Lf_hM9VI1_wiz2--4" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="YSDiQVrbqcbOi1_kds3u-3" target="1-NmKsiyoDpbAj-olh7g-1">
@@ -913,6 +918,17 @@
         <mxCell id="PIYM_Lf_hM9VI1_wiz2--8" value="Прогноз комиссии / &lt;br&gt;курс обмена" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="PIYM_Lf_hM9VI1_wiz2--5">
           <mxGeometry x="0.1712" y="-1" relative="1" as="geometry">
             <mxPoint x="21" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIYM_Lf_hM9VI1_wiz2--12" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;endArrow=none;endFill=0;elbow=vertical;" edge="1" parent="1" target="YSDiQVrbqcbOi1_kds3u-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-148.99999999999932" y="168" as="sourcePoint" />
+            <mxPoint x="-271" y="168" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIYM_Lf_hM9VI1_wiz2--14" value="Код из SMS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="PIYM_Lf_hM9VI1_wiz2--12">
+          <mxGeometry x="0.0325" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
