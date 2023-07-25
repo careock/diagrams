@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T12:56:26.142Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="U7cY5QVXGym743VNfkZI" version="21.6.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-25T12:58:48.273Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tmb8qrgCp2__2_uZQUSg" version="21.6.5" type="github" pages="5">
   <diagram name="Страница 1" id="-DRFQCNpOs20CNCx-nF7">
     <mxGraphModel dx="1653" dy="1224" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -854,7 +854,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Rk5nKBFt398-CjrYR4Ig" name="архитектура">
-    <mxGraphModel dx="2993" dy="2266" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3807" dy="2751" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -968,9 +968,6 @@
         <mxCell id="Zv3EkVByYtIr8Wl405YA-46" value="Обратная связь" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="x3hVErHcKjzYtvKyxFCa-4">
           <mxGeometry x="321" y="382" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zv3EkVByYtIr8Wl405YA-53" value="Управление контентом" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="x3hVErHcKjzYtvKyxFCa-4">
-          <mxGeometry x="319" y="475" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Zv3EkVByYtIr8Wl405YA-55" value="Сервис SMS уведомлений" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="x3hVErHcKjzYtvKyxFCa-4">
           <mxGeometry x="303" y="152" width="136" height="60" as="geometry" />
         </mxCell>
@@ -983,6 +980,18 @@
         <mxCell id="Zv3EkVByYtIr8Wl405YA-41" value="Интеграция с эквайрингом" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Zv3EkVByYtIr8Wl405YA-57">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Zv3EkVByYtIr8Wl405YA-66" value="" style="group" vertex="1" connectable="0" parent="x3hVErHcKjzYtvKyxFCa-4">
+          <mxGeometry x="321" y="479" width="145" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="Zv3EkVByYtIr8Wl405YA-67" value="Управление контентом" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Zv3EkVByYtIr8Wl405YA-66">
+          <mxGeometry x="25" y="24" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zv3EkVByYtIr8Wl405YA-68" value="Управление контентом" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Zv3EkVByYtIr8Wl405YA-66">
+          <mxGeometry x="14" y="13" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zv3EkVByYtIr8Wl405YA-69" value="Управление контентом" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Zv3EkVByYtIr8Wl405YA-66">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="x3hVErHcKjzYtvKyxFCa-3" value="Криптообменник" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Zv3EkVByYtIr8Wl405YA-48">
           <mxGeometry x="84" y="72" width="742" height="630" as="geometry" />
         </mxCell>
@@ -992,14 +1001,38 @@
         <mxCell id="x3hVErHcKjzYtvKyxFCa-2" value="Интеграция с провайдером данных" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="x3hVErHcKjzYtvKyxFCa-3">
           <mxGeometry x="60" y="172" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="klYmNbgUVxbOf9JS7oIF-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="x3hVErHcKjzYtvKyxFCa-3">
-          <mxGeometry x="236" y="161" width="120" height="60" as="geometry" />
+        <mxCell id="klYmNbgUVxbOf9JS7oIF-2" value="Управление пользователями" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="x3hVErHcKjzYtvKyxFCa-3">
+          <mxGeometry x="236" y="161" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zv3EkVByYtIr8Wl405YA-47" value="Обратная связь" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="x3hVErHcKjzYtvKyxFCa-3">
-          <mxGeometry x="46" y="265" width="120" height="60" as="geometry" />
+          <mxGeometry x="529" y="104" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zv3EkVByYtIr8Wl405YA-54" value="Управление контентом" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="x3hVErHcKjzYtvKyxFCa-3">
-          <mxGeometry x="236" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="Zv3EkVByYtIr8Wl405YA-58" value="Обработка вывода средств" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="x3hVErHcKjzYtvKyxFCa-3">
+          <mxGeometry x="64" y="373" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zv3EkVByYtIr8Wl405YA-59" value="Обработка пополнения" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="x3hVErHcKjzYtvKyxFCa-3">
+          <mxGeometry x="64" y="467" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zv3EkVByYtIr8Wl405YA-60" value="Обработка заявок на обмен" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="x3hVErHcKjzYtvKyxFCa-3">
+          <mxGeometry x="294" y="376" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zv3EkVByYtIr8Wl405YA-61" value="Блокчейн-нода" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="x3hVErHcKjzYtvKyxFCa-3">
+          <mxGeometry x="294" y="472" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zv3EkVByYtIr8Wl405YA-62" value="Управление кошельками" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="x3hVErHcKjzYtvKyxFCa-3">
+          <mxGeometry x="527" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zv3EkVByYtIr8Wl405YA-65" value="" style="group" vertex="1" connectable="0" parent="x3hVErHcKjzYtvKyxFCa-3">
+          <mxGeometry x="522" y="310" width="145" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="Zv3EkVByYtIr8Wl405YA-54" value="Управление контентом" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Zv3EkVByYtIr8Wl405YA-65">
+          <mxGeometry x="25" y="24" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zv3EkVByYtIr8Wl405YA-63" value="Управление контентом" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Zv3EkVByYtIr8Wl405YA-65">
+          <mxGeometry x="14" y="13" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zv3EkVByYtIr8Wl405YA-64" value="Управление контентом" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Zv3EkVByYtIr8Wl405YA-65">
+          <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
