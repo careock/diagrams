@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T13:46:01.782Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="rodeFR3J51IweUi6Wgyl" version="21.6.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-25T13:48:35.050Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ufpZtTVQz63owaWHajsy" version="21.6.5" type="github" pages="5">
   <diagram name="Страница 1" id="-DRFQCNpOs20CNCx-nF7">
     <mxGraphModel dx="1653" dy="1224" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -828,7 +828,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3bzZV1Ws0YEbKCL0U1P5" name="контекстная">
-    <mxGraphModel dx="1357" dy="988" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2187" dy="1253" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -839,22 +839,65 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1-NmKsiyoDpbAj-olh7g-1" value="Система" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-53" y="98" width="122" height="122" as="geometry" />
+          <mxGeometry x="-149" y="47" width="208" height="208" as="geometry" />
         </mxCell>
-        <mxCell id="rzxESSEZE2pykLZewNk_-1" value="Интернет-эквайринг" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-157" y="-75" width="120" height="60" as="geometry" />
+        <mxCell id="rzxESSEZE2pykLZewNk_-1" value="Интернет-эквайринг 1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-244" y="-85" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rzxESSEZE2pykLZewNk_-3" value="Интернет-эквайринг" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-3" y="-75" width="120" height="60" as="geometry" />
+        <mxCell id="rzxESSEZE2pykLZewNk_-3" value="Интернет-эквайринг 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-94" y="-88" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rzxESSEZE2pykLZewNk_-5" value="Провайдер блокчейн-данных" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="189" y="19" width="120" height="60" as="geometry" />
+        <mxCell id="rzxESSEZE2pykLZewNk_-5" value="Провайдер данных" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="312" y="128" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YSDiQVrbqcbOi1_kds3u-3" value="Блокчейн сеть" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="192" y="121" width="120" height="60" as="geometry" />
+          <mxGeometry x="-101" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YSDiQVrbqcbOi1_kds3u-4" value="Сервис SMS уведомлений" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="189" y="-75" width="120" height="60" as="geometry" />
+          <mxGeometry x="-407" y="121" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PIYM_Lf_hM9VI1_wiz2--1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;elbow=vertical;" edge="1" parent="1" target="rzxESSEZE2pykLZewNk_-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="58.99960753458117" y="135.99571428571423" as="sourcePoint" />
+            <mxPoint x="161" y="135.99571428571423" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIYM_Lf_hM9VI1_wiz2--6" value="Запрос" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="PIYM_Lf_hM9VI1_wiz2--1">
+          <mxGeometry x="-0.1792" y="3" relative="1" as="geometry">
+            <mxPoint x="13" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIYM_Lf_hM9VI1_wiz2--2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="1-NmKsiyoDpbAj-olh7g-1" target="YSDiQVrbqcbOi1_kds3u-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="63" y="127" as="sourcePoint" />
+            <mxPoint x="199" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIYM_Lf_hM9VI1_wiz2--3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="1-NmKsiyoDpbAj-olh7g-1" target="YSDiQVrbqcbOi1_kds3u-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="69" y="161" as="sourcePoint" />
+            <mxPoint x="202" y="161" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIYM_Lf_hM9VI1_wiz2--4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="1-NmKsiyoDpbAj-olh7g-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10.562994556707498" y="330" as="sourcePoint" />
+            <mxPoint x="-11.995846142113795" y="254.98087973264046" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIYM_Lf_hM9VI1_wiz2--5" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="312" y="177" as="sourcePoint" />
+            <mxPoint x="57.601169583977025" y="177" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="177" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIYM_Lf_hM9VI1_wiz2--8" value="Прогноз комиссии / &lt;br&gt;курс обмена" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="PIYM_Lf_hM9VI1_wiz2--5">
+          <mxGeometry x="0.1712" y="-1" relative="1" as="geometry">
+            <mxPoint x="21" y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
