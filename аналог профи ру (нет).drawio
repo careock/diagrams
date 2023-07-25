@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T13:23:05.740Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="IElCvSPYWb-tgLZhBXOV" version="21.6.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-25T13:23:22.706Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="eCIEw68MdRHmwcMcHpQk" version="21.6.5" type="github" pages="5">
   <diagram name="Страница 1" id="-DRFQCNpOs20CNCx-nF7">
     <mxGraphModel dx="1653" dy="1224" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -860,7 +860,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Rk5nKBFt398-CjrYR4Ig" name="архитектура">
-    <mxGraphModel dx="4282" dy="3096" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3722" dy="2751" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1061,7 +1061,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Zv3EkVByYtIr8Wl405YA-75" value="API gateway" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="478" y="-69" width="837" height="60" as="geometry" />
+          <mxGeometry x="491" y="-69" width="824" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zv3EkVByYtIr8Wl405YA-77" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="Zv3EkVByYtIr8Wl405YA-75" target="SHANgyYuFXgYXb-og-k8-3">
           <mxGeometry relative="1" as="geometry">
