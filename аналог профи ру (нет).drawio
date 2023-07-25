@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T13:07:22.562Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="C5aJ_P1js3B0i7DV32K0" version="21.6.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-25T13:07:32.803Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="09jkFnpiWZYdCIzAHN-w" version="21.6.5" type="github" pages="5">
   <diagram name="Страница 1" id="-DRFQCNpOs20CNCx-nF7">
     <mxGraphModel dx="1653" dy="1224" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -853,7 +853,7 @@
         <mxCell id="YSDiQVrbqcbOi1_kds3u-2" value="Сервис аналитики" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-329" y="100" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YSDiQVrbqcbOi1_kds3u-3" value="Блокчейн" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="YSDiQVrbqcbOi1_kds3u-3" value="Блокчейн сеть" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="192" y="218" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
