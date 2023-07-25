@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T11:03:31.819Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NHLlG9GbAkBkFMfIrzhd" version="21.6.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-25T11:06:00.021Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Ju4zN3Ah7aRqghxARq2W" version="21.6.5" type="github" pages="3">
   <diagram name="Страница 1" id="-DRFQCNpOs20CNCx-nF7">
     <mxGraphModel dx="1653" dy="1224" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -334,10 +334,53 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6_U_m9snSyB2Jp1W-bS9" name="Page-2">
-    <mxGraphModel dx="909" dy="673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1309" dy="1073" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zPpuonc8znTX8aGMlhfo-1" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-99" y="-51" width="783" height="498" as="geometry" />
+        </mxCell>
+        <mxCell id="zPpuonc8znTX8aGMlhfo-5" style="edgeStyle=elbowEdgeStyle;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zPpuonc8znTX8aGMlhfo-3" target="zPpuonc8znTX8aGMlhfo-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="205" y="69" />
+              <mxPoint x="309" y="67" />
+              <mxPoint x="307" y="67" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zPpuonc8znTX8aGMlhfo-3" value="Lifeline1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="44" y="-17" width="100" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="zPpuonc8znTX8aGMlhfo-7" style="edgeStyle=elbowEdgeStyle;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zPpuonc8znTX8aGMlhfo-4" target="zPpuonc8znTX8aGMlhfo-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="215" y="122" />
+              <mxPoint x="205" y="112" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zPpuonc8znTX8aGMlhfo-4" value="Lifeline2" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="349" y="-17" width="100" height="431" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zldSmNpLJS5rNz2jmQ4X" name="Page-3">
+    <mxGraphModel dx="1309" dy="1073" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tFh3OfDOzVSDTBK6QKxU-1" value="ActorName" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-74" y="-38" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tFh3OfDOzVSDTBK6QKxU-3" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="38" y="-81" width="495" height="562" as="geometry" />
+        </mxCell>
+        <mxCell id="tFh3OfDOzVSDTBK6QKxU-2" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="tFh3OfDOzVSDTBK6QKxU-3">
+          <mxGeometry x="38" y="49" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
