@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T11:53:43.507Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="uqz1tkrgDsjUo1yqkaE6" version="21.6.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-25T11:53:55.654Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="eqEaqmPc8LBjVEWgafI9" version="21.6.5" type="github" pages="5">
   <diagram name="Страница 1" id="-DRFQCNpOs20CNCx-nF7">
     <mxGraphModel dx="1653" dy="1224" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -368,7 +368,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zldSmNpLJS5rNz2jmQ4X" name="юзкейсы">
-    <mxGraphModel dx="224" dy="1009" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="447" dy="1142" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -559,7 +559,7 @@
           <mxGeometry x="2155" y="1459" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9t3GaJ1eVVrr_zOBuvaL-55" value="Криптообменник" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="2289" y="1112.5" width="760" height="830.5" as="geometry" />
+          <mxGeometry x="2289" y="1112.5" width="738" height="676.5" as="geometry" />
         </mxCell>
         <mxCell id="9t3GaJ1eVVrr_zOBuvaL-56" value="Указать параметры обмена" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="9t3GaJ1eVVrr_zOBuvaL-55">
           <mxGeometry x="103" y="306.5" width="140" height="70" as="geometry" />
@@ -581,11 +581,8 @@
             <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9t3GaJ1eVVrr_zOBuvaL-65" value="Создать тикет обратной связи" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="9t3GaJ1eVVrr_zOBuvaL-55">
-          <mxGeometry x="98" y="433.5" width="140" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="9t3GaJ1eVVrr_zOBuvaL-66" value="Создать тикет обратной связи" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="9t3GaJ1eVVrr_zOBuvaL-55">
-          <mxGeometry x="103" y="550.5" width="140" height="70" as="geometry" />
+          <mxGeometry x="98" y="430.5" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9t3GaJ1eVVrr_zOBuvaL-67" value="Авторизация" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="9t3GaJ1eVVrr_zOBuvaL-55">
           <mxGeometry x="98" y="71.5" width="140" height="70" as="geometry" />
@@ -602,7 +599,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9t3GaJ1eVVrr_zOBuvaL-71" value="Посмотреть информацию" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="9t3GaJ1eVVrr_zOBuvaL-55">
-          <mxGeometry x="108" y="698.5" width="140" height="70" as="geometry" />
+          <mxGeometry x="94" y="563.5" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9t3GaJ1eVVrr_zOBuvaL-72" value="Регистрация" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="9t3GaJ1eVVrr_zOBuvaL-55">
           <mxGeometry x="94" y="185.5" width="140" height="70" as="geometry" />
@@ -619,7 +616,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9t3GaJ1eVVrr_zOBuvaL-79" value="Прикрепить файл" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="9t3GaJ1eVVrr_zOBuvaL-55">
-          <mxGeometry x="331" y="550.5" width="140" height="70" as="geometry" />
+          <mxGeometry x="326" y="430.5" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9t3GaJ1eVVrr_zOBuvaL-81" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="9t3GaJ1eVVrr_zOBuvaL-55" source="9t3GaJ1eVVrr_zOBuvaL-66" target="9t3GaJ1eVVrr_zOBuvaL-79">
           <mxGeometry relative="1" as="geometry">
