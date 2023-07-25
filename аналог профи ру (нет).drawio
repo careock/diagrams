@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T12:49:52.467Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="gpVbTdo8hzA6ox-PkGaP" version="21.6.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-25T12:50:00.888Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="gOVEIdsPSM7kgJAdcLHU" version="21.6.5" type="github" pages="5">
   <diagram name="Страница 1" id="-DRFQCNpOs20CNCx-nF7">
     <mxGraphModel dx="1653" dy="1224" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -854,7 +854,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Rk5nKBFt398-CjrYR4Ig" name="архитектура">
-    <mxGraphModel dx="3190" dy="2622" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4068" dy="2906" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -895,7 +895,7 @@
           <mxGeometry x="223" y="-211" width="177" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zv3EkVByYtIr8Wl405YA-8" value="Панель администрирвоания" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-559" y="740" width="200" height="200" as="geometry" />
+          <mxGeometry x="-813" y="722" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Zv3EkVByYtIr8Wl405YA-12" value="Криптообменник" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-52" y="-1094" width="177" height="60" as="geometry" />
