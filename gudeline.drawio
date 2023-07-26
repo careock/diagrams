@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T15:05:17.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_6tVaJ82bYJ_1CE1q8xO" version="21.5.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-07-26T16:05:53.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MCO65Hkg2FmbWPhaogcl" version="21.5.2" type="github" pages="4">
   <diagram name="карта экранов" id="XdYg-4Eie37ftPTnFXVo">
     <mxGraphModel dx="1699" dy="1361" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -299,7 +299,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="W7gH0sASrk0nI23wGx9_" name="SyRS">
-    <mxGraphModel dx="2051" dy="1467" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1543" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -323,6 +323,12 @@
         </mxCell>
         <mxCell id="fIInTHQhp46lCpbrahot-1" value="Пользовательские классы" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="fIInTHQhp46lCpbrahot-8">
           <mxGeometry x="92" y="91" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fIInTHQhp46lCpbrahot-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="fIInTHQhp46lCpbrahot-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="359.79" y="368" as="sourcePoint" />
+            <mxPoint x="201.79" y="166" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
