@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T17:08:43.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Nt_8ACkue7slDPc4lspo" version="21.6.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-27T17:09:18.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5yctFVLiU6qW5n7j9gWC" version="21.6.5" type="github" pages="5">
   <diagram name="Страница 1" id="-DRFQCNpOs20CNCx-nF7">
     <mxGraphModel dx="3715" dy="2170" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -828,7 +828,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3bzZV1Ws0YEbKCL0U1P5" name="контекстная">
-    <mxGraphModel dx="2923" dy="1771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2038" dy="1200" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -856,7 +856,7 @@
             <mxPoint x="161" y="135.99571428571423" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PIYM_Lf_hM9VI1_wiz2--6" value="Запрос" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;" parent="PIYM_Lf_hM9VI1_wiz2--1" vertex="1" connectable="0">
+        <mxCell id="PIYM_Lf_hM9VI1_wiz2--6" value="Запрос" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=default;" parent="PIYM_Lf_hM9VI1_wiz2--1" vertex="1" connectable="0">
           <mxGeometry x="-0.1792" y="3" relative="1" as="geometry">
             <mxPoint x="13" y="2" as="offset" />
           </mxGeometry>
@@ -870,7 +870,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PIYM_Lf_hM9VI1_wiz2--10" value="Транзакция" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;" parent="PIYM_Lf_hM9VI1_wiz2--2" vertex="1" connectable="0">
+        <mxCell id="PIYM_Lf_hM9VI1_wiz2--10" value="Транзакция" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=default;" parent="PIYM_Lf_hM9VI1_wiz2--2" vertex="1" connectable="0">
           <mxGeometry x="-0.1391" relative="1" as="geometry">
             <mxPoint x="2" y="14" as="offset" />
           </mxGeometry>
@@ -881,7 +881,7 @@
             <mxPoint x="-269" y="137" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PIYM_Lf_hM9VI1_wiz2--13" value="Запрос операции" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;" parent="PIYM_Lf_hM9VI1_wiz2--3" vertex="1" connectable="0">
+        <mxCell id="PIYM_Lf_hM9VI1_wiz2--13" value="Запрос операции" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=default;" parent="PIYM_Lf_hM9VI1_wiz2--3" vertex="1" connectable="0">
           <mxGeometry x="-0.1803" y="-3" relative="1" as="geometry">
             <mxPoint x="-20" y="2" as="offset" />
           </mxGeometry>
@@ -895,7 +895,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PIYM_Lf_hM9VI1_wiz2--11" value="Информация &lt;br&gt;о транзакциях" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;" parent="PIYM_Lf_hM9VI1_wiz2--4" vertex="1" connectable="0">
+        <mxCell id="PIYM_Lf_hM9VI1_wiz2--11" value="Информация &lt;br&gt;о транзакциях" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=default;" parent="PIYM_Lf_hM9VI1_wiz2--4" vertex="1" connectable="0">
           <mxGeometry x="-0.4138" y="-1" relative="1" as="geometry">
             <mxPoint y="-13" as="offset" />
           </mxGeometry>
@@ -909,7 +909,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PIYM_Lf_hM9VI1_wiz2--8" value="Прогноз комиссии / &lt;br&gt;курс обмена" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;" parent="PIYM_Lf_hM9VI1_wiz2--5" vertex="1" connectable="0">
+        <mxCell id="PIYM_Lf_hM9VI1_wiz2--8" value="Прогноз комиссии / &lt;br&gt;курс обмена" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=default;" parent="PIYM_Lf_hM9VI1_wiz2--5" vertex="1" connectable="0">
           <mxGeometry x="0.1712" y="-1" relative="1" as="geometry">
             <mxPoint x="21" y="-1" as="offset" />
           </mxGeometry>
@@ -920,7 +920,7 @@
             <mxPoint x="-271" y="168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PIYM_Lf_hM9VI1_wiz2--14" value="Код из SMS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;" parent="PIYM_Lf_hM9VI1_wiz2--12" vertex="1" connectable="0">
+        <mxCell id="PIYM_Lf_hM9VI1_wiz2--14" value="Код из SMS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=default;" parent="PIYM_Lf_hM9VI1_wiz2--12" vertex="1" connectable="0">
           <mxGeometry x="0.0325" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
