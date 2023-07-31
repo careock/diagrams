@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T10:35:35.850Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="IKT-WKx1sScycSMvD9bG" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T10:35:50.896Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="hduak-tI4nB47-DO4Pn6" version="21.6.5" type="github">
   <diagram name="Page-1" id="zHUUiC82xC5pGfD_80GM">
-    <mxGraphModel dx="2087" dy="1396" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3268" dy="2094" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -225,7 +225,7 @@
           <mxGeometry x="976" y="-219" width="463" height="88" as="geometry" />
         </mxCell>
         <mxCell id="BTJkSmiA3YUgXuVK6yyH-106" value="&lt;b style=&quot;font-size: 32px;&quot;&gt;Просто листинг на маркетплейсе&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
-          <mxGeometry x="1836" y="-234" width="463" height="88" as="geometry" />
+          <mxGeometry x="1853" y="-234" width="463" height="88" as="geometry" />
         </mxCell>
         <mxCell id="BTJkSmiA3YUgXuVK6yyH-107" value="&lt;b style=&quot;font-size: 32px;&quot;&gt;Интеграция с L2 платформой&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
           <mxGeometry x="2726" y="-238" width="463" height="88" as="geometry" />
