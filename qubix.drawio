@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T10:03:03.076Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="lM5tJN7JJZcNz-Jt7qLP" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T10:03:56.912Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ADze-QOZAkiXfvuGwRHk" version="21.6.5" type="github">
   <diagram name="Page-1" id="zHUUiC82xC5pGfD_80GM">
-    <mxGraphModel dx="1247" dy="737" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="892" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,6 +15,9 @@
         </mxCell>
         <mxCell id="BTJkSmiA3YUgXuVK6yyH-4" value="webGL" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="347" y="33" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BTJkSmiA3YUgXuVK6yyH-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BTJkSmiA3YUgXuVK6yyH-5" target="BTJkSmiA3YUgXuVK6yyH-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BTJkSmiA3YUgXuVK6yyH-5" value="marketplace" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1237" y="188" width="120" height="60" as="geometry" />
@@ -48,6 +51,12 @@
         </mxCell>
         <mxCell id="BTJkSmiA3YUgXuVK6yyH-15" value="marketplace" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1658" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BTJkSmiA3YUgXuVK6yyH-17" value="Blockchain" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1136" y="335" width="338" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="BTJkSmiA3YUgXuVK6yyH-18" value="marketplace S.Cs." style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="BTJkSmiA3YUgXuVK6yyH-17">
+          <mxGeometry x="19" y="44" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
