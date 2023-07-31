@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T10:34:46.266Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="4CAuexo7nd86p3fnDoZn" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T10:35:35.850Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="IKT-WKx1sScycSMvD9bG" version="21.6.5" type="github">
   <diagram name="Page-1" id="zHUUiC82xC5pGfD_80GM">
-    <mxGraphModel dx="4497" dy="2820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2087" dy="1396" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
           <mxGeometry x="177" y="44" width="137" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BTJkSmiA3YUgXuVK6yyH-51" value="Qubix" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1913" y="306" width="347" height="126" as="geometry" />
+          <mxGeometry x="1913" y="311" width="347" height="126" as="geometry" />
         </mxCell>
         <mxCell id="BTJkSmiA3YUgXuVK6yyH-52" value="backend" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="BTJkSmiA3YUgXuVK6yyH-51">
           <mxGeometry x="40" y="44" width="120" height="60" as="geometry" />
@@ -224,7 +224,7 @@
         <mxCell id="BTJkSmiA3YUgXuVK6yyH-105" value="&lt;b style=&quot;font-size: 32px;&quot;&gt;Интеграция по API c маркетплейсом&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
           <mxGeometry x="976" y="-219" width="463" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="BTJkSmiA3YUgXuVK6yyH-106" value="&lt;b style=&quot;font-size: 32px;&quot;&gt;Без интеграции&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+        <mxCell id="BTJkSmiA3YUgXuVK6yyH-106" value="&lt;b style=&quot;font-size: 32px;&quot;&gt;Просто листинг на маркетплейсе&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
           <mxGeometry x="1836" y="-234" width="463" height="88" as="geometry" />
         </mxCell>
         <mxCell id="BTJkSmiA3YUgXuVK6yyH-107" value="&lt;b style=&quot;font-size: 32px;&quot;&gt;Интеграция с L2 платформой&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
@@ -232,12 +232,12 @@
         </mxCell>
         <UserObject label="https://market.immutable.com/" link="https://market.immutable.com/" id="BTJkSmiA3YUgXuVK6yyH-108">
           <mxCell style="text;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
-            <mxGeometry x="2781.997142857143" y="488.00428571428574" width="242" height="41" as="geometry" />
+            <mxGeometry x="2781.997142857143" y="557.0042857142857" width="242" height="41" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="nftrade.com" link="nftrade.com" id="BTJkSmiA3YUgXuVK6yyH-111">
           <mxCell style="text;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
-            <mxGeometry x="2781.9955555555557" y="553.0011111111108" width="112" height="41" as="geometry" />
+            <mxGeometry x="2781.9955555555557" y="622.0011111111108" width="112" height="41" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
