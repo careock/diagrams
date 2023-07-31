@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T14:07:58.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5oz2NR7kT2SSD0jlYPGH" version="21.6.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-31T14:14:09.900Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="_EKl163o0Z4PC0TajP6k" version="21.6.6" type="github" pages="5">
   <diagram name="карта экранов" id="XdYg-4Eie37ftPTnFXVo">
     <mxGraphModel dx="1699" dy="1361" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="THMrJFljjWWgmb37G2gp" name="Процесс">
-    <mxGraphModel dx="2658" dy="1200" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3407" dy="1540" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
