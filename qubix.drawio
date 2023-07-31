@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T10:39:04.217Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="cR4cJf76EyGXS7C7-2fv" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T10:40:03.618Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="s2ebrkahkWdIPIfLyyoR" version="21.6.5" type="github">
   <diagram name="Page-1" id="zHUUiC82xC5pGfD_80GM">
     <mxGraphModel dx="2312" dy="1529" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -253,6 +253,11 @@
         <UserObject label="venly.io" link="nftrade.com" id="BTJkSmiA3YUgXuVK6yyH-118">
           <mxCell style="text;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
             <mxGeometry x="957.9955555555557" y="727.0011111111108" width="112" height="41" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="может также включать интегарцию с L2" link="nftrade.com" id="BTJkSmiA3YUgXuVK6yyH-119">
+          <mxCell style="text;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+            <mxGeometry x="1884" y="598" width="373" height="41" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
