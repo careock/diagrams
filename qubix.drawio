@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T10:34:31.695Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="bBF7kTqYKHRhZqBGsbp4" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T10:34:46.266Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="4CAuexo7nd86p3fnDoZn" version="21.6.5" type="github">
   <diagram name="Page-1" id="zHUUiC82xC5pGfD_80GM">
-    <mxGraphModel dx="3587" dy="2282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4497" dy="2820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -231,8 +231,13 @@
           <mxGeometry x="2726" y="-238" width="463" height="88" as="geometry" />
         </mxCell>
         <UserObject label="https://market.immutable.com/" link="https://market.immutable.com/" id="BTJkSmiA3YUgXuVK6yyH-108">
-          <mxCell style="text;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
             <mxGeometry x="2781.997142857143" y="488.00428571428574" width="242" height="41" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="nftrade.com" link="nftrade.com" id="BTJkSmiA3YUgXuVK6yyH-111">
+          <mxCell style="text;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+            <mxGeometry x="2781.9955555555557" y="553.0011111111108" width="112" height="41" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
