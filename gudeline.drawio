@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T13:22:18.826Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Rugca4-3ClMt74gs9MRa" version="21.6.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-08-01T13:22:25.902Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="EF3SELpsPTmAZ8oWiPJx" version="21.6.6" type="github" pages="5">
   <diagram name="карта экранов" id="XdYg-4Eie37ftPTnFXVo">
     <mxGraphModel dx="1699" dy="1361" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -406,7 +406,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pXBt_MUaWfN-jIqfLf5y-9" value="Выход" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="pXBt_MUaWfN-jIqfLf5y-5">
+        <mxCell id="pXBt_MUaWfN-jIqfLf5y-9" value="Выход 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="pXBt_MUaWfN-jIqfLf5y-5">
           <mxGeometry x="0.0358" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
