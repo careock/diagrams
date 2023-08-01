@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T13:38:35.949Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="zVgyKmsKkuUnrGGfN51v" version="21.6.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-08-01T13:39:32.610Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="bUABblLXXNuLn4baYH6O" version="21.6.6" type="github" pages="5">
   <diagram name="карта экранов" id="XdYg-4Eie37ftPTnFXVo">
     <mxGraphModel dx="1699" dy="1361" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -299,7 +299,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="W7gH0sASrk0nI23wGx9_" name="SyRS">
-    <mxGraphModel dx="1269" dy="913" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1356" dy="965" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -553,17 +553,6 @@
         <mxCell id="pXBt_MUaWfN-jIqfLf5y-49" value="Вход 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="pXBt_MUaWfN-jIqfLf5y-48">
           <mxGeometry x="0.1711" y="-1" relative="1" as="geometry">
             <mxPoint x="-18" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pXBt_MUaWfN-jIqfLf5y-50" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" target="pXBt_MUaWfN-jIqfLf5y-47">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="151" y="1702" as="sourcePoint" />
-            <mxPoint x="280" y="1704" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pXBt_MUaWfN-jIqfLf5y-51" value="Вход 2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="pXBt_MUaWfN-jIqfLf5y-50">
-          <mxGeometry x="-0.0236" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pXBt_MUaWfN-jIqfLf5y-52" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
