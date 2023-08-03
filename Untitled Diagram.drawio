@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T14:17:09.847Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="tOKKeaEVyineCNviXJH6" version="21.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-03T14:17:24.065Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ZHY_196L2470UAHp2RuZ" version="21.6.6" type="github" pages="2">
   <diagram name="Page-1" id="neX6P6fVGqzPIGTvPSa0">
     <mxGraphModel dx="1469" dy="785" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -118,7 +118,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UETmV2aFfu3CnfJQaFv1" name="Page-2">
-    <mxGraphModel dx="1612" dy="1289" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1410" dy="1141" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -279,12 +279,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pttD_mgatIToKl5A9Nnx-75" value="Достаточный &lt;br&gt;уровень проработки?" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;verticalLabelPosition=top;labelBackgroundColor=#FCFCFC;verticalAlign=bottom;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;fontSize=16;html=1;spacing=4;labelBorderColor=none;labelPosition=center;" vertex="1" parent="pttD_mgatIToKl5A9Nnx-59">
-          <mxGeometry x="627" y="171" width="50" height="50" as="geometry" />
+          <mxGeometry x="640" y="180" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pttD_mgatIToKl5A9Nnx-86" value="Проработка фичи" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="pttD_mgatIToKl5A9Nnx-59">
-          <mxGeometry x="910" y="89" width="120" height="60" as="geometry" />
+          <mxGeometry x="896" y="111" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pttD_mgatIToKl5A9Nnx-93" value="Мажорная версия SRS" style="shape=mxgraph.bpmn.data;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;size=15;html=1;fontSize=16;" vertex="1" parent="pttD_mgatIToKl5A9Nnx-59">
+        <mxCell id="pttD_mgatIToKl5A9Nnx-93" value="Минорная версия SRS" style="shape=mxgraph.bpmn.data;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;size=15;html=1;fontSize=16;" vertex="1" parent="pttD_mgatIToKl5A9Nnx-59">
           <mxGeometry x="463.5" y="43" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pttD_mgatIToKl5A9Nnx-67" value="Разработка" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=16;" vertex="1" parent="1">
