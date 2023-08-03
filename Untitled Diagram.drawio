@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T13:48:08.294Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="UWycbVHwFgnEOK3rIFS_" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-03T13:48:20.801Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="-NQKhgZZ0eYc8gm6eTMg" version="21.6.6" type="github">
   <diagram name="Page-1" id="neX6P6fVGqzPIGTvPSa0">
     <mxGraphModel dx="1798" dy="1026" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -104,6 +104,9 @@
         </mxCell>
         <mxCell id="FitfX2rur0cgfh9LuDd8-32" value="Сбор требований" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="933" y="87" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FitfX2rur0cgfh9LuDd8-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-112" y="57" width="611" height="338" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
