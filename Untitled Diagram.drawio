@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T14:41:39.956Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="R9t9s6wpMMwmcWGlfEpl" version="21.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-03T14:58:31.909Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="WyMinfNytIwqAbLSRVaP" version="21.6.6" type="github" pages="3">
   <diagram name="Page-1" id="neX6P6fVGqzPIGTvPSa0">
     <mxGraphModel dx="2218" dy="1334" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -268,24 +268,30 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HtX2UNzL5OHyUT0XXn9N" name="Page-3">
-    <mxGraphModel dx="1309" dy="667" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1699" dy="553" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tKOBja2N5YHntlhS4U08-1" value="Текущее ТЗ" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="413" y="454" width="205" height="60" as="geometry" />
+        <mxCell id="tKOBja2N5YHntlhS4U08-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tKOBja2N5YHntlhS4U08-2" target="tKOBja2N5YHntlhS4U08-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tKOBja2N5YHntlhS4U08-2" value="Реальные прецеденты" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-31" y="363" width="205" height="60" as="geometry" />
+          <mxGeometry x="-28" y="412" width="205" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tKOBja2N5YHntlhS4U08-3" value="Теория управления требованиями" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-31" y="471" width="205" height="60" as="geometry" />
+        <mxCell id="tKOBja2N5YHntlhS4U08-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tKOBja2N5YHntlhS4U08-3" target="tKOBja2N5YHntlhS4U08-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tKOBja2N5YHntlhS4U08-4" value="Стандарты + Литература" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-31" y="579" width="205" height="60" as="geometry" />
+        <mxCell id="tKOBja2N5YHntlhS4U08-3" value="Теория управления требованиями&lt;br&gt;(стандарты и литература)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="526" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tKOBja2N5YHntlhS4U08-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tKOBja2N5YHntlhS4U08-5" target="tKOBja2N5YHntlhS4U08-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tKOBja2N5YHntlhS4U08-5" value="Обратная связь от разработчиков" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-31" y="675" width="205" height="60" as="geometry" />
+          <mxGeometry x="-25" y="640.5" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tKOBja2N5YHntlhS4U08-6" value="Новый формат технической спецификации" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="363" y="496" width="208.5" height="139" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
