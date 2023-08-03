@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T14:22:47.320Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="UX3WG0SAPqGzzdLSXmw2" version="21.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-03T14:22:54.905Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="q4s1SnYUqvVUVhwoTUN4" version="21.6.6" type="github" pages="2">
   <diagram name="Page-1" id="neX6P6fVGqzPIGTvPSa0">
     <mxGraphModel dx="1469" dy="785" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -339,7 +339,7 @@
         <mxCell id="pttD_mgatIToKl5A9Nnx-95" value="Разработка фичи" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="pttD_mgatIToKl5A9Nnx-67">
           <mxGeometry x="459" y="132" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pttD_mgatIToKl5A9Nnx-97" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="pttD_mgatIToKl5A9Nnx-98" target="pttD_mgatIToKl5A9Nnx-95">
+        <mxCell id="pttD_mgatIToKl5A9Nnx-97" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;dashed=1;" edge="1" parent="1" source="pttD_mgatIToKl5A9Nnx-98" target="pttD_mgatIToKl5A9Nnx-95">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="632" y="1087.875" as="targetPoint" />
           </mxGeometry>
