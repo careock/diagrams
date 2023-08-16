@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T19:20:09.597Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="QTEWUTcEBIpiyQZTYAHm" version="21.6.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-16T19:21:10.046Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="-L0yYCV9fcFI9r68dTAf" version="21.6.8" type="github" pages="2">
   <diagram name="1" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="1964" dy="1139" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,13 +80,16 @@
           <mxGeometry x="37" y="171" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_CpVrrbbG1iA5oKgUDlh-23" value="Канбан-доска" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="189" y="1020" width="433" height="510" as="geometry" />
+          <mxGeometry x="57" y="1003" width="616" height="510" as="geometry" />
         </mxCell>
         <mxCell id="_CpVrrbbG1iA5oKgUDlh-24" value="Включить nuke-password в настройках" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_CpVrrbbG1iA5oKgUDlh-23">
-          <mxGeometry x="216" y="81" width="120" height="80" as="geometry" />
+          <mxGeometry x="238" y="121" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_CpVrrbbG1iA5oKgUDlh-25" value="Включить nuke-password в настройках" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_CpVrrbbG1iA5oKgUDlh-23">
-          <mxGeometry x="224" y="201" width="120" height="80" as="geometry" />
+        <mxCell id="_CpVrrbbG1iA5oKgUDlh-25" value="Ввести nuke-пароль&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_CpVrrbbG1iA5oKgUDlh-23">
+          <mxGeometry x="71" y="215" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_CpVrrbbG1iA5oKgUDlh-26" value="?? подтвердить активацию фичи" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_CpVrrbbG1iA5oKgUDlh-23">
+          <mxGeometry x="280" y="228" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
