@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T15:26:08.610Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="4MIzSp2pRibweqpkpR-U" version="21.6.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-16T15:26:18.083Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="WctvNQEP73YXnEKncwdW" version="21.6.8" type="github" pages="2">
   <diagram name="1" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="1964" dy="1139" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,8 +15,8 @@
         <mxCell id="_CpVrrbbG1iA5oKgUDlh-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="_CpVrrbbG1iA5oKgUDlh-1" target="_CpVrrbbG1iA5oKgUDlh-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_CpVrrbbG1iA5oKgUDlh-1" value="Пользователь ShildiChat" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-209" y="131" width="30" height="60" as="geometry" />
+        <mxCell id="_CpVrrbbG1iA5oKgUDlh-1" value="Пользователь&lt;br&gt;ShildiChat" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-94" y="81" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_CpVrrbbG1iA5oKgUDlh-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="_CpVrrbbG1iA5oKgUDlh-2" target="_CpVrrbbG1iA5oKgUDlh-6">
           <mxGeometry relative="1" as="geometry" />
