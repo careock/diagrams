@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T19:11:08.918Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="fTSnStwqBX-DpdX_7uDB" version="21.6.8" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-08-16T19:11:19.092Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="gB7aX1LZXEx8tN2xeEws" version="21.6.8" type="github" pages="16">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-1024" dy="2917" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7321,10 +7321,10 @@
         <mxCell id="BmVFxUQvlAqPuCO6Vnhq-4" value="ShildiChat" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="906" y="-280" width="421" height="385" as="geometry" />
         </mxCell>
-        <mxCell id="BmVFxUQvlAqPuCO6Vnhq-5" value="Открыть экран чата" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="BmVFxUQvlAqPuCO6Vnhq-4">
+        <mxCell id="BmVFxUQvlAqPuCO6Vnhq-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="BmVFxUQvlAqPuCO6Vnhq-4">
           <mxGeometry x="31" y="67" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BmVFxUQvlAqPuCO6Vnhq-6" value="Добавить виджет" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="BmVFxUQvlAqPuCO6Vnhq-4">
+        <mxCell id="BmVFxUQvlAqPuCO6Vnhq-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="BmVFxUQvlAqPuCO6Vnhq-4">
           <mxGeometry x="250" y="67" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BmVFxUQvlAqPuCO6Vnhq-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="BmVFxUQvlAqPuCO6Vnhq-4" source="BmVFxUQvlAqPuCO6Vnhq-5" target="BmVFxUQvlAqPuCO6Vnhq-6">
@@ -7335,7 +7335,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BmVFxUQvlAqPuCO6Vnhq-9" value="Управление задачами" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="BmVFxUQvlAqPuCO6Vnhq-4">
+        <mxCell id="BmVFxUQvlAqPuCO6Vnhq-9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="BmVFxUQvlAqPuCO6Vnhq-4">
           <mxGeometry x="37" y="171" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
