@@ -1,6 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T14:33:11.192Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="8Bk6akf1zxIxY0exFdN8" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-16T15:23:39.481Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="v2LDwcNR26CHLQMN-pFV" version="21.6.8" type="github" pages="2">
   <diagram name="1" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="1964" dy="1139" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bE5wVsmSxk-BZoCILN0T" name="юзкейсы">
+    <mxGraphModel dx="1375" dy="797" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
