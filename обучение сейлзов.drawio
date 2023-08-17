@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T15:37:46.403Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Bo38u06fFCMd1jxfssYZ" version="21.6.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-08-17T15:37:54.608Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="RTNMiq_CK2iJYa-zCl2_" version="21.6.8" type="github" pages="7">
   <diagram id="8788a3DS1QVcUZw9lr2Y" name="1">
     <mxGraphModel dx="6136" dy="3688" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1347,8 +1347,8 @@
         <mxCell id="PlsdBpFg8Xp4kAZbOuLb-74" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="PlsdBpFg8Xp4kAZbOuLb-67" target="PlsdBpFg8Xp4kAZbOuLb-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PlsdBpFg8Xp4kAZbOuLb-76" value="Стриминговый сервис" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="2190" y="-1" width="380" height="641" as="geometry" />
+        <mxCell id="PlsdBpFg8Xp4kAZbOuLb-76" value="Музыкальный сервис" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="-1" width="547" height="452" as="geometry" />
         </mxCell>
         <mxCell id="PlsdBpFg8Xp4kAZbOuLb-75" value="Обработка платежей" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;" vertex="1" parent="PlsdBpFg8Xp4kAZbOuLb-76">
           <mxGeometry x="34" y="70" width="136" height="60" as="geometry" />
