@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T15:25:55.420Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="pY50BnM1lyS1YO82Es5W" version="21.6.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-08-17T15:26:08.210Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="RkyvI5OgpnMQFkaRB-Cb" version="21.6.8" type="github" pages="5">
   <diagram id="8788a3DS1QVcUZw9lr2Y" name="1">
     <mxGraphModel dx="3587" dy="2227" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1005,7 +1005,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rN7DAhj1GU93mfpUbVUU" name="Page-5">
-    <mxGraphModel dx="-2626" dy="729" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1766" dy="1222" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1100,7 +1100,7 @@
           <mxGeometry x="4040" y="244" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xdEaQkcpAz_uyE6FOgNd-25" value="amoCRM" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="5247" y="55" width="176.6" height="83" as="geometry" />
+          <mxGeometry x="5247" y="65" width="176.6" height="83" as="geometry" />
         </mxCell>
         <mxCell id="xdEaQkcpAz_uyE6FOgNd-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="xdEaQkcpAz_uyE6FOgNd-29" target="xdEaQkcpAz_uyE6FOgNd-25">
           <mxGeometry relative="1" as="geometry" />
@@ -1113,7 +1113,7 @@
         <mxCell id="xdEaQkcpAz_uyE6FOgNd-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="xdEaQkcpAz_uyE6FOgNd-29" target="xdEaQkcpAz_uyE6FOgNd-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xdEaQkcpAz_uyE6FOgNd-37" value="Общение с клиентами" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xdEaQkcpAz_uyE6FOgNd-32">
+        <mxCell id="xdEaQkcpAz_uyE6FOgNd-37" value="Общение&lt;br&gt;с клиентами" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xdEaQkcpAz_uyE6FOgNd-32">
           <mxGeometry x="0.1298" y="-1" relative="1" as="geometry">
             <mxPoint x="-10" y="-4" as="offset" />
           </mxGeometry>
@@ -1130,10 +1130,10 @@
           <mxGeometry x="5271" y="206" width="135" height="135" as="geometry" />
         </mxCell>
         <mxCell id="xdEaQkcpAz_uyE6FOgNd-31" value="JivoChat" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="5585" y="232" width="176.6" height="83" as="geometry" />
+          <mxGeometry x="5528" y="232" width="176.6" height="83" as="geometry" />
         </mxCell>
         <mxCell id="xdEaQkcpAz_uyE6FOgNd-33" value="SMS.RU" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="4928" y="232.5" width="176.6" height="83" as="geometry" />
+          <mxGeometry x="4949" y="232.5" width="176.6" height="83" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
