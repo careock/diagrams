@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T15:53:28.335Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="cKKNTH_ESCi8asIwCvJN" version="21.6.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-08-17T15:53:39.845Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="lbF-ZeB94zQkAWCdPJ0F" version="21.6.8" type="github" pages="7">
   <diagram id="8788a3DS1QVcUZw9lr2Y" name="1">
     <mxGraphModel dx="6136" dy="3688" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1492,7 +1492,7 @@
             <mxPoint x="2415" y="246" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J9uroWN3YNJBRV9Peu-P-19" value="Интернет-эквайринг" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J9uroWN3YNJBRV9Peu-P-19" value="Криптовалютный эквайринг" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2733" y="140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="J9uroWN3YNJBRV9Peu-P-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="J9uroWN3YNJBRV9Peu-P-19" target="J9uroWN3YNJBRV9Peu-P-13">
