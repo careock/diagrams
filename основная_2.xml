@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T11:43:51.249Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="PzpOXSJ6_Ad4Cd3baVNv" version="21.6.8" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-08-17T11:44:00.165Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="1ut8za6In52OLYVK7fSU" version="21.6.8" type="github" pages="16">
   <diagram id="9ZQXClYsfD8tGLuhHnJp" name="Архитектура SC">
     <mxGraphModel dx="-1024" dy="2797" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7310,7 +7310,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BmVFxUQvlAqPuCO6Vnhq-2" value="Игрок" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="609" y="65" width="30" height="60" as="geometry" />
+          <mxGeometry x="625" y="34" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BmVFxUQvlAqPuCO6Vnhq-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="BmVFxUQvlAqPuCO6Vnhq-2" target="BmVFxUQvlAqPuCO6Vnhq-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -7350,12 +7350,6 @@
         </mxCell>
         <mxCell id="ONdhBSFNhELrJJZ-hodq-9" value="Управление звуками" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ONdhBSFNhELrJJZ-hodq-3">
           <mxGeometry x="31" y="278" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ONdhBSFNhELrJJZ-hodq-10" value="Аудио" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="906" y="531" width="214" height="198" as="geometry" />
-        </mxCell>
-        <mxCell id="ONdhBSFNhELrJJZ-hodq-11" value="Настройка&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ONdhBSFNhELrJJZ-hodq-10">
-          <mxGeometry x="31" y="67" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ONdhBSFNhELrJJZ-hodq-14" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="439" y="-324" width="120" height="80" as="geometry" />
