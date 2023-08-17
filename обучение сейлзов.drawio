@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T15:48:19.228Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="J4p8GaiqN2ACO3EwDUWb" version="21.6.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-08-17T15:49:12.652Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="AejeabGC19nQL07l-mF-" version="21.6.8" type="github" pages="7">
   <diagram id="8788a3DS1QVcUZw9lr2Y" name="1">
     <mxGraphModel dx="6136" dy="3688" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1375,10 +1375,10 @@
           <mxGeometry x="2122" y="-219" width="154" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AbP0M75eECo5R1p2HVqh-7" value="Сервис СМС-уведомлений" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2729" y="-48" width="120" height="80" as="geometry" />
+          <mxGeometry x="2735" y="33" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AbP0M75eECo5R1p2HVqh-8" value="Вав" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2892" y="98" width="120" height="80" as="geometry" />
+          <mxGeometry x="2735" y="131" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AbP0M75eECo5R1p2HVqh-9" value="База данных" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="2447.88" y="233" width="68.25" height="91" as="geometry" />
@@ -1394,6 +1394,15 @@
         </mxCell>
         <mxCell id="AbP0M75eECo5R1p2HVqh-19" value="Backend" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2364" y="95" width="236" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="AbP0M75eECo5R1p2HVqh-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="AbP0M75eECo5R1p2HVqh-7" target="AbP0M75eECo5R1p2HVqh-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2492" y="48" as="sourcePoint" />
+            <mxPoint x="2492" y="105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AbP0M75eECo5R1p2HVqh-23" value="NoSQL хранилище" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="2337" y="235" width="68.25" height="91" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
