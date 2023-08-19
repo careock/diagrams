@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T21:41:29.347Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="wLU0uPxI4cd24Gj6sxsL" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-19T21:41:40.296Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="-lO0ZWv3RgLln-JAGsOJ" version="21.6.8" type="github" pages="3">
   <diagram name="system design" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="480" dy="8481" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -125,9 +125,9 @@
           <mxGeometry x="145" y="55" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_CpVrrbbG1iA5oKgUDlh-25" value="Ввести nuke-пароль&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_CpVrrbbG1iA5oKgUDlh-23">
-          <mxGeometry x="145" y="165" width="120" height="80" as="geometry" />
+          <mxGeometry x="145" y="185" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_CpVrrbbG1iA5oKgUDlh-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="_CpVrrbbG1iA5oKgUDlh-23" source="_CpVrrbbG1iA5oKgUDlh-25" target="_CpVrrbbG1iA5oKgUDlh-24">
+        <mxCell id="_CpVrrbbG1iA5oKgUDlh-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="_CpVrrbbG1iA5oKgUDlh-23" source="_CpVrrbbG1iA5oKgUDlh-25" target="_CpVrrbbG1iA5oKgUDlh-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="135" y="192" as="sourcePoint" />
             <mxPoint x="234" y="192" as="targetPoint" />
