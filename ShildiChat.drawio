@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T11:22:00.191Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="nF7GyXsgJ-Bf6ubDfICz" version="21.6.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-19T11:22:07.282Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="bMhtcHG4RZPc51TF9XCb" version="21.6.8" type="github" pages="2">
   <diagram name="system design" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="-83" dy="8094" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,13 +8,13 @@
           <mxGeometry x="960" y="-7600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_60mDyvAbEM9UX_iTlZ9-2" value="Backend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1233" y="-7590" width="120" height="60" as="geometry" />
+          <mxGeometry x="1163" y="-7590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_60mDyvAbEM9UX_iTlZ9-3" value="Linux" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="-7396" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_60mDyvAbEM9UX_iTlZ9-5" value="Веб-сайт&lt;br&gt;&quot;Канбан доска&quot;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1237" y="-7396" width="120" height="60" as="geometry" />
+          <mxGeometry x="1167" y="-7396" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
