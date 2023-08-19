@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T21:41:40.296Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="-lO0ZWv3RgLln-JAGsOJ" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-19T21:42:16.240Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="U0l76F2yw5jEuyg0ATJO" version="21.6.8" type="github" pages="3">
   <diagram name="system design" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="480" dy="8481" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,7 +105,7 @@
           <mxGeometry x="43" y="150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EBbz8ZECUy9XFdT5LP_m-11" value="Добавить сервер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_CpVrrbbG1iA5oKgUDlh-13">
-          <mxGeometry x="259" y="150" width="120" height="80" as="geometry" />
+          <mxGeometry x="252" y="114" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EBbz8ZECUy9XFdT5LP_m-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="_CpVrrbbG1iA5oKgUDlh-13" source="EBbz8ZECUy9XFdT5LP_m-6" target="EBbz8ZECUy9XFdT5LP_m-11">
           <mxGeometry relative="1" as="geometry">
@@ -114,6 +114,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EBbz8ZECUy9XFdT5LP_m-14" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EBbz8ZECUy9XFdT5LP_m-13">
+          <mxGeometry x="-0.1637" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EBbz8ZECUy9XFdT5LP_m-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="_CpVrrbbG1iA5oKgUDlh-13" source="EBbz8ZECUy9XFdT5LP_m-4" target="EBbz8ZECUy9XFdT5LP_m-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="173" y="200" as="sourcePoint" />
+            <mxPoint x="269" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EBbz8ZECUy9XFdT5LP_m-18" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EBbz8ZECUy9XFdT5LP_m-17">
           <mxGeometry x="-0.1637" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
