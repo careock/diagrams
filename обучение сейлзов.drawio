@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T15:09:40.936Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="PmvCVYhvlX97lizjLD0K" version="21.6.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-08-21T15:10:11.356Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="RTi-YrvHAP4J-RXssCxz" version="21.6.8" type="github" pages="8">
   <diagram id="8788a3DS1QVcUZw9lr2Y" name="1">
     <mxGraphModel dx="2135" dy="1522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1505,7 +1505,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GnxkcANtqhw6Npgjn0vT" name="Page-8">
-    <mxGraphModel dx="2390" dy="1428" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2072" dy="1223" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1533,14 +1533,17 @@
         <mxCell id="pVY4rCCBvinPZZrcvBbu-26" value="noSQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="679" y="735" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pVY4rCCBvinPZZrcvBbu-30" value="Web client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="504" y="-18" width="120" height="60" as="geometry" />
+        <mxCell id="pVY4rCCBvinPZZrcvBbu-33" value="Клиенты" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="-108" width="511.5" height="178" as="geometry" />
         </mxCell>
-        <mxCell id="pVY4rCCBvinPZZrcvBbu-31" value="Mobile client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="664" y="-21" width="120" height="60" as="geometry" />
+        <mxCell id="pVY4rCCBvinPZZrcvBbu-30" value="Web client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pVY4rCCBvinPZZrcvBbu-33">
+          <mxGeometry x="33.75" y="75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pVY4rCCBvinPZZrcvBbu-32" value="IoT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="839" y="-14" width="120" height="60" as="geometry" />
+        <mxCell id="pVY4rCCBvinPZZrcvBbu-31" value="Mobile client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pVY4rCCBvinPZZrcvBbu-33">
+          <mxGeometry x="201.75" y="72" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pVY4rCCBvinPZZrcvBbu-32" value="IoT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pVY4rCCBvinPZZrcvBbu-33">
+          <mxGeometry x="357.75" y="72" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
