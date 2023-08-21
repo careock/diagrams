@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T10:25:21.011Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="byaFAUbM_M675t7Zv0Qm" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-21T10:25:34.524Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="7pd5EUs_rWcJl7xHD-Sf" version="21.6.8" type="github" pages="3">
   <diagram name="system design" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="480" dy="8481" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -193,8 +193,11 @@
         <mxCell id="246LDH6llsVxjIEByvUe-6" value="Легенда" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-32" y="235" width="604" height="234" as="geometry" />
         </mxCell>
-        <mxCell id="246LDH6llsVxjIEByvUe-8" value="Модальное окно" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="246LDH6llsVxjIEByvUe-6">
-          <mxGeometry x="35" y="141" width="120" height="60" as="geometry" />
+        <mxCell id="246LDH6llsVxjIEByvUe-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="246LDH6llsVxjIEByvUe-6">
+          <mxGeometry x="35" y="141" width="59" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="246LDH6llsVxjIEByvUe-9" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Модальное окно&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="246LDH6llsVxjIEByvUe-6">
+          <mxGeometry x="112" y="156" width="121" height="36" as="geometry" />
         </mxCell>
         <mxCell id="246LDH6llsVxjIEByvUe-7" value="Экран webview канбан доски" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="180" y="-74" width="120" height="60" as="geometry" />
