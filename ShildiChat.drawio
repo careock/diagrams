@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T10:25:34.524Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="7pd5EUs_rWcJl7xHD-Sf" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-21T10:26:28.476Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="fexq3krqh5ApYgwo4DKm" version="21.6.8" type="github" pages="3">
   <diagram name="system design" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="480" dy="8481" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -187,8 +187,8 @@
         <mxCell id="gD7WDYIJMhT8QxRfHamb-6" value="Экран нужно изменить" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="281" y="291" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="246LDH6llsVxjIEByvUe-2" value="Чат-комната" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-16" y="-65" width="120" height="60" as="geometry" />
+        <mxCell id="246LDH6llsVxjIEByvUe-2" value="Меню" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="-17" width="74" height="59" as="geometry" />
         </mxCell>
         <mxCell id="246LDH6llsVxjIEByvUe-6" value="Легенда" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-32" y="235" width="604" height="234" as="geometry" />
@@ -200,7 +200,13 @@
           <mxGeometry x="112" y="156" width="121" height="36" as="geometry" />
         </mxCell>
         <mxCell id="246LDH6llsVxjIEByvUe-7" value="Экран webview канбан доски" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="180" y="-74" width="120" height="60" as="geometry" />
+          <mxGeometry x="446" y="-65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="246LDH6llsVxjIEByvUe-11" value="Меню" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="493" y="32" width="77" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="246LDH6llsVxjIEByvUe-12" value="Чат-комната" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="-17" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
