@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T15:14:48.830Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="tDdaPXcqyGi-B5MfVdmo" version="21.6.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-08-21T15:15:02.613Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="fGw5R02EOLuBpB_nzcb7" version="21.6.8" type="github" pages="8">
   <diagram id="8788a3DS1QVcUZw9lr2Y" name="1">
     <mxGraphModel dx="2135" dy="1522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1505,7 +1505,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GnxkcANtqhw6Npgjn0vT" name="Page-8">
-    <mxGraphModel dx="2535" dy="1522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2268" dy="1349" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1526,6 +1526,9 @@
         </mxCell>
         <mxCell id="pVY4rCCBvinPZZrcvBbu-28" value="Сервис" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;" vertex="1" parent="pVY4rCCBvinPZZrcvBbu-6">
           <mxGeometry x="38" y="199" width="137" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="pVY4rCCBvinPZZrcvBbu-50" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pVY4rCCBvinPZZrcvBbu-6" source="pVY4rCCBvinPZZrcvBbu-21" target="pVY4rCCBvinPZZrcvBbu-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pVY4rCCBvinPZZrcvBbu-21" value="API gateway" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;" vertex="1" parent="pVY4rCCBvinPZZrcvBbu-6">
           <mxGeometry x="15" y="45" width="480.5" height="40" as="geometry" />
@@ -1549,6 +1552,9 @@
               <mxPoint x="303" y="131" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pVY4rCCBvinPZZrcvBbu-49" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pVY4rCCBvinPZZrcvBbu-6" source="pVY4rCCBvinPZZrcvBbu-44" target="pVY4rCCBvinPZZrcvBbu-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pVY4rCCBvinPZZrcvBbu-44" value="Сервис" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;" vertex="1" parent="pVY4rCCBvinPZZrcvBbu-6">
           <mxGeometry x="204" y="124" width="137" height="34" as="geometry" />
