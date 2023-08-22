@@ -1,58 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T10:26:54.116Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="NlwhdszQvclUqD_NvIwg" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-22T14:57:51.366Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="SWTTjv7tvf9VxHxpcdip" version="21.6.8" type="github" pages="3">
   <diagram name="system design" id="SgtEmG0GpjzjVtyweG8o">
-    <mxGraphModel dx="480" dy="8481" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="576" dy="8397" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_60mDyvAbEM9UX_iTlZ9-2" value="Backend &lt;br&gt;канбан-доски" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_60mDyvAbEM9UX_iTlZ9-2" value="Backend &lt;br&gt;канбан-доски" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1350" y="-7432" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_60mDyvAbEM9UX_iTlZ9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_60mDyvAbEM9UX_iTlZ9-3" target="_60mDyvAbEM9UX_iTlZ9-5">
+        <mxCell id="_60mDyvAbEM9UX_iTlZ9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_60mDyvAbEM9UX_iTlZ9-3" target="_60mDyvAbEM9UX_iTlZ9-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_60mDyvAbEM9UX_iTlZ9-24" value="web-view&lt;br&gt;интеграция" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_60mDyvAbEM9UX_iTlZ9-7">
+        <mxCell id="_60mDyvAbEM9UX_iTlZ9-24" value="web-view&lt;br&gt;интеграция" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_60mDyvAbEM9UX_iTlZ9-7" vertex="1" connectable="0">
           <mxGeometry x="-0.0066" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_60mDyvAbEM9UX_iTlZ9-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="_60mDyvAbEM9UX_iTlZ9-3" target="_60mDyvAbEM9UX_iTlZ9-20">
+        <mxCell id="_60mDyvAbEM9UX_iTlZ9-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="_60mDyvAbEM9UX_iTlZ9-3" target="_60mDyvAbEM9UX_iTlZ9-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1035" y="-7522" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_60mDyvAbEM9UX_iTlZ9-19" value="https, i2p, .onion" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_60mDyvAbEM9UX_iTlZ9-14">
+        <mxCell id="_60mDyvAbEM9UX_iTlZ9-19" value="https, i2p, .onion" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_60mDyvAbEM9UX_iTlZ9-14" vertex="1" connectable="0">
           <mxGeometry x="-0.2701" y="-1" relative="1" as="geometry">
             <mxPoint y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_60mDyvAbEM9UX_iTlZ9-3" value="Linux&lt;br&gt;app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_60mDyvAbEM9UX_iTlZ9-3" value="Linux&lt;br&gt;app" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="975" y="-7432" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_60mDyvAbEM9UX_iTlZ9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="_60mDyvAbEM9UX_iTlZ9-5" target="_60mDyvAbEM9UX_iTlZ9-2">
+        <mxCell id="_60mDyvAbEM9UX_iTlZ9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="_60mDyvAbEM9UX_iTlZ9-5" target="_60mDyvAbEM9UX_iTlZ9-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_60mDyvAbEM9UX_iTlZ9-5" value="Веб-сайт&lt;br&gt;&quot;Канбан доска&quot;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_60mDyvAbEM9UX_iTlZ9-5" value="Веб-сайт&lt;br&gt;&quot;Канбан доска&quot;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1186" y="-7432" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_60mDyvAbEM9UX_iTlZ9-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="_60mDyvAbEM9UX_iTlZ9-15" target="_60mDyvAbEM9UX_iTlZ9-3">
+        <mxCell id="_60mDyvAbEM9UX_iTlZ9-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" parent="1" source="_60mDyvAbEM9UX_iTlZ9-15" target="_60mDyvAbEM9UX_iTlZ9-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_60mDyvAbEM9UX_iTlZ9-15" value="Доработки&lt;br&gt;в рамках проекта" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="_60mDyvAbEM9UX_iTlZ9-15" value="Доработки&lt;br&gt;в рамках проекта" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="1111" y="-7354" width="16" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="_60mDyvAbEM9UX_iTlZ9-20" value="Backend" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_60mDyvAbEM9UX_iTlZ9-20" value="Backend" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="925.32" y="-7600" width="219.37" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_60mDyvAbEM9UX_iTlZ9-21" value="Сервер Synapse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_60mDyvAbEM9UX_iTlZ9-20">
+        <mxCell id="_60mDyvAbEM9UX_iTlZ9-21" value="Сервер Synapse" style="rounded=0;whiteSpace=wrap;html=1;" parent="_60mDyvAbEM9UX_iTlZ9-20" vertex="1">
           <mxGeometry x="24" y="42" width="75" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="_60mDyvAbEM9UX_iTlZ9-23" value="Обработка i2p + .onion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_60mDyvAbEM9UX_iTlZ9-20">
+        <mxCell id="_60mDyvAbEM9UX_iTlZ9-23" value="Обработка i2p + .onion" style="rounded=0;whiteSpace=wrap;html=1;" parent="_60mDyvAbEM9UX_iTlZ9-20" vertex="1">
           <mxGeometry x="117.37" y="42" width="75" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="_60mDyvAbEM9UX_iTlZ9-27" value="Доработки&lt;br&gt;в рамках проекта" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="_60mDyvAbEM9UX_iTlZ9-27" value="Доработки&lt;br&gt;в рамках проекта" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="1290" y="-7518" width="16" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="_60mDyvAbEM9UX_iTlZ9-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="_60mDyvAbEM9UX_iTlZ9-5" target="_60mDyvAbEM9UX_iTlZ9-27">
+        <mxCell id="_60mDyvAbEM9UX_iTlZ9-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" parent="1" source="_60mDyvAbEM9UX_iTlZ9-5" target="_60mDyvAbEM9UX_iTlZ9-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1121" y="-7326" as="sourcePoint" />
             <mxPoint x="1080" y="-7362" as="targetPoint" />
@@ -62,7 +62,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bE5wVsmSxk-BZoCILN0T" name="юзкейсы">
-    <mxGraphModel dx="3387" dy="2457" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1929" dy="1286" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,13 +76,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_CpVrrbbG1iA5oKgUDlh-10" value="Канбан доска" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="26.5" y="-295" width="421" height="385" as="geometry" />
+          <mxGeometry x="24" y="-67" width="493.5" height="176" as="geometry" />
         </mxCell>
         <mxCell id="_CpVrrbbG1iA5oKgUDlh-6" value="Добавить виджет" style="ellipse;whiteSpace=wrap;html=1;" parent="_CpVrrbbG1iA5oKgUDlh-10" vertex="1">
-          <mxGeometry x="225.5" y="90" width="120" height="80" as="geometry" />
+          <mxGeometry x="301" y="61" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_CpVrrbbG1iA5oKgUDlh-4" value="Управление задачами" style="ellipse;whiteSpace=wrap;html=1;" parent="_CpVrrbbG1iA5oKgUDlh-10" vertex="1">
-          <mxGeometry x="77.5" y="197" width="120" height="80" as="geometry" />
+          <mxGeometry x="55.5" y="61" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EBbz8ZECUy9XFdT5LP_m-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" parent="_CpVrrbbG1iA5oKgUDlh-10" source="_CpVrrbbG1iA5oKgUDlh-4" target="_CpVrrbbG1iA5oKgUDlh-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -96,7 +96,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_CpVrrbbG1iA5oKgUDlh-13" value="Соединения" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="24" y="141" width="421" height="338" as="geometry" />
+          <mxGeometry x="24" y="141" width="494" height="248" as="geometry" />
         </mxCell>
         <mxCell id="EBbz8ZECUy9XFdT5LP_m-4" value="Подключить i2P соединение" style="ellipse;whiteSpace=wrap;html=1;" parent="_CpVrrbbG1iA5oKgUDlh-13" vertex="1">
           <mxGeometry x="43" y="54" width="120" height="80" as="geometry" />
@@ -105,7 +105,7 @@
           <mxGeometry x="43" y="150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EBbz8ZECUy9XFdT5LP_m-11" value="Добавить сервер" style="ellipse;whiteSpace=wrap;html=1;" parent="_CpVrrbbG1iA5oKgUDlh-13" vertex="1">
-          <mxGeometry x="252" y="114" width="120" height="80" as="geometry" />
+          <mxGeometry x="287" y="95" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EBbz8ZECUy9XFdT5LP_m-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" parent="_CpVrrbbG1iA5oKgUDlh-13" source="EBbz8ZECUy9XFdT5LP_m-6" target="EBbz8ZECUy9XFdT5LP_m-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -130,13 +130,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_CpVrrbbG1iA5oKgUDlh-23" value="Nuke-пароль" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="26.5" y="542" width="416" height="304" as="geometry" />
+          <mxGeometry x="26" y="411" width="493" height="191" as="geometry" />
         </mxCell>
         <mxCell id="_CpVrrbbG1iA5oKgUDlh-24" value="Включить nuke-password в настройках" style="ellipse;whiteSpace=wrap;html=1;" parent="_CpVrrbbG1iA5oKgUDlh-23" vertex="1">
-          <mxGeometry x="145" y="55" width="120" height="80" as="geometry" />
+          <mxGeometry x="325" y="55.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_CpVrrbbG1iA5oKgUDlh-25" value="Ввести nuke-пароль&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="_CpVrrbbG1iA5oKgUDlh-23" vertex="1">
-          <mxGeometry x="145" y="185" width="120" height="80" as="geometry" />
+          <mxGeometry x="54" y="61" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_CpVrrbbG1iA5oKgUDlh-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" parent="_CpVrrbbG1iA5oKgUDlh-23" source="_CpVrrbbG1iA5oKgUDlh-25" target="_CpVrrbbG1iA5oKgUDlh-24" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -171,7 +171,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vCnD4eKta5P5HMsQtZeG" name="карта экранов">
-    <mxGraphModel dx="1680" dy="1281" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2366" dy="1539" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
