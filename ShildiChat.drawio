@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T14:58:36.661Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="M46vEi01XCN_8Mvq7RAB" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-23T14:58:42.357Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="i4RcgHYHVf-tmx3EIYB7" version="21.6.8" type="github" pages="3">
   <diagram name="system design" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="576" dy="8397" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,10 +96,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PkLSQu8U0AWuUnczm7oL-11" value="Авторизоваться в канбан-доске" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_CpVrrbbG1iA5oKgUDlh-10">
-          <mxGeometry x="289" y="218" width="120" height="80" as="geometry" />
+          <mxGeometry x="257" y="213" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PkLSQu8U0AWuUnczm7oL-12" value="Удалить виджет" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_CpVrrbbG1iA5oKgUDlh-10">
-          <mxGeometry x="472" y="80" width="120" height="80" as="geometry" />
+          <mxGeometry x="487" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PkLSQu8U0AWuUnczm7oL-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="_CpVrrbbG1iA5oKgUDlh-10" source="_CpVrrbbG1iA5oKgUDlh-6" target="PkLSQu8U0AWuUnczm7oL-12">
           <mxGeometry relative="1" as="geometry">
