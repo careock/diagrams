@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T15:01:19.062Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="2c6g1Wh1PJUCf1uZH2G9" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-23T15:01:54.284Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="TU9534KFIDr6ONs8eDAs" version="21.6.8" type="github" pages="3">
   <diagram name="system design" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="576" dy="8397" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bE5wVsmSxk-BZoCILN0T" name="юзкейсы">
-    <mxGraphModel dx="1710" dy="1159" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2019" dy="1338" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,10 +70,10 @@
           <mxGeometry x="26" y="639" width="643" height="334" as="geometry" />
         </mxCell>
         <mxCell id="_CpVrrbbG1iA5oKgUDlh-6" value="Добавить виджет" style="ellipse;whiteSpace=wrap;html=1;" parent="_CpVrrbbG1iA5oKgUDlh-10" vertex="1">
-          <mxGeometry x="275" y="99" width="120" height="80" as="geometry" />
+          <mxGeometry x="287" y="90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_CpVrrbbG1iA5oKgUDlh-4" value="Управление задачами (создание, редактирование)" style="ellipse;whiteSpace=wrap;html=1;" parent="_CpVrrbbG1iA5oKgUDlh-10" vertex="1">
-          <mxGeometry x="44" y="221" width="120" height="80" as="geometry" />
+          <mxGeometry x="40" y="93" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EBbz8ZECUy9XFdT5LP_m-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" parent="_CpVrrbbG1iA5oKgUDlh-10" source="_CpVrrbbG1iA5oKgUDlh-4" target="_CpVrrbbG1iA5oKgUDlh-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -87,7 +87,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PkLSQu8U0AWuUnczm7oL-11" value="Авторизоваться в канбан-доске" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_CpVrrbbG1iA5oKgUDlh-10">
-          <mxGeometry x="281" y="221" width="120" height="80" as="geometry" />
+          <mxGeometry x="281" y="208" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PkLSQu8U0AWuUnczm7oL-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="_CpVrrbbG1iA5oKgUDlh-10" source="_CpVrrbbG1iA5oKgUDlh-4" target="PkLSQu8U0AWuUnczm7oL-11">
           <mxGeometry relative="1" as="geometry">
@@ -96,20 +96,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PkLSQu8U0AWuUnczm7oL-16" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PkLSQu8U0AWuUnczm7oL-15">
-          <mxGeometry x="-0.1637" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PkLSQu8U0AWuUnczm7oL-34" value="Удалить виджет" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_CpVrrbbG1iA5oKgUDlh-10">
-          <mxGeometry x="52" y="66" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PkLSQu8U0AWuUnczm7oL-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="_CpVrrbbG1iA5oKgUDlh-10" source="PkLSQu8U0AWuUnczm7oL-34" target="_CpVrrbbG1iA5oKgUDlh-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="165" y="250" as="sourcePoint" />
-            <mxPoint x="294" y="198" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PkLSQu8U0AWuUnczm7oL-39" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PkLSQu8U0AWuUnczm7oL-38">
           <mxGeometry x="-0.1637" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -254,12 +240,6 @@
         <mxCell id="PkLSQu8U0AWuUnczm7oL-36" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PkLSQu8U0AWuUnczm7oL-35">
           <mxGeometry x="-0.1637" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PkLSQu8U0AWuUnczm7oL-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="_CpVrrbbG1iA5oKgUDlh-1" target="PkLSQu8U0AWuUnczm7oL-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-187" y="292" as="sourcePoint" />
-            <mxPoint x="114" y="531" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
