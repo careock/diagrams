@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T12:48:57.355Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="TXuiDe26y2cIf4dQ8F2O" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-23T12:49:38.200Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="YC1K7EL3xlroZs4pNIe8" version="21.6.8" type="github" pages="3">
   <diagram name="system design" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="576" dy="8397" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bE5wVsmSxk-BZoCILN0T" name="юзкейсы">
-    <mxGraphModel dx="1634" dy="883" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1997" dy="1093" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,14 +98,11 @@
         <mxCell id="_CpVrrbbG1iA5oKgUDlh-13" value="I2P, .onion соединения&lt;span id=&quot;docs-internal-guid-e9401ade-7fff-ad36-1cf8-44f5b58c857e&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-e9401ade-7fff-ad36-1cf8-44f5b58c857e&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-e9401ade-7fff-ad36-1cf8-44f5b58c857e&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="24" y="-62" width="494" height="248" as="geometry" />
         </mxCell>
-        <mxCell id="EBbz8ZECUy9XFdT5LP_m-4" value="Подключить i2P соединение" style="ellipse;whiteSpace=wrap;html=1;" parent="_CpVrrbbG1iA5oKgUDlh-13" vertex="1">
-          <mxGeometry x="43" y="54" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="EBbz8ZECUy9XFdT5LP_m-6" value="Подключить .onion соединение" style="ellipse;whiteSpace=wrap;html=1;" parent="_CpVrrbbG1iA5oKgUDlh-13" vertex="1">
-          <mxGeometry x="43" y="150" width="120" height="80" as="geometry" />
+        <mxCell id="EBbz8ZECUy9XFdT5LP_m-6" value="Выбрать тип соединения (Matrix протокол или Onion routing)" style="ellipse;whiteSpace=wrap;html=1;" parent="_CpVrrbbG1iA5oKgUDlh-13" vertex="1">
+          <mxGeometry x="46" y="94" width="129" height="86" as="geometry" />
         </mxCell>
         <mxCell id="EBbz8ZECUy9XFdT5LP_m-11" value="Подключить прокси-сервер" style="ellipse;whiteSpace=wrap;html=1;" parent="_CpVrrbbG1iA5oKgUDlh-13" vertex="1">
-          <mxGeometry x="287" y="95" width="120" height="80" as="geometry" />
+          <mxGeometry x="321" y="95" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EBbz8ZECUy9XFdT5LP_m-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" parent="_CpVrrbbG1iA5oKgUDlh-13" source="EBbz8ZECUy9XFdT5LP_m-6" target="EBbz8ZECUy9XFdT5LP_m-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -114,17 +111,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EBbz8ZECUy9XFdT5LP_m-14" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EBbz8ZECUy9XFdT5LP_m-13" vertex="1" connectable="0">
-          <mxGeometry x="-0.1637" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EBbz8ZECUy9XFdT5LP_m-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" parent="_CpVrrbbG1iA5oKgUDlh-13" source="EBbz8ZECUy9XFdT5LP_m-4" target="EBbz8ZECUy9XFdT5LP_m-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="173" y="200" as="sourcePoint" />
-            <mxPoint x="269" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EBbz8ZECUy9XFdT5LP_m-18" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EBbz8ZECUy9XFdT5LP_m-17" vertex="1" connectable="0">
           <mxGeometry x="-0.1637" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -147,12 +133,6 @@
         <mxCell id="_CpVrrbbG1iA5oKgUDlh-28" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_CpVrrbbG1iA5oKgUDlh-27" vertex="1" connectable="0">
           <mxGeometry x="-0.1637" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EBbz8ZECUy9XFdT5LP_m-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="_CpVrrbbG1iA5oKgUDlh-1" target="EBbz8ZECUy9XFdT5LP_m-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-54" y="111" as="sourcePoint" />
-            <mxPoint x="132" y="-19" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EBbz8ZECUy9XFdT5LP_m-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="_CpVrrbbG1iA5oKgUDlh-1" target="EBbz8ZECUy9XFdT5LP_m-6" edge="1">
