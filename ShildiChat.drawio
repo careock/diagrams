@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T14:59:32.846Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="eq3apZJHfQeUc23LU-fc" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-23T14:59:49.544Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="F30rYY-YcUsoIehPdYDZ" version="21.6.8" type="github" pages="3">
   <diagram name="system design" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="576" dy="8397" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,21 +96,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PkLSQu8U0AWuUnczm7oL-11" value="Авторизоваться в канбан-доске" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_CpVrrbbG1iA5oKgUDlh-10">
-          <mxGeometry x="257" y="213" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PkLSQu8U0AWuUnczm7oL-12" value="Удалить виджет" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_CpVrrbbG1iA5oKgUDlh-10">
-          <mxGeometry x="482" y="85" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PkLSQu8U0AWuUnczm7oL-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="_CpVrrbbG1iA5oKgUDlh-10" source="_CpVrrbbG1iA5oKgUDlh-6" target="PkLSQu8U0AWuUnczm7oL-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="191" y="130" as="sourcePoint" />
-            <mxPoint x="309" y="130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PkLSQu8U0AWuUnczm7oL-14" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PkLSQu8U0AWuUnczm7oL-13">
-          <mxGeometry x="-0.1637" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry x="270" y="212" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PkLSQu8U0AWuUnczm7oL-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="_CpVrrbbG1iA5oKgUDlh-10" source="_CpVrrbbG1iA5oKgUDlh-4" target="PkLSQu8U0AWuUnczm7oL-11">
           <mxGeometry relative="1" as="geometry">
@@ -243,6 +229,20 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-187" y="286" as="sourcePoint" />
             <mxPoint x="105" y="407" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PkLSQu8U0AWuUnczm7oL-34" value="Удалить виджет" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="925" y="740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PkLSQu8U0AWuUnczm7oL-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" target="PkLSQu8U0AWuUnczm7oL-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="838" y="780" as="sourcePoint" />
+            <mxPoint x="752" y="785" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PkLSQu8U0AWuUnczm7oL-36" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PkLSQu8U0AWuUnczm7oL-35">
+          <mxGeometry x="-0.1637" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
