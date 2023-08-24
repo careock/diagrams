@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T15:58:37.426Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="1yRoKUPC697zzF-C-H0Y" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-24T15:59:16.516Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="SDxHhUjbc83tkyVt-ROS" version="21.6.8" type="github" pages="3">
   <diagram name="system design" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="1166" dy="8739" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -246,7 +246,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vCnD4eKta5P5HMsQtZeG" name="карта экранов">
-    <mxGraphModel dx="2322" dy="726" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2154" dy="617" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -264,12 +264,6 @@
         </mxCell>
         <mxCell id="gD7WDYIJMhT8QxRfHamb-4" value="Экран канбан доски" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="246LDH6llsVxjIEByvUe-6" vertex="1">
           <mxGeometry x="188" y="50" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gD7WDYIJMhT8QxRfHamb-5" value="Новый экран" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="246LDH6llsVxjIEByvUe-6" vertex="1">
-          <mxGeometry x="466" y="50" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gD7WDYIJMhT8QxRfHamb-6" value="Экран нужно изменить" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="246LDH6llsVxjIEByvUe-6" vertex="1">
-          <mxGeometry x="327" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="246LDH6llsVxjIEByvUe-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="246LDH6llsVxjIEByvUe-6">
           <mxGeometry x="49" y="146" width="59" height="53" as="geometry" />
@@ -395,8 +389,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dmXB0vVCBBkoNBQm9kUJ-51" value="Уведомление" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="183" y="851" width="106" height="60" as="geometry" />
+        <mxCell id="dmXB0vVCBBkoNBQm9kUJ-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dmXB0vVCBBkoNBQm9kUJ-21" target="gD7WDYIJMhT8QxRfHamb-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="91" y="777" as="sourcePoint" />
+            <mxPoint x="183" y="881" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="21" y="881" />
+              <mxPoint x="183" y="881" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gD7WDYIJMhT8QxRfHamb-5" value="Уведомления" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="183" y="851" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gD7WDYIJMhT8QxRfHamb-6" value="Экран нужно изменить" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="-41" y="623" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
