@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T14:30:09.757Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="nQ4iBnLL6_p4-VffOF_V" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-24T14:30:39.247Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="fpoILNNlvkXKkrxTFC77" version="21.6.8" type="github" pages="3">
   <diagram name="system design" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="1166" dy="8739" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -246,7 +246,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vCnD4eKta5P5HMsQtZeG" name="карта экранов">
-    <mxGraphModel dx="2322" dy="726" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3108" dy="1234" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -356,13 +356,16 @@
           <mxGeometry x="166" y="1249" width="106" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dmXB0vVCBBkoNBQm9kUJ-38" value="Регистрация" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1608" y="60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dmXB0vVCBBkoNBQm9kUJ-39" value="Чат-комната" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1174" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="1702" y="264" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dmXB0vVCBBkoNBQm9kUJ-40" value="Авторизация" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1380" y="60" width="106" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dmXB0vVCBBkoNBQm9kUJ-42" value="Регистарция" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1572" y="60" width="106" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dmXB0vVCBBkoNBQm9kUJ-43" value="Канбан-доска" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1566" y="182" width="106" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
