@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T14:43:56.808Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="8r6GobIE7os5CT_eZ84F" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-24T14:45:15.617Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="PQ5vUxCUhibhsWLwglAa" version="21.6.8" type="github" pages="3">
   <diagram name="system design" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="1166" dy="8739" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -246,7 +246,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vCnD4eKta5P5HMsQtZeG" name="карта экранов">
-    <mxGraphModel dx="2109" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2204" dy="649" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -305,6 +305,13 @@
         </mxCell>
         <mxCell id="dmXB0vVCBBkoNBQm9kUJ-5" value="Регистарция" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="424" y="89" width="106" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dmXB0vVCBBkoNBQm9kUJ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dmXB0vVCBBkoNBQm9kUJ-7" target="dmXB0vVCBBkoNBQm9kUJ-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="477" y="457" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dmXB0vVCBBkoNBQm9kUJ-7" value="Управление виджетами" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="424" y="303" width="106" height="60" as="geometry" />
@@ -372,6 +379,21 @@
         </mxCell>
         <mxCell id="dmXB0vVCBBkoNBQm9kUJ-46" value="Редактирование задачи" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1913" y="182" width="106" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dmXB0vVCBBkoNBQm9kUJ-47" value="Удалить виджет" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#0B0F09;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="562" y="427" width="106" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dmXB0vVCBBkoNBQm9kUJ-48" value="Создание виджета" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#0B0F09;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="562" y="509" width="106" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dmXB0vVCBBkoNBQm9kUJ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dmXB0vVCBBkoNBQm9kUJ-7" target="dmXB0vVCBBkoNBQm9kUJ-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="487" y="373" as="sourcePoint" />
+            <mxPoint x="572" y="467" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="477" y="537" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
