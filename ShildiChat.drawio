@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T13:25:03.577Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="O3MviOGa4TIFLfMcSkaa" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-24T13:25:15.175Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="BELPNmlFARDQF3TRXAg9" version="21.6.8" type="github" pages="3">
   <diagram name="system design" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="1166" dy="8739" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -295,7 +295,7 @@
           <mxGeometry x="-15" y="-172" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dmXB0vVCBBkoNBQm9kUJ-3" value="Канбан-доска" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="486" y="-59" width="106" height="60" as="geometry" />
+          <mxGeometry x="483" y="-68" width="106" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dmXB0vVCBBkoNBQm9kUJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="246LDH6llsVxjIEByvUe-7" target="dmXB0vVCBBkoNBQm9kUJ-3">
           <mxGeometry relative="1" as="geometry">
@@ -316,7 +316,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dmXB0vVCBBkoNBQm9kUJ-9" value="Создание задачи" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="652" y="-59" width="106" height="60" as="geometry" />
+          <mxGeometry x="652" y="-69" width="106" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dmXB0vVCBBkoNBQm9kUJ-10" value="Редакатирование задачи" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="635" y="143" width="106" height="60" as="geometry" />
