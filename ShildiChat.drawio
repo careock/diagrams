@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T15:17:24.778Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="s3ezEFo5477Y3uTkJIkR" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-25T15:21:23.790Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="JFL1ZAChOFcOODTLK8zX" version="21.6.8" type="github" pages="3">
   <diagram name="system design" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="563" dy="8481" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -273,21 +273,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7o8ddYkZR8-o28PER5L0-2" value="Пользователь&lt;br&gt;ShildiChat" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-946" y="2512" width="30" height="60" as="geometry" />
+          <mxGeometry x="-989" y="2434" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7o8ddYkZR8-o28PER5L0-3" value="Nuke-пароль" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-814" y="2370" width="642" height="409" as="geometry" />
+          <mxGeometry x="-814" y="2329" width="642" height="930" as="geometry" />
         </mxCell>
         <mxCell id="7o8ddYkZR8-o28PER5L0-4" value="Установить пароль&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7o8ddYkZR8-o28PER5L0-3">
-          <mxGeometry x="272" y="65" width="120" height="80" as="geometry" />
+          <mxGeometry x="254" y="433" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7o8ddYkZR8-o28PER5L0-5" value="Ввести nuke-пароль&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7o8ddYkZR8-o28PER5L0-3">
-          <mxGeometry x="57" y="62" width="120" height="80" as="geometry" />
+          <mxGeometry x="76" y="170" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7o8ddYkZR8-o28PER5L0-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="7o8ddYkZR8-o28PER5L0-3" source="7o8ddYkZR8-o28PER5L0-5" target="7o8ddYkZR8-o28PER5L0-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="135" y="192" as="sourcePoint" />
-            <mxPoint x="234" y="192" as="targetPoint" />
+            <mxPoint x="146" y="366" as="sourcePoint" />
+            <mxPoint x="245" y="366" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7o8ddYkZR8-o28PER5L0-7" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7o8ddYkZR8-o28PER5L0-6">
@@ -295,16 +295,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7o8ddYkZR8-o28PER5L0-8" value="Изменить nuke-пароль" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7o8ddYkZR8-o28PER5L0-3">
-          <mxGeometry x="60" y="174" width="120" height="80" as="geometry" />
+        <mxCell id="7o8ddYkZR8-o28PER5L0-8" value="Изменить пароль" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7o8ddYkZR8-o28PER5L0-3">
+          <mxGeometry x="84" y="539" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7o8ddYkZR8-o28PER5L0-9" value="Просматривать уведомления об активации nuke-пароля" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7o8ddYkZR8-o28PER5L0-3">
-          <mxGeometry x="57" y="286" width="120" height="80" as="geometry" />
+          <mxGeometry x="71" y="686" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7o8ddYkZR8-o28PER5L0-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="7o8ddYkZR8-o28PER5L0-3" source="7o8ddYkZR8-o28PER5L0-8" target="7o8ddYkZR8-o28PER5L0-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="187" y="112" as="sourcePoint" />
-            <mxPoint x="334" y="112" as="targetPoint" />
+            <mxPoint x="198" y="286" as="sourcePoint" />
+            <mxPoint x="345" y="286" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7o8ddYkZR8-o28PER5L0-11" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7o8ddYkZR8-o28PER5L0-10">
@@ -313,12 +313,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7o8ddYkZR8-o28PER5L0-12" value="Включить пароль&amp;nbsp;nuke-password в настройках" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7o8ddYkZR8-o28PER5L0-3">
-          <mxGeometry x="492" y="71" width="120" height="80" as="geometry" />
+          <mxGeometry x="503" y="245" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7o8ddYkZR8-o28PER5L0-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="7o8ddYkZR8-o28PER5L0-3" source="7o8ddYkZR8-o28PER5L0-4" target="7o8ddYkZR8-o28PER5L0-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="181" y="203" as="sourcePoint" />
-            <mxPoint x="343" y="133" as="targetPoint" />
+            <mxPoint x="192" y="377" as="sourcePoint" />
+            <mxPoint x="354" y="307" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7o8ddYkZR8-o28PER5L0-14" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7o8ddYkZR8-o28PER5L0-13">
@@ -326,7 +326,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7o8ddYkZR8-o28PER5L0-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
+        <mxCell id="7o8ddYkZR8-o28PER5L0-16" value="Ввести nuke-пароль&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7o8ddYkZR8-o28PER5L0-3">
+          <mxGeometry x="68" y="72" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7o8ddYkZR8-o28PER5L0-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="7o8ddYkZR8-o28PER5L0-2" target="7o8ddYkZR8-o28PER5L0-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1048" y="2256" as="sourcePoint" />
             <mxPoint x="-844" y="2320" as="targetPoint" />
