@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T15:15:51.202Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="BuNeE0yhecPBxZlvOdX5" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-25T15:16:00.719Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="umMOhN0GWsnjhlLIKfIj" version="21.6.8" type="github" pages="3">
   <diagram name="system design" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="563" dy="8481" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -235,7 +235,7 @@
           <mxGeometry x="-868" y="1917" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y1H0dJODjPlajcyzWJph-45" value="Cоединения&lt;span id=&quot;docs-internal-guid-e9401ade-7fff-ad36-1cf8-44f5b58c857e&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-e9401ade-7fff-ad36-1cf8-44f5b58c857e&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-e9401ade-7fff-ad36-1cf8-44f5b58c857e&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-715" y="1777" width="494" height="354" as="geometry" />
+          <mxGeometry x="-715" y="1777" width="299" height="354" as="geometry" />
         </mxCell>
         <mxCell id="Y1H0dJODjPlajcyzWJph-46" value="Выбрать тип соединения (Matrix протокол или Onion routing)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Y1H0dJODjPlajcyzWJph-45">
           <mxGeometry x="70.5" y="70" width="129" height="86" as="geometry" />
@@ -264,7 +264,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y1H0dJODjPlajcyzWJph-65" value="Только для &lt;br&gt;протокола Matrix" style="html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;" vertex="1" parent="1">
-          <mxGeometry x="-489" y="2175" width="58" height="55" as="geometry" />
+          <mxGeometry x="-373" y="2005.5" width="58" height="55" as="geometry" />
         </mxCell>
         <mxCell id="7o8ddYkZR8-o28PER5L0-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Y1H0dJODjPlajcyzWJph-43" target="Y1H0dJODjPlajcyzWJph-47">
           <mxGeometry relative="1" as="geometry">
