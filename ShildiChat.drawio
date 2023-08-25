@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T16:15:40.514Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="v-g9TEHb_-zdPvRSj79c" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-25T17:01:01.157Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="2H9NUlDb6WzKJpFH9kOK" version="21.6.8" type="github" pages="3">
   <diagram name="system design" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="563" dy="8481" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bE5wVsmSxk-BZoCILN0T" name="юзкейсы">
-    <mxGraphModel dx="3190" dy="1428" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2872" dy="1223" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -298,7 +298,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7o8ddYkZR8-o28PER5L0-12" value="Включить пароль&amp;nbsp;nuke-password" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7o8ddYkZR8-o28PER5L0-3">
+        <mxCell id="7o8ddYkZR8-o28PER5L0-12" value="Включить nuke-password" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7o8ddYkZR8-o28PER5L0-3">
           <mxGeometry x="66" y="66" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7o8ddYkZR8-o28PER5L0-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="7o8ddYkZR8-o28PER5L0-3" source="7o8ddYkZR8-o28PER5L0-12" target="7o8ddYkZR8-o28PER5L0-16">
