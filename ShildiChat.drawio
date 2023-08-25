@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T16:12:36.133Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="HyOQrNKgbY85LY2mcdvF" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-25T16:13:18.822Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="qy_EnRoEBFm4jAxiGC--" version="21.6.8" type="github" pages="3">
   <diagram name="system design" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="563" dy="8481" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -387,42 +387,28 @@
         <mxCell id="7o8ddYkZR8-o28PER5L0-33" value="Канбан доска" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-800" y="3342" width="643" height="643" as="geometry" />
         </mxCell>
-        <mxCell id="7o8ddYkZR8-o28PER5L0-34" value="Добавить виджет" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7o8ddYkZR8-o28PER5L0-33">
-          <mxGeometry x="406" y="76" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="7o8ddYkZR8-o28PER5L0-35" value="Управление задачами (создание, редактирование)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7o8ddYkZR8-o28PER5L0-33">
-          <mxGeometry x="40" y="52" width="153" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="7o8ddYkZR8-o28PER5L0-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="7o8ddYkZR8-o28PER5L0-33" source="7o8ddYkZR8-o28PER5L0-35" target="7o8ddYkZR8-o28PER5L0-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="148.5" y="133" as="sourcePoint" />
-            <mxPoint x="247.5" y="133" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7o8ddYkZR8-o28PER5L0-37" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7o8ddYkZR8-o28PER5L0-36">
-          <mxGeometry x="-0.1637" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7o8ddYkZR8-o28PER5L0-38" value="Авторизоваться в канбан-доске" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7o8ddYkZR8-o28PER5L0-33">
-          <mxGeometry x="378" y="234" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="7o8ddYkZR8-o28PER5L0-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="7o8ddYkZR8-o28PER5L0-33" source="7o8ddYkZR8-o28PER5L0-35" target="7o8ddYkZR8-o28PER5L0-38">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="191" y="130" as="sourcePoint" />
-            <mxPoint x="309" y="130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7o8ddYkZR8-o28PER5L0-40" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7o8ddYkZR8-o28PER5L0-39">
-          <mxGeometry x="-0.1637" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="7o8ddYkZR8-o28PER5L0-34" value="Добавить канбан-доску в качестве виджета" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7o8ddYkZR8-o28PER5L0-33">
+          <mxGeometry x="65" y="61" width="137" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7o8ddYkZR8-o28PER5L0-42" value="Зарегистрироваться в канбан-доске" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7o8ddYkZR8-o28PER5L0-33">
-          <mxGeometry x="382" y="356" width="120" height="80" as="geometry" />
+          <mxGeometry x="62" y="167" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7o8ddYkZR8-o28PER5L0-45" value="Авторизоваться" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7o8ddYkZR8-o28PER5L0-33">
+          <mxGeometry x="65" y="273" width="137" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7o8ddYkZR8-o28PER5L0-41" value="Пользователь&lt;br&gt;ShildiChat" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-937" y="3603" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7o8ddYkZR8-o28PER5L0-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-992" y="3502" as="sourcePoint" />
+            <mxPoint x="-988" y="3396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7o8ddYkZR8-o28PER5L0-44" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7o8ddYkZR8-o28PER5L0-43">
+          <mxGeometry x="-0.1637" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
