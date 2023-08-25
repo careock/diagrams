@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T15:59:53.083Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="EYbhIF7E4El0Z8Ih3iCS" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-25T11:55:20.666Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="LRQ7rzWmSQpsiLCK3c_M" version="21.6.8" type="github" pages="3">
   <diagram name="system design" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="1166" dy="8739" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -246,7 +246,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vCnD4eKta5P5HMsQtZeG" name="карта экранов">
-    <mxGraphModel dx="2154" dy="617" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2563" dy="881" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -257,7 +257,7 @@
           <mxGeometry x="118" y="90" width="112" height="59" as="geometry" />
         </mxCell>
         <mxCell id="246LDH6llsVxjIEByvUe-6" value="Легенда" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1065" y="677" width="604" height="234" as="geometry" />
+          <mxGeometry x="-1065" y="677" width="707" height="234" as="geometry" />
         </mxCell>
         <mxCell id="gD7WDYIJMhT8QxRfHamb-2" value="Существующий экран без доработок" style="rounded=0;whiteSpace=wrap;html=1;" parent="246LDH6llsVxjIEByvUe-6" vertex="1">
           <mxGeometry x="49" y="50" width="120" height="60" as="geometry" />
@@ -270,6 +270,12 @@
         </mxCell>
         <mxCell id="246LDH6llsVxjIEByvUe-9" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Модальное окно&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="246LDH6llsVxjIEByvUe-6">
           <mxGeometry x="126" y="161" width="121" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="dmXB0vVCBBkoNBQm9kUJ-55" value="Новый экран" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#0B0F09;" vertex="1" parent="246LDH6llsVxjIEByvUe-6">
+          <mxGeometry x="353" y="54" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dmXB0vVCBBkoNBQm9kUJ-56" value="Измененный экран" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="246LDH6llsVxjIEByvUe-6">
+          <mxGeometry x="503" y="54" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dmXB0vVCBBkoNBQm9kUJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="246LDH6llsVxjIEByvUe-7" target="dmXB0vVCBBkoNBQm9kUJ-5">
           <mxGeometry relative="1" as="geometry" />
@@ -402,6 +408,9 @@
         </mxCell>
         <mxCell id="gD7WDYIJMhT8QxRfHamb-6" value="Настройки" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-41" y="737" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dmXB0vVCBBkoNBQm9kUJ-54" value="Информация чат-комнаты" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1538" y="388" width="112" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
