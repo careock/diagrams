@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T11:27:10.564Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="EJ7EyCch2ePvFX_94vB1" version="21.6.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-28T11:55:05.132Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="D5UH_XsrnLtmEjzLsxNV" version="21.6.9" type="github" pages="3">
   <diagram name="system design" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="149" dy="8150" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -629,8 +629,8 @@
         <mxCell id="GvlYrMXL_Yht5qa5sTTb-3" value="Управление задачей&lt;br&gt;Какой то юзкейс" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="1915" y="304" width="33" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="GvlYrMXL_Yht5qa5sTTb-5" value="Управление задачей&lt;br&gt;Какой то юзкейс" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="1707" y="363" width="33" height="58" as="geometry" />
+        <mxCell id="GvlYrMXL_Yht5qa5sTTb-5" value="Выйти&lt;br&gt;Создать виджет&lt;br&gt;Удалить виджет&lt;br&gt;Редактировать ссылку&lt;br&gt;Скопировать ссылку" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="381" width="33" height="87" as="geometry" />
         </mxCell>
         <mxCell id="GvlYrMXL_Yht5qa5sTTb-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="dmXB0vVCBBkoNBQm9kUJ-59" target="GvlYrMXL_Yht5qa5sTTb-5">
           <mxGeometry relative="1" as="geometry">
