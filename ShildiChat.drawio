@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T11:58:58.335Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="xj8KI-wI7L77PLBqI0Lw" version="21.6.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-28T13:02:44.136Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="I6ZnSA6TGgj3ZGDIEEUx" version="21.6.9" type="github" pages="3">
   <diagram name="system design" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="149" dy="8150" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -643,7 +643,7 @@
             <mxPoint x="1928" y="137" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GvlYrMXL_Yht5qa5sTTb-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="GvlYrMXL_Yht5qa5sTTb-8" value="Создать новую задачу&lt;br&gt;Редактировать задачу" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="1928" y="157" width="33" height="58" as="geometry" />
         </mxCell>
         <mxCell id="GvlYrMXL_Yht5qa5sTTb-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" target="GvlYrMXL_Yht5qa5sTTb-11" source="dmXB0vVCBBkoNBQm9kUJ-43">
@@ -651,7 +651,7 @@
             <mxPoint x="1697" y="155" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GvlYrMXL_Yht5qa5sTTb-11" value="Просмотр информации о задачах&lt;br&gt;Добавить задачу&lt;br&gt;Фильтровать задачи" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="GvlYrMXL_Yht5qa5sTTb-11" value="Просмотр информации о задачах&lt;br&gt;Фильтровать задачи" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="1749" y="67" width="33" height="58" as="geometry" />
         </mxCell>
       </root>
