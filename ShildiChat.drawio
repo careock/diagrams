@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T09:02:36.681Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="S066bYQlICOcdUzEraoZ" version="21.6.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-28T09:57:43.637Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="_-x3jfAykZB5oV0Nvmfa" version="21.6.9" type="github" pages="3">
   <diagram name="system design" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="563" dy="8481" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -445,7 +445,7 @@
           <mxGeometry x="118" y="90" width="112" height="59" as="geometry" />
         </mxCell>
         <mxCell id="246LDH6llsVxjIEByvUe-6" value="Легенда" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-59" y="635" width="1022" height="162" as="geometry" />
+          <mxGeometry x="-59" y="635" width="743" height="140" as="geometry" />
         </mxCell>
         <mxCell id="gD7WDYIJMhT8QxRfHamb-2" value="Существующий экран без доработок" style="rounded=0;whiteSpace=wrap;html=1;" parent="246LDH6llsVxjIEByvUe-6" vertex="1">
           <mxGeometry x="49" y="50" width="120" height="60" as="geometry" />
@@ -454,16 +454,13 @@
           <mxGeometry x="197" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="246LDH6llsVxjIEByvUe-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="246LDH6llsVxjIEByvUe-6" vertex="1">
-          <mxGeometry x="657" y="50" width="59" height="53" as="geometry" />
+          <mxGeometry x="508" y="50" width="59" height="53" as="geometry" />
         </mxCell>
         <mxCell id="246LDH6llsVxjIEByvUe-9" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Модальное окно&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="246LDH6llsVxjIEByvUe-6" vertex="1">
-          <mxGeometry x="734" y="65" width="121" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="dmXB0vVCBBkoNBQm9kUJ-55" value="Новый экран" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#0B0F09;" parent="246LDH6llsVxjIEByvUe-6" vertex="1">
-          <mxGeometry x="348" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="585" y="65" width="121" height="36" as="geometry" />
         </mxCell>
         <mxCell id="dmXB0vVCBBkoNBQm9kUJ-56" value="Измененный экран" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="246LDH6llsVxjIEByvUe-6" vertex="1">
-          <mxGeometry x="498" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="349" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dmXB0vVCBBkoNBQm9kUJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="246LDH6llsVxjIEByvUe-7" target="dmXB0vVCBBkoNBQm9kUJ-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
