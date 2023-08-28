@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T09:02:25.020Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="FL1rshmyG-ePPL9ihL77" version="21.6.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-28T09:02:36.681Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="S066bYQlICOcdUzEraoZ" version="21.6.9" type="github" pages="3">
   <diagram name="system design" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="563" dy="8481" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -451,7 +451,7 @@
           <mxGeometry x="49" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gD7WDYIJMhT8QxRfHamb-4" value="Экран канбан доски" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="246LDH6llsVxjIEByvUe-6" vertex="1">
-          <mxGeometry x="188" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="197" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="246LDH6llsVxjIEByvUe-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="246LDH6llsVxjIEByvUe-6" vertex="1">
           <mxGeometry x="657" y="50" width="59" height="53" as="geometry" />
