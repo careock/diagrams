@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T10:50:51.676Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="OUsBZp-wDL5vLTLMoINM" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T10:50:59.124Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="6IhUjg_Y23fJgWn1PT_l" version="21.6.9" type="github">
   <diagram name="1" id="hb3dIM1blZmVYqt_U6IY">
     <mxGraphModel dx="1354" dy="617" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="-91" y="250" width="20" height="300" as="geometry" />
         </mxCell>
         <mxCell id="HTV3dDsm1leBBpZ-1ntK-2" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="78" y="505" width="300" height="200" as="geometry" />
+          <mxGeometry x="15" y="253" width="300" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HTV3dDsm1leBBpZ-1ntK-3" value="Получение адресов геометок" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="-323" y="242" width="155" height="87" as="geometry" />
+          <mxGeometry x="-302" y="248" width="155" height="87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
