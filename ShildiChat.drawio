@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T13:08:46.101Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="8ISFGjO1QnTS4V3J-kcm" version="21.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-01T13:18:14.521Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="dHjlvq6GoKlMc047yUNC" version="21.7.1" type="github" pages="3">
   <diagram name="system design" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="154" dy="8217" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -434,7 +434,7 @@
           <mxGeometry x="518" y="1879" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lA6FNN9DWQk1yzUWESgT-2" value="Мультиаккаунт&lt;span id=&quot;docs-internal-guid-e9401ade-7fff-ad36-1cf8-44f5b58c857e&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="671" y="1739" width="416" height="354" as="geometry" />
+          <mxGeometry x="671" y="1739" width="295" height="354" as="geometry" />
         </mxCell>
         <mxCell id="lA6FNN9DWQk1yzUWESgT-3" value="Переключить&lt;br&gt;аккаунт" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="lA6FNN9DWQk1yzUWESgT-2">
           <mxGeometry x="109" y="72" width="129" height="86" as="geometry" />
@@ -475,6 +475,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lA6FNN9DWQk1yzUWESgT-6" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lA6FNN9DWQk1yzUWESgT-5">
+          <mxGeometry x="-0.1637" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lA6FNN9DWQk1yzUWESgT-14" value="Авторизоваться" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1069" y="1961" width="129" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6FNN9DWQk1yzUWESgT-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="lA6FNN9DWQk1yzUWESgT-11" target="lA6FNN9DWQk1yzUWESgT-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="1907" as="sourcePoint" />
+            <mxPoint x="855" y="1971" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lA6FNN9DWQk1yzUWESgT-16" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lA6FNN9DWQk1yzUWESgT-15">
           <mxGeometry x="-0.1637" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
