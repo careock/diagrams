@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T13:19:21.272Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="yYz8iXD2wQFvfHcpBu6F" version="21.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-01T13:19:29.852Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ishqPJzfi3geZ9v0cfto" version="21.7.1" type="github" pages="3">
   <diagram name="system design" id="SgtEmG0GpjzjVtyweG8o">
     <mxGraphModel dx="154" dy="8217" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bE5wVsmSxk-BZoCILN0T" name="юзкейсы">
-    <mxGraphModel dx="2363" dy="894" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2722" dy="1126" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -437,10 +437,10 @@
           <mxGeometry x="671" y="1739" width="295" height="354" as="geometry" />
         </mxCell>
         <mxCell id="lA6FNN9DWQk1yzUWESgT-3" value="Переключить&lt;br&gt;аккаунт" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="lA6FNN9DWQk1yzUWESgT-2">
-          <mxGeometry x="109" y="72" width="129" height="86" as="geometry" />
+          <mxGeometry x="90" y="72" width="129" height="86" as="geometry" />
         </mxCell>
         <mxCell id="lA6FNN9DWQk1yzUWESgT-11" value="Добавить аккаунт" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="lA6FNN9DWQk1yzUWESgT-2">
-          <mxGeometry x="109" y="222" width="129" height="86" as="geometry" />
+          <mxGeometry x="90" y="222" width="129" height="86" as="geometry" />
         </mxCell>
         <mxCell id="lA6FNN9DWQk1yzUWESgT-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="lA6FNN9DWQk1yzUWESgT-2" source="lA6FNN9DWQk1yzUWESgT-3" target="lA6FNN9DWQk1yzUWESgT-11">
           <mxGeometry relative="1" as="geometry">
@@ -480,7 +480,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lA6FNN9DWQk1yzUWESgT-14" value="Авторизоваться" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1069" y="1961" width="129" height="86" as="geometry" />
+          <mxGeometry x="1043" y="1961" width="129" height="86" as="geometry" />
         </mxCell>
         <mxCell id="lA6FNN9DWQk1yzUWESgT-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="lA6FNN9DWQk1yzUWESgT-11" target="lA6FNN9DWQk1yzUWESgT-14">
           <mxGeometry relative="1" as="geometry">
@@ -499,7 +499,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lA6FNN9DWQk1yzUWESgT-18" value="Существующий&lt;br&gt;функционал" style="html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;" vertex="1" parent="1">
-          <mxGeometry x="1222" y="1917" width="58" height="55" as="geometry" />
+          <mxGeometry x="1167" y="1901" width="58" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
