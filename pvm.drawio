@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T14:32:27.310Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="vR1f_pDXmguNSlfcc8Vw" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T14:32:55.237Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="XJ3GTzvEK9XFpYD1lLC2" version="21.7.1" type="github">
   <diagram name="1" id="hb3dIM1blZmVYqt_U6IY">
     <mxGraphModel dx="1088" dy="399" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="HTV3dDsm1leBBpZ-1ntK-3" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="-386" y="243" width="155" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="exbChWXZUnvqZmMl8PeD-7" value="ya.init" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-1" target="exbChWXZUnvqZmMl8PeD-6">
+        <mxCell id="exbChWXZUnvqZmMl8PeD-7" value="1. Инициализация карты" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-1" target="exbChWXZUnvqZmMl8PeD-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="149.99925925925936" y="353.06814814814805" as="sourcePoint" />
             <mxPoint x="362.74" y="352.9953731343283" as="targetPoint" />
