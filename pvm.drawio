@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T13:42:36.755Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="IMy7bktjcc0tMqC5YRci" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T13:43:06.319Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="gcZ7dMKf49AsQ-aMxLZW" version="21.7.1" type="github">
   <diagram name="1" id="hb3dIM1blZmVYqt_U6IY">
     <mxGraphModel dx="2248" dy="1239" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,7 +166,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="exbChWXZUnvqZmMl8PeD-49" value="Success&lt;br&gt;Координаты" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-56" target="exbChWXZUnvqZmMl8PeD-57">
+        <mxCell id="exbChWXZUnvqZmMl8PeD-49" value="7. Success&lt;br&gt;Координаты" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-56" target="exbChWXZUnvqZmMl8PeD-57">
           <mxGeometry x="-0.0014" y="-2" relative="1" as="geometry">
             <mxPoint x="1688.5" y="1237" as="sourcePoint" />
             <mxPoint x="1417.5" y="1237" as="targetPoint" />
@@ -241,7 +241,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="exbChWXZUnvqZmMl8PeD-62" value="1. GET /public/events/geocode?address" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-57" target="exbChWXZUnvqZmMl8PeD-58">
+        <mxCell id="exbChWXZUnvqZmMl8PeD-62" value="2. GET /public/events/geocode?address" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-57" target="exbChWXZUnvqZmMl8PeD-58">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1204" y="991" as="sourcePoint" />
             <mxPoint x="1428" y="991" as="targetPoint" />
@@ -250,7 +250,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="exbChWXZUnvqZmMl8PeD-63" value="Access, granted/denied" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;dashed=1;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-58" target="exbChWXZUnvqZmMl8PeD-57">
+        <mxCell id="exbChWXZUnvqZmMl8PeD-63" value="3. Access, granted/denied" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;dashed=1;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-58" target="exbChWXZUnvqZmMl8PeD-57">
           <mxGeometry x="-0.0014" y="-2" relative="1" as="geometry">
             <mxPoint x="1714" y="1046" as="sourcePoint" />
             <mxPoint x="1444" y="1046" as="targetPoint" />
@@ -260,7 +260,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="exbChWXZUnvqZmMl8PeD-64" value="1. GET /public/events/geocode?address" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-57" target="exbChWXZUnvqZmMl8PeD-56">
+        <mxCell id="exbChWXZUnvqZmMl8PeD-64" value="4. GET /public/events/geocode?address" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-57" target="exbChWXZUnvqZmMl8PeD-56">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1420.9966666666664" y="1068" as="sourcePoint" />
             <mxPoint x="1834.83" y="1068" as="targetPoint" />
@@ -269,7 +269,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="exbChWXZUnvqZmMl8PeD-65" value="1. GET /public/events/geocode?address" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-56" target="exbChWXZUnvqZmMl8PeD-47">
+        <mxCell id="exbChWXZUnvqZmMl8PeD-65" value="5. GET /public/events/geocode?address" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-56" target="exbChWXZUnvqZmMl8PeD-47">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1428" y="1078" as="sourcePoint" />
             <mxPoint x="1588" y="1099" as="targetPoint" />
@@ -278,7 +278,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="exbChWXZUnvqZmMl8PeD-66" value="Success&lt;br&gt;Координаты" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;dashed=1;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-47" target="exbChWXZUnvqZmMl8PeD-56">
+        <mxCell id="exbChWXZUnvqZmMl8PeD-66" value="6. Success&lt;br&gt;Координаты" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;dashed=1;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-47" target="exbChWXZUnvqZmMl8PeD-56">
           <mxGeometry x="-0.0014" y="-2" relative="1" as="geometry">
             <mxPoint x="1697.003529411765" y="1172" as="sourcePoint" />
             <mxPoint x="1921.1799999999996" y="1172" as="targetPoint" />
