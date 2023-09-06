@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T11:46:11.733Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ZV6o6ZQmsmoIcNPYsDla" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T11:49:25.238Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="pTfD-ztXxChlJUKsAuvg" version="21.7.1" type="github">
   <diagram name="1" id="hb3dIM1blZmVYqt_U6IY">
-    <mxGraphModel dx="2766" dy="1539" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1749" dy="950" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,7 +75,7 @@
         <mxCell id="exbChWXZUnvqZmMl8PeD-22" value="Yandex Geocode API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="43" y="924" width="100" height="372" as="geometry" />
         </mxCell>
-        <mxCell id="exbChWXZUnvqZmMl8PeD-28" value="[city, address]" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-21" target="exbChWXZUnvqZmMl8PeD-22">
+        <mxCell id="exbChWXZUnvqZmMl8PeD-28" value="1. GET&amp;nbsp;geocode-maps.yandex.ru" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-21" target="exbChWXZUnvqZmMl8PeD-22">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-104.99647058823513" y="1005" as="sourcePoint" />
             <mxPoint x="120.18" y="1005" as="targetPoint" />
@@ -84,7 +84,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="exbChWXZUnvqZmMl8PeD-29" value="location []" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-22" target="exbChWXZUnvqZmMl8PeD-21">
+        <mxCell id="exbChWXZUnvqZmMl8PeD-29" value="2. Location" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-22" target="exbChWXZUnvqZmMl8PeD-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="113.69000000000001" y="1033.2941176470588" as="sourcePoint" />
             <mxPoint x="-110.99965517241371" y="1033" as="targetPoint" />
@@ -147,6 +147,9 @@
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-40" value="loop n" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="-181" y="983" width="299" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="exbChWXZUnvqZmMl8PeD-44" value="Yandex.Map SDK" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="107" y="1547" width="100" height="371" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
