@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T16:31:16.716Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="7HvkQHBk7_hUbFpBp8m3" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T10:23:49.795Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="SMi4oQ6g91zVEoytvLOf" version="21.7.1" type="github">
   <diagram name="1" id="hb3dIM1blZmVYqt_U6IY">
-    <mxGraphModel dx="1349" dy="550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2419" dy="938" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,50 +67,50 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-19" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="-353" y="665" width="155" height="87" as="geometry" />
+          <mxGeometry x="-418" y="913" width="155" height="87" as="geometry" />
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-20" value="Отобразить маркер" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-21" target="exbChWXZUnvqZmMl8PeD-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="149.99925925925936" y="1023.0681481481481" as="sourcePoint" />
-            <mxPoint x="362.74" y="1022.9953731343282" as="targetPoint" />
+            <mxPoint x="-44.00074074074064" y="1029.068148148148" as="sourcePoint" />
+            <mxPoint x="168.74" y="1028.9953731343282" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="213" y="994" />
+              <mxPoint x="19" y="1000" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-21" value="Мобильное приложение" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="28" y="918" width="100" height="300" as="geometry" />
+          <mxGeometry x="-166" y="924" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-22" value="SDK" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="225" y="918" width="100" height="300" as="geometry" />
+          <mxGeometry x="31" y="924" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-23" value="4. Отобразить карту" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-22" target="exbChWXZUnvqZmMl8PeD-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="312.5" y="1043" as="sourcePoint" />
-            <mxPoint x="100.25609756097572" y="1043" as="targetPoint" />
+            <mxPoint x="118.5" y="1049" as="sourcePoint" />
+            <mxPoint x="-93.74390243902428" y="1049" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="183" y="1105" />
+              <mxPoint x="-11" y="1111" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-24" value="Яндекс.Карты" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="400" y="918" width="100" height="300" as="geometry" />
+          <mxGeometry x="206" y="924" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-25" value="запрос" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-22" target="exbChWXZUnvqZmMl8PeD-24">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="275" y="1010" as="sourcePoint" />
-            <mxPoint x="449.5" y="1010" as="targetPoint" />
+            <mxPoint x="81" y="1016" as="sourcePoint" />
+            <mxPoint x="255.5" y="1016" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="359" y="1013" />
+              <mxPoint x="165" y="1019" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-26" value="Ответ" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-24" target="exbChWXZUnvqZmMl8PeD-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="362.5" y="1062" as="sourcePoint" />
-            <mxPoint x="537.5" y="1062" as="targetPoint" />
+            <mxPoint x="168.5" y="1068" as="sourcePoint" />
+            <mxPoint x="343.5" y="1068" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="403" y="1048" />
+              <mxPoint x="209" y="1054" />
             </Array>
           </mxGeometry>
         </mxCell>
