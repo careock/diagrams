@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T13:53:38.996Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="gG3cVx7pb8T7Xm5xfJ3J" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T13:53:53.191Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="cQz8WkYqX2W3ZyE8llWo" version="21.7.1" type="github">
   <diagram name="1" id="hb3dIM1blZmVYqt_U6IY">
     <mxGraphModel dx="2176" dy="1197" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -152,10 +152,10 @@
           <mxGeometry x="887" y="908" width="132" height="80" as="geometry" />
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-46" value="Мобильное приложение" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1144" y="893" width="100" height="623" as="geometry" />
+          <mxGeometry x="1144" y="893" width="100" height="591" as="geometry" />
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-47" value="Yandex Geocode API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1690" y="892" width="100" height="634" as="geometry" />
+          <mxGeometry x="1690" y="892" width="100" height="597" as="geometry" />
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-48" value="1. GET /public/events/geocode&lt;br&gt;Получить координаты событий" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-46" target="exbChWXZUnvqZmMl8PeD-57">
           <mxGeometry relative="1" as="geometry">
@@ -177,7 +177,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-50" value="YaMap SDK" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1516" y="890" width="100" height="636" as="geometry" />
+          <mxGeometry x="1516" y="890" width="100" height="596" as="geometry" />
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-51" value="5. Отобразить кластер геометок" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-46" target="exbChWXZUnvqZmMl8PeD-50">
           <mxGeometry x="-0.0005" relative="1" as="geometry">
@@ -223,13 +223,13 @@
           <mxGeometry x="1666" y="1093" width="320" height="88" as="geometry" />
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-56" value="Calendar Service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1911" y="890" width="100" height="640" as="geometry" />
+          <mxGeometry x="1911" y="890" width="100" height="603" as="geometry" />
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-57" value="API Gateway" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1350" y="888" width="100" height="635.75" as="geometry" />
+          <mxGeometry x="1350" y="888" width="100" height="598" as="geometry" />
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-58" value="Keycloak" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="2080" y="892" width="100" height="628" as="geometry" />
+          <mxGeometry x="2080" y="892" width="100" height="599" as="geometry" />
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-61" value="8. Success&lt;br&gt;Координаты всех событий" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;dashed=1;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-57" target="exbChWXZUnvqZmMl8PeD-46">
           <mxGeometry x="-0.0014" y="-2" relative="1" as="geometry">
