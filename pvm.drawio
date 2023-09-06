@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T11:51:31.720Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="6tgdGHxRjEZATyTnEDE4" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T12:00:22.794Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="KIjq64q2BVXrhl_VPMvV" version="21.7.1" type="github">
   <diagram name="1" id="hb3dIM1blZmVYqt_U6IY">
-    <mxGraphModel dx="1586" dy="855" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3093" dy="1728" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,9 +116,6 @@
               <mxPoint x="267.68" y="1196" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="exbChWXZUnvqZmMl8PeD-34" value="Yandex maps API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="815" y="924" width="100" height="408" as="geometry" />
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-36" value="3. Отобразить карту" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-21" target="exbChWXZUnvqZmMl8PeD-30">
           <mxGeometry relative="1" as="geometry">
