@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T13:40:16.920Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="akpZTSTuXs3ifDCPKLNh" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T13:42:36.755Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="IMy7bktjcc0tMqC5YRci" version="21.7.1" type="github">
   <diagram name="1" id="hb3dIM1blZmVYqt_U6IY">
     <mxGraphModel dx="2248" dy="1239" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -179,43 +179,43 @@
         <mxCell id="exbChWXZUnvqZmMl8PeD-50" value="YaMap SDK" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="1516" y="890" width="100" height="636" as="geometry" />
         </mxCell>
-        <mxCell id="exbChWXZUnvqZmMl8PeD-51" value="5. Отобразить кластер геометок" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" target="exbChWXZUnvqZmMl8PeD-50">
+        <mxCell id="exbChWXZUnvqZmMl8PeD-51" value="5. Отобразить кластер геометок" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-46" target="exbChWXZUnvqZmMl8PeD-50">
           <mxGeometry x="-0.0005" relative="1" as="geometry">
             <mxPoint x="1193.3235294117649" y="1451" as="sourcePoint" />
             <mxPoint x="1546.5" y="1451" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1317" y="1451" />
+              <mxPoint x="1320" y="1395" />
               <mxPoint x="1581.3" y="1419.71" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="exbChWXZUnvqZmMl8PeD-52" value="6. Success" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;dashed=1;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-50">
+        <mxCell id="exbChWXZUnvqZmMl8PeD-52" value="6. Success" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;dashed=1;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-50" target="exbChWXZUnvqZmMl8PeD-46">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1546.5" y="1480" as="sourcePoint" />
             <mxPoint x="1190.9973684210524" y="1480" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1363.55" y="1480" />
+              <mxPoint x="1364" y="1437" />
               <mxPoint x="1591.23" y="1461" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="exbChWXZUnvqZmMl8PeD-53" value="3. Отобразить карту" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-46">
+        <mxCell id="exbChWXZUnvqZmMl8PeD-53" value="3. Отобразить карту" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-46" target="exbChWXZUnvqZmMl8PeD-50">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1197.003529411765" y="1299" as="sourcePoint" />
             <mxPoint x="1569.18" y="1299" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1321.68" y="1299" />
+              <mxPoint x="1322" y="1307" />
               <mxPoint x="1594.98" y="1263.71" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="exbChWXZUnvqZmMl8PeD-54" value="4. Success" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1">
+        <mxCell id="exbChWXZUnvqZmMl8PeD-54" value="4. Success" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-50" target="exbChWXZUnvqZmMl8PeD-46">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1568.18" y="1358" as="sourcePoint" />
             <mxPoint x="1196.003529411765" y="1358" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1312.68" y="1358" />
+              <mxPoint x="1306" y="1342" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -250,7 +250,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="exbChWXZUnvqZmMl8PeD-63" value="Access, granted/denied" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-58" target="exbChWXZUnvqZmMl8PeD-57">
+        <mxCell id="exbChWXZUnvqZmMl8PeD-63" value="Access, granted/denied" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;dashed=1;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-58" target="exbChWXZUnvqZmMl8PeD-57">
           <mxGeometry x="-0.0014" y="-2" relative="1" as="geometry">
             <mxPoint x="1714" y="1046" as="sourcePoint" />
             <mxPoint x="1444" y="1046" as="targetPoint" />
@@ -278,7 +278,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="exbChWXZUnvqZmMl8PeD-66" value="Success&lt;br&gt;Координаты" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-47" target="exbChWXZUnvqZmMl8PeD-56">
+        <mxCell id="exbChWXZUnvqZmMl8PeD-66" value="Success&lt;br&gt;Координаты" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;dashed=1;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-47" target="exbChWXZUnvqZmMl8PeD-56">
           <mxGeometry x="-0.0014" y="-2" relative="1" as="geometry">
             <mxPoint x="1697.003529411765" y="1172" as="sourcePoint" />
             <mxPoint x="1921.1799999999996" y="1172" as="targetPoint" />
