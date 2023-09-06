@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T13:30:57.834Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="sg0C0mc7fPaYVSwUfdXs" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T13:32:25.343Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Kz8gDi5tvLcQtayOB5eQ" version="21.7.1" type="github">
   <diagram name="1" id="hb3dIM1blZmVYqt_U6IY">
     <mxGraphModel dx="1947" dy="1064" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,7 +155,7 @@
           <mxGeometry x="1144" y="893" width="100" height="467" as="geometry" />
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-47" value="Yandex Geocode API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1960" y="892" width="100" height="489" as="geometry" />
+          <mxGeometry x="1639" y="892" width="100" height="489" as="geometry" />
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-48" value="1. GET /public/events/geocode?address" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-46" target="exbChWXZUnvqZmMl8PeD-57">
           <mxGeometry relative="1" as="geometry">
@@ -171,13 +171,13 @@
             <mxPoint x="1418.5" y="1120" as="sourcePoint" />
             <mxPoint x="1193.5476190476193" y="1120" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1714" y="1116" />
+              <mxPoint x="1553" y="1123" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-50" value="YaMap SDK" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="2176" y="884" width="100" height="488" as="geometry" />
+          <mxGeometry x="1497" y="890" width="100" height="488" as="geometry" />
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-51" value="5. Отобразить кластер геометок" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-46" target="exbChWXZUnvqZmMl8PeD-50">
           <mxGeometry x="-0.0005" relative="1" as="geometry">
@@ -223,13 +223,13 @@
           <mxGeometry x="1107" y="952" width="1214" height="210" as="geometry" />
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-56" value="Calendar Service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1577" y="894" width="100" height="491" as="geometry" />
+          <mxGeometry x="1782" y="890" width="100" height="491" as="geometry" />
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-57" value="API Gateway" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="1368" y="895.25" width="100" height="479.5" as="geometry" />
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-58" value="Keycloak" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1749" y="892" width="100" height="486" as="geometry" />
+          <mxGeometry x="1912" y="892" width="100" height="486" as="geometry" />
         </mxCell>
         <mxCell id="exbChWXZUnvqZmMl8PeD-60" value="GET geocode-maps.yandex.ru&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Получить координаты по адресу" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -248,6 +248,25 @@
             <Array as="points">
               <mxPoint x="1321" y="1143" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exbChWXZUnvqZmMl8PeD-62" value="1. GET /public/events/geocode?address" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-57" target="exbChWXZUnvqZmMl8PeD-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1204" y="991" as="sourcePoint" />
+            <mxPoint x="1428" y="991" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1685" y="1003" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exbChWXZUnvqZmMl8PeD-63" value="Access, granted/denied" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-58" target="exbChWXZUnvqZmMl8PeD-57">
+          <mxGeometry x="-0.0014" y="-2" relative="1" as="geometry">
+            <mxPoint x="1714" y="1046" as="sourcePoint" />
+            <mxPoint x="1444" y="1046" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1579" y="1039" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
