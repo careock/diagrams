@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T11:50:17.365Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="An-3FBKb-YYgfNTxyp1m" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T11:50:38.984Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="gAC7G3udQdz4Ms11fH1m" version="21.7.1" type="github">
   <diagram name="1" id="hb3dIM1blZmVYqt_U6IY">
     <mxGraphModel dx="1749" dy="950" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,7 +84,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="exbChWXZUnvqZmMl8PeD-29" value="2. Location" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-22" target="exbChWXZUnvqZmMl8PeD-21">
+        <mxCell id="exbChWXZUnvqZmMl8PeD-29" value="2. Success&lt;br&gt;Координаты" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;" edge="1" parent="1" source="exbChWXZUnvqZmMl8PeD-22" target="exbChWXZUnvqZmMl8PeD-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="113.69000000000001" y="1033.2941176470588" as="sourcePoint" />
             <mxPoint x="-110.99965517241371" y="1033" as="targetPoint" />
