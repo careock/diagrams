@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-11T22:29:13.794Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="q6ey7-T2BaOaF_MvB6wp" version="22.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-11T22:29:16.849Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="iUby3K3pua-M8rG0iiix" version="22.1.0" type="github" pages="2">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="2126" dy="1546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
           <mxGeometry y="55" width="140" height="25" as="geometry" />
         </mxCell>
         <mxCell id="FL9K62EaHGy_0KdFEDnW-30" value="ВыборБренда" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1150" width="140" height="63" as="geometry" />
+          <mxGeometry x="150" y="1140" width="140" height="63" as="geometry" />
         </mxCell>
         <mxCell id="ffJ6PwLNoABF6Ka8uKUp-10" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="FL9K62EaHGy_0KdFEDnW-30">
           <mxGeometry y="30" width="140" height="8" as="geometry" />
