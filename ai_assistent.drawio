@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-11T22:19:00.610Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="zGHA1Q90jdNNkkWk3bLq" version="22.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-11T22:19:57.363Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="GGttZDGLGIus47hgmCKC" version="22.1.0" type="github" pages="2">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1781" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -273,7 +273,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FL9K62EaHGy_0KdFEDnW-65" value="если чел пишет при уточнении -по идее мы можем получить инетенты одновременно" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="220" y="130" width="60" height="30" as="geometry" />
+          <mxGeometry x="230" y="130" width="340" as="geometry" />
         </mxCell>
         <mxCell id="FL9K62EaHGy_0KdFEDnW-69" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FL9K62EaHGy_0KdFEDnW-67" target="FL9K62EaHGy_0KdFEDnW-34">
           <mxGeometry relative="1" as="geometry" />
@@ -293,9 +293,6 @@
         <mxCell id="FL9K62EaHGy_0KdFEDnW-67" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="924" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FL9K62EaHGy_0KdFEDnW-74" value="действие экзита - это модификация модели жданных" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="890" y="150" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ffJ6PwLNoABF6Ka8uKUp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FL9K62EaHGy_0KdFEDnW-30" target="ffJ6PwLNoABF6Ka8uKUp-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1039.77" y="852" as="targetPoint" />
@@ -312,6 +309,9 @@
         </mxCell>
         <mxCell id="ffJ6PwLNoABF6Ka8uKUp-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#030303;" vertex="1" parent="1">
           <mxGeometry x="850" y="850.5" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ffJ6PwLNoABF6Ka8uKUp-26" value="к схеме приложить: модель данных часов (концептуальную), описание всех возможных интентов, описание методов (действий)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="750" y="110" width="480" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
