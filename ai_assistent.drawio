@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-11T22:01:10.744Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="g2EUfa2tvQtZHpMBrj49" version="22.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-11T22:01:26.193Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="97Ws9Zqp_I9yfW0uLKM_" version="22.1.0" type="github" pages="2">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="1781" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2911" dy="2067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -216,8 +216,8 @@
             <mxPoint x="5" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FL9K62EaHGy_0KdFEDnW-65" value="если чел пишет при уточнении -по идее мы можем получить инетенты одновременно" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1060" width="60" height="30" as="geometry" />
+        <mxCell id="FL9K62EaHGy_0KdFEDnW-65" value="если чел пишет при уточнении -по идее мы можем получить инетенты одновременно" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="530" y="30" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
