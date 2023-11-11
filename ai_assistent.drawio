@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-11T22:40:30.808Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="UnaP1IY84xt-oXPbZZiP" version="22.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-11T22:40:34.317Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="G8Z3ezUNdvG_sp7dTdUm" version="22.1.0" type="github" pages="2">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="1989" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2825" dy="1479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,11 +8,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-170" y="332.5" as="sourcePoint" />
             <mxPoint x="-118.76499999999987" y="332.26" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FL9K62EaHGy_0KdFEDnW-38" value="и_Купить" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SWCbF4250IS1tGv3gK87-6">
-          <mxGeometry x="-0.4667" relative="1" as="geometry">
-            <mxPoint x="15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T_VBmHh6CQnNHwD42FFN-5" value="&lt;b&gt;Старт&lt;/b&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" parent="1" vertex="1">
