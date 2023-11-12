@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T14:48:39.148Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="fR7B6nIcOn6lRp-4IAF3" version="22.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-12T14:49:10.170Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="LS85yhUfVDMgKZPV2Lop" version="22.1.0" type="github" pages="3">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="2515" dy="873" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
         </mxCell>
         <mxCell id="q2HMm7o0KwLSOO0PUDpN-8" value="и_Оформить заказ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FL9K62EaHGy_0KdFEDnW-61" vertex="1" connectable="0">
           <mxGeometry x="-0.0403" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="10" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FL9K62EaHGy_0KdFEDnW-62" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;" parent="1" target="FL9K62EaHGy_0KdFEDnW-26" edge="1" source="FL9K62EaHGy_0KdFEDnW-20">
@@ -116,7 +116,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FL9K62EaHGy_0KdFEDnW-23" value="Заявка" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="937" y="493.5" width="140" height="63" as="geometry" />
+          <mxGeometry x="901" y="507" width="140" height="63" as="geometry" />
         </mxCell>
         <mxCell id="q2HMm7o0KwLSOO0PUDpN-47" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="FL9K62EaHGy_0KdFEDnW-23" vertex="1">
           <mxGeometry y="30" width="140" height="8" as="geometry" />
@@ -364,16 +364,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q2HMm7o0KwLSOO0PUDpN-26" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" parent="1" vertex="1">
-          <mxGeometry x="1259" y="523.5" width="30" height="30" as="geometry" />
+          <mxGeometry x="1218" y="523.5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q2HMm7o0KwLSOO0PUDpN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="q2HMm7o0KwLSOO0PUDpN-26" edge="1">
+        <mxCell id="q2HMm7o0KwLSOO0PUDpN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="q2HMm7o0KwLSOO0PUDpN-26" edge="1" source="FL9K62EaHGy_0KdFEDnW-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1077" y="536" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2HMm7o0KwLSOO0PUDpN-28" value="нажать отправить заявку" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="q2HMm7o0KwLSOO0PUDpN-27" vertex="1" connectable="0">
+        <mxCell id="q2HMm7o0KwLSOO0PUDpN-28" value="нажать &quot;отправить заявку&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="q2HMm7o0KwLSOO0PUDpN-27" vertex="1" connectable="0">
           <mxGeometry x="0.0765" relative="1" as="geometry">
-            <mxPoint x="-12" as="offset" />
+            <mxPoint x="-13" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q2HMm7o0KwLSOO0PUDpN-39" value="" style="group" parent="1" vertex="1" connectable="0">
