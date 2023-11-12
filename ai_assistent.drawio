@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T15:00:04.068Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="bSwyKO6H8-ZcnikqyeEp" version="22.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-12T15:00:07.240Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="CNUcQWrGuhTs23B2Mftc" version="22.1.0" type="github" pages="3">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="1637" dy="556" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3311" dy="1667" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -238,9 +238,6 @@
           <mxGeometry x="-0.5089" y="-1" relative="1" as="geometry">
             <mxPoint x="129" y="-3" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="FL9K62EaHGy_0KdFEDnW-65" value="если чел пишет при уточнении -по идее мы можем получить инетенты одновременно" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-63" y="70" width="340" as="geometry" />
         </mxCell>
         <mxCell id="FL9K62EaHGy_0KdFEDnW-69" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FL9K62EaHGy_0KdFEDnW-67" target="9RJeNOhsSgj_mSgTUlDW-14" edge="1">
           <mxGeometry relative="1" as="geometry">
