@@ -1,11 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-11-19T13:12:53.073Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="wnPjA1tC8PrpzNUgI5cj" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-19T13:14:10.189Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="e7MjQ056cIl9E1Zi0nle" version="22.1.3" type="github">
   <diagram name="Страница — 1" id="ZE9idptEyMJkHmT40I5O">
-    <mxGraphModel dx="1300" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1459" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hAGe8qi2fKRx2JEwQKdJ-9" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="hAGe8qi2fKRx2JEwQKdJ-1" target="hAGe8qi2fKRx2JEwQKdJ-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hAGe8qi2fKRx2JEwQKdJ-24" value="п1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hAGe8qi2fKRx2JEwQKdJ-9">
+          <mxGeometry x="-0.2727" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hAGe8qi2fKRx2JEwQKdJ-1" value="tinderland" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="300" width="120" height="60" as="geometry" />
@@ -61,6 +66,21 @@
         </mxCell>
         <mxCell id="hAGe8qi2fKRx2JEwQKdJ-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="270" width="315" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="hAGe8qi2fKRx2JEwQKdJ-23" value="Инициатор" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hAGe8qi2fKRx2JEwQKdJ-25" value="п" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hAGe8qi2fKRx2JEwQKdJ-26" value="Описание данных" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="670" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hAGe8qi2fKRx2JEwQKdJ-27" value="протокол" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hAGe8qi2fKRx2JEwQKdJ-28" value="наличие защищенных данных" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="670" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
