@@ -1,38 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T22:38:42.405Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.3 Safari/605.1.15" etag="FSjbEu8wssrIXEVhhpjF" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-03T22:42:22.018Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.3 Safari/605.1.15" etag="I5_r1QPpp062X_JYPpTZ" version="22.1.5" type="github">
   <diagram name="Page-1" id="XEkcd8DXK6cYoFrj4VAr">
-    <mxGraphModel dx="1098" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1960" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MVHBoMpumN7ushQgrpT9-1" value="Критерии выбора" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MVHBoMpumN7ushQgrpT9-1" value="Критерии выбора" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MVHBoMpumN7ushQgrpT9-2" value="Функциональные" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MVHBoMpumN7ushQgrpT9-2" value="Функциональные" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MVHBoMpumN7ushQgrpT9-3" value="Нефункциональные" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="MVHBoMpumN7ushQgrpT9-3" value="Нефункциональные" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MVHBoMpumN7ushQgrpT9-5" value="Обеспечение прозрачности движения процесса по воронке" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="159" y="280" width="201" height="60" as="geometry" />
+        <mxCell id="MVHBoMpumN7ushQgrpT9-5" value="Обеспечение прозрачности движения процесса по воронке" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="499" y="370" width="201" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MVHBoMpumN7ushQgrpT9-6" value="Обеспечение прозрачности движения процесса по воронке" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="360" width="201" height="60" as="geometry" />
+        <mxCell id="MVHBoMpumN7ushQgrpT9-6" value="Обеспечение аналитики данных" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="450" width="201" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MVHBoMpumN7ushQgrpT9-7" value="Обеспечение прозрачности движения процесса по воронке" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="159" y="440" width="201" height="60" as="geometry" />
+        <mxCell id="MVHBoMpumN7ushQgrpT9-7" value="Обеспечение эффективного управления информацией" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="499" y="530" width="201" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MVHBoMpumN7ushQgrpT9-8" value="Обеспечение прозрачности движения процесса по воронке" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="159" y="524.5" width="201" height="60" as="geometry" />
+        <mxCell id="MVHBoMpumN7ushQgrpT9-8" value="Возможность интеграции с текущей информационной средой компании" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="280" width="201" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MVHBoMpumN7ushQgrpT9-9" value="Обеспечение прозрачности движения процесса по воронке" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="159" y="600" width="201" height="60" as="geometry" />
+        <mxCell id="MVHBoMpumN7ushQgrpT9-9" value="Обеспечение безопасности и целостности данных" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1180" y="280" width="201" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MVHBoMpumN7ushQgrpT9-10" value="Удобство использования" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MVHBoMpumN7ushQgrpT9-10" value="Удобство использования" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="280" width="201" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MVHBoMpumN7ushQgrpT9-11" value="Кастомизация и управление" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MVHBoMpumN7ushQgrpT9-11" value="Кастомизация и управление" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="280" width="201" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkaKHpSh5NO_QCCOGs7D-1" value="Обеспечение удобства пользования" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="729" y="370" width="201" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkaKHpSh5NO_QCCOGs7D-2" value="Обеспечение дружелюбного интерфейса" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="450" width="201" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkaKHpSh5NO_QCCOGs7D-3" value="Обеспечение возможности работать с любого устройства" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="729" y="530" width="201" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkaKHpSh5NO_QCCOGs7D-4" value="Расширение фильтров по регионам" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="280" width="201" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkaKHpSh5NO_QCCOGs7D-5" value="Обеспечение возможности коммуникации в системе" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="355.5" width="201" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkaKHpSh5NO_QCCOGs7D-7" value="Обеспечение возможности взаимодействия с документацией внутри системы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="440" width="201" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkaKHpSh5NO_QCCOGs7D-8" value="Обеспечение возможности управления задачам" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="515.5" width="201" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkaKHpSh5NO_QCCOGs7D-9" value="Обеспечение функционалом для автоматизации рутинных задач" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="590" width="201" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkaKHpSh5NO_QCCOGs7D-10" value="Обеспечение автоматической системы напоминаний" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="665.5" width="201" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkaKHpSh5NO_QCCOGs7D-11" value="Обеспечение совместного доступа" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="750" width="201" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
