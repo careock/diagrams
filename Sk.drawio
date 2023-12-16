@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T12:58:58.383Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="sGzgDzslZXxthXTn9Pzv" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T12:59:33.823Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="QFdMQJ1nuKZa9wH6AVg3" version="22.1.11" type="github">
   <diagram name="Page-1" id="kLZZluuCdCFHNQExWlGG">
     <mxGraphModel dx="3453" dy="1737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -98,19 +98,13 @@
           <mxGeometry x="-490" y="-40" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-33" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="650" y="985" width="250" height="75" as="geometry" />
+          <mxGeometry x="980" y="1040" width="250" height="75" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-34" value="&lt;font size=&quot;2&quot;&gt;Auth Service&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-33">
           <mxGeometry width="250.00000000000003" height="75" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-90" value="Keycloak" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-33">
           <mxGeometry x="10" y="26.785714285714285" width="220" height="32.635714285714286" as="geometry" />
-        </mxCell>
-        <mxCell id="bPQWwLV5Ec_Krep9My-7-36" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1710" y="1377.5" width="210" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="bPQWwLV5Ec_Krep9My-7-37" value="&lt;font size=&quot;2&quot;&gt;Auth Service&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-36">
-          <mxGeometry width="210.00000000000003" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-38" value="Приложение" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1340" y="2420" width="110" height="30" as="geometry" />
@@ -148,6 +142,9 @@
           <mxGeometry x="1710" y="1730" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="bPQWwLV5Ec_Krep9My-7-15" target="bPQWwLV5Ec_Krep9My-7-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="bPQWwLV5Ec_Krep9My-7-21" target="bPQWwLV5Ec_Krep9My-7-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-21" value="&lt;font size=&quot;2&quot;&gt;Оркестратор облачных ресурсов&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
