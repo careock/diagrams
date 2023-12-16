@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T12:56:53.596Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="pRqA2HnUQpTNpH4C7t5O" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T12:58:46.894Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="V30ReP_-A2r5anQSrQD5" version="22.1.11" type="github">
   <diagram name="Page-1" id="kLZZluuCdCFHNQExWlGG">
-    <mxGraphModel dx="5063" dy="2691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3131" dy="1546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,19 +38,25 @@
           <mxGeometry x="10" y="50" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-16" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1260" y="1460" width="250" height="270" as="geometry" />
+          <mxGeometry x="1260" y="1460" width="260" height="270" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-17" value="&lt;font size=&quot;2&quot;&gt;Мониторинг и логирование&lt;br&gt;&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-16">
-          <mxGeometry width="250" height="180" as="geometry" />
+          <mxGeometry width="250" height="260" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-49" value="PostgreSQL" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-16">
-          <mxGeometry x="20" y="130" width="210" height="30" as="geometry" />
+          <mxGeometry x="20" y="210" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-48" value="Clickhouse" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-16">
-          <mxGeometry x="20" y="85" width="210" height="30" as="geometry" />
+          <mxGeometry x="20" y="165" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-47" value="Redis" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-16">
+          <mxGeometry x="20" y="120" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-91" value="Коллектор метрик" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-16">
           <mxGeometry x="20" y="40" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-92" value="Запись и анализ ошибок" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-16">
+          <mxGeometry x="20" y="80" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-18" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1010" y="680" width="240" height="90" as="geometry" />
