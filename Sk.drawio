@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T12:29:34.711Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="7vXsSn4Db3-bV49ts19W" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T12:30:25.472Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="n4nTTspa9krP6_H-ePgO" version="22.1.11" type="github">
   <diagram name="Page-1" id="kLZZluuCdCFHNQExWlGG">
-    <mxGraphModel dx="2791" dy="1344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5063" dy="2691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bPQWwLV5Ec_Krep9My-7-54" value="" style="shape=folder;spacingTop=10;tabWidth=200;tabHeight=30;tabPosition=left;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="2220" y="680" width="250" height="167.5" as="geometry" />
+          <mxGeometry x="2220" y="680" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-35" value="" style="shape=folder;spacingTop=10;tabWidth=200;tabHeight=30;tabPosition=left;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1260" y="1140" width="670" height="627.5" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2250" y="737.5" width="190" height="50" as="geometry" />
+          <mxGeometry x="2245" y="730" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-7" value="Платежная система" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=#666666;verticalAlign=top;fontSize=14;fontColor=#333333;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-6">
           <mxGeometry width="190" height="50" as="geometry" />
