@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T14:30:44.720Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="wFTdAQqRKBu4ZxzNx6AB" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T14:31:13.550Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="oKqrY_yEO_VZEpt_R6RD" version="22.1.11" type="github">
   <diagram name="Page-1" id="kLZZluuCdCFHNQExWlGG">
     <mxGraphModel dx="2132" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -142,7 +142,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-21" value="&lt;font size=&quot;2&quot;&gt;Оркестратор облачных ресурсов&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="890" width="240" height="90" as="geometry" />
+          <mxGeometry x="1510" y="870" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="bPQWwLV5Ec_Krep9My-7-58" target="bPQWwLV5Ec_Krep9My-7-9">
           <mxGeometry relative="1" as="geometry" />
@@ -820,6 +820,9 @@
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-248" value="Kubernetes" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" vertex="1" parent="1">
           <mxGeometry x="1520" y="940" width="220" height="30.46" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-249" value="Конфигурация проектов" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=passive;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="900" width="220" height="32.32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
