@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T10:25:00.749Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="Ob1f9is40SyTK8kiGsVS" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T10:25:11.426Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="Mco5KmTrXqehXe2qWh8f" version="22.1.11" type="github">
   <diagram name="Page-1" id="kLZZluuCdCFHNQExWlGG">
-    <mxGraphModel dx="1127" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1591" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,7 +59,7 @@
           <mxGeometry width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-22" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1390" y="630" width="240" height="90" as="geometry" />
+          <mxGeometry x="1410" y="490" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-23" value="&lt;font size=&quot;2&quot;&gt;Микросервис - прокси для внешних LLM&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-22">
           <mxGeometry width="240" height="90" as="geometry" />
