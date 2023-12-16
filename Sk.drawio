@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T12:35:27.133Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="uj8ZhJ746ZuADg9iiph6" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T12:35:51.216Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="BF5jT2PF8cN_JtTfynAY" version="22.1.11" type="github">
   <diagram name="Page-1" id="kLZZluuCdCFHNQExWlGG">
-    <mxGraphModel dx="3658" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4580" dy="2405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bPQWwLV5Ec_Krep9My-7-54" value="" style="shape=folder;spacingTop=10;tabWidth=200;tabHeight=30;tabPosition=left;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="2220" y="680" width="250" height="130" as="geometry" />
+          <mxGeometry x="2080" y="468.25" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-35" value="" style="shape=folder;spacingTop=10;tabWidth=200;tabHeight=30;tabPosition=left;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1260" y="1140" width="670" height="627.5" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2245" y="730" width="190" height="50" as="geometry" />
+          <mxGeometry x="2105" y="520" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-7" value="Платежная система" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=#666666;verticalAlign=top;fontSize=14;fontColor=#333333;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-6">
           <mxGeometry width="190" height="50" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="-460" y="-360" width="223.75" height="38.62" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-14" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1830" y="700" width="255" height="90" as="geometry" />
+          <mxGeometry x="1690" y="488.25" width="255" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-15" value="&lt;font size=&quot;2&quot;&gt;Биллинг сервис&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-14">
           <mxGeometry width="240" height="90" as="geometry" />
@@ -137,7 +137,7 @@
           <mxGeometry x="1370" y="1690" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-55" value="Внешние системы" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="2245" y="680" width="140" height="30" as="geometry" />
+          <mxGeometry x="2105" y="470" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="bPQWwLV5Ec_Krep9My-7-15" target="bPQWwLV5Ec_Krep9My-7-54">
           <mxGeometry relative="1" as="geometry" />
@@ -164,6 +164,9 @@
           <mxGeometry x="1680" y="150" width="240" height="43" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="bPQWwLV5Ec_Krep9My-7-13" target="bPQWwLV5Ec_Krep9My-7-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="bPQWwLV5Ec_Krep9My-7-13" target="bPQWwLV5Ec_Krep9My-7-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-13" value="&lt;font size=&quot;2&quot;&gt;Модуль управления проектами&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
