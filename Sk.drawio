@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T14:31:22.589Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="7AvNMWkJn2gMqqvYYVIc" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T14:31:32.691Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="-8QdjSBOVp9QPihGW6u3" version="22.1.11" type="github">
   <diagram name="Page-1" id="kLZZluuCdCFHNQExWlGG">
     <mxGraphModel dx="2791" dy="1344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -164,19 +164,19 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1735" y="462.5333333333333" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2140" y="460" />
+              <mxPoint x="2100" y="460" />
               <mxPoint x="1690" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-62" value="&lt;h1&gt;&lt;font size=&quot;2&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Панель администрирования&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99FFFF;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="2020" y="270" width="240" height="90" as="geometry" />
+          <mxGeometry x="1980" y="340" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="bPQWwLV5Ec_Krep9My-7-63" target="bPQWwLV5Ec_Krep9My-7-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-63" value="Администратор" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate.application;appType=actor;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2020" y="190" width="240" height="43" as="geometry" />
+          <mxGeometry x="1980" y="230" width="240" height="43" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="bPQWwLV5Ec_Krep9My-7-13" target="bPQWwLV5Ec_Krep9My-7-21">
           <mxGeometry relative="1" as="geometry" />
