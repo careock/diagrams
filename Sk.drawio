@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T13:06:35.186Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="mRxV7nEfO2_NKtIIuJLo" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T13:07:30.341Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="K9NdDUB-_7cKi4Rwggm-" version="22.1.11" type="github">
   <diagram name="Page-1" id="kLZZluuCdCFHNQExWlGG">
-    <mxGraphModel dx="5063" dy="2691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2488" dy="1164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -189,7 +189,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-32" value="Проекты" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=passive;archiType=square;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="670" width="220" height="32.32" as="geometry" />
+          <mxGeometry x="1520" y="710" width="220" height="32.32" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-52" value="SQL database" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" vertex="1" parent="1">
           <mxGeometry x="1520" y="770" width="220" height="30.46" as="geometry" />
@@ -788,6 +788,12 @@
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-205" target="bPQWwLV5Ec_Krep9My-7-220">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-227" value="Управление проектами" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="605" width="220" height="38.62" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-228" value="Управление доступом к проекту" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="650.69" width="220" height="38.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
