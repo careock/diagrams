@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T10:29:07.195Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="dbPqVx3mJwVp32dMAEuN" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T10:31:30.427Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="mLdKS7HMZa8ppJK9_x8H" version="22.1.11" type="github">
   <diagram name="Page-1" id="kLZZluuCdCFHNQExWlGG">
-    <mxGraphModel dx="2331" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1902" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-35" value="" style="shape=folder;spacingTop=10;tabWidth=200;tabHeight=30;tabPosition=left;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="920" width="670" height="627.5" as="geometry" />
+        </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-1" value="&lt;b id=&quot;docs-internal-guid-8e01d7f2-7fff-4b7f-947c-81f8bfa17be5&quot; style=&quot;font-style: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-weight: normal;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Nunito, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;border: medium; display: inline-block; overflow: hidden; width: 602px; height: 560px;&quot;&gt;&lt;img src=&quot;https://lh7-us.googleusercontent.com/CdQUy0UCudJWpN9QnqonsQW0BbhaF4rqWX5IRa3cL1qj7IfyoJirtS_HQBdCv8534h8fNAbB7VLFaykYAzuzWpPa4Y0rtSRnY5A6O4haHsjFwqX6BbtUYx6w9cFD3jcWutuxS0UwYAn3qBu6r7CpdMw&quot; width=&quot;602&quot; height=&quot;560&quot; style=&quot;margin-left: 0px; margin-top: 0px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-170" y="200" width="560" height="590" as="geometry" />
         </mxCell>
@@ -65,22 +68,22 @@
           <mxGeometry width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-25" value="&lt;font size=&quot;2&quot;&gt;Приложение&amp;nbsp;&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="770" width="290" height="440" as="geometry" />
+          <mxGeometry x="1420" y="1037.5" width="290" height="440" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-26" value="&lt;font size=&quot;2&quot;&gt;No-code UI&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="820" width="210" height="45" as="geometry" />
+          <mxGeometry x="1460" y="1160" width="210" height="45" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-27" value="&lt;font size=&quot;2&quot;&gt;API Gateway&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="710" width="210" height="45" as="geometry" />
+          <mxGeometry x="1460" y="977.5" width="210" height="45" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-28" value="&lt;font size=&quot;2&quot;&gt;BFF&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="890" width="210" height="45" as="geometry" />
+          <mxGeometry x="1460" y="1230" width="210" height="45" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-29" value="&lt;font size=&quot;2&quot;&gt;NLP Core&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="970" width="210" height="45" as="geometry" />
+          <mxGeometry x="1460" y="1310" width="210" height="45" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-30" value="&lt;font size=&quot;2&quot;&gt;Модуль внешних интеграций&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="1040" width="210" height="45" as="geometry" />
+          <mxGeometry x="1460" y="1380" width="210" height="45" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-31" value="Application Function" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
           <mxGeometry x="390" y="955" width="150" height="75" as="geometry" />
@@ -89,10 +92,16 @@
           <mxGeometry x="390" y="1140" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-33" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="680" y="470" width="240" height="90" as="geometry" />
+          <mxGeometry x="1080" y="700" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-34" value="&lt;font size=&quot;2&quot;&gt;Auth Service&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-33">
-          <mxGeometry width="240" height="90" as="geometry" />
+          <mxGeometry width="250.00000000000003" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-36" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1460" y="1090" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-37" value="&lt;font size=&quot;2&quot;&gt;Auth Service&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-36">
+          <mxGeometry width="210.00000000000003" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
