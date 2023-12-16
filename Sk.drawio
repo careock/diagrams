@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T14:32:28.554Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="qj0mxjOvOt-HsNWpHv-s" version="22.1.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-16T14:32:39.774Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="EdCIpbXN-dIr6d9eAVhP" version="22.1.11" type="github" pages="2">
   <diagram name="Page-1" id="kLZZluuCdCFHNQExWlGG">
-    <mxGraphModel dx="101" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="282" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -770,7 +770,7 @@
         <mxCell id="bPQWwLV5Ec_Krep9My-7-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="bPQWwLV5Ec_Krep9My-7-23" target="bPQWwLV5Ec_Krep9My-7-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bPQWwLV5Ec_Krep9My-7-241" value="S3 storage" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" vertex="1" parent="1">
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-241" value="SQL database" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" vertex="1" parent="1">
           <mxGeometry x="1710" y="1690" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-243" value="Политика доступа" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=passive;archiType=square;" vertex="1" parent="1">
