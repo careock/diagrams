@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T13:08:41.250Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="c3kHiMs2WsVK4Pf9uAl2" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T13:12:17.237Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="2O_MCSTw7gm2YMoFzWRV" version="22.1.11" type="github">
   <diagram name="Page-1" id="kLZZluuCdCFHNQExWlGG">
-    <mxGraphModel dx="2890" dy="1403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2327" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,15 +24,6 @@
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-11" value="Аутентификация пользователя" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
           <mxGeometry x="-460" y="-360" width="223.75" height="38.62" as="geometry" />
-        </mxCell>
-        <mxCell id="bPQWwLV5Ec_Krep9My-7-14" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1940" y="625" width="255" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="bPQWwLV5Ec_Krep9My-7-15" value="&lt;font size=&quot;2&quot;&gt;Биллинг сервис&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-14">
-          <mxGeometry width="240" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="bPQWwLV5Ec_Krep9My-7-56" value="SQL database" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-14">
-          <mxGeometry x="10" y="50" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-16" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1250" y="1565" width="260" height="270" as="geometry" />
@@ -200,7 +191,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-74" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2230" y="605" width="250" height="130" as="geometry" />
+          <mxGeometry x="2290" y="702.5" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-54" value="" style="shape=folder;spacingTop=10;tabWidth=200;tabHeight=30;tabPosition=left;html=1;dashed=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-74">
           <mxGeometry width="250" height="130" as="geometry" />
@@ -788,6 +779,24 @@
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-228" value="Управление доступом к проекту" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
           <mxGeometry x="1520" y="615.69" width="220" height="38.62" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-15" value="&lt;font size=&quot;2&quot;&gt;Биллинг сервис&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="625" width="240" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-56" value="SQL database" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="780" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-229" value="S3 storage" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="825" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-230" value="Queue manager" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="865" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-232" value="Управление платежными функциями" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="660" width="220" height="38.62" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-233" value="Интеграция с внешними системами" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="716.38" width="220" height="38.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
