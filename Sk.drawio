@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T14:31:53.942Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="g7ohgAZEZl3EsnVoPAvU" version="22.1.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-16T14:32:28.554Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="qj0mxjOvOt-HsNWpHv-s" version="22.1.11" type="github" pages="2">
   <diagram name="Page-1" id="kLZZluuCdCFHNQExWlGG">
-    <mxGraphModel dx="8213" dy="5347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="101" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,16 +52,16 @@
           <mxGeometry x="1670" y="1320" width="300" height="460" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-26" value="&lt;font size=&quot;2&quot;&gt;No-code UI&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1715" y="1430" width="210" height="45" as="geometry" />
+          <mxGeometry x="1715" y="1370" width="210" height="45" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-27" value="&lt;font size=&quot;2&quot;&gt;API Gateway&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="1715" y="1260" width="210" height="45" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-28" value="&lt;font size=&quot;2&quot;&gt;BFF&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1715" y="1490" width="210" height="45" as="geometry" />
+          <mxGeometry x="1715" y="1430" width="210" height="45" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-29" value="&lt;font size=&quot;2&quot;&gt;NLP Core&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1715" y="1552" width="210" height="45" as="geometry" />
+          <mxGeometry x="1715" y="1490" width="210" height="45" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="bPQWwLV5Ec_Krep9My-7-30" target="bPQWwLV5Ec_Krep9My-7-23">
           <mxGeometry relative="1" as="geometry">
@@ -781,6 +781,9 @@
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-249" value="Конфигурация проектов" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=passive;archiType=square;" vertex="1" parent="1">
           <mxGeometry x="1520" y="900" width="220" height="32.32" as="geometry" />
+        </mxCell>
+        <mxCell id="lDud9EcjIL6R6e7Ww3cZ-1" value="&lt;font size=&quot;2&quot;&gt;Агент сбора метрик&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1715" y="1550" width="210" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
