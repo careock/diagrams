@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T13:00:49.648Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="WZpkC4Z-oCC0PdKnmwVo" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T13:03:46.961Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="B-G5e58hFexRqrB9IzPd" version="22.1.11" type="github">
   <diagram name="Page-1" id="kLZZluuCdCFHNQExWlGG">
-    <mxGraphModel dx="3131" dy="1546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4580" dy="2405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bPQWwLV5Ec_Krep9My-7-77" value="Контур приложения" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ff99;shape=mxgraph.archimate.application;appType=node;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1620" y="1190" width="400" height="620" as="geometry" />
         </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="bPQWwLV5Ec_Krep9My-7-13" target="bPQWwLV5Ec_Krep9My-7-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-13" value="&lt;font size=&quot;2&quot;&gt;Модуль управления проектами&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="1510" y="520" width="240" height="300" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-35" value="" style="shape=folder;spacingTop=10;tabWidth=200;tabHeight=30;tabPosition=left;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1300" y="2420" width="670" height="627.5" as="geometry" />
-        </mxCell>
-        <mxCell id="bPQWwLV5Ec_Krep9My-7-1" value="&lt;b id=&quot;docs-internal-guid-8e01d7f2-7fff-4b7f-947c-81f8bfa17be5&quot; style=&quot;font-style: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-weight: normal;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Nunito, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;border: medium; display: inline-block; overflow: hidden; width: 602px; height: 560px;&quot;&gt;&lt;img src=&quot;https://lh7-us.googleusercontent.com/CdQUy0UCudJWpN9QnqonsQW0BbhaF4rqWX5IRa3cL1qj7IfyoJirtS_HQBdCv8534h8fNAbB7VLFaykYAzuzWpPa4Y0rtSRnY5A6O4haHsjFwqX6BbtUYx6w9cFD3jcWutuxS0UwYAn3qBu6r7CpdMw&quot; width=&quot;602&quot; height=&quot;560&quot; style=&quot;margin-left: 0px; margin-top: 0px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="200" width="560" height="590" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-2" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-490" y="-210" width="190" height="50" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="10" y="50" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-16" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1250" y="1420" width="260" height="270" as="geometry" />
+          <mxGeometry x="1250" y="1580" width="260" height="270" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-17" value="&lt;font size=&quot;2&quot;&gt;Мониторинг и логирование&lt;br&gt;&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-16">
           <mxGeometry width="250" height="260" as="geometry" />
@@ -58,17 +58,19 @@
         <mxCell id="bPQWwLV5Ec_Krep9My-7-92" value="Запись и анализ ошибок" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-16">
           <mxGeometry x="20" y="80" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bPQWwLV5Ec_Krep9My-7-18" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1010" y="680" width="240" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="bPQWwLV5Ec_Krep9My-7-19" value="&lt;font size=&quot;2&quot;&gt;Журналирование&lt;br&gt;Netdata parent&lt;br&gt;&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-18">
-          <mxGeometry width="240" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-22" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2540" y="1180" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-23" value="&lt;font size=&quot;2&quot;&gt;Микросервис - прокси для внешних LLM&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-22">
           <mxGeometry width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="bPQWwLV5Ec_Krep9My-7-25" target="bPQWwLV5Ec_Krep9My-7-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1820" y="1250" />
+              <mxPoint x="1275" y="1250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-25" value="&lt;font size=&quot;2&quot;&gt;Проектное приложение&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="1670" y="1320" width="300" height="460" as="geometry" />
@@ -95,7 +97,7 @@
           <mxGeometry x="-490" y="-40" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-33" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="980" y="1040" width="250" height="75" as="geometry" />
+          <mxGeometry x="1150" y="632.5" width="250" height="75" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-34" value="&lt;font size=&quot;2&quot;&gt;Auth Service&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-33">
           <mxGeometry width="250.00000000000003" height="75" as="geometry" />
@@ -154,9 +156,9 @@
           <mxGeometry x="1510" y="190" width="240" height="43" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-60" value="Пользователь" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate.application;appType=actor;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="1238.5" width="240" height="43" as="geometry" />
+          <mxGeometry x="1260" y="1449.5" width="240" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="bPQWwLV5Ec_Krep9My-7-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="bPQWwLV5Ec_Krep9My-7-60" target="bPQWwLV5Ec_Krep9My-7-27">
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="bPQWwLV5Ec_Krep9My-7-60" target="bPQWwLV5Ec_Krep9My-7-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bPQWwLV5Ec_Krep9My-7-62" target="bPQWwLV5Ec_Krep9My-7-13">
@@ -195,8 +197,13 @@
         <mxCell id="bPQWwLV5Ec_Krep9My-7-72" value="API Gateway" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
           <mxGeometry x="1520" y="553.94" width="220" height="38.62" as="geometry" />
         </mxCell>
-        <mxCell id="bPQWwLV5Ec_Krep9My-7-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="bPQWwLV5Ec_Krep9My-7-17" target="bPQWwLV5Ec_Krep9My-7-25">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="bPQWwLV5Ec_Krep9My-7-17" target="bPQWwLV5Ec_Krep9My-7-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1568" y="1740" />
+              <mxPoint x="1568" y="1730" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-74" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2370" y="605" width="250" height="130" as="geometry" />
@@ -242,6 +249,545 @@
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-88" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=#666666;verticalAlign=top;fontSize=14;fontColor=#333333;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-87">
           <mxGeometry width="190" height="40.48" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-222" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="3420" y="-50" width="1260" height="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-94" value="" style="group" vertex="1" connectable="0" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="800" y="120" width="340" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-95" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-94">
+          <mxGeometry width="339.99999999999994" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-96" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Контур биллинга&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-94">
+          <mxGeometry x="23.448275862068964" y="13.910588235294117" width="283.3372413793103" height="14.32470588235294" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-97" value="" style="group" vertex="1" connectable="0" parent="bPQWwLV5Ec_Krep9My-7-94">
+          <mxGeometry x="90.00482758620689" y="49.997058823529414" width="246.20689655172416" height="254.11764705882354" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-98" value="Биллинг&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;i&gt;AWS Lambda&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-97">
+          <mxGeometry width="140.68965517241378" height="37.64705882352941" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-99" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-97">
+          <mxGeometry x="48.36206896551724" y="207.05882352941177" width="43.96551724137931" height="47.05882352941176" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-100" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-97">
+          <mxGeometry x="46.9" y="131.76" width="43.1" height="56.47" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-101" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-97">
+          <mxGeometry x="46.9" y="56.47" width="43.1" height="56.47" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-97" source="bPQWwLV5Ec_Krep9My-7-98" target="bPQWwLV5Ec_Krep9My-7-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="11.724137931034477" y="37.647058823529406" />
+              <mxPoint x="11.724137931034477" y="84.70588235294116" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-97" source="bPQWwLV5Ec_Krep9My-7-98" target="bPQWwLV5Ec_Krep9My-7-100">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="11.724137931034477" y="37.647058823529406" />
+              <mxPoint x="11.724137931034477" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-97" source="bPQWwLV5Ec_Krep9My-7-98" target="bPQWwLV5Ec_Krep9My-7-99">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="11.724137931034477" y="37.647058823529406" />
+              <mxPoint x="11.724137931034477" y="230.58823529411768" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-94" source="bPQWwLV5Ec_Krep9My-7-106" target="bPQWwLV5Ec_Krep9My-7-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-106" value="&lt;i style=&quot;font-size: 8px;&quot;&gt;AWS&lt;br&gt;API GW&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-94">
+          <mxGeometry y="50" width="60" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-107" value="Хранилище&lt;br style=&quot;font-size: 10px;&quot;&gt;фин. документов" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-94">
+          <mxGeometry x="190.00206896551722" y="115.87941176470588" width="128.9655172413793" height="28.235294117647058" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-108" value="S3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=2" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-94">
+          <mxGeometry x="190.00206896551725" y="144.11470588235292" width="82.06896551724137" height="9.411764705882353" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-109" value="База данных&lt;br style=&quot;font-size: 10px;&quot;&gt;платежных ресурсов" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-94">
+          <mxGeometry x="190.00206896551725" y="191.1735294117647" width="140.68965517241378" height="28.235294117647058" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-110" value="PostgreSQL / Aurora" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=2" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-94">
+          <mxGeometry x="190.00206896551725" y="219.40882352941176" width="105.51724137931033" height="9.411764705882353" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-111" value="Внешний провайдер&lt;br&gt;платежных услуг" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-94">
+          <mxGeometry x="190.00206896551725" y="266.46764705882356" width="140.68965517241378" height="28.235294117647058" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-116" target="bPQWwLV5Ec_Krep9My-7-106">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="20" />
+              <mxPoint x="760" y="20" />
+              <mxPoint x="760" y="189" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-116" value="Интерфейс управления проектами&lt;br&gt;&lt;i&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Next.js&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="440" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-117" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="60" y="450" width="270" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-118" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-117">
+          <mxGeometry width="270" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-119" value="&amp;nbsp;IdP Сотрудников&lt;br&gt;&lt;i&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Ory&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-117">
+          <mxGeometry x="15" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-120" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-117">
+          <mxGeometry x="45" y="90" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-121" value="PostgreSQL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=2" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-117">
+          <mxGeometry x="95" y="130" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-122" value="База данных&lt;br&gt;сотрудников" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-117">
+          <mxGeometry x="95" y="100" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-117" source="bPQWwLV5Ec_Krep9My-7-119" target="bPQWwLV5Ec_Krep9My-7-120">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="25" y="80" />
+              <mxPoint x="25" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-124" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Контур аутентификации сотрудников&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-117">
+          <mxGeometry x="15" y="10" width="225" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-117" source="bPQWwLV5Ec_Krep9My-7-126" target="bPQWwLV5Ec_Krep9My-7-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-126" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-117">
+          <mxGeometry x="210" y="40" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-127" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;i style=&quot;font-weight: normal;&quot;&gt;AWS &lt;br&gt;API GW&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-117">
+          <mxGeometry x="210" y="50" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-116" target="bPQWwLV5Ec_Krep9My-7-127">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="20" />
+              <mxPoint x="390" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-113" value="&lt;b&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;OIDC&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bPQWwLV5Ec_Krep9My-7-112">
+          <mxGeometry x="-0.8359" relative="1" as="geometry">
+            <mxPoint x="-28" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-128" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="445" y="160" width="330" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-129" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-128">
+          <mxGeometry width="270" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-130" value="Проектный микросервис&lt;br&gt;&lt;i&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;AWS Lambda&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-128">
+          <mxGeometry x="15" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-131" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-128">
+          <mxGeometry x="45" y="90" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-132" value="PostgreSQL / Aurora" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=2" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-128">
+          <mxGeometry x="95" y="130" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-133" value="База данных&lt;br&gt;проектов" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-128">
+          <mxGeometry x="95" y="100" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-128" source="bPQWwLV5Ec_Krep9My-7-130" target="bPQWwLV5Ec_Krep9My-7-131">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="25" y="80" />
+              <mxPoint x="25" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-135" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Модуль управления проектами&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-128">
+          <mxGeometry x="15" y="10" width="225" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-128" source="bPQWwLV5Ec_Krep9My-7-137" target="bPQWwLV5Ec_Krep9My-7-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-137" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-128">
+          <mxGeometry x="210" y="40" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-138" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;i style=&quot;font-weight: normal;&quot;&gt;AWS &lt;br&gt;API GW&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-128">
+          <mxGeometry x="210" y="50" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-116" target="bPQWwLV5Ec_Krep9My-7-138">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="30" />
+              <mxPoint x="740" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-130" target="bPQWwLV5Ec_Krep9My-7-127">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="220" />
+              <mxPoint x="410" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-140" value="&lt;b style=&quot;font-size: 8px;&quot;&gt;M2M&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="bPQWwLV5Ec_Krep9My-7-139">
+          <mxGeometry x="-0.8687" y="1" relative="1" as="geometry">
+            <mxPoint x="-13" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-130" target="bPQWwLV5Ec_Krep9My-7-152">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="230" />
+              <mxPoint x="420" y="340" />
+              <mxPoint x="730" y="340" />
+              <mxPoint x="730" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-142" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="440" y="360" width="270" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-144" value="Оркестратор&lt;br&gt;&lt;i&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;AWS Lambda&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="455" y="400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-145" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="485" y="450" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-146" value="PostgreSQL / Aurora" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=2" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="535" y="490" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-147" value="База данных&lt;br&gt;облачных ресурсов" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="535" y="460" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-144" target="bPQWwLV5Ec_Krep9My-7-145">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="465" y="440" />
+              <mxPoint x="465" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-149" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Оркестратор облачных ресурсов&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="455" y="370" width="225" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-151" target="bPQWwLV5Ec_Krep9My-7-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-151" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="650" y="400" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-152" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;i style=&quot;font-weight: normal;&quot;&gt;AWS &lt;br&gt;API GW&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="650" y="410" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-154" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="487.5" y="520" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-144" target="bPQWwLV5Ec_Krep9My-7-154">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="440" />
+              <mxPoint x="460" y="545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-155" value="API провайдера&lt;br&gt;облачных услуг" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="535" y="530" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-198" target="bPQWwLV5Ec_Krep9My-7-127">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="935" />
+              <mxPoint x="390" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-157" value="&lt;b style=&quot;font-size: 8px;&quot;&gt;OIDC&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="bPQWwLV5Ec_Krep9My-7-156">
+          <mxGeometry x="-0.7917" y="-1" relative="1" as="geometry">
+            <mxPoint x="-43" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-158" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Облако&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="480" y="660" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-159" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="960" y="640" width="270" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-164" target="bPQWwLV5Ec_Krep9My-7-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1260" y="700" />
+              <mxPoint x="1260" y="560" />
+              <mxPoint x="870" y="560" />
+              <mxPoint x="870" y="198" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-161" value="Информация о тарификации запросов" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="bPQWwLV5Ec_Krep9My-7-160">
+          <mxGeometry x="-0.1819" y="1" relative="1" as="geometry">
+            <mxPoint x="4" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-162" value="AWS SQS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=2" vertex="1" connectable="0" parent="bPQWwLV5Ec_Krep9My-7-160">
+          <mxGeometry x="-0.4609" y="-3" relative="1" as="geometry">
+            <mxPoint x="-121" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-164" value="&lt;font style=&quot;&quot;&gt;Микросервис-прокси&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;i&gt;AWS Lambda&lt;/i&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="1050" y="680" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-165" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Прокси для внешних LLM&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="975" y="650" width="225" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-166" value="" style="group" vertex="1" connectable="0" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="960" y="680" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-167" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-166">
+          <mxGeometry width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-168" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;i style=&quot;font-weight: normal;&quot;&gt;AWS &lt;br&gt;API GW&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-166">
+          <mxGeometry y="10" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-168" target="bPQWwLV5Ec_Krep9My-7-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-170" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="1049.9968965517241" y="739.9958823529412" width="43.96551724137931" height="47.05882352941176" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-164" target="bPQWwLV5Ec_Krep9My-7-170">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1130" y="730" />
+              <mxPoint x="1030" y="730" />
+              <mxPoint x="1030" y="763" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-171" value="API внешних LLM&lt;br&gt;&lt;i style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;OpenAI&lt;/font&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="1100.0020689655173" y="749.4076470588236" width="140.68965517241378" height="28.235294117647058" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-172" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry y="640" width="330" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-173" value="&amp;nbsp;Коллектор ошибок&lt;br&gt;&lt;i&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Sentry&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="30" y="680" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-174" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="55" y="730" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-175" value="PostgreSQL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=2" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="105" y="770" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-176" value="База структурированных данных" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="105" y="740" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" target="bPQWwLV5Ec_Krep9My-7-174">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="720" />
+              <mxPoint x="40" y="760" />
+            </Array>
+            <mxPoint x="40" y="720" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-178" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Контур сбора метрик и ошибок&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="30" y="650" width="225" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-179" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="270" y="680" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-182" target="bPQWwLV5Ec_Krep9My-7-173">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="690" />
+              <mxPoint x="250" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-182" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;i style=&quot;font-weight: normal;&quot;&gt;AWS &lt;br&gt;ELB&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="270" y="690" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-183" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="55" y="800" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-184" value="Clickhouse" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=2" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="105" y="840" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-185" value="База данных для поиска и агрегации" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="105" y="810" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-186" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="55" y="870" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-187" value="Redis" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=2" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="105" y="910" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-188" value="База кэшированных данных" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="105" y="880" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" target="bPQWwLV5Ec_Krep9My-7-183">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="720" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="40" y="720" />
+              <mxPoint x="40" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" target="bPQWwLV5Ec_Krep9My-7-186">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="720" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="40" y="720" />
+              <mxPoint x="40" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-191" value="&amp;nbsp;Коллектор метрик&lt;br&gt;&lt;i&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Netdata Parent&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="30" y="940" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-182" target="bPQWwLV5Ec_Krep9My-7-191">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="710" />
+              <mxPoint x="250" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-192" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="440" y="640" width="470" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-193" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="480" y="700" width="320" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-194" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="495" y="795" width="290" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-195" value="VM" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="510" y="810" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-196" value="No-code UI&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;i&gt;React.js&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="515" y="840" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-198" value="BFF&lt;br&gt;&lt;i&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Python&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="515" y="910" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-154" target="bPQWwLV5Ec_Krep9My-7-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-196" target="bPQWwLV5Ec_Krep9My-7-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-201" value="API Gateway&lt;br&gt;&lt;i&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Python&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="655" y="840" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-205" target="bPQWwLV5Ec_Krep9My-7-182">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="948" />
+              <mxPoint x="650" y="970" />
+              <mxPoint x="370" y="970" />
+              <mxPoint x="370" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-205" value="NLP Core&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;i&gt;Python&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="655" y="910" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-198" target="bPQWwLV5Ec_Krep9My-7-205">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-201" target="bPQWwLV5Ec_Krep9My-7-205">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-206" value="Окружение / VPC" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="488.97" y="710" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-209" target="bPQWwLV5Ec_Krep9My-7-201">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-209" target="bPQWwLV5Ec_Krep9My-7-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-209" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;i&gt;AWS&lt;br&gt;API GW&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="495" y="740" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-210" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;. . .&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="830" y="790" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-211" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="556.9048275862069" y="1069.9970588235294" width="43.1" height="56.47" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-212" value="Постоянное хранилище для данных" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="610.0020689655172" y="1079.409411764706" width="128.9655172413793" height="28.235294117647058" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-213" value="S3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=2" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="610.0020689655173" y="1107.6447058823528" width="82.06896551724137" height="9.411764705882353" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-215" target="bPQWwLV5Ec_Krep9My-7-182">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="1006" />
+              <mxPoint x="350" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-215" value="Агент сбора &lt;br&gt;метрик&lt;br&gt;&lt;i&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Netdata Agent&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="515" y="981.48" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-216" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="959.9968965517241" y="997.9458823529412" width="43.96551724137931" height="47.05882352941176" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-217" value="API внешних сервисов&lt;br&gt;&lt;i style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Google Search API, HuggingFace, Azure ML, etc.&lt;/font&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="1003.9620689655173" y="1007.3576470588237" width="140.68965517241378" height="28.235294117647058" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-220" target="bPQWwLV5Ec_Krep9My-7-216">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="775" y="1022" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-220" target="bPQWwLV5Ec_Krep9My-7-167">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="994" />
+              <mxPoint x="930" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-220" value="Модуль внешних интеграций&lt;br&gt;&lt;i&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Python&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-222">
+          <mxGeometry x="655" y="981.48" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-205" target="bPQWwLV5Ec_Krep9My-7-215">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="948" />
+              <mxPoint x="650" y="1006" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-205" target="bPQWwLV5Ec_Krep9My-7-211">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="935" />
+              <mxPoint x="810" y="1060" />
+              <mxPoint x="579" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bPQWwLV5Ec_Krep9My-7-222" source="bPQWwLV5Ec_Krep9My-7-205" target="bPQWwLV5Ec_Krep9My-7-220">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
