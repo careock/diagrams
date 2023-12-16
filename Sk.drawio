@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T14:32:39.774Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="EdCIpbXN-dIr6d9eAVhP" version="22.1.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-16T14:33:16.098Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="oTNbIy0HJKL0H-p0ujyz" version="22.1.11" type="github" pages="2">
   <diagram name="Page-1" id="kLZZluuCdCFHNQExWlGG">
-    <mxGraphModel dx="282" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="45" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,7 +71,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-30" value="&lt;font size=&quot;2&quot;&gt;Модуль внешних интеграций&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1715" y="1610" width="210" height="45" as="geometry" />
+          <mxGeometry x="1715" y="1630" width="210" height="45" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-33" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1150" y="585" width="250" height="170" as="geometry" />
@@ -783,7 +783,10 @@
           <mxGeometry x="1520" y="900" width="220" height="32.32" as="geometry" />
         </mxCell>
         <mxCell id="lDud9EcjIL6R6e7Ww3cZ-1" value="&lt;font size=&quot;2&quot;&gt;Агент сбора метрик&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1715" y="1550" width="210" height="45" as="geometry" />
+          <mxGeometry x="1715" y="1550" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lDud9EcjIL6R6e7Ww3cZ-2" value="Netdata agent" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="1742.5" y="1580" width="155" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
