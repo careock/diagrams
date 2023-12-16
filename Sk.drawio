@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T13:12:17.237Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="2O_MCSTw7gm2YMoFzWRV" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T13:16:59.820Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="3dWDNYLHp_G2bAQ-R6cI" version="22.1.11" type="github">
   <diagram name="Page-1" id="kLZZluuCdCFHNQExWlGG">
-    <mxGraphModel dx="2327" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3904" dy="2004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
           <mxGeometry x="20" y="80" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-22" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2540" y="1180" width="240" height="90" as="geometry" />
+          <mxGeometry x="2140" y="1642.5" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-23" value="&lt;font size=&quot;2&quot;&gt;Микросервис - прокси для внешних LLM&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-22">
           <mxGeometry width="240" height="90" as="geometry" />
@@ -75,8 +75,13 @@
         <mxCell id="bPQWwLV5Ec_Krep9My-7-29" value="&lt;font size=&quot;2&quot;&gt;NLP Core&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="1710" y="1597.5" width="210" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="bPQWwLV5Ec_Krep9My-7-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="bPQWwLV5Ec_Krep9My-7-30" target="bPQWwLV5Ec_Krep9My-7-79">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="bPQWwLV5Ec_Krep9My-7-30" target="bPQWwLV5Ec_Krep9My-7-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2020" y="1690" />
+              <mxPoint x="2020" y="1690" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-30" value="&lt;font size=&quot;2&quot;&gt;Модуль внешних интеграций&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="1710" y="1667.5" width="210" height="45" as="geometry" />
@@ -209,7 +214,7 @@
           <mxGeometry x="210" y="1370" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-78" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2260" y="1565" width="250" height="250" as="geometry" />
+          <mxGeometry x="2490" y="1562.5" width="250" height="250" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-79" value="" style="shape=folder;spacingTop=10;tabWidth=200;tabHeight=30;tabPosition=left;html=1;dashed=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-78">
           <mxGeometry width="250" height="250" as="geometry" />
@@ -797,6 +802,15 @@
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-233" value="Интеграция с внешними системами" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
           <mxGeometry x="1950" y="716.38" width="220" height="38.62" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-234" value="API облачного провайдера" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1270" width="220" height="38.62" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="bPQWwLV5Ec_Krep9My-7-23" target="bPQWwLV5Ec_Krep9My-7-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bPQWwLV5Ec_Krep9My-7-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="bPQWwLV5Ec_Krep9My-7-23" target="bPQWwLV5Ec_Krep9My-7-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
