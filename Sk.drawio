@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T12:41:05.216Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="2g2s2NN01EqYf2Y4Hl0F" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T12:41:47.987Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="CMBZw4NOVllAel53jCR1" version="22.1.11" type="github">
   <diagram name="Page-1" id="kLZZluuCdCFHNQExWlGG">
-    <mxGraphModel dx="3453" dy="1737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5063" dy="2691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry x="-460" y="-360" width="223.75" height="38.62" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-14" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2030" y="740.23" width="255" height="90" as="geometry" />
+          <mxGeometry x="2080" y="625" width="255" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-15" value="&lt;font size=&quot;2&quot;&gt;Биллинг сервис&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=default;verticalAlign=top;fontSize=13;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-14">
           <mxGeometry width="240" height="90" as="geometry" />
@@ -190,7 +190,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-74" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2320" y="720.23" width="250" height="130" as="geometry" />
+          <mxGeometry x="2370" y="605" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="bPQWwLV5Ec_Krep9My-7-54" value="" style="shape=folder;spacingTop=10;tabWidth=200;tabHeight=30;tabPosition=left;html=1;dashed=1;" vertex="1" parent="bPQWwLV5Ec_Krep9My-7-74">
           <mxGeometry width="250" height="130" as="geometry" />
