@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T12:26:45.961Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yswBjwKNix-FoXY2rtbi" version="22.1.12" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-27T12:27:47.944Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="HH2B7rA1xpTG5XE3rJMV" version="22.1.12" type="github" pages="4">
   <diagram name="Страница 1" id="aKsf2HUBZbUOZfaPrzU6">
     <mxGraphModel dx="879" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -181,7 +181,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iOBY3xuAi49MrqX_W3wq" name="Page-4">
-    <mxGraphModel dx="2504" dy="1367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1857" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -206,22 +206,19 @@
           <mxGeometry y="460" width="230" height="290" as="geometry" />
         </mxCell>
         <mxCell id="W98b-A6krThTSi9YR4OC-6" value="Auth service" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
-          <mxGeometry x="10" y="490" width="200" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="W98b-A6krThTSi9YR4OC-7" value="Конструктор стратегий" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
           <mxGeometry x="10" y="540" width="200" height="35" as="geometry" />
         </mxCell>
         <mxCell id="W98b-A6krThTSi9YR4OC-8" value="API controller" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
-          <mxGeometry x="435" y="612.5" width="200" height="25" as="geometry" />
+          <mxGeometry x="435" y="610" width="200" height="25" as="geometry" />
         </mxCell>
         <mxCell id="W98b-A6krThTSi9YR4OC-10" value="Integration service" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
           <mxGeometry x="10" y="590" width="200" height="35" as="geometry" />
         </mxCell>
         <mxCell id="W98b-A6krThTSi9YR4OC-11" value="..." style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
-          <mxGeometry x="10" y="640" width="200" height="35" as="geometry" />
+          <mxGeometry x="10" y="490" width="200" height="35" as="geometry" />
         </mxCell>
         <mxCell id="W98b-A6krThTSi9YR4OC-12" value="..." style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
-          <mxGeometry x="10" y="690" width="200" height="35" as="geometry" />
+          <mxGeometry x="10" y="640" width="200" height="35" as="geometry" />
         </mxCell>
         <mxCell id="W98b-A6krThTSi9YR4OC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W98b-A6krThTSi9YR4OC-13" target="W98b-A6krThTSi9YR4OC-4">
           <mxGeometry relative="1" as="geometry" />
