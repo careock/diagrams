@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T23:02:15.940Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="BRDuVqJiyFuhNVk1aydC" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-13T23:03:35.144Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="LtdprDGM42UGAIko44jk" version="24.4.0" type="github">
   <diagram name="Page-1" id="9ZmzEBOo0Ev5dIL-j1Jn">
-    <mxGraphModel dx="1193" dy="778" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="622" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AkTV5vrw47WEEAWnuP5z-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AkTV5vrw47WEEAWnuP5z-1" target="AkTV5vrw47WEEAWnuP5z-2">
+        <mxCell id="AkTV5vrw47WEEAWnuP5z-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="AkTV5vrw47WEEAWnuP5z-1" target="AkTV5vrw47WEEAWnuP5z-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AkTV5vrw47WEEAWnuP5z-1" value="Пользователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -20,15 +20,15 @@
           <mxGeometry x="60" y="156" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AkTV5vrw47WEEAWnuP5z-9" value="Создавать отклик на оповещение" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="AkTV5vrw47WEEAWnuP5z-6">
-          <mxGeometry x="66" y="259" width="120" height="80" as="geometry" />
+          <mxGeometry x="66" y="273" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AkTV5vrw47WEEAWnuP5z-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AkTV5vrw47WEEAWnuP5z-1" target="AkTV5vrw47WEEAWnuP5z-7">
+        <mxCell id="AkTV5vrw47WEEAWnuP5z-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="AkTV5vrw47WEEAWnuP5z-1" target="AkTV5vrw47WEEAWnuP5z-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="199" y="336" as="sourcePoint" />
             <mxPoint x="392" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AkTV5vrw47WEEAWnuP5z-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AkTV5vrw47WEEAWnuP5z-1" target="AkTV5vrw47WEEAWnuP5z-9">
+        <mxCell id="AkTV5vrw47WEEAWnuP5z-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="AkTV5vrw47WEEAWnuP5z-1" target="AkTV5vrw47WEEAWnuP5z-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="199" y="341" as="sourcePoint" />
             <mxPoint x="389" y="361" as="targetPoint" />
