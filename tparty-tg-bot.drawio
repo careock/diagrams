@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T23:16:55.769Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="XRW3KGDdp3BwzWkLFppl" version="24.4.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-05-13T23:17:08.146Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="rov-kJVmlF0vlWrjOKj2" version="24.4.0" type="github" pages="5">
   <diagram name="use-case" id="9ZmzEBOo0Ev5dIL-j1Jn">
     <mxGraphModel dx="954" dy="622" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -192,14 +192,6 @@
         <mxCell id="ac_-6lYZ6cmTp8MVBUT9-4" value="Telegram" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="450" y="563" width="230" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="ac_-6lYZ6cmTp8MVBUT9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ac_-6lYZ6cmTp8MVBUT9-8" target="ac_-6lYZ6cmTp8MVBUT9-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XlnBw-hsbad3MsKs9VVJ-1" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ac_-6lYZ6cmTp8MVBUT9-13">
-          <mxGeometry x="0.1451" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vPtevyplKYsOXso5QOMD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vPtevyplKYsOXso5QOMD-5" target="ac_-6lYZ6cmTp8MVBUT9-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -253,6 +245,14 @@
         </mxCell>
         <mxCell id="vPtevyplKYsOXso5QOMD-9" value="User Ids" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=passive;archiType=square;" vertex="1" parent="1">
           <mxGeometry x="475.5" y="765.5" width="212" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="ac_-6lYZ6cmTp8MVBUT9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="ac_-6lYZ6cmTp8MVBUT9-8" target="ac_-6lYZ6cmTp8MVBUT9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XlnBw-hsbad3MsKs9VVJ-1" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ac_-6lYZ6cmTp8MVBUT9-13">
+          <mxGeometry x="0.1451" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
