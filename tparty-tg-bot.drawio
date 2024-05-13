@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T23:16:29.724Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="b1WLaLcYWM5SMSLFyZZN" version="24.4.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-05-13T23:16:52.383Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="DPoTIcYKCeKbrLflLTUM" version="24.4.0" type="github" pages="5">
   <diagram name="use-case" id="9ZmzEBOo0Ev5dIL-j1Jn">
     <mxGraphModel dx="954" dy="622" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -190,7 +190,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ac_-6lYZ6cmTp8MVBUT9-4" value="Telegram" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="450" y="414" width="230" height="89" as="geometry" />
+          <mxGeometry x="450" y="563" width="230" height="89" as="geometry" />
         </mxCell>
         <mxCell id="ac_-6lYZ6cmTp8MVBUT9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ac_-6lYZ6cmTp8MVBUT9-8" target="ac_-6lYZ6cmTp8MVBUT9-4">
           <mxGeometry relative="1" as="geometry" />
@@ -199,7 +199,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vPtevyplKYsOXso5QOMD-5" value="Пользователь" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" vertex="1" parent="1">
-          <mxGeometry x="490" y="244" width="150" height="75" as="geometry" />
+          <mxGeometry x="490" y="393" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="vPtevyplKYsOXso5QOMD-7" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-34" y="402" width="304" height="427" as="geometry" />
@@ -241,7 +241,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vPtevyplKYsOXso5QOMD-10" value="Telegram API" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=interface;archiType=square;" vertex="1" parent="1">
-          <mxGeometry x="467" y="448" width="196" height="32" as="geometry" />
+          <mxGeometry x="467" y="597" width="196" height="32" as="geometry" />
         </mxCell>
         <mxCell id="vPtevyplKYsOXso5QOMD-12" value="real time database" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="467" y="728.5" width="227" height="84" as="geometry" />
