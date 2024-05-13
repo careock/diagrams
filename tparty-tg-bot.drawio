@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T23:33:48.973Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="V6Hbqudm7DVN-Wk9WJod" version="24.4.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-05-13T23:45:50.640Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="nCr-YM3zRS6ThJGyFR2V" version="24.4.0" type="github" pages="5">
   <diagram name="use-case" id="9ZmzEBOo0Ev5dIL-j1Jn">
     <mxGraphModel dx="954" dy="622" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -131,7 +131,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hKcFxJSNl7yni2iEgUsX" name="Page-4">
-    <mxGraphModel dx="658" dy="429" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="622" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,14 +178,14 @@
         <mxCell id="29r3LpnyJnd-QGAh1gsx-9" value="Firebase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="270" width="120" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="29r3LpnyJnd-QGAh1gsx-11" value="Firebase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="29r3LpnyJnd-QGAh1gsx-11" value="Telegram" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="268" width="120" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="I_WX7pbx_tGUqOoJbGXk" name="Page-5">
-    <mxGraphModel dx="1195" dy="118" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
