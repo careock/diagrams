@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T23:29:10.151Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="t_Q66W6hkQFe3qC2YQkW" version="24.4.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-05-13T23:30:52.588Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="p6xpE3Cc-xshmYmNyXwf" version="24.4.0" type="github" pages="5">
   <diagram name="use-case" id="9ZmzEBOo0Ev5dIL-j1Jn">
     <mxGraphModel dx="954" dy="622" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -185,7 +185,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I_WX7pbx_tGUqOoJbGXk" name="Page-5">
-    <mxGraphModel dx="945" dy="-45" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="222" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -211,19 +211,22 @@
           <mxGeometry x="34" y="58" width="230" height="330" as="geometry" />
         </mxCell>
         <mxCell id="ac_-6lYZ6cmTp8MVBUT9-6" value="node-telegram-api" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="vPtevyplKYsOXso5QOMD-7">
-          <mxGeometry x="44" y="153" width="200" height="35" as="geometry" />
+          <mxGeometry x="44" y="147" width="200" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ac_-6lYZ6cmTp8MVBUT9-9" value="Firebase SDK" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="vPtevyplKYsOXso5QOMD-7">
-          <mxGeometry x="44" y="103" width="200" height="35" as="geometry" />
+          <mxGeometry x="44" y="97" width="200" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ac_-6lYZ6cmTp8MVBUT9-14" value="inline query module" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="vPtevyplKYsOXso5QOMD-7">
-          <mxGeometry x="44" y="204" width="200" height="35" as="geometry" />
+          <mxGeometry x="44" y="198" width="200" height="35" as="geometry" />
         </mxCell>
         <mxCell id="vPtevyplKYsOXso5QOMD-3" value="user management" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="vPtevyplKYsOXso5QOMD-7">
-          <mxGeometry x="44" y="254" width="200" height="35" as="geometry" />
+          <mxGeometry x="44" y="248" width="200" height="35" as="geometry" />
         </mxCell>
         <mxCell id="vPtevyplKYsOXso5QOMD-4" value="state management" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="vPtevyplKYsOXso5QOMD-7">
-          <mxGeometry x="46" y="304" width="200" height="35" as="geometry" />
+          <mxGeometry x="46" y="293" width="200" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XlnBw-hsbad3MsKs9VVJ-8" value="api controller" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="vPtevyplKYsOXso5QOMD-7">
+          <mxGeometry x="44" y="338" width="200" height="35" as="geometry" />
         </mxCell>
         <mxCell id="vPtevyplKYsOXso5QOMD-1" value="Firebase" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="389" y="671" width="245" height="158" as="geometry" />
