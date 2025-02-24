@@ -11,7 +11,7 @@
           <mxGeometry x="40" y="-340" width="774.62" height="260" as="geometry" />
         </mxCell>
         <mxCell id="a0DZnfnJTNUjA4Fa-pTD-5" value="dfa-intent api" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate.application;appType=interface" vertex="1" parent="1">
-          <mxGeometry x="155" y="572.5" width="180" height="120" as="geometry" />
+          <mxGeometry x="172.5" y="572.5" width="187.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="a0DZnfnJTNUjA4Fa-pTD-9" value="МП Инвестиции" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate.application;appType=comp;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-390" y="280" width="180" height="420" as="geometry" />
@@ -79,7 +79,7 @@
           <mxGeometry x="440" y="130" width="190" height="75" as="geometry" />
         </mxCell>
         <mxCell id="a0DZnfnJTNUjA4Fa-pTD-39" value="&lt;table style=&quot;font-size: 1em; width: 200px; height: 75px;&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 20px;&quot;&gt;&lt;td&gt;issuance.details &lt;br&gt;сообщение&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=passive;archiType=square;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="155" y="490" width="190" height="40" as="geometry" />
+          <mxGeometry x="175" y="500" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a0DZnfnJTNUjA4Fa-pTD-40" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:20px;&quot;&gt;&lt;td align=&quot;center&quot;&gt;fireg.dfa сообщение&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;top&quot; style=&quot;padding:4px;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate.businessObject;overflow=fill" vertex="1" parent="1">
           <mxGeometry x="-820" y="-720" width="200" height="75" as="geometry" />
