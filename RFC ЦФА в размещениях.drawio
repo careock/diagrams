@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="26.0.15">
   <diagram name="Страница — 1" id="aRyGhwlapqt6ocAl1j-U">
-    <mxGraphModel dx="2434" dy="1539" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2228" dy="1349" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -363,7 +363,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pbdU99FGn9O2NnaOevme-38" value="atomyze" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate.application;appType=comp;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="165" y="1869.25" width="121" height="120" as="geometry" />
+          <mxGeometry x="168" y="1869.25" width="121" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pbdU99FGn9O2NnaOevme-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;startFill=0;dashed=1;startArrow=block;dashPattern=8 8;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="pbdU99FGn9O2NnaOevme-8" target="pbdU99FGn9O2NnaOevme-38">
           <mxGeometry relative="1" as="geometry">
